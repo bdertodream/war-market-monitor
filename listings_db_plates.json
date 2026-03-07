@@ -4717,5 +4717,28 @@
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
+  },
+  "116230080": {
+    "id": "116230080",
+    "title": "1996 X for sale",
+    "url": "https://www.olx.com.lb/ad/1996-z-for-sale-ID116230080.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Chiyah, Beirut",
+    "district": "Beirut",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-03-07"
+      }
+    ],
+    "first_seen": "2026-03-07",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
   }
 }

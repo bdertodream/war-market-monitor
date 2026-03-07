@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-03-07T21:19:07.424472",
-  "total_tracked": 7757,
+  "generated_at": "2026-03-07T22:11:26.705169",
+  "total_tracked": 7783,
   "total_drops": 13,
+  "total_new": 26,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 55000,
   "drops": [
@@ -313,6 +314,450 @@
         },
         {
           "price": 128000,
+          "date": "2026-03-07"
+        }
+      ]
+    }
+  ],
+  "new_listings": [
+    {
+      "id": "116349994",
+      "title": "RWK171RM - Under-Construction Apartment for Sale in Zouk Mikael",
+      "url": "https://www.olx.com.lb/ad/rwk171rm-under-construction-apartment-for-sale-in-zouk-mikael-ID116349994.html",
+      "type": "Apartment",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 90,
+      "original_price": 145000,
+      "current_price": 145000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116677498",
+      "title": "new building, great deal, zgharta, kfardlakos . Kferzayna REF#YN129195",
+      "url": "https://www.olx.com.lb/ad/new-building-great-deal-zgharta-kfardlakos-kferzayna-refyn129195-ID116677498.html",
+      "type": "Building",
+      "location": "Other in Zgharta, Zgharta",
+      "sqm": 133,
+      "original_price": 70000,
+      "current_price": 70000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 70000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116805072",
+      "title": "RWK144DZ - Fully furnished Apartment for sale in Faitroun",
+      "url": "https://www.olx.com.lb/ad/rwk144dz-fully-furnished-apartment-for-sale-in-faitroun-ID116805072.html",
+      "type": "Apartment",
+      "location": "Faitroun, Keserouan",
+      "sqm": 145,
+      "original_price": 220000,
+      "current_price": 220000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "115982988",
+      "title": "Ajaltoun 200m2 | 150m2 Garden | Panoramic View | High End | Catch | MY",
+      "url": "https://www.olx.com.lb/ad/ajaltoun-200m2-150m2-garden-panoramic-view-high-end-catch-my-ID115982988.html",
+      "type": "Apartment",
+      "location": "Ajaltoun, Keserouan",
+      "sqm": 200,
+      "original_price": 285000,
+      "current_price": 285000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 285000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116674401",
+      "title": "RWB184PK - Duplex Villa for sale in Laklouk Jbeil",
+      "url": "https://www.olx.com.lb/ad/rwb184pk-duplex-villa-for-sale-in-laklouk-jbeil-ID116674401.html",
+      "type": "Villa",
+      "location": "Laqlouq, Jbeil",
+      "sqm": 150,
+      "original_price": 255000,
+      "current_price": 255000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 255000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116715322",
+      "title": "Under Market Price Brand New, garden, Aley Town/عاليه  REF#NN130683",
+      "url": "https://www.olx.com.lb/ad/under-market-price-brand-new-garden-aley-townعاليه-refnn130683-ID116715322.html",
+      "type": "Apartment",
+      "location": "Aley Town, Aley",
+      "sqm": 220,
+      "original_price": 185000,
+      "current_price": 185000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116490548",
+      "title": "Unbeatable Value! Traditional Lebanese Villa in Bikfaya for Sale",
+      "url": "https://www.olx.com.lb/ad/unbeatable-value-traditional-lebanese-villa-in-bikfaya-for-sale-ID116490548.html",
+      "type": "Villa",
+      "location": "Bikfaya, Metn",
+      "sqm": 930,
+      "original_price": 1190000,
+      "current_price": 1190000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 1190000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "115866908",
+      "title": "Apartment for Sale in Achrafieh  شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID115866908.html",
+      "type": "Apartment",
+      "location": "Sioufi, Beirut",
+      "sqm": 70,
+      "original_price": 226000,
+      "current_price": 226000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 226000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116763670",
+      "title": "Apartment for sale in Kornet Chehwan شقة للبيع في قرنة شهوان",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-kornet-chehwan-شقة-للبيع-في-قرنة-شهوان-ID116763670.html",
+      "type": "Apartment",
+      "location": "Cornet Chahwan, Metn",
+      "sqm": 210,
+      "original_price": 130000,
+      "current_price": 130000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 130000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116670235",
+      "title": "Furnished Apartment for Sale in Rabweh شقة مفروشة للبيع في الربوة",
+      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-rabweh-شقة-مفروشة-للبيع-في-الربوة-ID116670235.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 175,
+      "original_price": 350000,
+      "current_price": 350000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116368132",
+      "title": "Duplex for sale in Bsalim - دوبلكس للبيع في بصاليم",
+      "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-bsalim-دوبلكس-للبيع-في-بصاليم-ID116368132.html",
+      "type": "Duplex",
+      "location": "Bsalim, Metn",
+      "sqm": 240,
+      "original_price": 220000,
+      "current_price": 220000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116720609",
+      "title": "RWB135RR - Apartment for sale in Tripoli",
+      "url": "https://www.olx.com.lb/ad/rwb135rr-apartment-for-sale-in-tripoli-ID116720609.html",
+      "type": "Apartment",
+      "location": "Other in Tripoli, Tripoli",
+      "sqm": 175,
+      "original_price": 85000,
+      "current_price": 85000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116788970",
+      "title": "Apartment in Mansourieh Ref#ML105 شقة في المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-in-mansourieh-refml105-شقة-في-المنصورية-ID116788970.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 140,
+      "original_price": 125000,
+      "current_price": 125000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116621525",
+      "title": "Beirut-Verdun/فردان High Floor Near ABC , cave REF#MD127445",
+      "url": "https://www.olx.com.lb/ad/beirut-verdunفردان-high-floor-near-abc-cave-refmd127445-ID116621525.html",
+      "type": "Apartment",
+      "location": "Verdun, Beirut",
+      "sqm": 250,
+      "original_price": 650000,
+      "current_price": 650000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 650000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116392003",
+      "title": "Cornet El Hamra | Brand New 150m² + 75m² Roof | Great Building Status",
+      "url": "https://www.olx.com.lb/ad/cornet-el-hamra-brand-new-150m2-75m2-roof-great-building-status-ID116392003.html",
+      "type": "Building",
+      "location": "Qornet El Hamra, Metn",
+      "sqm": 225,
+      "original_price": 149900,
+      "current_price": 149900,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 149900,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116756665",
+      "title": "Apartment for sale in Dekwaneh شقة للبيع في الدكوانة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dekwaneh-شقة-للبيع-في-الدكوانة-ID116756665.html",
+      "type": "Apartment",
+      "location": "Dekwaneh, Metn",
+      "sqm": 250,
+      "original_price": 200000,
+      "current_price": 200000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116634304",
+      "title": "100 Sqm Apartment in Hamra - Near AUB",
+      "url": "https://www.olx.com.lb/ad/100-sqm-apartment-in-hamra-near-aub-ID116634304.html",
+      "type": "Apartment",
+      "location": "Hamra, Beirut",
+      "sqm": 100,
+      "original_price": 180000,
+      "current_price": 180000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116783297",
+      "title": "Apartment in Mansourieh Ref#AD121 شقة في المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-in-mansourieh-refad121-شقة-في-المنصورية-ID116783297.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 190,
+      "original_price": 180000,
+      "current_price": 180000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116802549",
+      "title": "Furnished apartment+Terrace+view 4sale in Blat - شقة للبيع في بلاط",
+      "url": "https://www.olx.com.lb/ad/furnished-apartmentterraceview-4sale-in-blat-شقة-للبيع-في-بلاط-ID116802549.html",
+      "type": "Apartment",
+      "location": "Blat, Jbeil",
+      "sqm": 170,
+      "original_price": 135000,
+      "current_price": 135000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116370299",
+      "title": "Apartment for sale in Tariq El Jdideh HN102 شقة  للبيع في طريق الجديدة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-tariq-el-jdideh-hn102-شقة-للبيع-في-طريق-الجديدة-ID116370299.html",
+      "type": "Apartment",
+      "location": "Tariq el Jdideh, Beirut",
+      "sqm": 110,
+      "original_price": 220000,
+      "current_price": 220000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116674912",
+      "title": "Fully Renovated 205m2 apartment+2terrace 4sale in Syoufiشقة في السيوفي",
+      "url": "https://www.olx.com.lb/ad/fully-renovated-205m2-apartment2terrace-4sale-in-syoufiشقة-في-السيوفي-ID116674912.html",
+      "type": "Apartment",
+      "location": "Sioufi, Beirut",
+      "sqm": 245,
+      "original_price": 350000,
+      "current_price": 350000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116734744",
+      "title": "Apartment For Sale In Blat Jbeil | 3BR | شقة للبيع | PLS 26404/A1",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-blat-jbeil-3br-شقة-للبيع-pls-26404a1-ID116734744.html",
+      "type": "Apartment",
+      "location": "Blat, Jbeil",
+      "sqm": 116,
+      "original_price": 175000,
+      "current_price": 175000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116457027",
+      "title": "Sheileh 117m2 | Under Construction | Payment Facilities | GA |",
+      "url": "https://www.olx.com.lb/ad/sheileh-117m2-under-construction-payment-facilities-ga-ID116457027.html",
+      "type": "Apartment",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 117,
+      "original_price": 125000,
+      "current_price": 125000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116428130",
+      "title": "Villa for salee in Freikeh/ View/ Garden",
+      "url": "https://www.olx.com.lb/ad/villa-for-salee-in-freikeh-view-garden-ID116428130.html",
+      "type": "Villa",
+      "location": "Cornet Chahwan, Metn",
+      "sqm": 800,
+      "original_price": 2200000,
+      "current_price": 2200000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 2200000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116813868",
+      "title": "Land for Sale for invest ratio 50% in the main street of Zouk Mikael",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-for-invest-ratio-50-in-the-main-street-of-zouk-mikael-ID116813868.html",
+      "type": "Land",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 509,
+      "original_price": 800000,
+      "current_price": 800000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 800000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116718752",
+      "title": "دوحة عرمون",
+      "url": "https://www.olx.com.lb/ad/دوحة-عرمون-ID116718752.html",
+      "type": "Apartment",
+      "location": "Dawhet Aaramoun, Aley",
+      "sqm": 160,
+      "original_price": 170000,
+      "current_price": 170000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 170000,
           "date": "2026-03-07"
         }
       ]

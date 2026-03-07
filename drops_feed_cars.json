@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-03-07T21:20:54.087497",
-  "total_tracked": 1673,
-  "total_drops": 35,
-  "avg_drop_pct": 5.9,
+  "generated_at": "2026-03-07T22:13:20.363320",
+  "total_tracked": 1675,
+  "total_drops": 36,
+  "total_new": 2,
+  "avg_drop_pct": 5.8,
   "biggest_drop_usd": 5000,
   "drops": [
     {
@@ -682,6 +683,34 @@
       ]
     },
     {
+      "id": "116803436",
+      "title": "Infiniti G-Series 2003",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2003-ID116803436.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 183000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 3400,
+      "current_price": 3300,
+      "drop_usd": 100,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-03-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3300,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
       "id": "116676593",
       "title": "Mitsubishi Eclipse Cross 2019 company source Lebanon  مصدر لبنان",
       "url": "https://www.olx.com.lb/ad/2019-mitsubishi-eclipse-cross-4wd-company-source-lebanon-88000-km-ID116676593.html",
@@ -986,6 +1015,50 @@
         {
           "price": 19900,
           "date": "2026-03-05"
+        }
+      ]
+    }
+  ],
+  "new_listings": [
+    {
+      "id": "116691789",
+      "title": "Jeep Wrangler JK Unlimited 2015",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-jk-unlimited-2015-ID116691789.html",
+      "make": "Jeep",
+      "model": "Wrangler JK Unlimited",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 140000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 22500,
+      "current_price": 22500,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116727027",
+      "title": "Toyota Rav 4 2019",
+      "url": "https://www.olx.com.lb/ad/toyota-rav-4-2019-ID116727027.html",
+      "make": "Toyota",
+      "model": "Rav 4",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 26500,
+      "current_price": 26500,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 26500,
+          "date": "2026-03-07"
         }
       ]
     }
