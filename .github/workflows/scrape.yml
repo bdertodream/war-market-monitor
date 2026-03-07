@@ -39,13 +39,13 @@ jobs:
       - name: Run plates scraper
         run: python olx_scraper_plates.py
 
-      - name: Commit updated data
+      - name: Commit and push updated data
         run: |
           git config user.name "OLX Scraper Bot"
           git config user.email "bot@lb-market.monitor"
           git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json listings_db_plates.json drops_feed_plates.json
           git diff --staged --quiet || git commit -m "📊 Scrape $(date +%Y-%m-%d\ %H:%M)"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main || (git checkout --theirs . && git add -A && git rebase --continue)
           git push
 
   deploy:
