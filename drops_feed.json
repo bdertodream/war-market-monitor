@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-07T18:27:08.822197",
-  "total_tracked": 7524,
-  "total_drops": 10,
-  "avg_drop_pct": 7.1,
+  "generated_at": "2026-03-07T19:21:35.632110",
+  "total_tracked": 7573,
+  "total_drops": 11,
+  "avg_drop_pct": 6.6,
   "biggest_drop_usd": 55000,
   "drops": [
     {
@@ -242,6 +242,30 @@
         {
           "price": 825000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116761820",
+      "title": "Apartment for sale in Sahel Alma شقة للبيع في ساحل علما",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sahel-alma-شقة-للبيع-في-ساحل-علما-ID116761820.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 120,
+      "original_price": 130000,
+      "current_price": 128000,
+      "drop_usd": 2000,
+      "drop_pct": 1.5,
+      "last_drop_date": "2026-03-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 130000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 128000,
+          "date": "2026-03-07"
         }
       ]
     }
