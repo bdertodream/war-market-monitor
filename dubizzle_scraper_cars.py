@@ -130,6 +130,28 @@ def get_extra_field(hit, key, default=None):
         return val
     return hit.get(key, default)
 
+def parse_date(date_str):
+    """
+    Parse ISO format date with T and Z.
+    Returns YYYY-MM-DD string or None.
+    Handles formats like: 2026-03-08T14:30:00Z or 2026-03-08
+    """
+    if not date_str:
+        return None
+    try:
+        # Try parsing ISO format with Z
+        if isinstance(date_str, str):
+            # Remove Z suffix if present
+            clean_str = date_str.rstrip('Z')
+            # Split on T to get date part
+            date_part = clean_str.split('T')[0]
+            # Validate format YYYY-MM-DD
+            if len(date_part) == 10 and date_part[4] == '-' and date_part[7] == '-':
+                return date_part
+        return None
+    except Exception:
+        return None
+
 def parse_hit(hit):
     price = get_extra_field(hit, "price")
     if not price or price < 2000:
@@ -167,6 +189,13 @@ def parse_hit(hit):
     if not url and ext_id:
         url = f"{BASE_URL}/ad/ID{ext_id}.html"
 
+    # Extract posted_date from hit
+    posted_date_str = (
+        parse_date(hit.get("createdAt")) or
+        parse_date(hit.get("created_at")) or
+        parse_date(hit.get("publishedAt"))
+    )
+
     return {
         "id": ext_id,
         "title": title,
@@ -180,6 +209,7 @@ def parse_hit(hit):
         "location": location_str,
         "district": district,
         "price_usd": price,  # Actually AED
+        "posted_date": posted_date_str,
     }
 
 def scrape_category(cat_path):
@@ -248,6 +278,9 @@ def update_database(db, new_listings):
             existing["title"] = listing["title"]
             existing["url"] = listing["url"]
             existing["last_seen"] = today
+            # Backfill posted_date if not present
+            if "posted_date" not in existing:
+                existing["posted_date"] = listing.get("posted_date") or existing["first_seen"]
         else:
             db[lid] = {
                 "id": lid,
@@ -270,6 +303,7 @@ def update_database(db, new_listings):
                 "drop_usd": 0,
                 "drop_pct": 0,
                 "last_drop_date": None,
+                "posted_date": listing.get("posted_date") or today,
             }
             new_count += 1
 
@@ -279,6 +313,7 @@ def generate_drops_feed(db):
     drops = []
     new_listings = []
     for lid, listing in db.items():
+        post_date = listing.get("posted_date") or listing.get("first_seen", WAR_START)
         if listing["drop_usd"] > 0:
             drops.append({
                 "id": listing["id"],
@@ -297,9 +332,10 @@ def generate_drops_feed(db):
                 "drop_pct": listing["drop_pct"],
                 "last_drop_date": listing["last_drop_date"],
                 "first_seen": listing["first_seen"],
+                "posted_date": post_date,
                 "price_history": listing["price_history"],
             })
-        if listing.get("first_seen", WAR_START) > WAR_START:
+        if post_date >= WAR_START:
             new_listings.append({
                 "id": listing["id"],
                 "title": listing["title"],
@@ -314,10 +350,11 @@ def generate_drops_feed(db):
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
                 "first_seen": listing["first_seen"],
+                "posted_date": post_date,
                 "price_history": listing["price_history"],
             })
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    new_listings.sort(key=lambda x: x["first_seen"], reverse=True)
+    new_listings.sort(key=lambda x: x["posted_date"], reverse=True)
 
     return {
         "generated_at": datetime.now().isoformat(),
