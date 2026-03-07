@@ -28,6 +28,8 @@ CATEGORY_URLS = [
     "/properties/penthouse/for-sale/",
     "/properties/townhouse/for-sale/",
     "/properties/land/for-sale/",
+    "/properties/commercial/for-sale/",
+    "/properties/office-space/for-sale/",
 ]
 MAX_PAGES_PER_CATEGORY = 25
 DB_FILE = "listings_db_uae.json"
@@ -141,6 +143,22 @@ def get_extra_field(hit, key, default=None):
         return val
     return hit.get(key, default)
 
+def parse_date(date_str):
+    """Parse ISO format dates (with T and Z), returns YYYY-MM-DD or None."""
+    if not date_str:
+        return None
+    try:
+        # Handle ISO format with Z (2026-03-05T10:30:45Z)
+        if isinstance(date_str, str):
+            if date_str.endswith('Z'):
+                date_str = date_str[:-1]
+            # Parse ISO format
+            dt = datetime.fromisoformat(date_str)
+            return dt.strftime("%Y-%m-%d")
+    except (ValueError, AttributeError, TypeError):
+        pass
+    return None
+
 def parse_hit(hit):
     price = get_extra_field(hit, "price")
     if not price or price < 10000:
@@ -150,10 +168,17 @@ def parse_hit(hit):
     slug = hit.get("slug", "")
     title = hit.get("title", "Unknown")
 
+    # Extract posted_date from various possible fields
+    posted_date = hit.get("createdAt") or hit.get("created_at") or hit.get("publishedAt")
+    posted_date_str = parse_date(posted_date)
+
     prop_type = get_formatted_field(hit, "category") or get_formatted_field(hit, "type") or ""
     if not prop_type:
+        # Infer from title or category
         title_lower = title.lower()
-        if "villa" in title_lower or "house" in title_lower:
+        if "commercial" in title_lower or "office" in title_lower or "shop" in title_lower or "retail" in title_lower or "warehouse" in title_lower:
+            prop_type = "Commercial"
+        elif "villa" in title_lower or "house" in title_lower:
             prop_type = "Villa"
         elif "penthouse" in title_lower:
             prop_type = "Penthouse"
@@ -197,7 +222,8 @@ def parse_hit(hit):
         "bedrooms": bedrooms,
         "location": location_str,
         "district": district,
-        "price_usd": price,
+        "price_usd": price,  # Actually AED but we use same field name for consistency
+        "posted_date": posted_date_str,
     }
 
 def scrape_category(cat_path):
@@ -266,6 +292,9 @@ def update_database(db, new_listings):
             existing["title"] = listing["title"]
             existing["url"] = listing["url"]
             existing["last_seen"] = today
+            # Backfill posted_date if not present
+            if "posted_date" not in existing:
+                existing["posted_date"] = listing.get("posted_date") or existing["first_seen"]
         else:
             db[lid] = {
                 "id": lid,
@@ -282,6 +311,7 @@ def update_database(db, new_listings):
                 "first_seen": today,
                 "last_seen": today,
                 "last_updated": today,
+                "posted_date": listing.get("posted_date") or today,
                 "drop_usd": 0,
                 "drop_pct": 0,
                 "last_drop_date": None,
@@ -309,9 +339,11 @@ def generate_drops_feed(db):
                 "drop_pct": listing["drop_pct"],
                 "last_drop_date": listing["last_drop_date"],
                 "first_seen": listing["first_seen"],
+                "posted_date": listing.get("posted_date"),
                 "price_history": listing["price_history"],
             })
-        if listing.get("first_seen", WAR_START) > WAR_START:
+        post_date = listing.get("posted_date") or listing.get("first_seen", WAR_START)
+        if post_date >= WAR_START:
             new_listings.append({
                 "id": listing["id"],
                 "title": listing["title"],
@@ -323,10 +355,11 @@ def generate_drops_feed(db):
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
                 "first_seen": listing["first_seen"],
+                "posted_date": listing.get("posted_date"),
                 "price_history": listing["price_history"],
             })
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    new_listings.sort(key=lambda x: x["first_seen"], reverse=True)
+    new_listings.sort(key=lambda x: x["posted_date"] or x["first_seen"], reverse=True)
 
     return {
         "generated_at": datetime.now().isoformat(),
