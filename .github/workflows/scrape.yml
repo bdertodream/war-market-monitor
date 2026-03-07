@@ -1,5 +1,5 @@
 # .github/workflows/scrape.yml
-# LB Market Monitor — Lebanon Price Tracker (Real Estate + Cars)
+# LB Market Monitor — Lebanon Price Tracker (Real Estate + Cars + Plates)
 # Runs scrapers and deploys the dashboard to GitHub Pages
 
 name: Scrape & Deploy
@@ -36,11 +36,14 @@ jobs:
       - name: Run car scraper
         run: python olx_scraper_cars.py
 
+      - name: Run plates scraper
+        run: python olx_scraper_plates.py
+
       - name: Commit updated data
         run: |
           git config user.name "OLX Scraper Bot"
           git config user.email "bot@lb-market.monitor"
-          git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json
+          git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json listings_db_plates.json drops_feed_plates.json
           git diff --staged --quiet || git commit -m "📊 Scrape $(date +%Y-%m-%d\ %H:%M)"
           git pull --rebase origin main
           git push
@@ -66,6 +69,7 @@ jobs:
           cp index.html _site/
           [ -f drops_feed.json ] && cp drops_feed.json _site/ || true
           [ -f drops_feed_cars.json ] && cp drops_feed_cars.json _site/ || true
+          [ -f drops_feed_plates.json ] && cp drops_feed_plates.json _site/ || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

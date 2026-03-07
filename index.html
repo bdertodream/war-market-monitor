@@ -431,6 +431,7 @@ function esc(s){const d=document.createElement('div');d.textContent=s;return d.i
 let activeTab='re';
 let reData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
 let carsData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
+let platesData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
 let sortBy='pct',typeFilter='all',areaFilter='all',extraFilter='all';
 
 function reTypeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal',Building:'building',Commercial:'commercial'}[t]||'apt'}
@@ -438,12 +439,13 @@ function carTypeClass(t){
   const m={Sedan:'sedan',SUV:'suv',Hatchback:'hatch',Pickup:'truck',Coupe:'coupe',Convertible:'convert',Van:'van','Pick Up Truck':'truck','Sport car':'coupe',Crossover:'suv',Wagon:'sedan',MPV:'van',Minivan:'van'};
   return m[t]||'other';
 }
-function getData(){return activeTab==='re'?reData:carsData}
+function getData(){return activeTab==='re'?reData:activeTab==='cars'?carsData:platesData}
 
 /* ── Data Loading ──────────────────────────────────── */
 async function loadData(){
   try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)reData=j}}catch(e){console.log('RE data not yet available')}
   try{const r=await fetch('drops_feed_cars.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)carsData=j}}catch(e){console.log('Cars data not yet available')}
+  try{const r=await fetch('drops_feed_plates.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)platesData=j}}catch(e){console.log('Plates data not yet available')}
   refresh();
 }
 
@@ -480,10 +482,6 @@ function switchTab(tab){
 }
 
 function refresh(){
-  if(activeTab==='plates'){
-    renderPlatesView();
-    return;
-  }
   renderStats();buildHeaders();buildFilters();buildExtraFilter();buildAreaFilter();render();
 }
 
@@ -503,15 +501,17 @@ function buildHeaders(){
   const thead=document.getElementById('thead');
   if(activeTab==='re'){
     thead.innerHTML='<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th></tr>';
-  }else{
+  }else if(activeTab==='cars'){
     thead.innerHTML='<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th></tr>';
+  }else{
+    thead.innerHTML='<tr><th>Plate</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th></tr>';
   }
 }
 
 /* ── Filters ───────────────────────────────────────── */
 function buildFilters(){
   const d=getData();
-  const field=activeTab==='re'?'type':'body_type';
+  const field=activeTab==='re'?'type':activeTab==='cars'?'body_type':'plate_type';
   const types=['all',...new Set(d.drops.map(x=>x[field]).filter(Boolean))];
   document.getElementById('type-filters').innerHTML=types.map(t=>`<button class="fbtn${t===typeFilter?' on':''}" onclick="setType('${t}')">${t==='all'?'All':t}</button>`).join('');
 }
@@ -544,7 +544,7 @@ function setSort(s){sortBy=s;document.querySelectorAll('.sbtn').forEach(b=>b.cla
 function render(){
   const d=getData();
   let items=[...d.drops];
-  const typeField=activeTab==='re'?'type':'body_type';
+  const typeField=activeTab==='re'?'type':activeTab==='cars'?'body_type':'plate_type';
   if(typeFilter!=='all')items=items.filter(x=>x[typeField]===typeFilter);
   if(areaFilter!=='all')items=items.filter(x=>x.location===areaFilter);
   if(activeTab==='cars'&&extraFilter!=='all')items=items.filter(x=>x.make===extraFilter);
@@ -553,9 +553,6 @@ function render(){
   items.sort(sorters[sortBy]||sorters.pct);
 
   const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
-  document.querySelector('.toolbar').style.display='';
-  document.querySelector('.stats').style.display='';
-
   if(!items.length){tbody.innerHTML='';empty.style.display='block';return}
   empty.style.display='none';
   const today=todayStr();
@@ -575,7 +572,7 @@ function render(){
         <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
         <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
       </tr>`}).join('');
-  }else{
+  }else if(activeTab==='cars'){
     tbody.innerHTML=items.map((d,i)=>{
       const isToday=d.last_drop_date===today;
       const dc=d.drop_pct>=15?'drop-r':'drop-a';
@@ -593,19 +590,22 @@ function render(){
         <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
         <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
       </tr>`}).join('');
+  }else{
+    tbody.innerHTML=items.map((d,i)=>{
+      const isToday=d.last_drop_date===today;
+      const dc=d.drop_pct>=15?'drop-r':'drop-a';
+      return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}</div></td>
+        <td><span class="tbadge t-other">${d.plate_type||'Standard'}</span></td>
+        <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
+        <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
+        <td><div class="p-was">${fmtUSD(d.original_price)}</div></td>
+        <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
+        <td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td>
+        <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
+        <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
+      </tr>`}).join('');
   }
-}
-
-/* ── Plates View (Coming Soon) ─────────────────────── */
-function renderPlatesView(){
-  document.querySelector('.stats').style.display='none';
-  document.querySelector('.toolbar').style.display='none';
-  document.getElementById('tbody').innerHTML='';
-  document.getElementById('thead').innerHTML='';
-  const empty=document.getElementById('empty');
-  empty.style.display='block';
-  empty.querySelector('h3').textContent='Plates tracking coming soon';
-  empty.querySelector('p').textContent='License plate price tracking is being built. This tab will show Lebanese plate prices and drops once the scraper is live.';
 }
 
 loadData();
