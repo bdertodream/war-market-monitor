@@ -96,6 +96,27 @@ def extract_hits(html):
     nb_pages = content.get("nbPages", 0)
     return hits, nb_pages
 
+def parse_date(date_str):
+    """Parse a date string to YYYY-MM-DD format. Returns None if unable to parse."""
+    if not date_str:
+        return None
+    try:
+        # Try ISO format first
+        dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        return dt.strftime("%Y-%m-%d")
+    except (ValueError, TypeError, AttributeError):
+        try:
+            # Try common formats
+            for fmt in ["%Y-%m-%d", "%Y-%m-%dT%H:%M:%S", "%d/%m/%Y"]:
+                try:
+                    dt = datetime.strptime(str(date_str)[:10], "%Y-%m-%d")
+                    return dt.strftime("%Y-%m-%d")
+                except ValueError:
+                    continue
+        except Exception:
+            pass
+    return None
+
 def parse_hit(hit):
     """Convert a raw OLX hit into a normalized listing dict."""
     extra = hit.get("extraFields") or {}
@@ -149,6 +170,15 @@ def parse_hit(hit):
 
     url = f"{BASE_URL}/ad/{slug}-ID{ext_id}.html" if slug else ""
 
+    # Extract posted_date from multiple possible fields
+    posted_date_str = None
+    for field in ["createdAt", "created_at", "publishedAt"]:
+        date_value = hit.get(field)
+        if date_value:
+            posted_date_str = parse_date(date_value)
+            if posted_date_str:
+                break
+
     return {
         "id": ext_id,
         "title": title,
@@ -161,6 +191,7 @@ def parse_hit(hit):
         "price_usd": price,
         "bedrooms": extra.get("rooms"),
         "bathrooms": extra.get("bathrooms"),
+        "posted_date": posted_date_str,
     }
 
 def scrape_category(cat_path):
@@ -233,6 +264,9 @@ def update_database(db, new_listings):
             existing["title"] = listing["title"]
             existing["url"] = listing["url"]
             existing["last_seen"] = today
+            # Backfill posted_date if missing
+            if "posted_date" not in existing:
+                existing["posted_date"] = listing.get("posted_date") || existing["first_seen"]
         else:
             db[lid] = {
                 "id": lid,
@@ -248,6 +282,7 @@ def update_database(db, new_listings):
                 "original_price": listing["price_usd"],
                 "current_price": listing["price_usd"],
                 "price_history": [{"price": listing["price_usd"], "date": today}],
+                "posted_date": listing.get("posted_date") or today,
                 "first_seen": today,
                 "last_seen": today,
                 "last_updated": today,
@@ -276,11 +311,13 @@ def generate_drops_feed(db):
                 "drop_usd": listing["drop_usd"],
                 "drop_pct": listing["drop_pct"],
                 "last_drop_date": listing["last_drop_date"],
+                "posted_date": listing.get("posted_date"),
                 "first_seen": listing["first_seen"],
                 "price_history": listing["price_history"],
             })
-        # Post-war new listings (first seen after war start)
-        if listing.get("first_seen", WAR_START) > WAR_START:
+        # Post-war new listings (posted after war start)
+        post_date = listing.get("posted_date") or listing.get("first_seen", WAR_START)
+        if post_date >= WAR_START:
             new_listings.append({
                 "id": listing["id"],
                 "title": listing["title"],
@@ -290,11 +327,12 @@ def generate_drops_feed(db):
                 "sqm": listing.get("sqm"),
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
+                "posted_date": listing.get("posted_date"),
                 "first_seen": listing["first_seen"],
                 "price_history": listing["price_history"],
             })
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    new_listings.sort(key=lambda x: x["first_seen"], reverse=True)
+    new_listings.sort(key=lambda x: x.get("posted_date") or x["first_seen"], reverse=True)
 
     feed = {
         "generated_at": datetime.now().isoformat(),
