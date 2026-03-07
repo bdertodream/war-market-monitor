@@ -2,86 +2,146 @@
 <html lang="en" data-theme="dark">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>LB Market Monitor — Lebanon Price Drop Tracker</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-:root{--bg:#f2f0ed;--glass:rgba(255,255,255,0.55);--glass-border:rgba(255,255,255,0.7);--blur:20px;--tx1:#1a1a1a;--tx2:#555;--tx3:#888;--accent:#0071e3;--green:#34c759;--red:#ff3b30;--orange:#ff9500;--card-shadow:0 8px 32px rgba(0,0,0,0.08);--row-hover:rgba(0,113,227,0.06)}
-[data-theme="dark"]{--bg:#0d0d0d;--glass:rgba(255,255,255,0.06);--glass-border:rgba(255,255,255,0.12);--tx1:#f0f0f0;--tx2:#aaa;--tx3:#666;--card-shadow:0 8px 32px rgba(0,0,0,0.4);--row-hover:rgba(0,113,227,0.12)}
-body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx1);min-height:100vh;overflow-x:hidden;transition:background .4s,color .4s}
-.blob{position:fixed;border-radius:50%;filter:blur(100px);opacity:.35;pointer-events:none;z-index:0;animation:drift 20s ease-in-out infinite alternate}
-.blob-1{width:500px;height:500px;background:#0071e3;top:-100px;left:-100px}
-.blob-2{width:400px;height:400px;background:#34c759;bottom:-80px;right:-80px;animation-delay:-7s}
-.blob-3{width:300px;height:300px;background:#ff9500;top:40%;left:50%;animation-delay:-13s}
-@keyframes drift{0%{transform:translate(0,0) scale(1)}50%{transform:translate(40px,-30px) scale(1.1)}100%{transform:translate(-20px,20px) scale(.95)}}
-.wrap{position:relative;z-index:1;max-width:1280px;margin:0 auto;padding:24px 16px 60px}
-.glass{background:var(--glass);backdrop-filter:blur(var(--blur));-webkit-backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);border-radius:20px;box-shadow:var(--card-shadow)}
-header{display:flex;align-items:center;justify-content:space-between;padding:18px 28px;margin-bottom:20px}
-header h1{font-size:22px;font-weight:700;letter-spacing:-.5px}
-header h1 span{color:var(--accent)}
-.theme-btn{background:var(--glass);border:1px solid var(--glass-border);border-radius:12px;width:40px;height:40px;cursor:pointer;font-size:18px;display:grid;place-items:center;transition:.2s}
-.theme-btn:hover{transform:scale(1.1)}
-.tabs{display:flex;gap:6px;padding:0 20px;margin-bottom:16px}
-.tab-btn{padding:10px 22px;border-radius:14px;border:none;background:var(--glass);backdrop-filter:blur(10px);color:var(--tx2);font-family:inherit;font-weight:600;font-size:14px;cursor:pointer;transition:.25s;border:1px solid transparent}
-.tab-btn.active{background:var(--accent);color:#fff;box-shadow:0 4px 16px rgba(0,113,227,.3)}
-.tab-btn:hover:not(.active){border-color:var(--glass-border);color:var(--tx1)}
-.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;padding:0 20px;margin-bottom:16px}
-.stat-card{padding:16px 20px;text-align:center}
-.stat-card .label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--tx3);margin-bottom:4px}
-.stat-card .value{font-size:26px;font-weight:700;font-family:'JetBrains Mono',monospace}
-.stat-card .value.green{color:var(--green)}
-.stat-card .value.red{color:var(--red)}
-.filter-bar{display:flex;flex-wrap:wrap;gap:8px;padding:0 20px;margin-bottom:16px;align-items:center}
-.filter-bar select{padding:8px 14px;border-radius:12px;border:1px solid var(--glass-border);background:var(--glass);backdrop-filter:blur(10px);color:var(--tx1);font-family:inherit;font-size:13px;cursor:pointer;appearance:none;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23888'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 10px center;padding-right:28px}
-.table-wrap{padding:0 20px}
-.tbl{width:100%;overflow-x:auto;border-radius:16px}
+
+/* ── Theme Variables ─────────────────────────────── */
+:root{--blur:20px;--glass:rgba(255,255,255,.06);--glass-border:rgba(255,255,255,.1);--glass-hover:rgba(255,255,255,.1)}
+[data-theme="dark"]{
+  --bg:#07070a;--bg2:#0c0c11;
+  --tx:#e8e8f0;--tx2:#9898ac;--tx3:#5c5c70;
+  --red:#ff3b3b;--red-bg:rgba(255,59,59,.12);--red-br:rgba(255,59,59,.25);
+  --grn:#34d399;--grn-bg:rgba(52,211,153,.12);
+  --amb:#fbbf24;--amb-bg:rgba(251,191,36,.12);--amb-br:rgba(251,191,36,.25);
+  --blu:#60a5fa;--blu-bg:rgba(96,165,250,.12);--blu-br:rgba(96,165,250,.25);
+  --pur:#a78bfa;--pur-bg:rgba(167,139,250,.12);
+  --cyn:#2dd4bf;--cyn-bg:rgba(45,212,191,.12);
+  --pnk:#f472b6;--pnk-bg:rgba(244,114,182,.12);
+  --org:#fb923c;--org-bg:rgba(251,146,60,.12);
+  --blob1:rgba(255,59,59,.06);--blob2:rgba(96,165,250,.04);--blob3:rgba(167,139,250,.05);
+}
+[data-theme="light"]{
+  --bg:#f0f0f5;--bg2:#e8e8ee;
+  --tx:#1a1a2e;--tx2:#5a5a72;--tx3:#8888a0;
+  --red:#dc2626;--red-bg:rgba(220,38,38,.1);--red-br:rgba(220,38,38,.2);
+  --grn:#059669;--grn-bg:rgba(5,150,105,.1);
+  --amb:#d97706;--amb-bg:rgba(217,119,6,.1);--amb-br:rgba(217,119,6,.2);
+  --blu:#2563eb;--blu-bg:rgba(37,99,235,.1);--blu-br:rgba(37,99,235,.2);
+  --pur:#7c3aed;--pur-bg:rgba(124,58,237,.1);
+  --cyn:#0d9488;--cyn-bg:rgba(13,148,136,.1);
+  --pnk:#db2777;--pnk-bg:rgba(219,39,119,.1);
+  --org:#ea580c;--org-bg:rgba(234,88,12,.1);
+  --glass:rgba(255,255,255,.55);--glass-border:rgba(255,255,255,.6);--glass-hover:rgba(255,255,255,.7);
+  --blob1:rgba(255,59,59,.06);--blob2:rgba(96,165,250,.05);--blob3:rgba(167,139,250,.05);
+}
+
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .3s,color .3s}
+
+/* ── Ambient Blobs ───────────────────────────────── */
+.blob{position:fixed;border-radius:50%;filter:blur(120px);pointer-events:none;z-index:0}
+.blob-1{width:600px;height:600px;background:var(--blob1);top:-200px;left:-100px;animation:drift 20s ease-in-out infinite}
+.blob-2{width:500px;height:500px;background:var(--blob2);bottom:-150px;right:-100px;animation:drift 25s ease-in-out infinite reverse}
+.blob-3{width:400px;height:400px;background:var(--blob3);top:40%;left:50%;animation:drift 22s ease-in-out infinite}
+@keyframes drift{0%,100%{transform:translate(0,0)}33%{transform:translate(30px,-20px)}66%{transform:translate(-20px,30px)}}
+
+.wrap{max-width:1360px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+
+/* ── Header ──────────────────────────────────────── */
+header{padding:32px 0 24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
+.logo{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:700;display:flex;align-items:center;gap:10px}
+.logo .lbl{background:linear-gradient(135deg,var(--red),#cc2222);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.tagline{font-size:12px;color:var(--tx3);margin-top:4px}
+.h-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.badge{font:600 10px/1 'JetBrains Mono',monospace;padding:5px 12px;border-radius:20px;letter-spacing:.4px}
+.badge-src{color:var(--tx3);background:var(--glass);border:1px solid var(--glass-border);backdrop-filter:blur(var(--blur))}
+.badge-live{color:var(--red);background:var(--red-bg);border:1px solid var(--red-br);display:flex;align-items:center;gap:6px}
+.dot{width:6px;height:6px;background:var(--red);border-radius:50%;animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.theme-btn{width:36px;height:36px;border-radius:10px;border:1px solid var(--glass-border);background:var(--glass);backdrop-filter:blur(var(--blur));cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.theme-btn:hover{background:var(--glass-hover)}
+
+/* ── Tabs ─────────────────────────────────────────── */
+.tabs{display:flex;gap:4px;padding:4px;background:var(--glass);backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);border-radius:14px;margin-bottom:20px;width:fit-content}
+.tab{padding:10px 22px;font:600 13px/1 'JetBrains Mono',monospace;color:var(--tx3);background:0;border:0;border-radius:10px;cursor:pointer;transition:all .2s;letter-spacing:.3px}
+.tab:hover{color:var(--tx2)}
+.tab.on{background:var(--red-bg);color:var(--red);border:1px solid var(--red-br)}
+
+/* ── Stats ────────────────────────────────────────── */
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-bottom:20px}
+.stat{background:var(--glass);backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:6px;transition:all .2s}
+.stat:hover{background:var(--glass-hover)}
+.stat-l{font:600 10px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.8px}
+.stat-v{font:700 24px/1 'JetBrains Mono',monospace}
+.stat-v.r{color:var(--red)}.stat-v.g{color:var(--grn)}.stat-v.a{color:var(--amb)}.stat-v.b{color:var(--blu)}
+
+/* ── Toolbar ──────────────────────────────────────── */
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.filters{display:flex;gap:4px;flex-wrap:wrap}
+.fbtn{background:var(--glass);backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);color:var(--tx2);padding:7px 14px;border-radius:8px;font:500 12px/1 'Inter',sans-serif;cursor:pointer;transition:all .15s}
+.fbtn:hover{background:var(--glass-hover);color:var(--tx)}
+.fbtn.on{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+.right-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sort-l{font:500 10px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.5px}
+.sbtn{background:0;border:1px solid var(--glass-border);color:var(--tx3);padding:5px 10px;border-radius:6px;font:500 11px/1 'JetBrains Mono',monospace;cursor:pointer;transition:all .12s}
+.sbtn:hover{color:var(--tx2);border-color:var(--glass-hover)}
+.sbtn.on{color:var(--red);border-color:var(--red);background:var(--red-bg)}
+.area-sel{background:var(--glass);backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);color:var(--tx2);padding:7px 10px;border-radius:8px;font:500 12px/1 'Inter',sans-serif;cursor:pointer;outline:0}
+.area-sel option{background:var(--bg)}
+
+/* ── Table ────────────────────────────────────────── */
+.table-wrap{background:var(--glass);backdrop-filter:blur(var(--blur));border:1px solid var(--glass-border);border-radius:16px;overflow:hidden;margin-bottom:20px}
 table{width:100%;border-collapse:collapse}
-thead th{padding:12px 14px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--tx3);border-bottom:1px solid var(--glass-border);white-space:nowrap;position:sticky;top:0;background:var(--glass);backdrop-filter:blur(var(--blur))}
-tbody tr{border-bottom:1px solid rgba(128,128,128,.08);cursor:pointer;transition:background .15s;animation:fadeUp .4s ease both}
-tbody tr:hover{background:var(--row-hover)}
-@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-td{padding:12px 14px;font-size:13px;white-space:nowrap}
-.prop-name{font-weight:600;font-size:14px;color:var(--tx1)}
-.prop-sub{font-size:11px;color:var(--tx3);margin-top:2px}
-.plate-num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:16px;color:var(--accent)}
-.p-now{font-family:'JetBrains Mono',monospace;font-weight:600;font-size:14px}
-.p-was{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--tx3);text-decoration:line-through}
-.drop-chip{display:inline-block;padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600;font-family:'JetBrains Mono',monospace}
-.drop-mild{background:rgba(255,149,0,.12);color:var(--orange)}
-.drop-medium{background:rgba(255,59,48,.12);color:var(--red)}
-.drop-heavy{background:rgba(255,59,48,.25);color:var(--red);font-weight:700}
-.drop-amt{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--red)}
-.tbadge{display:inline-block;padding:3px 10px;border-radius:20px;font-size:11px;font-weight:600}
-.t-apartment{background:rgba(0,113,227,.12);color:var(--accent)}
-.t-villa{background:rgba(52,199,89,.12);color:var(--green)}
-.t-land{background:rgba(255,149,0,.12);color:var(--orange)}
-.t-shop{background:rgba(175,82,222,.12);color:#af52de}
-.t-office{background:rgba(88,86,214,.12);color:#5856d6}
-.t-suv{background:rgba(0,113,227,.12);color:var(--accent)}
-.t-sedan{background:rgba(52,199,89,.12);color:var(--green)}
-.t-coupe{background:rgba(255,149,0,.12);color:var(--orange)}
-.t-hatch{background:rgba(175,82,222,.12);color:#af52de}
-.t-truck{background:rgba(88,86,214,.12);color:#5856d6}
-.t-beirut{background:rgba(255,59,48,.12);color:var(--red)}
-.t-public{background:rgba(52,199,89,.12);color:var(--green)}
-.t-tripoli{background:rgba(0,113,227,.12);color:var(--accent)}
-.t-diplomatic{background:rgba(175,82,222,.12);color:#af52de}
-.t-motorcycle{background:rgba(255,149,0,.12);color:var(--orange)}
-.rarity-badge{display:inline-block;padding:3px 10px;border-radius:20px;font-size:11px;font-weight:700;letter-spacing:.5px}
-.rarity-legendary{background:linear-gradient(135deg,rgba(255,215,0,.2),rgba(255,165,0,.2));color:#ffa500;text-shadow:0 0 6px rgba(255,165,0,.3)}
-.rarity-epic{background:rgba(175,82,222,.15);color:#af52de}
-.rarity-rare{background:rgba(0,113,227,.12);color:var(--accent)}
-.rarity-common{background:rgba(128,128,128,.1);color:var(--tx3)}
-.date-cell{font-size:12px;color:var(--tx3);font-family:'JetBrains Mono',monospace}
-.date-today{color:var(--green);font-weight:600}
-.link-out{color:var(--accent);text-decoration:none;font-size:16px;font-weight:700;opacity:.7;transition:.2s}
-.link-out:hover{opacity:1;transform:scale(1.2)}
-#empty{display:none;text-align:center;padding:60px 20px;color:var(--tx3);font-size:15px}
-.footer{text-align:center;padding:30px 20px 0;font-size:12px;color:var(--tx3)}
-.footer a{color:var(--accent);text-decoration:none}
-@media(max-width:768px){.hide-m{display:none}.wrap{padding:12px 8px 40px}header{padding:14px 16px}header h1{font-size:18px}.stats-row{grid-template-columns:repeat(2,1fr)}.stat-card .value{font-size:20px}td{padding:10px 8px;font-size:12px}.prop-name{font-size:13px}.plate-num{font-size:14px}}
+thead th{padding:12px 14px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.7px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--glass-border);background:transparent}
+tbody tr{border-bottom:1px solid rgba(255,255,255,.04);transition:background .1s;cursor:pointer}
+tbody tr:hover{background:var(--glass-hover)}
+tbody tr:last-child{border-bottom:0}
+td{padding:12px 14px;font-size:13px;vertical-align:middle}
+.prop-name{font-weight:600;color:var(--tx);margin-bottom:2px;max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.prop-loc{font-size:11px;color:var(--tx2)}
+.tbadge{display:inline-block;padding:3px 8px;border-radius:6px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.3px}
+.t-apt{background:var(--blu-bg);color:var(--blu)}.t-villa{background:var(--pur-bg);color:var(--pur)}
+.t-pent{background:var(--amb-bg);color:var(--amb)}.t-dup{background:var(--cyn-bg);color:var(--cyn)}
+.t-land{background:var(--grn-bg);color:var(--grn)}.t-chal{background:var(--pnk-bg);color:var(--pnk)}
+.t-building{background:var(--org-bg);color:var(--org)}.t-commercial{background:var(--amb-bg);color:var(--amb)}
+.t-sedan{background:var(--blu-bg);color:var(--blu)}.t-suv{background:var(--pur-bg);color:var(--pur)}
+.t-hatch{background:var(--cyn-bg);color:var(--cyn)}.t-truck{background:var(--amb-bg);color:var(--amb)}
+.t-coupe{background:var(--pnk-bg);color:var(--pnk)}.t-van{background:var(--org-bg);color:var(--org)}
+.t-convert{background:var(--grn-bg);color:var(--grn)}.t-other{background:var(--glass);color:var(--tx3)}
+.p-now{font:600 14px/1 'JetBrains Mono',monospace}
+.p-was{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3);text-decoration:line-through}
+.drop{display:inline-flex;align-items:center;gap:3px;padding:3px 8px;border-radius:6px;font:600 12px/1 'JetBrains Mono',monospace}
+.drop-r{background:var(--red-bg);color:var(--red)}.drop-a{background:var(--amb-bg);color:var(--amb)}
+.drop-amt{font:500 12px/1 'JetBrains Mono',monospace;color:var(--red)}
+.date{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+.link-btn{background:var(--glass);border:1px solid var(--glass-border);color:var(--tx2);width:28px;height:28px;border-radius:6px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .12s;font-size:12px;text-decoration:none}
+.link-btn:hover{background:var(--glass-hover);color:var(--tx)}
+
+/* ── Empty / Loading ─────────────────────────────── */
+.empty{text-align:center;padding:80px 20px;color:var(--tx3)}
+.empty-i{font-size:48px;margin-bottom:14px;opacity:.4}
+.empty h3{font-size:16px;color:var(--tx2);margin-bottom:6px}
+.empty p{font-size:13px;max-width:380px;margin:0 auto;line-height:1.6}
+.loading{text-align:center;padding:60px 20px;color:var(--tx3);font:500 14px/1 'JetBrains Mono',monospace}
+
+/* ── Footer ──────────────────────────────────────── */
+footer{padding:20px 0 40px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+footer span{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+
+/* ── Scrollbar ───────────────────────────────────── */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--glass-border);border-radius:3px}
+
+/* ── Responsive ──────────────────────────────────── */
+@media(max-width:1024px){.stats{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:768px){.stats{grid-template-columns:repeat(2,1fr)}.toolbar{flex-direction:column;align-items:flex-start}.h-right{width:100%;justify-content:flex-end}}
+@media(max-width:640px){.stats{grid-template-columns:1fr 1fr}header{flex-direction:column;align-items:flex-start}td,th{padding:8px 6px;font-size:11px}.prop-name{max-width:140px}.hide-m{display:none}.tabs{width:100%}.tab{flex:1;text-align:center;padding:8px 10px;font-size:11px}}
+
+tbody tr{animation:rowIn .3s ease both}
+@keyframes rowIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 </style>
 </head>
 <body>
@@ -90,166 +150,226 @@ td{padding:12px 14px;font-size:13px;white-space:nowrap}
 <div class="blob blob-3"></div>
 
 <div class="wrap">
-  <header class="glass">
-    <h1>LB <span>Market</span> Monitor</h1>
-    <button class="theme-btn" onclick="toggleTheme()" title="Toggle theme">🌓</button>
+  <header>
+    <div>
+      <div class="logo"><span>🇱🇧</span><span style="color:var(--tx3)">/</span><span class="lbl">LB Market Monitor</span></div>
+      <div class="tagline">Tracking price drops in Lebanon since the war · Baseline: March 1, 2026</div>
+    </div>
+    <div class="h-right">
+      <span class="badge badge-src">source: olx.com.lb</span>
+      <span class="badge badge-live"><span class="dot"></span> TRACKING</span>
+      <button class="theme-btn" onclick="toggleTheme()" title="Toggle theme" id="theme-toggle">🌙</button>
+    </div>
   </header>
 
   <div class="tabs">
-    <button class="tab-btn active" data-tab="re" onclick="switchTab('re')">Real Estate</button>
-    <button class="tab-btn" data-tab="cars" onclick="switchTab('cars')">Cars</button>
-    <button class="tab-btn" data-tab="plates" onclick="switchTab('plates')">Plates</button>
+    <button class="tab on" id="tab-re" onclick="switchTab('re')">🏠 Real Estate</button>
+    <button class="tab" id="tab-cars" onclick="switchTab('cars')">🚗 Cars</button>
   </div>
 
-  <div class="stats-row" id="statsRow"></div>
-  <div class="filter-bar" id="filterBar"></div>
+  <div class="stats">
+    <div class="stat"><span class="stat-l">Tracked</span><span class="stat-v b" id="st-total">—</span></div>
+    <div class="stat"><span class="stat-l">Price Drops</span><span class="stat-v r" id="st-drops">—</span></div>
+    <div class="stat"><span class="stat-l">Avg Drop</span><span class="stat-v a" id="st-avg">—</span></div>
+    <div class="stat"><span class="stat-l">Biggest Drop</span><span class="stat-v r" id="st-max">—</span></div>
+    <div class="stat"><span class="stat-l">Since War</span><span class="stat-v g" id="st-days">—</span></div>
+  </div>
 
-  <div class="table-wrap">
-    <div class="tbl glass">
-      <table>
-        <thead><tr id="thead"></tr></thead>
-        <tbody id="tbody"></tbody>
-      </table>
-      <div id="empty">No listings match your filters.</div>
+  <div class="toolbar">
+    <div class="filters" id="type-filters"></div>
+    <div class="right-tools">
+      <select class="area-sel" id="extra-filter" style="display:none"><option value="all">All Makes</option></select>
+      <select class="area-sel" id="area-filter"><option value="all">All Areas</option></select>
+      <div>
+        <span class="sort-l">Sort: </span>
+        <button class="sbtn on" data-sort="pct" onclick="setSort('pct')">% Drop</button>
+        <button class="sbtn" data-sort="usd" onclick="setSort('usd')">$ Drop</button>
+        <button class="sbtn" data-sort="date" onclick="setSort('date')">Recent</button>
+        <button class="sbtn" data-sort="price" onclick="setSort('price')">Price ↓</button>
+      </div>
     </div>
   </div>
 
-  <div class="footer">
-    <p>Built with ♥ for Lebanon — Data is sample/demo</p>
-    <p style="margin-top:4px"><a href="https://github.com/bdertodream/lb-market-monitor" target="_blank">GitHub</a></p>
+  <div class="table-wrap">
+    <table>
+      <thead id="thead"><tr>
+        <th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th>
+      </tr></thead>
+      <tbody id="tbody"><tr><td colspan="9" class="loading">Loading data...</td></tr></tbody>
+    </table>
   </div>
+
+  <div class="empty" id="empty" style="display:none">
+    <div class="empty-i">📉</div>
+    <h3>No price drops detected yet</h3>
+    <p>Tracking 🇱🇧 listings since March 1. Price drops will appear here as sellers reduce prices from the war-start baseline.</p>
+  </div>
+
+  <footer>
+    <span>Data from OLX Lebanon · Updated twice daily · Baseline: March 1, 2026</span>
+    <span>Tracking Lebanon since the war 🇱🇧</span>
+  </footer>
 </div>
 
 <script>
-// ── Theme Toggle ──
-function toggleTheme() {
-  const html = document.documentElement;
-  const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-  html.setAttribute('data-theme', next);
-  localStorage.setItem('lb-theme', next);
+/* ── Theme ─────────────────────────────────────────── */
+function toggleTheme(){
+  const html=document.documentElement;
+  const next=html.getAttribute('data-theme')==='dark'?'light':'dark';
+  html.setAttribute('data-theme',next);
+  localStorage.setItem('lb-theme',next);
+  document.getElementById('theme-toggle').textContent=next==='dark'?'🌙':'☀️';
 }
-(function(){const s=localStorage.getItem('lb-theme');if(s)document.documentElement.setAttribute('data-theme',s)})();
+(function(){
+  const saved=localStorage.getItem('lb-theme');
+  if(saved){document.documentElement.setAttribute('data-theme',saved);document.getElementById('theme-toggle').textContent=saved==='dark'?'🌙':'☀️'}
+})();
 
-// ── Helpers ──
-const esc = s => s ? s.replace(/</g,'&lt;').replace(/>/g,'&gt;') : '';
-const fmtUSD = n => '$' + Number(n).toLocaleString('en-US');
-const fmtKM = n => n ? (n >= 1000 ? Math.round(n/1000) + 'k km' : n + ' km') : '—';
-const today = new Date().toISOString().slice(0,10);
-function dropClass(p){return p>=40?'drop-heavy':p>=20?'drop-medium':'drop-mild'}
-function reTypeClass(t){const m={Apartment:'apartment',Villa:'villa',Land:'land',Shop:'shop',Office:'office'};return m[t]||'apartment'}
-function carTypeClass(t){const m={SUV:'suv',Sedan:'sedan',Coupe:'coupe',Hatchback:'hatch',Truck:'truck'};return m[t]||'sedan'}
-function plateTypeClass(t){return t.toLowerCase().replace(/\s+/g,'')==='beirut(red)'?'beirut':t.toLowerCase().includes('public')?'public':t.toLowerCase().includes('tripoli')?'tripoli':t.toLowerCase().includes('diplomatic')?'diplomatic':t.toLowerCase().includes('motorcycle')?'motorcycle':'beirut'}
-function rarityClass(r){return (r||'common').toLowerCase()}
+/* ── Globals ───────────────────────────────────────── */
+const WAR_START='2026-03-01';
+function todayStr(){return new Date().toISOString().slice(0,10)}
+function daysSinceWar(){return Math.floor((new Date()-new Date(WAR_START))/(1000*60*60*24))}
+function fmtUSD(n){if(!n)return '—';return '$'+n.toLocaleString('en-US')}
+function fmtKM(n){if(!n)return '—';return n>=1000?(n/1000).toFixed(0)+'K':n+''}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
-// ── Sample Data ──
-const reData = [
-  {title:"3BR Apartment Sea View",type:"Apartment",location:"Beirut, Ras Beirut",sqm:180,current_price:195000,original_price:320000,drop_pct:39,drop_usd:125000,last_drop_date:today,url:"#"},
-  {title:"Duplex Penthouse",type:"Apartment",location:"Beirut, Achrafieh",sqm:250,current_price:280000,original_price:520000,drop_pct:46,drop_usd:240000,last_drop_date:"2025-12-01",url:"#"},
-  {title:"Mountain Villa with Pool",type:"Villa",location:"Mount Lebanon, Broummana",sqm:450,current_price:350000,original_price:680000,drop_pct:49,drop_usd:330000,last_drop_date:"2025-11-20",url:"#"},
-  {title:"Commercial Shop Downtown",type:"Shop",location:"Beirut, Hamra",sqm:90,current_price:85000,original_price:150000,drop_pct:43,drop_usd:65000,last_drop_date:today,url:"#"},
-  {title:"Office Space Verdun",type:"Office",location:"Beirut, Verdun",sqm:120,current_price:110000,original_price:200000,drop_pct:45,drop_usd:90000,last_drop_date:"2025-10-15",url:"#"},
-  {title:"Land Plot Coastal",type:"Land",location:"South, Saida",sqm:800,current_price:95000,original_price:190000,drop_pct:50,drop_usd:95000,last_drop_date:"2025-09-05",url:"#"},
-  {title:"2BR Modern Flat",type:"Apartment",location:"Beirut, Mar Mikhael",sqm:110,current_price:125000,original_price:210000,drop_pct:40,drop_usd:85000,last_drop_date:"2025-12-10",url:"#"},
-  {title:"Villa Garden Baabda",type:"Villa",location:"Mount Lebanon, Baabda",sqm:380,current_price:290000,original_price:550000,drop_pct:47,drop_usd:260000,last_drop_date:"2025-08-22",url:"#"},
-  {title:"Studio Apartment Hamra",type:"Apartment",location:"Beirut, Hamra",sqm:55,current_price:48000,original_price:90000,drop_pct:47,drop_usd:42000,last_drop_date:today,url:"#"},
-  {title:"Warehouse Industrial",type:"Shop",location:"North, Tripoli",sqm:600,current_price:120000,original_price:230000,drop_pct:48,drop_usd:110000,last_drop_date:"2025-07-18",url:"#"},
-];
-const carsData = [
-  {title:"BMW X5 2019",make:"BMW",model:"X5",body_type:"SUV",year:2019,mileage:45000,transmission:"Automatic",location:"Beirut",current_price:32000,original_price:55000,drop_pct:42,drop_usd:23000,last_drop_date:today,url:"#"},
-  {title:"Mercedes C300 2020",make:"Mercedes",model:"C300",body_type:"Sedan",year:2020,mileage:30000,transmission:"Automatic",location:"Mount Lebanon",current_price:28000,original_price:48000,drop_pct:42,drop_usd:20000,last_drop_date:"2025-12-01",url:"#"},
-  {title:"Range Rover Sport 2018",make:"Land Rover",model:"Range Rover Sport",body_type:"SUV",year:2018,mileage:62000,transmission:"Automatic",location:"Beirut",current_price:38000,original_price:72000,drop_pct:47,drop_usd:34000,last_drop_date:"2025-11-15",url:"#"},
-  {title:"Porsche 911 2017",make:"Porsche",model:"911",body_type:"Coupe",year:2017,mileage:28000,transmission:"Automatic",location:"Beirut",current_price:65000,original_price:110000,drop_pct:41,drop_usd:45000,last_drop_date:"2025-10-20",url:"#"},
-  {title:"Toyota Corolla 2021",make:"Toyota",model:"Corolla",body_type:"Sedan",year:2021,mileage:20000,transmission:"Automatic",location:"South",current_price:15000,original_price:24000,drop_pct:38,drop_usd:9000,last_drop_date:today,url:"#"},
-  {title:"Audi Q7 2019",make:"Audi",model:"Q7",body_type:"SUV",year:2019,mileage:50000,transmission:"Automatic",location:"North",current_price:35000,original_price:62000,drop_pct:44,drop_usd:27000,last_drop_date:"2025-09-10",url:"#"},
-  {title:"VW Golf GTI 2020",make:"Volkswagen",model:"Golf GTI",body_type:"Hatchback",year:2020,mileage:35000,transmission:"Manual",location:"Beirut",current_price:18000,original_price:30000,drop_pct:40,drop_usd:12000,last_drop_date:"2025-08-05",url:"#"},
-  {title:"Ford Raptor 2018",make:"Ford",model:"Raptor",body_type:"Truck",year:2018,mileage:55000,transmission:"Automatic",location:"Bekaa",current_price:42000,original_price:70000,drop_pct:40,drop_usd:28000,last_drop_date:"2025-12-08",url:"#"},
-];
-const platesData = [
-  {plate_number:"B 1",plate_type:"Beirut (Red)",rarity:"Legendary",location:"Beirut",current_price:900000,original_price:2000000,drop_pct:55,drop_usd:1100000,last_drop_date:today,url:"#"},
-  {plate_number:"B 100",plate_type:"Beirut (Red)",rarity:"Epic",location:"Beirut",current_price:120000,original_price:250000,drop_pct:52,drop_usd:130000,last_drop_date:"2025-12-01",url:"#"},
-  {plate_number:"B 777",plate_type:"Beirut (Red)",rarity:"Epic",location:"Beirut",current_price:85000,original_price:180000,drop_pct:53,drop_usd:95000,last_drop_date:"2025-11-20",url:"#"},
-  {plate_number:"G 500",plate_type:"Public (Green)",rarity:"Rare",location:"Beirut",current_price:15000,original_price:30000,drop_pct:50,drop_usd:15000,last_drop_date:today,url:"#"},
-  {plate_number:"T 1000",plate_type:"Tripoli",rarity:"Rare",location:"North",current_price:12000,original_price:22000,drop_pct:45,drop_usd:10000,last_drop_date:"2025-10-15",url:"#"},
-  {plate_number:"B 5555",plate_type:"Beirut (Red)",rarity:"Rare",location:"Beirut",current_price:45000,original_price:95000,drop_pct:53,drop_usd:50000,last_drop_date:"2025-09-01",url:"#"},
-  {plate_number:"D 12",plate_type:"Diplomatic",rarity:"Legendary",location:"Beirut",current_price:200000,original_price:500000,drop_pct:60,drop_usd:300000,last_drop_date:"2025-08-15",url:"#"},
-  {plate_number:"M 300",plate_type:"Motorcycle",rarity:"Common",location:"Beirut",current_price:3000,original_price:5500,drop_pct:45,drop_usd:2500,last_drop_date:"2025-12-05",url:"#"},
-  {plate_number:"B 12345",plate_type:"Beirut (Red)",rarity:"Common",location:"Beirut",current_price:4500,original_price:8000,drop_pct:44,drop_usd:3500,last_drop_date:"2025-07-22",url:"#"},
-  {plate_number:"G 1",plate_type:"Public (Green)",rarity:"Legendary",location:"Beirut",current_price:300000,original_price:700000,drop_pct:57,drop_usd:400000,last_drop_date:today,url:"#"},
-  {plate_number:"B 9999",plate_type:"Beirut (Red)",rarity:"Epic",location:"Beirut",current_price:65000,original_price:140000,drop_pct:54,drop_usd:75000,last_drop_date:"2025-11-10",url:"#"},
-  {plate_number:"T 7",plate_type:"Tripoli",rarity:"Epic",location:"North",current_price:40000,original_price:85000,drop_pct:53,drop_usd:45000,last_drop_date:"2025-10-01",url:"#"},
-];
+let activeTab='re';
+let reData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
+let carsData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
+let sortBy='pct',typeFilter='all',areaFilter='all',extraFilter='all';
 
-// ── State ──
-let activeTab = 're', typeFilter = 'all', areaFilter = 'all', extraFilter = 'all', sortBy = 'pct';
-function getData(){return activeTab==='re'?reData:activeTab==='cars'?carsData:platesData}
+function reTypeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal',Building:'building',Commercial:'commercial'}[t]||'apt'}
+function carTypeClass(t){
+  const m={Sedan:'sedan',SUV:'suv',Hatchback:'hatch',Pickup:'truck',Coupe:'coupe',Convertible:'convert',Van:'van','Pick Up Truck':'truck','Sport car':'coupe',Crossover:'suv',Wagon:'sedan',MPV:'van',Minivan:'van'};
+  return m[t]||'other';
+}
+function getData(){return activeTab==='re'?reData:carsData}
 
-// ── Stats ──
+/* ── Data Loading ──────────────────────────────────── */
+async function loadData(){
+  try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)reData=j}}catch(e){console.log('RE data not yet available')}
+  try{const r=await fetch('drops_feed_cars.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)carsData=j}}catch(e){console.log('Cars data not yet available')}
+  refresh();
+}
+
+/* ── Tab Switch ────────────────────────────────────── */
+function switchTab(tab){
+  activeTab=tab;
+  typeFilter='all';areaFilter='all';extraFilter='all';
+  document.getElementById('tab-re').classList.toggle('on',tab==='re');
+  document.getElementById('tab-cars').classList.toggle('on',tab==='cars');
+  refresh();
+}
+
+function refresh(){renderStats();buildHeaders();buildFilters();buildExtraFilter();buildAreaFilter();render()}
+
+/* ── Stats ─────────────────────────────────────────── */
 function renderStats(){
-  const d = getData();
-  const avg = Math.round(d.reduce((s,x)=>s+x.drop_pct,0)/d.length);
-  const totalSaved = d.reduce((s,x)=>s+x.drop_usd,0);
-  const todayCount = d.filter(x=>x.last_drop_date===today).length;
-  document.getElementById('statsRow').innerHTML = `
-    <div class="stat-card glass"><div class="label">Listings</div><div class="value">${d.length}</div></div>
-    <div class="stat-card glass"><div class="label">Avg Drop</div><div class="value red">${avg}%</div></div>
-    <div class="stat-card glass"><div class="label">Total Saved</div><div class="value green">${fmtUSD(totalSaved)}</div></div>
-    <div class="stat-card glass"><div class="label">Updated Today</div><div class="value">${todayCount}</div></div>`;
+  const d=getData();
+  const biggest=Math.max(...d.drops.map(x=>x.drop_usd),0);
+  document.getElementById('st-total').textContent=d.total_tracked.toLocaleString();
+  document.getElementById('st-drops').textContent=d.total_drops;
+  document.getElementById('st-avg').textContent=d.avg_drop_pct+'%';
+  document.getElementById('st-max').textContent=fmtUSD(biggest);
+  document.getElementById('st-days').textContent=daysSinceWar()+' days';
 }
 
-// ── Headers ──
-function renderHeaders(){
-  const h = document.getElementById('thead');
-  if(activeTab==='re') h.innerHTML='<th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price</th><th>Was</th><th>Drop</th><th>Saved</th><th class="hide-m">Date</th><th></th>';
-  else if(activeTab==='cars') h.innerHTML='<th>Vehicle</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>Price</th><th>Was</th><th>Drop</th><th>Saved</th><th class="hide-m">Date</th><th></th>';
-  else h.innerHTML='<th>Plate</th><th>Type</th><th>Rarity</th><th>Price</th><th>Was</th><th>Drop</th><th>Saved</th><th class="hide-m">Date</th><th></th>';
-}
-
-// ── Filters ──
-function renderFilters(){
-  const d = getData(); let html='';
-  const typeField = activeTab==='re'?'type':activeTab==='cars'?'body_type':'plate_type';
-  const types = [...new Set(d.map(x=>x[typeField]))].sort();
-  html+=`<select onchange="typeFilter=this.value;render()"><option value="all">All Types</option>${types.map(t=>`<option value="${t}">${t}</option>`).join('')}</select>`;
-  const areas = [...new Set(d.map(x=>x.location))].sort();
-  html+=`<select onchange="areaFilter=this.value;render()"><option value="all">All Areas</option>${areas.map(a=>`<option value="${a}">${a}</option>`).join('')}</select>`;
-  if(activeTab==='cars'){const makes=[...new Set(d.map(x=>x.make))].sort();html+=`<select onchange="extraFilter=this.value;render()"><option value="all">All Makes</option>${makes.map(m=>`<option value="${m}">${m}</option>`).join('')}</select>`}
-  if(activeTab==='plates'){html+=`<select onchange="extraFilter=this.value;render()"><option value="all">All Rarities</option><option value="Legendary">Legendary</option><option value="Epic">Epic</option><option value="Rare">Rare</option><option value="Common">Common</option></select>`}
-  html+=`<select onchange="sortBy=this.value;render()"><option value="pct">Sort: Drop %</option><option value="usd">Sort: $ Saved</option><option value="price">Sort: Price</option><option value="date">Sort: Date</option></select>`;
-  document.getElementById('filterBar').innerHTML=html;
-}
-
-// ── Render ──
-function render(){
-  const typeField = activeTab==='re'?'type':activeTab==='cars'?'body_type':'plate_type';
-  let items = [...getData()];
-  if(typeFilter!=='all') items=items.filter(x=>x[typeField]===typeFilter);
-  if(areaFilter!=='all') items=items.filter(x=>x.location===areaFilter);
-  if(activeTab==='cars'&&extraFilter!=='all') items=items.filter(x=>x.make===extraFilter);
-  if(activeTab==='plates'&&extraFilter!=='all') items=items.filter(x=>x.rarity===extraFilter);
-  const sorters={pct:(a,b)=>b.drop_pct-a.drop_pct,usd:(a,b)=>b.drop_usd-a.drop_usd,date:(a,b)=>b.last_drop_date.localeCompare(a.last_drop_date),price:(a,b)=>b.current_price-a.current_price};
-  items.sort(sorters[sortBy]||sorters.pct);
-  const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
-  if(!items.length){tbody.innerHTML='';empty.style.display='block';return}
-  empty.style.display='none';
+/* ── Table Headers ─────────────────────────────────── */
+function buildHeaders(){
+  const thead=document.getElementById('thead');
   if(activeTab==='re'){
-    tbody.innerHTML=items.map((d,i)=>{const isToday=d.last_drop_date===today;return`<tr style="animation-delay:${i*30}ms" onclick="window.open('${d.url}','_blank')"><td><div class="prop-name">${esc(d.title)}</div><div class="prop-sub">${esc(d.location||'')}${d.sqm?' \u00b7 '+d.sqm+'sqm':''}</div></td><td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td><td class="hide-m" style="font-size:12px;color:var(--tx3)">${esc((d.location||'').split(',')[0])}</td><td><div class="p-now">${fmtUSD(d.current_price)}</div></td><td><div class="p-was">${fmtUSD(d.original_price)}</div></td><td><span class="drop-chip ${dropClass(d.drop_pct)}">\u2193 ${d.drop_pct}%</span></td><td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td><td class="hide-m"><span class="date-cell ${isToday?'date-today':''}">${isToday?'today':d.last_drop_date}</span></td><td><a class="link-out" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">\u2197</a></td></tr>`}).join('');
-  }else if(activeTab==='cars'){
-    tbody.innerHTML=items.map((d,i)=>{const isToday=d.last_drop_date===today;const name=(d.make||'')+(d.model?' '+d.model:'');const sub=[d.location,d.transmission].filter(Boolean).join(' \u00b7 ');return`<tr style="animation-delay:${i*30}ms" onclick="window.open('${d.url}','_blank')"><td><div class="prop-name">${esc(name||d.title)}</div><div class="prop-sub">${esc(sub)}</div></td><td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td><td class="hide-m" style="font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--tx2)">${d.year||'\u2014'}</td><td class="hide-m" style="font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--tx3)">${fmtKM(d.mileage)}</td><td><div class="p-now">${fmtUSD(d.current_price)}</div></td><td><div class="p-was">${fmtUSD(d.original_price)}</div></td><td><span class="drop-chip ${dropClass(d.drop_pct)}">\u2193 ${d.drop_pct}%</span></td><td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td><td class="hide-m"><span class="date-cell ${isToday?'date-today':''}">${isToday?'today':d.last_drop_date}</span></td><td><a class="link-out" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">\u2197</a></td></tr>`}).join('');
+    thead.innerHTML='<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th></tr>';
   }else{
-    tbody.innerHTML=items.map((d,i)=>{const isToday=d.last_drop_date===today;return`<tr style="animation-delay:${i*30}ms" onclick="window.open('${d.url}','_blank')"><td><div class="plate-num">${esc(d.plate_number)}</div><div class="prop-sub">${esc(d.location||'')}</div></td><td><span class="tbadge t-${plateTypeClass(d.plate_type)}">${d.plate_type}</span></td><td><span class="rarity-badge rarity-${rarityClass(d.rarity)}">${d.rarity}</span></td><td><div class="p-now">${fmtUSD(d.current_price)}</div></td><td><div class="p-was">${fmtUSD(d.original_price)}</div></td><td><span class="drop-chip ${dropClass(d.drop_pct)}">\u2193 ${d.drop_pct}%</span></td><td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td><td class="hide-m"><span class="date-cell ${isToday?'date-today':''}">${isToday?'today':d.last_drop_date}</span></td><td><a class="link-out" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">\u2197</a></td></tr>`}).join('');
+    thead.innerHTML='<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th></tr>';
   }
 }
 
-// ── Tab Switch ──
-function switchTab(tab){
-  activeTab=tab;typeFilter='all';areaFilter='all';extraFilter='all';sortBy='pct';
-  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));
-  refresh();
+/* ── Filters ───────────────────────────────────────── */
+function buildFilters(){
+  const d=getData();
+  const field=activeTab==='re'?'type':'body_type';
+  const types=['all',...new Set(d.drops.map(x=>x[field]).filter(Boolean))];
+  document.getElementById('type-filters').innerHTML=types.map(t=>`<button class="fbtn${t===typeFilter?' on':''}" onclick="setType('${t}')">${t==='all'?'All':t}</button>`).join('');
 }
-function refresh(){renderStats();renderHeaders();renderFilters();render()}
 
-// ── Init ──
-refresh();
+function buildExtraFilter(){
+  const sel=document.getElementById('extra-filter');
+  if(activeTab==='cars'){
+    sel.style.display='';
+    const makes=[...new Set(getData().drops.map(x=>x.make).filter(Boolean))].sort();
+    sel.innerHTML='<option value="all">All Makes</option>'+makes.map(m=>`<option value="${esc(m)}">${esc(m)}</option>`).join('');
+    sel.value=extraFilter;
+    sel.onchange=e=>{extraFilter=e.target.value;render()};
+  }else{
+    sel.style.display='none';
+  }
+}
+
+function buildAreaFilter(){
+  const areas=[...new Set(getData().drops.map(x=>x.location).filter(Boolean))].sort();
+  const sel=document.getElementById('area-filter');
+  sel.innerHTML='<option value="all">All Areas</option>'+areas.map(a=>`<option value="${esc(a)}">${esc(a)}</option>`).join('');
+  sel.value=areaFilter;
+  sel.onchange=e=>{areaFilter=e.target.value;render()};
+}
+
+function setType(t){typeFilter=t;buildFilters();render()}
+function setSort(s){sortBy=s;document.querySelectorAll('.sbtn').forEach(b=>b.classList.toggle('on',b.dataset.sort===s));render()}
+
+/* ── Render Table ──────────────────────────────────── */
+function render(){
+  const d=getData();
+  let items=[...d.drops];
+  const typeField=activeTab==='re'?'type':'body_type';
+  if(typeFilter!=='all')items=items.filter(x=>x[typeField]===typeFilter);
+  if(areaFilter!=='all')items=items.filter(x=>x.location===areaFilter);
+  if(activeTab==='cars'&&extraFilter!=='all')items=items.filter(x=>x.make===extraFilter);
+
+  const sorters={pct:(a,b)=>b.drop_pct-a.drop_pct,usd:(a,b)=>b.drop_usd-a.drop_usd,date:(a,b)=>(b.last_drop_date||'').localeCompare(a.last_drop_date||''),price:(a,b)=>b.current_price-a.current_price};
+  items.sort(sorters[sortBy]||sorters.pct);
+
+  const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
+  if(!items.length){tbody.innerHTML='';empty.style.display='block';return}
+  empty.style.display='none';
+  const today=todayStr();
+
+  if(activeTab==='re'){
+    tbody.innerHTML=items.map((d,i)=>{
+      const isToday=d.last_drop_date===today;
+      const dc=d.drop_pct>=15?'drop-r':'drop-a';
+      return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}${d.sqm?' · '+d.sqm+'sqm':''}</div></td>
+        <td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td>
+        <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
+        <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
+        <td><div class="p-was">${fmtUSD(d.original_price)}</div></td>
+        <td><span class="drop ${dc}">↓ ${d.drop_pct}%</span></td>
+        <td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td>
+        <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'—'}</span></td>
+        <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">↗</a></td>
+      </tr>`}).join('');
+  }else{
+    tbody.innerHTML=items.map((d,i)=>{
+      const isToday=d.last_drop_date===today;
+      const dc=d.drop_pct>=15?'drop-r':'drop-a';
+      const makeModel=(d.make||'')+(d.model?' '+d.model:'');
+      const subtitle=[d.location,d.transmission].filter(Boolean).join(' · ');
+      return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        <td><div class="prop-name">${esc(makeModel||d.title)}</div><div class="prop-loc">${esc(subtitle)}</div></td>
+        <td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td>
+        <td class="hide-m" style="font:500 12px/1 'JetBrains Mono',monospace;color:var(--tx2)">${d.year||'—'}</td>
+        <td class="hide-m" style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
+        <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
+        <td><div class="p-was">${fmtUSD(d.original_price)}</div></td>
+        <td><span class="drop ${dc}">↓ ${d.drop_pct}%</span></td>
+        <td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td>
+        <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'—'}</span></td>
+        <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">↗</a></td>
+      </tr>`}).join('');
+  }
+}
+
+loadData();
 </script>
 </body>
 </html>
