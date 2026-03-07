@@ -47,7 +47,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-07",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5938,7 +5938,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-07",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -7030,7 +7030,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-07",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -27988,7 +27988,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-07",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -30588,7 +30588,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-07",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -43488,6 +43488,168 @@
     "price_history": [
       {
         "price": 110000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813626": {
+    "id": "116813626",
+    "title": "Mercedes-Benz CLK-Class 2004",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-clk-class-2004-ID116813626.html",
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2004,
+    "mileage": 225000,
+    "transmission": "Automatic",
+    "location": "Jdita, Zahle",
+    "district": "Zahle",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116634332": {
+    "id": "116634332",
+    "title": "Jeep Grand Cherokee 2019",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2019-ID116634332.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 77000,
+    "transmission": "Automatic",
+    "location": "Safra, Keserouan",
+    "district": "Keserouan",
+    "original_price": 23999,
+    "current_price": 23999,
+    "price_history": [
+      {
+        "price": 23999,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813616": {
+    "id": "116813616",
+    "title": "Land Rover Range Rover Sport HSE 2008 Look 2013",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-hse-2008-look-2013-ID116813616.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2008,
+    "mileage": 155000,
+    "transmission": "Steptronic",
+    "location": "Bhamdoun, Aley",
+    "district": "Aley",
+    "original_price": 8500,
+    "current_price": 8500,
+    "price_history": [
+      {
+        "price": 8500,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116650127": {
+    "id": "116650127",
+    "title": "ميتسوبيشي ميراج 2020",
+    "url": "https://www.olx.com.lb/ad/ميتسوبيشي-ميراج-2020-ID116650127.html",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "body_type": "Sedan",
+    "year": 2020,
+    "mileage": 70000,
+    "transmission": "Automatic",
+    "location": "Maalaqah, Zahle",
+    "district": "Zahle",
+    "original_price": 7900,
+    "current_price": 7900,
+    "price_history": [
+      {
+        "price": 7900,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116773983": {
+    "id": "116773983",
+    "title": "Toyota Prado 2019",
+    "url": "https://www.olx.com.lb/ad/toyota-prado-2019-ID116773983.html",
+    "make": "Toyota",
+    "model": "Prado",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Riyaq, Zahle",
+    "district": "Zahle",
+    "original_price": 43000,
+    "current_price": 43000,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116753454": {
+    "id": "116753454",
+    "title": "Mercedes-Benz E-Class 2014",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2014-ID116753454.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2014,
+    "mileage": 121787,
+    "transmission": "Automatic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 14300,
+    "current_price": 14300,
+    "price_history": [
+      {
+        "price": 14300,
         "date": "2026-03-01"
       }
     ],
