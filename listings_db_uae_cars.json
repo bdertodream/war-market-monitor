@@ -6422,5 +6422,27 @@
       }
     ],
     "date": "2026-03-08"
+  },
+  "16653250": {
+    "id": "16653250",
+    "title": "!! 2024 !! CADILLAC | ESCALADE | SPORT LIXURY | BLACK EDITION | GCC | Warranty + Service Contract",
+    "price": 375000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 100}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2025/11/28/2024-cadillac-escalade-sport-lixury-black--2-643---a2bccc0a305f45a7bfb395d475b1dbe8/",
+    "first_seen": "2026-03-08T22:23:14Z",
+    "prices": [
+      {
+        "price": 375000,
+        "date": "2026-03-08T22:23:14Z"
+      }
+    ],
+    "date": "2026-03-08"
   }
 }

@@ -25928,11 +25928,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116799641": {
     "id": "116799641",
@@ -25947,19 +25948,24 @@
     "location": "Bikfaya, Metn",
     "district": "Metn",
     "original_price": 19000,
-    "current_price": 19000,
+    "current_price": 18900,
     "price_history": [
       {
         "price": 19000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 18900,
+        "date": "2026-03-08"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "drop_usd": 100,
+    "drop_pct": 0.5,
+    "last_drop_date": "2026-03-08",
+    "posted_date": "2026-03-01"
   },
   "116787922": {
     "id": "116787922",
@@ -25982,11 +25988,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116777860": {
     "id": "116777860",
@@ -26036,11 +26043,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116726976": {
     "id": "116726976",
@@ -52190,6 +52198,174 @@
     "price_history": [
       {
         "price": 9000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814654": {
+    "id": "116814654",
+    "title": "Land Rover Range Rover Sport 2010",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2010-ID116814654.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2010,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Fanar, Metn",
+    "district": "Metn",
+    "original_price": 11800,
+    "current_price": 11800,
+    "price_history": [
+      {
+        "price": 11800,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814650": {
+    "id": "116814650",
+    "title": "Mercedes-Benz E-Class 2018",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2018-ID116814650.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2018,
+    "mileage": 92000,
+    "transmission": "Steptronic",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 1234,
+    "current_price": 1234,
+    "price_history": [
+      {
+        "price": 1234,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814647": {
+    "id": "116814647",
+    "title": "Kia Forte 2019",
+    "url": "https://www.olx.com.lb/ad/kia-forte-2019-ID116814647.html",
+    "make": "Kia",
+    "model": "Forte",
+    "body_type": "Sedan",
+    "year": 2019,
+    "mileage": 69000,
+    "transmission": "Automatic",
+    "location": "Dawhet el Hoss, Aley",
+    "district": "Aley",
+    "original_price": 14800,
+    "current_price": 14800,
+    "price_history": [
+      {
+        "price": 14800,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814645": {
+    "id": "116814645",
+    "title": "Land Rover Range Rover Sport 2018",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-ID116814645.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 100000,
+    "transmission": "Steptronic",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 39000,
+    "current_price": 39000,
+    "price_history": [
+      {
+        "price": 39000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814636": {
+    "id": "116814636",
+    "title": "Jeep Wrangler Sahara 2017 or trade",
+    "url": "https://www.olx.com.lb/ad/jeep-wrangler-sahara-2017-or-trade-ID116814636.html",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 85000,
+    "transmission": "Steptronic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 26500,
+    "current_price": 26500,
+    "price_history": [
+      {
+        "price": 26500,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814625": {
+    "id": "116814625",
+    "title": "Hyundai Elantra 2019",
+    "url": "https://www.olx.com.lb/ad/hyundai-elantra-2019-ID116814625.html",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "body_type": "Sedan",
+    "year": 2019,
+    "mileage": 70000,
+    "transmission": "Automatic",
+    "location": "Hamra, Beirut",
+    "district": "Beirut",
+    "original_price": 13400,
+    "current_price": 13400,
+    "price_history": [
+      {
+        "price": 13400,
         "date": "2026-03-08"
       }
     ],
