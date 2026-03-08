@@ -1512,11 +1512,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116796695": {
     "id": "116796695",
@@ -2660,11 +2661,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-06",
     "drop_usd": 1800,
     "drop_pct": 5.7,
-    "last_drop_date": "2026-03-05"
+    "last_drop_date": "2026-03-05",
+    "posted_date": "2026-03-01"
   },
   "116798572": {
     "id": "116798572",
@@ -32517,11 +32519,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116811608": {
     "id": "116811608",
@@ -35531,11 +35534,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116751248": {
     "id": "116751248",
@@ -46703,6 +46707,62 @@
     "price_history": [
       {
         "price": 3000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116092789": {
+    "id": "116092789",
+    "title": "Porsche Panamera 2011",
+    "url": "https://www.olx.com.lb/ad/porsche-panamera-2011-ID116092789.html",
+    "make": "Porsche",
+    "model": "Panamera",
+    "body_type": "Sedan",
+    "year": 2011,
+    "mileage": 72000,
+    "transmission": "Automatic",
+    "location": "Fanar, Metn",
+    "district": "Metn",
+    "original_price": 37000,
+    "current_price": 37000,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813944": {
+    "id": "116813944",
+    "title": "Grand Cherokee 2015",
+    "url": "https://www.olx.com.lb/ad/grand-cherokee-2015-ID116813944.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2015,
+    "mileage": 170000,
+    "transmission": "Steptronic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 14500,
+    "current_price": 14500,
+    "price_history": [
+      {
+        "price": 14500,
         "date": "2026-03-08"
       }
     ],

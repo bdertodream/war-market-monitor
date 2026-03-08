@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T01:21:43.711009",
-  "total_tracked": 1685,
+  "generated_at": "2026-03-08T03:22:21.990614",
+  "total_tracked": 1687,
   "total_drops": 37,
-  "total_new": 1685,
+  "total_new": 1687,
   "avg_drop_pct": 5.8,
   "biggest_drop_usd": 5000,
   "drops": [
@@ -400,7 +400,7 @@
       "drop_pct": 5.7,
       "last_drop_date": "2026-03-05",
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 31600,
@@ -1279,6 +1279,50 @@
       "price_history": [
         {
           "price": 3000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116092789",
+      "title": "Porsche Panamera 2011",
+      "url": "https://www.olx.com.lb/ad/porsche-panamera-2011-ID116092789.html",
+      "make": "Porsche",
+      "model": "Panamera",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 72000,
+      "transmission": "Automatic",
+      "location": "Fanar, Metn",
+      "original_price": 37000,
+      "current_price": 37000,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 37000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116813944",
+      "title": "Grand Cherokee 2015",
+      "url": "https://www.olx.com.lb/ad/grand-cherokee-2015-ID116813944.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 170000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 14500,
           "date": "2026-03-08"
         }
       ]
@@ -2545,7 +2589,7 @@
       "original_price": 26500,
       "current_price": 26500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 26500,
@@ -3455,7 +3499,7 @@
       "original_price": 31600,
       "current_price": 30400,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 31600,
@@ -27417,7 +27461,7 @@
       "original_price": 19500,
       "current_price": 19500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 19500,
@@ -29795,7 +29839,7 @@
       "original_price": 42000,
       "current_price": 42000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 42000,
