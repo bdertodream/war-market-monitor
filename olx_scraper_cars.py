@@ -306,7 +306,7 @@ def generate_drops_feed(db):
                 "price_history": listing["price_history"],
             })
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    new_listings.sort(key=lambda x: x.get("posted_date", x["first_seen"]), reverse=True)
+    new_listings.sort(key=lambda x: x.get("posted_date") or x.get("first_seen", ""), reverse=True)
 
     return {
         "generated_at": datetime.now().isoformat(),
