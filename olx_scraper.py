@@ -266,7 +266,7 @@ def update_database(db, new_listings):
             existing["last_seen"] = today
             # Backfill posted_date if missing
             if "posted_date" not in existing:
-                existing["posted_date"] = listing.get("posted_date") || existing["first_seen"]
+                existing["posted_date"] = listing.get("posted_date") or existing["first_seen"]
         else:
             db[lid] = {
                 "id": lid,
