@@ -47012,5 +47012,145 @@
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
+  },
+  "116813981": {
+    "id": "116813981",
+    "title": "RENAULT DUSTER 2.0-4WD-2021-SPECIAL EDITION-45000KM-ONE OWNER",
+    "url": "https://www.olx.com.lb/ad/renault-duster-20-4wd-2021-special-edition-45000km-one-owner-ID116813981.html",
+    "make": "Renault",
+    "model": "Duster",
+    "body_type": "SUV",
+    "year": 2021,
+    "mileage": 45000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 15600,
+    "current_price": 15600,
+    "price_history": [
+      {
+        "price": 15600,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116774292": {
+    "id": "116774292",
+    "title": "Mercedes-Benz GLA-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2017-ID116774292.html",
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 135000,
+    "transmission": "Automatic",
+    "location": "msayleh, Saida",
+    "district": "Saida",
+    "original_price": 16500,
+    "current_price": 16500,
+    "price_history": [
+      {
+        "price": 16500,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813978": {
+    "id": "116813978",
+    "title": "شيفروليه كمارو 2012",
+    "url": "https://www.olx.com.lb/ad/شيفروليه-كمارو-2012-ID116813978.html",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "body_type": "Sports / Coupe",
+    "year": 2012,
+    "mileage": 123000,
+    "transmission": "Automatic",
+    "location": "Halba, Akkar",
+    "district": "Akkar",
+    "original_price": 9000,
+    "current_price": 9000,
+    "price_history": [
+      {
+        "price": 9000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813975": {
+    "id": "116813975",
+    "title": "Jeep Grand Cherokee 2018",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116813975.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 18000,
+    "current_price": 18000,
+    "price_history": [
+      {
+        "price": 18000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116730430": {
+    "id": "116730430",
+    "title": "Maserati Levante 2017 - Excluding Jomrok (approx. $10K)",
+    "url": "https://www.olx.com.lb/ad/maserati-levante-2017-excluding-jomrok-approx-10k-ID116730430.html",
+    "make": "Maserati",
+    "model": "Levante",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 125000,
+    "transmission": "Automatic",
+    "location": "Kaslik, Keserouan",
+    "district": "Keserouan",
+    "original_price": 29000,
+    "current_price": 29000,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
   }
 }

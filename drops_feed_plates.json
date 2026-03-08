@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T06:40:02.560086",
-  "total_tracked": 207,
+  "generated_at": "2026-03-08T07:33:27.507199",
+  "total_tracked": 208,
   "total_drops": 1,
-  "total_new": 207,
+  "total_new": 208,
   "avg_drop_pct": 2.9,
   "biggest_drop_usd": 100,
   "drops": [
@@ -47,6 +47,24 @@
       "price_history": [
         {
           "price": 17000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116813969",
+      "title": "Special 7s",
+      "url": "https://www.olx.com.lb/ad/special-7s-ID116813969.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-03-08"
         }
       ]
