@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T22:22:30.830100",
-  "total_tracked": 1883,
+  "generated_at": "2026-03-08T23:22:50.259713",
+  "total_tracked": 1885,
   "total_drops": 51,
-  "total_new": 1883,
+  "total_new": 1885,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 425700,
   "drops": [
@@ -6077,6 +6077,50 @@
       "price_history": [
         {
           "price": 13400,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116814678",
+      "title": "Hyundai Tucson 2011",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2011-ID116814678.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 162000,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 10800,
+      "current_price": 10800,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 10800,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116814658",
+      "title": "Chery Tiggo 2007",
+      "url": "https://www.olx.com.lb/ad/chery-tiggo-2007-ID116814658.html",
+      "make": "Chery",
+      "model": "Tiggo",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 42500,
+      "transmission": "Manual",
+      "location": "Ksara, Zahle",
+      "original_price": 2700,
+      "current_price": 2700,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 2700,
           "date": "2026-03-08"
         }
       ]
