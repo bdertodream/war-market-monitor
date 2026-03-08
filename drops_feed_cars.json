@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T12:36:07.780999",
-  "total_tracked": 1761,
+  "generated_at": "2026-03-08T13:03:42.103080",
+  "total_tracked": 1762,
   "total_drops": 42,
-  "total_new": 1761,
+  "total_new": 1762,
   "avg_drop_pct": 9.4,
   "biggest_drop_usd": 425700,
   "drops": [
@@ -3116,6 +3116,28 @@
       "price_history": [
         {
           "price": 14500,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116711494",
+      "title": "Nissan Rogue 2017",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-ID116711494.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "Estate",
+      "year": 2017,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Aley Town, Aley",
+      "original_price": 15900,
+      "current_price": 15900,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 15900,
           "date": "2026-03-08"
         }
       ]
