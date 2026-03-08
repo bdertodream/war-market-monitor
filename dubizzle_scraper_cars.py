@@ -1,424 +1,309 @@
+#!/usr/bin/env python3
 """
-Dubizzle UAE Car Scraper
-=========================
-Scrapes car listings from Dubizzle UAE.
-Tracks price history and detects price drops.
-
-Usage:
-    pip install requests
-    python dubizzle_scraper_cars.py
-
-Output:
-  - listings_db_uae_cars.json       → full database of all car listings + price history
-  - drops_feed_uae_cars.json        → current active price drops (for the dashboard)
+Dubizzle Dubai Car Scraper
+Scrapes used and new car listings from dubai.dubizzle.com
 """
 
-import requests
 import json
 import os
+import re
 import time
-import random
-from datetime import datetime
+import urllib.request
+import urllib.error
+from datetime import datetime, timezone
 
-WAR_START = "2026-03-01"
-BASE_URL = "https://www.dubizzle.com"
+BASE_URL = "https://dubai.dubizzle.com"
 CATEGORY_URLS = [
     "/motors/used-cars/",
+    "/motors/new-cars/",
 ]
-MAX_PAGES_PER_CATEGORY = 25
+MAX_PAGES = 5
 DB_FILE = "listings_db_uae_cars.json"
-DROPS_FILE = "drops_feed_uae_cars.json"
+FEED_FILE = "drops_feed_uae_cars.json"
+WAR_START = "2026-03-01"
+DROP_THRESHOLD = 0.05
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/124.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9,ar;q=0.8",
 }
 
-MIN_DELAY = 2
-MAX_DELAY = 4
+
+def fetch_page(url):
+    """Fetch a page with retries."""
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except Exception as e:
+            print(f"  Attempt {attempt+1} failed: {e}")
+            if attempt < 2:
+                time.sleep(2)
+    return None
+
+
+def extract_hits(html):
+    """Extract listing hits from __NEXT_DATA__ Redux SSR actions."""
+    marker = '<script id="__NEXT_DATA__" type="application/json">'
+    idx = html.find(marker)
+    if idx != -1:
+        start = idx + len(marker)
+        end = html.find("</script>", start)
+        if end != -1:
+            try:
+                next_data = json.loads(html[start:end])
+                actions = (
+                    next_data.get("props", {})
+                    .get("pageProps", {})
+                    .get("reduxWrapperActionsGIPP", [])
+                )
+                for action in actions:
+                    if action.get("type") == "listings/fetchListingDataForQuery/fulfilled":
+                        payload = action.get("payload", {})
+                        hits = payload.get("hits", [])
+                        pagination = payload.get("pagination", {})
+                        total_pages = pagination.get("totalPages", 0)
+                        return hits, total_pages
+            except (json.JSONDecodeError, ValueError) as e:
+                print(f"  JSON parse error: {e}")
+    # Fallback: try window.state
+    pattern = r'window\.state\s*=\s*(\{.*?\});\s*</script>'
+    m = re.search(pattern, html, re.DOTALL)
+    if m:
+        try:
+            state = json.loads(m.group(1))
+            results = state.get("searchResult", state.get("listings", {}))
+            hits = results.get("hits", results.get("listings", []))
+            total_pages = results.get("totalPages", results.get("nbPages", 0))
+            return hits, total_pages
+        except (json.JSONDecodeError, ValueError):
+            pass
+    return [], 0
+
+
+def get_info_field(hit, field_id):
+    """Extract a field value from car_info or motor_info lists."""
+    for info_list_key in ["car_info", "motor_info", "details"]:
+        info_list = hit.get(info_list_key, [])
+        if isinstance(info_list, list):
+            for item in info_list:
+                if isinstance(item, dict) and item.get("id") == field_id:
+                    val = item.get("value", {})
+                    if isinstance(val, dict):
+                        return val.get("en", val.get("label", str(val)))
+                    return str(val)
+    return ""
+
+
+def parse_hit(hit):
+    """Parse a single car listing hit into a standardized dict."""
+    try:
+        name = hit.get("name", {})
+        title = name.get("en", name) if isinstance(name, dict) else str(name)
+        price = hit.get("price")
+        if price is None:
+            return None
+        try:
+            price = int(float(price))
+        except (ValueError, TypeError):
+            return None
+        if price <= 0:
+            return None
+
+        # Location
+        city = hit.get("city", {})
+        city_name = city.get("name", {}).get("en", "Dubai") if isinstance(city, dict) else "Dubai"
+        neighborhoods = hit.get("neighborhoods", {})
+        area_names = neighborhoods.get("name", {}).get("en", []) if isinstance(neighborhoods, dict) else []
+        area = area_names[0] if isinstance(area_names, list) and area_names else ""
+
+        # URL
+        abs_url = hit.get("absolute_url", {})
+        url = abs_url.get("en", "") if isinstance(abs_url, dict) else str(abs_url)
+        if url and not url.startswith("http"):
+            url = BASE_URL + url
+
+        # Category
+        cats = hit.get("categories", {})
+        cat_names = cats.get("name", {}).get("en", []) if isinstance(cats, dict) else []
+        category = cat_names[0] if isinstance(cat_names, list) and cat_names else "Car"
+
+        # Date
+        added = hit.get("added")
+        if added and isinstance(added, (int, float)) and added > 1000000000:
+            date_str = datetime.fromtimestamp(added, tz=timezone.utc).strftime("%Y-%m-%d")
+        else:
+            date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+        # Car-specific fields
+        year = get_info_field(hit, "year") or hit.get("year", "")
+        make = get_info_field(hit, "make") or hit.get("make", "")
+        model = get_info_field(hit, "model") or hit.get("model", "")
+        mileage = get_info_field(hit, "kilometers") or get_info_field(hit, "mileage") or hit.get("mileage", "")
+        body_type = get_info_field(hit, "body_type") or ""
+        transmission = get_info_field(hit, "transmission") or ""
+
+        listing_id = str(hit.get("id", hit.get("external_id", "")))
+        if not listing_id:
+            listing_id = url.split("/")[-2] if url else str(hash(title))
+
+        return {
+            "id": listing_id,
+            "title": title,
+            "price": price,
+            "year": str(year),
+            "make": str(make),
+            "model": str(model),
+            "mileage": str(mileage),
+            "body_type": str(body_type),
+            "transmission": str(transmission),
+            "area": area,
+            "city": city_name,
+            "category": category,
+            "url": url,
+            "date": date_str,
+        }
+    except Exception as e:
+        print(f"  Parse error: {e}")
+        return None
+
+
+def scrape_all():
+    """Scrape all car category pages."""
+    all_listings = []
+    for cat_url in CATEGORY_URLS:
+        print(f"\nScraping category: {cat_url}")
+        page = 0
+        while page < MAX_PAGES:
+            url = f"{BASE_URL}{cat_url}" if page == 0 else f"{BASE_URL}{cat_url}?page={page}"
+            print(f"  Page {page}: {url}")
+            html = fetch_page(url)
+            if not html:
+                print(f"  Failed to fetch page {page}")
+                break
+            hits, total_pages = extract_hits(html)
+            print(f"  Found {len(hits)} hits, totalPages={total_pages}")
+            if not hits:
+                break
+            for hit in hits:
+                listing = parse_hit(hit)
+                if listing:
+                    all_listings.append(listing)
+            page += 1
+            if page >= total_pages:
+                break
+            time.sleep(1)
+    print(f"\nTotal car listings scraped: {len(all_listings)}")
+    return all_listings
+
 
 def load_db():
     if os.path.exists(DB_FILE):
-        with open(DB_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(DB_FILE, "r") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, ValueError):
+            pass
     return {}
 
+
 def save_db(db):
-    with open(DB_FILE, "w", encoding="utf-8") as f:
-        json.dump(db, f, ensure_ascii=False, indent=2)
+    with open(DB_FILE, "w") as f:
+        json.dump(db, f, indent=2)
 
-def save_drops(drops):
-    with open(DROPS_FILE, "w", encoding="utf-8") as f:
-        json.dump(drops, f, ensure_ascii=False, indent=2)
 
-def fetch_page(url):
-    time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        return resp.text
-    except requests.RequestException as e:
-        print(f"  ✗ Failed to fetch {url}: {e}")
-        return None
-
-def extract_hits(html):
-    """Extract listing data from Dubizzle page using multiple patterns."""
-    # Pattern 1: window.state (OLX/Dubizzle shared platform)
-    marker = "window.state = "
-    idx = html.find(marker)
-    if idx != -1:
-        start = html.index("{", idx)
-        decoder = json.JSONDecoder()
+def load_feed():
+    if os.path.exists(FEED_FILE):
         try:
-            state, _ = decoder.raw_decode(html, start)
-            algolia = state.get("algolia", {})
-            content = algolia.get("content")
-            if content:
-                return content.get("hits", []), content.get("nbPages", 0)
+            with open(FEED_FILE, "r") as f:
+                return json.load(f)
         except (json.JSONDecodeError, ValueError):
             pass
+    return {"meta": {"war_start": WAR_START, "threshold": DROP_THRESHOLD}, "tracked": 0, "drops": []}
 
-    # Pattern 2: __NEXT_DATA__
-    marker2 = '__NEXT_DATA__" type="application/json">'
-    idx2 = html.find(marker2)
-    if idx2 != -1:
-        start2 = idx2 + len(marker2)
-        end2 = html.find("</script>", start2)
-        if end2 != -1:
-            try:
-                next_data = json.loads(html[start2:end2])
-                props = next_data.get("props", {}).get("pageProps", {})
-                search = props.get("searchResult", props.get("listings", {}))
-                if isinstance(search, dict):
-                    hits = search.get("hits", search.get("results", search.get("listings", [])))
-                    pages = search.get("nbPages", search.get("totalPages", 0))
-                    return hits, pages
-            except (json.JSONDecodeError, ValueError):
-                pass
 
-    # Pattern 3: __PRELOADED_STATE__
-    marker3 = "window.__PRELOADED_STATE__ = "
-    idx3 = html.find(marker3)
-    if idx3 != -1:
-        start3 = html.index("{", idx3)
-        decoder = json.JSONDecoder()
-        try:
-            state, _ = decoder.raw_decode(html, start3)
-            listings = state.get("listings", state.get("search", {}))
-            if isinstance(listings, dict):
-                hits = listings.get("items", listings.get("hits", []))
-                pages = listings.get("totalPages", listings.get("nbPages", 0))
-                return hits, pages
-        except (json.JSONDecodeError, ValueError):
-            pass
+def save_feed(feed):
+    with open(FEED_FILE, "w") as f:
+        json.dump(feed, f, indent=2)
 
-    return [], 0
-
-def get_formatted_field(hit, attribute):
-    for f in hit.get("formattedExtraFields", []):
-        if f.get("attribute") == attribute:
-            return f.get("formattedValue", "")
-    return hit.get(attribute, "")
-
-def get_extra_field(hit, key, default=None):
-    extra = hit.get("extraFields") or {}
-    val = extra.get(key)
-    if val is not None:
-        return val
-    return hit.get(key, default)
-
-def parse_date(date_str):
-    """
-    Parse ISO format date with T and Z.
-    Returns YYYY-MM-DD string or None.
-    Handles formats like: 2026-03-08T14:30:00Z or 2026-03-08
-    """
-    if not date_str:
-        return None
-    try:
-        # Try parsing ISO format with Z
-        if isinstance(date_str, str):
-            # Remove Z suffix if present
-            clean_str = date_str.rstrip('Z')
-            # Split on T to get date part
-            date_part = clean_str.split('T')[0]
-            # Validate format YYYY-MM-DD
-            if len(date_part) == 10 and date_part[4] == '-' and date_part[7] == '-':
-                return date_part
-        return None
-    except Exception:
-        return None
-
-def parse_hit(hit):
-    price = get_extra_field(hit, "price")
-    if not price or price < 2000:
-        return None
-
-    ext_id = str(hit.get("externalID", hit.get("id", "")))
-    slug = hit.get("slug", "")
-    title = hit.get("title", "Unknown")
-
-    make = get_formatted_field(hit, "make") or "Unknown"
-    model = get_formatted_field(hit, "model") or ""
-    body_type = get_formatted_field(hit, "body_type") or "Other"
-    transmission = get_formatted_field(hit, "transmission") or ""
-    year = get_extra_field(hit, "year")
-    mileage = get_extra_field(hit, "mileage")
-
-    locations = hit.get("location", [])
-    loc_parts = []
-    district = ""
-    if isinstance(locations, list):
-        for loc in locations:
-            level = loc.get("level", -1)
-            name = loc.get("name", "")
-            if level == 1:
-                district = name
-                loc_parts.append(name)
-            elif level == 2:
-                loc_parts.insert(0, name)
-    elif isinstance(locations, str):
-        loc_parts = [locations]
-        district = locations
-    location_str = ", ".join(loc_parts) if loc_parts else "UAE"
-
-    url = f"{BASE_URL}/ad/{slug}-ID{ext_id}.html" if slug else ""
-    if not url and ext_id:
-        url = f"{BASE_URL}/ad/ID{ext_id}.html"
-
-    # Extract posted_date from hit
-    posted_date_str = (
-        parse_date(hit.get("createdAt")) or
-        parse_date(hit.get("created_at")) or
-        parse_date(hit.get("publishedAt"))
-    )
-
-    return {
-        "id": ext_id,
-        "title": title,
-        "url": url,
-        "make": make,
-        "model": model,
-        "body_type": body_type,
-        "year": year,
-        "mileage": mileage,
-        "transmission": transmission,
-        "location": location_str,
-        "district": district,
-        "price_usd": price,  # Actually AED
-        "posted_date": posted_date_str,
-    }
-
-def scrape_category(cat_path):
-    listings = []
-    url = BASE_URL + cat_path
-    print(f"  Fetching page 1: {url}")
-    html = fetch_page(url)
-    if not html:
-        return listings
-
-    hits, nb_pages = extract_hits(html)
-    if not hits:
-        print("  → No hits found on page 1, stopping.")
-        return listings
-
-    max_page = min(nb_pages, MAX_PAGES_PER_CATEGORY)
-    print(f"  → Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
-
-    for hit in hits:
-        parsed = parse_hit(hit)
-        if parsed:
-            listings.append(parsed)
-
-    for page in range(2, max_page + 1):
-        page_url = f"{url}?page={page}"
-        print(f"  Fetching page {page}: {page_url}")
-        html = fetch_page(page_url)
-        if not html:
-            break
-        hits, _ = extract_hits(html)
-        if not hits:
-            print(f"  → No hits on page {page}, stopping.")
-            break
-        for hit in hits:
-            parsed = parse_hit(hit)
-            if parsed:
-                listings.append(parsed)
-        print(f"  → {len(listings)} valid listings so far")
-
-    return listings
-
-def update_database(db, new_listings):
-    today = datetime.now().strftime("%Y-%m-%d")
-    new_count = 0
-    updated = 0
-    drops = 0
-
-    for listing in new_listings:
-        lid = listing["id"]
-        if lid in db:
-            existing = db[lid]
-            old_price = existing["current_price"]
-            new_price = listing["price_usd"]
-            if new_price and old_price and new_price != old_price:
-                existing["price_history"].append({"price": new_price, "date": today})
-                existing["current_price"] = new_price
-                existing["last_updated"] = today
-                if new_price < old_price:
-                    existing["drop_usd"] = existing["original_price"] - new_price
-                    existing["drop_pct"] = round(
-                        (existing["original_price"] - new_price) / existing["original_price"] * 100, 1
-                    )
-                    existing["last_drop_date"] = today
-                    drops += 1
-                updated += 1
-            existing["title"] = listing["title"]
-            existing["url"] = listing["url"]
-            existing["last_seen"] = today
-            # Backfill posted_date if not present
-            if "posted_date" not in existing:
-                existing["posted_date"] = listing.get("posted_date") or existing["first_seen"]
-        else:
-            db[lid] = {
-                "id": lid,
-                "title": listing["title"],
-                "url": listing["url"],
-                "make": listing["make"],
-                "model": listing["model"],
-                "body_type": listing["body_type"],
-                "year": listing.get("year"),
-                "mileage": listing.get("mileage"),
-                "transmission": listing.get("transmission"),
-                "location": listing["location"],
-                "district": listing.get("district", ""),
-                "original_price": listing["price_usd"],
-                "current_price": listing["price_usd"],
-                "price_history": [{"price": listing["price_usd"], "date": today}],
-                "first_seen": today,
-                "last_seen": today,
-                "last_updated": today,
-                "drop_usd": 0,
-                "drop_pct": 0,
-                "last_drop_date": None,
-                "posted_date": listing.get("posted_date") or today,
-            }
-            new_count += 1
-
-    return new_count, updated, drops
-
-def generate_drops_feed(db):
-    drops = []
-    new_listings = []
-    for lid, listing in db.items():
-        post_date = listing.get("posted_date") or listing.get("first_seen", WAR_START)
-        if listing["drop_usd"] > 0:
-            drops.append({
-                "id": listing["id"],
-                "title": listing["title"],
-                "url": listing["url"],
-                "make": listing["make"],
-                "model": listing["model"],
-                "body_type": listing["body_type"],
-                "year": listing.get("year"),
-                "mileage": listing.get("mileage"),
-                "transmission": listing.get("transmission"),
-                "location": listing["location"],
-                "original_price": listing["original_price"],
-                "current_price": listing["current_price"],
-                "drop_usd": listing["drop_usd"],
-                "drop_pct": listing["drop_pct"],
-                "last_drop_date": listing["last_drop_date"],
-                "first_seen": listing["first_seen"],
-                "posted_date": post_date,
-                "price_history": listing["price_history"],
-            })
-        if post_date >= WAR_START:
-            new_listings.append({
-                "id": listing["id"],
-                "title": listing["title"],
-                "url": listing["url"],
-                "make": listing["make"],
-                "model": listing["model"],
-                "body_type": listing["body_type"],
-                "year": listing.get("year"),
-                "mileage": listing.get("mileage"),
-                "transmission": listing.get("transmission"),
-                "location": listing["location"],
-                "original_price": listing["original_price"],
-                "current_price": listing["current_price"],
-                "first_seen": listing["first_seen"],
-                "posted_date": post_date,
-                "price_history": listing["price_history"],
-            })
-    drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    new_listings.sort(key=lambda x: x["posted_date"], reverse=True)
-
-    return {
-        "generated_at": datetime.now().isoformat(),
-        "total_tracked": len(db),
-        "total_drops": len(drops),
-        "total_new": len(new_listings),
-        "avg_drop_pct": round(sum(d["drop_pct"] for d in drops) / len(drops), 1) if drops else 0,
-        "biggest_drop_usd": max((d["drop_usd"] for d in drops), default=0),
-        "drops": drops,
-        "new_listings": new_listings,
-    }
 
 def main():
     print("=" * 60)
-    print("  Dubizzle UAE Car Scraper")
-    print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("Dubizzle Dubai Car Scraper")
     print("=" * 60)
+    listings = scrape_all()
+    if not listings:
+        print("No listings found. Exiting.")
+        return
 
     db = load_db()
-    print(f"\n📦 Loaded database: {len(db)} existing listings\n")
+    feed = load_feed()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    new_count = 0
+    drop_count = 0
 
-    all_listings = []
-    for cat_url in CATEGORY_URLS:
-        print(f"\n🔍 Scraping: {cat_url}")
-        listings = scrape_category(cat_url)
-        all_listings.extend(listings)
-        print(f"  ✓ Got {len(listings)} listings from this category")
+    for listing in listings:
+        lid = listing["id"]
+        price = listing["price"]
 
-    print(f"\n📊 Total scraped: {len(all_listings)} listings")
-    seen = set()
-    unique = []
-    for item in all_listings:
-        if item["id"] not in seen:
-            seen.add(item["id"])
-            unique.append(item)
-    print(f"📊 Unique listings: {len(unique)}")
+        if lid in db:
+            prev = db[lid]
+            prev_price = prev.get("price", price)
+            if price < prev_price:
+                drop_pct = (prev_price - price) / prev_price
+                if drop_pct >= DROP_THRESHOLD:
+                    drop_entry = {
+                        "id": lid,
+                        "title": listing["title"],
+                        "old_price": prev_price,
+                        "new_price": price,
+                        "drop_pct": round(drop_pct * 100, 1),
+                        "url": listing["url"],
+                        "area": listing["area"],
+                        "category": listing["category"],
+                        "year": listing.get("year", ""),
+                        "make": listing.get("make", ""),
+                        "model": listing.get("model", ""),
+                        "date": today,
+                        "first_seen": prev.get("first_seen", today),
+                    }
+                    feed["drops"].append(drop_entry)
+                    drop_count += 1
+            db[lid]["price"] = price
+            db[lid]["last_seen"] = today
+            db[lid]["title"] = listing["title"]
+        else:
+            db[lid] = {
+                "title": listing["title"],
+                "price": price,
+                "year": listing.get("year", ""),
+                "make": listing.get("make", ""),
+                "model": listing.get("model", ""),
+                "area": listing["area"],
+                "city": listing["city"],
+                "category": listing["category"],
+                "url": listing["url"],
+                "first_seen": today,
+                "last_seen": today,
+            }
+            new_count += 1
 
-    new_count, updated, drops = update_database(db, unique)
-    print(f"\n✅ Results:")
-    print(f"  New listings: {new_count}")
-    print(f"  Price changes: {updated}")
-    print(f"  Price drops: {drops}")
+    feed["tracked"] = len(db)
+    feed["last_updated"] = today
+
+    # Keep only last 500 drops
+    feed["drops"] = feed["drops"][-500:]
 
     save_db(db)
-    print(f"\n💾 Saved database: {len(db)} total listings → {DB_FILE}")
+    save_feed(feed)
 
-    feed = generate_drops_feed(db)
-    save_drops(feed)
-    print(f"📡 Generated drops feed: {feed['total_drops']} drops → {DROPS_FILE}")
+    print(f"\nResults:")
+    print(f"  New listings: {new_count}")
+    print(f"  Price drops: {drop_count}")
+    print(f"  Total tracked: {len(db)}")
 
-    today = datetime.now()
-    stale = 0
-    for lid, listing in db.items():
-        last_seen = datetime.strptime(listing["last_seen"], "%Y-%m-%d")
-        if (today - last_seen).days > 7:
-            listing["stale"] = True
-            stale += 1
-    if stale:
-        print(f"⚠️ {stale} listings not seen in 7+ days (possibly sold/removed)")
-        save_db(db)
-
-    print(f"\n{'=' * 60}")
-    print("  Done! Dashboard data ready.")
-    print(f"{'=' * 60}\n")
 
 if __name__ == "__main__":
     main()
