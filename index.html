@@ -7,16 +7,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-<html lang="en" data-theme="dark">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>War Market Monitor â Price Drop Tracker</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
 
-/* ââ Theme Variables âââââââââââââââââââââââââââââââ */
+/* ── Theme Variables ─────────────────────────────── */
 :root{--blur:24px;--glass:rgba(255,255,255,.04);--glass-border:rgba(255,255,255,.08);--glass-hover:rgba(255,255,255,.08);--radius:20px}
 [data-theme="dark"]{
   --bg:#030306;--bg2:#08080e;
@@ -50,7 +42,7 @@
 
 body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .4s,color .4s}
 
-/* ââ Liquid Background ââââââââââââââââââââââââââââ */
+/* ── Liquid Background ──────────────────────────── */
 .liquid-bg{position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:0}
 .liquid-orb{position:absolute;border-radius:50%;filter:blur(100px);opacity:.8;transition:all 1.5s cubic-bezier(.4,0,.2,1)}
 .orb-1{width:700px;height:700px;background:var(--liquid1);top:-250px;left:-200px;animation:morph 18s ease-in-out infinite}
@@ -58,7 +50,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-hei
 .orb-3{width:450px;height:450px;background:var(--liquid3);top:30%;left:45%;animation:morph 20s ease-in-out infinite 3s}
 @keyframes morph{0%,100%{border-radius:40% 60% 70% 30%/40% 50% 60% 50%;transform:translate(0,0) rotate(0deg)}25%{border-radius:70% 30% 50% 50%/30% 30% 70% 70%;transform:translate(20px,-30px) rotate(5deg)}50%{border-radius:50% 60% 30% 60%/60% 40% 70% 40%;transform:translate(-10px,20px) rotate(-3deg)}75%{border-radius:60% 40% 60% 40%/50% 60% 30% 60%;transform:translate(15px,10px) rotate(2deg)}}
 
-/* ââ Floating Illustration ââââââââââââââââââââââââ */
+/* ── Floating Illustration ──────────────────────── */
 .hero-illust{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:100%;max-width:1360px;height:380px;pointer-events:none;z-index:0;overflow:visible}
 .illust-layer{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;transform:scale(.92) translateY(10px);transition:opacity .7s cubic-bezier(.4,0,.2,1),transform .7s cubic-bezier(.4,0,.2,1);pointer-events:none}
 .illust-layer.active{opacity:1;transform:scale(1) translateY(0)}
@@ -67,14 +59,14 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-hei
 
 .wrap{max-width:1360px;margin:0 auto;padding:0 24px;position:relative;z-index:2}
 
-/* ââ Country Toggle ââââââââââââââââââââââââââââââââ */
+/* ── Country Toggle ──────────────────────────────── */
 .country-toggle{display:flex;gap:0;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:12px;width:fit-content;cursor:pointer;position:relative}
 .country-opt{padding:8px 16px;font:600 11px/1 'JetBrains Mono',monospace;color:var(--tx3);border:0;background:0;border-radius:9px;cursor:pointer;transition:all .3s;letter-spacing:.3px;display:flex;align-items:center;gap:6px;white-space:nowrap}
 .country-opt:hover{color:var(--tx2)}
 .country-opt.on{background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent-br);box-shadow:0 0 20px rgba(255,77,106,.08)}
 .country-opt .flag{font-size:14px;line-height:1}
 
-/* ââ Header ââââââââââââââââââââââââââââââââââââââââ */
+/* ── Header ──────────────────────────────────────── */
 .header-zone{position:relative;padding:32px 0 0;min-height:180px}
 header{position:relative;z-index:3;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
 .logo{font-family:'JetBrains Mono',monospace;font-size:20px;font-weight:700;display:flex;align-items:center;gap:10px}
@@ -92,7 +84,7 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .theme-btn:hover{background:var(--glass-hover);color:var(--tx)}
 .theme-btn svg{width:16px;height:16px}
 
-/* ââ Tabs âââââââââââââââââââââââââââââââââââââââââââ */
+/* ── Tabs ─────────────────────────────────────────── */
 .tabs{display:flex;gap:2px;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:14px;margin:24px 0 20px;width:fit-content;position:relative;z-index:3}
 .tab{padding:10px 20px;font:600 12px/1 'JetBrains Mono',monospace;color:var(--tx3);background:0;border:0;border-radius:11px;cursor:pointer;transition:all .25s;letter-spacing:.3px;display:flex;align-items:center;gap:7px}
 .tab svg{width:14px;height:14px;opacity:.7;transition:opacity .2s}
@@ -101,7 +93,7 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .tab.on{background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent-br)}
 .tab.on svg{opacity:1}
 
-/* ââ Stats ââââââââââââââââââââââââââââââââââââââââââ */
+/* ── Stats ────────────────────────────────────────── */
 .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:20px}
 .stat{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);padding:20px;display:flex;flex-direction:column;gap:8px;transition:all .25s;position:relative;overflow:hidden}
 .stat::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.03),transparent);pointer-events:none;border-radius:var(--radius)}
@@ -112,7 +104,7 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .stat-v{font:800 26px/1 'JetBrains Mono',monospace}
 .stat-v.r{color:var(--accent)}.stat-v.g{color:var(--grn)}.stat-v.a{color:var(--amb)}.stat-v.b{color:var(--blu)}
 
-/* ââ View Toggle (Drops / New Listings) ââââââââââââ */
+/* ── View Toggle (Drops / New Listings) ──────────── */
 .view-toggle{display:flex;gap:0;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:10px;width:fit-content;margin-bottom:16px}
 .view-opt{padding:8px 16px;font:600 11px/1 'JetBrains Mono',monospace;color:var(--tx3);border:0;background:0;border-radius:8px;cursor:pointer;transition:all .25s;letter-spacing:.3px;display:flex;align-items:center;gap:6px}
 .view-opt:hover{color:var(--tx2)}
@@ -121,7 +113,7 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .view-opt.on svg{opacity:1}
 .new-badge{display:inline-block;padding:2px 6px;border-radius:4px;font:700 9px/1 'JetBrains Mono',monospace;background:var(--grn-bg);color:var(--grn);text-transform:uppercase;letter-spacing:.5px}
 
-/* ââ Toolbar ââââââââââââââââââââââââââââââââââââââââ */
+/* ── Toolbar ──────────────────────────────────────── */
 .toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;flex-wrap:wrap}
 .filters{display:flex;gap:4px;flex-wrap:wrap}
 .fbtn{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);color:var(--tx3);padding:7px 14px;border-radius:8px;font:500 11px/1 'Inter',sans-serif;cursor:pointer;transition:all .2s}
@@ -135,7 +127,7 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .area-sel{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);color:var(--tx2);padding:7px 10px;border-radius:8px;font:500 11px/1 'Inter',sans-serif;cursor:pointer;outline:0}
 .area-sel option{background:var(--bg)}
 
-/* ââ Table ââââââââââââââââââââââââââââââââââââââââââ */
+/* ── Table ────────────────────────────────────────── */
 .table-wrap{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);overflow:hidden;margin-bottom:20px}
 table{width:100%;border-collapse:collapse}
 thead th{padding:12px 14px;font:600 9px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.8px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--surface-border);background:transparent}
@@ -164,7 +156,7 @@ td{padding:12px 14px;font-size:13px;vertical-align:middle}
 .link-btn:hover{background:var(--glass-hover);color:var(--tx)}
 .link-btn svg{width:12px;height:12px}
 
-/* ââ Empty / Loading âââââââââââââââââââââââââââââââ */
+/* ── Empty / Loading ─────────────────────────────── */
 .empty{text-align:center;padding:80px 20px;color:var(--tx3)}
 .empty-icon{margin-bottom:14px;opacity:.3}
 .empty-icon svg{width:52px;height:52px}
@@ -172,18 +164,18 @@ td{padding:12px 14px;font-size:13px;vertical-align:middle}
 .empty p{font-size:13px;max-width:380px;margin:0 auto;line-height:1.6}
 .loading{text-align:center;padding:60px 20px;color:var(--tx3);font:500 14px/1 'JetBrains Mono',monospace}
 
-/* ââ Footer ââââââââââââââââââââââââââââââââââââââââ */
+/* ── Footer ──────────────────────────────────────── */
 footer{padding:20px 0 40px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
 footer span{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3)}
 footer .cedar{display:inline-flex;align-items:center;gap:4px}
 footer .cedar svg{width:12px;height:12px;opacity:.5}
 
-/* ââ Scrollbar âââââââââââââââââââââââââââââââââââââ */
+/* ── Scrollbar ───────────────────────────────────── */
 ::-webkit-scrollbar{width:5px;height:5px}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:var(--surface-border);border-radius:3px}
 
-/* ââ Responsive ââââââââââââââââââââââââââââââââââââ */
+/* ── Responsive ──────────────────────────────────── */
 @media(max-width:1024px){.stats{grid-template-columns:repeat(3,1fr)}.hero-illust{height:280px}.illust-layer svg{height:200px}}
 @media(max-width:768px){.stats{grid-template-columns:repeat(2,1fr)}.toolbar{flex-direction:column;align-items:flex-start}.h-right{width:100%;justify-content:flex-end}.hero-illust{height:220px}.illust-layer svg{height:160px}}
 @media(max-width:640px){.stats{grid-template-columns:1fr 1fr}header{flex-direction:column;align-items:flex-start}td,th{padding:8px 6px;font-size:11px}.prop-name{max-width:140px}.hide-m{display:none}.tabs{width:100%}.tab{flex:1;text-align:center;padding:8px 8px;font-size:10px}.hero-illust{height:160px;top:60%}.illust-layer svg{height:120px}.stat-v{font-size:20px}.country-toggle{width:100%}.country-opt{flex:1;justify-content:center}}
@@ -518,10 +510,10 @@ tbody tr{animation:rowIn .3s ease both}
 </div>
 
 <script>
-/* ââ SVG Icons ââââââââââââââââââââââââââââââââââââââ */
+/* ── SVG Icons ────────────────────────────────────── */
 const ICON_ARROW='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="12" height="12"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>';
 
-/* ââ Theme âââââââââââââââââââââââââââââââââââââââââââ */
+/* ── Theme ─────────────────────────────────────────── */
 function toggleTheme(){
   const html=document.documentElement;
   const next=html.getAttribute('data-theme')==='dark'?'light':'dark';
@@ -538,7 +530,7 @@ function updateThemeIcon(theme){
   if(saved){document.documentElement.setAttribute('data-theme',saved);updateThemeIcon(saved)}
 })();
 
-/* ââ Globals âââââââââââââââââââââââââââââââââââââââââ */
+/* ── Globals ───────────────────────────────────────── */
 const WAR_START='2026-03-01';
 function todayStr(){return new Date().toISOString().slice(0,10)}
 function daysSinceWar(){const now=new Date();const t=new Date(now.getFullYear(),now.getMonth(),now.getDate());const w=new Date(2026,2,1);return Math.floor((t-w)/(1000*60*60*24))}
@@ -585,7 +577,7 @@ function fmtPrice(n){
   return fmtUSD(n);
 }
 
-/* ââ Data Loading ââââââââââââââââââââââââââââââââââââ */
+/* ── Data Loading ──────────────────────────────────── */
 async function loadData(){
   // LB data
   try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)lbReData=j}}catch(e){console.log('LB RE data not yet available')}
@@ -597,7 +589,7 @@ async function loadData(){
   refresh();
 }
 
-/* ââ Country Switch âââââââââââââââââââââââââââââââââ */
+/* ── Country Switch ───────────────────────────────── */
 function switchCountry(country){
   activeCountry=country;
   typeFilter='all';areaFilter='all';extraFilter='all';
@@ -649,7 +641,7 @@ function updateCountryUI(){
   }
 }
 
-/* ââ Tab Switch ââââââââââââââââââââââââââââââââââââââ */
+/* ── Tab Switch ────────────────────────────────────── */
 function switchTab(tab){
   activeTab=tab;
   typeFilter='all';areaFilter='all';extraFilter='all';
@@ -705,7 +697,7 @@ function refresh(){
   renderStats();buildHeaders();buildFilters();buildExtraFilter();buildAreaFilter();render();
 }
 
-/* ââ Stats âââââââââââââââââââââââââââââââââââââââââââ */
+/* ── Stats ─────────────────────────────────────────── */
 function renderStats(){
   const d=getData();
   const biggest=Math.max(...d.drops.map(x=>x.drop_usd),0);
@@ -720,14 +712,14 @@ function renderStats(){
   document.querySelectorAll('.stat-l')[3].textContent=viewMode==='new'?'VIEW':'BIGGEST DROP';
 }
 
-/* ââ Table Headers âââââââââââââââââââââââââââââââââââ */
+/* ── Table Headers ─────────────────────────────────── */
 function buildHeaders(){
   const thead=document.getElementById('thead');
   const isNew=viewMode==='new';
   const dropCur=activeCountry==='uae'?'Drop AED':'Drop $';
 
   if(isNew){
-    // New Listings view â no drop columns
+    // New Listings view — no drop columns
     if(activeTab==='re'||activeTab==='uae-re'){
       thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Listed Price</th><th class="hide-m">Listed</th><th></th></tr>`;
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
@@ -749,7 +741,7 @@ function buildHeaders(){
   }
 }
 
-/* ââ Filters âââââââââââââââââââââââââââââââââââââââââ */
+/* ── Filters ───────────────────────────────────────── */
 function buildFilters(){
   const d=getData();
   let field;
@@ -802,7 +794,7 @@ function setView(v){
 function setType(t){typeFilter=t;buildFilters();render()}
 function setSort(s){sortBy=s;document.querySelectorAll('.sbtn').forEach(b=>b.classList.toggle('on',b.dataset.sort===s));render()}
 
-/* ââ Render Table ââââââââââââââââââââââââââââââââââââ */
+/* ── Render Table ──────────────────────────────────── */
 function render(){
   const d=getData();
   const isNew=viewMode==='new';
@@ -840,7 +832,7 @@ function render(){
   const siteName=activeCountry==='uae'?'Dubizzle':'OLX';
 
   if(isNew){
-    // ââ New Listings View ââ
+    // ── New Listings View ──
     if(activeTab==='re'||activeTab==='uae-re'){
       tbody.innerHTML=items.map((d,i)=>{
         const listDate=d.posted_date||d.first_seen;
@@ -882,7 +874,7 @@ function render(){
         </tr>`}).join('');
     }
   }else{
-    // ââ Price Drops View ââ
+    // ── Price Drops View ──
     if(activeTab==='re'||activeTab==='uae-re'){
       tbody.innerHTML=items.map((d,i)=>{
         const isToday=d.last_drop_date===today;
