@@ -5058,5 +5058,533 @@
       }
     ],
     "date": "2026-03-08"
+  },
+  "16767516": {
+    "id": "16767516",
+    "title": "Mercedes-Benz S500 coupe V8 GCC in excellent condition.",
+    "price": 165000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "{'label': 'Year', 'value': 2016}",
+    "kilometers": "{'label': 'Kilometers', 'value': 66000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Coupe'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "District 9",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/3/7/mercedes-benz-s500-coupe-v8-gcc-in-excelle-2-448---97403069ee414a62b1118d1f8ae15b1b/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 165000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16765806": {
+    "id": "16765806",
+    "title": "Maserati lavente grand sport V6 GCC full service history in excellent condition",
+    "price": 135000,
+    "make": "Maserati",
+    "model": "Levante",
+    "year": "{'label': 'Year', 'value': 2019}",
+    "kilometers": "{'label': 'Kilometers', 'value': 60000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "District 9",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/maserati/levante/2026/3/5/maserati-lavente-grand-sport-v6-gcc-full-s-2-860---59968c9b2932495583c834d815129430/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 135000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16766298": {
+    "id": "16766298",
+    "title": "Tesla model Y GCC 2024 First owner under warranty in excellent condition.",
+    "price": 125000,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 29000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Electric'}",
+    "area": "District 9",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/3/6/tesla-model-y-gcc-2024-first-owner-under-w-2-556---43b596b9de8c4570a62f266fa5eecd5e/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16765800": {
+    "id": "16765800",
+    "title": "Bentley bentayga first edition W12 GCC full history in excellent condition.",
+    "price": 240000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "{'label': 'Year', 'value': 2018}",
+    "kilometers": "{'label': 'Kilometers', 'value': 80000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "District 9",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2026/3/5/bentley-bentayga-first-edition-w12-gcc-in--2-907---7736d7d8c5634053b7d2941e087ff9f0/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 240000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16765595": {
+    "id": "16765595",
+    "title": "Bentley bentayga Speed W12 in excellent condition.",
+    "price": 399000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "{'label': 'Year', 'value': 2020}",
+    "kilometers": "{'label': 'Kilometers', 'value': 40000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "District 9",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2026/3/5/bentley-bentayga-speed-w12-in-excellent-co-2-598---9edd70eecaf94b24aae5901c3deb5d1b/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 399000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16659829": {
+    "id": "16659829",
+    "title": "Mitsubishi Attrage 2022 GCC Excellent Condition",
+    "price": 21000,
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "year": "{'label': 'Year', 'value': 2022}",
+    "kilometers": "{'label': 'Kilometers', 'value': 120000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2025/12/4/mitsubishi-attrage-2022-gcc-excellent-cond-2-112---a18ff362d2ab4f7aac83fc6d9a522d2e/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 21000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16690213": {
+    "id": "16690213",
+    "title": "Infiniti QX50 2019 Excellent Condition",
+    "price": 45500,
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": "{'label': 'Year', 'value': 2019}",
+    "kilometers": "{'label': 'Kilometers', 'value': 92000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2025/12/31/infiniti-qx50-2019-excellent-condition-2-390---0b7ba525838f46f487317f0afa550fee/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 45500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16722725": {
+    "id": "16722725",
+    "title": "Suzuki Dzire 2024 GCC excellent condition",
+    "price": 34500,
+    "make": "Suzuki",
+    "model": "Dzire",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 90000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/dzire/2026/1/27/suzuki-dzire-2024-gcc-excellent-condition-2-947---7e11bc6702414016bf2d2b06d2c7e98e/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 34500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16722685": {
+    "id": "16722685",
+    "title": "Kia Sportage 2016 GCC Excellent condition",
+    "price": 25500,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "{'label': 'Year', 'value': 2016}",
+    "kilometers": "{'label': 'Kilometers', 'value': 118000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/1/27/kia-sportage-2016-gcc-excellent-condition-2-997---c02df70cbe474ff2abdf52f251a3d918/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 25500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768594": {
+    "id": "16768594",
+    "title": "VW Certified | Fully Inspected | Like New | With Warranty  Service | Downpayment Assist",
+    "price": 169900,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": "{'label': 'Year', 'value': 2025}",
+    "kilometers": "{'label': 'Kilometers', 'value': 10200}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Umm Ramool",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/3/8/vw-certified-fully-inspected-like-new-with-2-227---1cac75aa9eae40b5a8d13cf003a87ae4/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 169900,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16722741": {
+    "id": "16722741",
+    "title": "Kia Pegas 2025 GCC Excellent condition",
+    "price": 38000,
+    "make": "Kia",
+    "model": "Pegas",
+    "year": "{'label': 'Year', 'value': 2025}",
+    "kilometers": "{'label': 'Kilometers', 'value': 7000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/pegas/2026/1/27/kia-pegas-2025-gcc-excellent-condition-2-874---011a72c16992479f8faae9f63133172c/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 38000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16688012": {
+    "id": "16688012",
+    "title": "toyota Urban cruiser 2024 GCC Excellent condition",
+    "price": 63500,
+    "make": "Toyota",
+    "model": "Urban Cruiser",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 20000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/urban-cruiser/2025/12/29/toyota-urban-cruiser-2024-gcc-excellent-co-2-655---08f62129ddae4c89a36c41ba576dbf9d/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 63500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16509663": {
+    "id": "16509663",
+    "title": "NISSAN SENTRA 2014 MODEL WHITE PIX VIN (7636)",
+    "price": 25000,
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": "{'label': 'Year', 'value': 2014}",
+    "kilometers": "{'label': 'Kilometers', 'value': 83240}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sentra/2025/8/4/nissan-sentra-2014-model-white-pix-vin-763-2-717---d1aa772656b54c62bf3e4387ca261882/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 25000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16636812": {
+    "id": "16636812",
+    "title": "Kia Rio Sedan | 2015 | GCC Spec | Super Clean | Best Budget Car  Special Price: AED 14,500 Only",
+    "price": 14500,
+    "make": "Kia",
+    "model": "Rio",
+    "year": "{'label': 'Year', 'value': 2015}",
+    "kilometers": "{'label': 'Kilometers', 'value': 180000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/rio/2025/11/14/kia-rio-sedan-2015-gcc-spec-super-clean-be-2-555---b5cb36e3592e4bfa8a2f19a065840252/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 14500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16365063": {
+    "id": "16365063",
+    "title": "HYUNDAI ACCENT 2016 MODEL WHITE LESS KM REF.4947",
+    "price": 23900,
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "{'label': 'Year', 'value': 2016}",
+    "kilometers": "{'label': 'Kilometers', 'value': 91000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Hatchback'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2025/4/12/hyundai-accent-2016-model-white-new-pix-vi-2-158---b4402839287a41bd9afc351b566cab62/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 23900,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16370609": {
+    "id": "16370609",
+    "title": "A Very Clean And Beautiful DODGE CHARGER SXT 2014 SILVER GCC WITH SUNROOF REF. 7965",
+    "price": 39000,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "{'label': 'Year', 'value': 2014}",
+    "kilometers": "{'label': 'Kilometers', 'value': 80216}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2025/4/16/a-very-clean-and-beautiful-dodge-charger-s-2-382---b4ddda52613c430faa73d70a0143076f/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 39000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16512860": {
+    "id": "16512860",
+    "title": "Range Rover Vogue Gold 2014 | Full Option | Original Paint | Clean SUV GCC SPECS",
+    "price": 62000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "{'label': 'Year', 'value': 2014}",
+    "kilometers": "{'label': 'Kilometers', 'value': 165323}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Rashidiya",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/8/7/range-rover-vogue-gold-2014-full-option-or-2-669---7e2534ee8c3f45e0a3fcf7b85792b897/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 62000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16435342": {
+    "id": "16435342",
+    "title": "Ford Explorer Limited Edition | 2013 | GCC | Excellent condition",
+    "price": 29000,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "{'label': 'Year', 'value': 2013}",
+    "kilometers": "{'label': 'Kilometers', 'value': 98537}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2025/6/4/ford-explorer-limited-edition-2013-gcc-985-2-826---7e74d256597940b3a3ef24a2de8f04eb/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16364958": {
+    "id": "16364958",
+    "title": "A Very Clean And Beautiful FORD FIGO 2018 WHITE GCC WELL MAINTAINED REF. 2982",
+    "price": 16500,
+    "make": "Ford",
+    "model": "Figo",
+    "year": "{'label': 'Year', 'value': 2018}",
+    "kilometers": "{'label': 'Kilometers', 'value': 84329}",
+    "body_type": "{'label': 'Body Type', 'value': 'Hatchback'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2025/4/12/a-very-clean-and-beautiful-ford-figo-2018--2-433---6d2bc0febc5444edb667ac806802bdb3/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16377624": {
+    "id": "16377624",
+    "title": "Hyundai Tucson 4WD \u2013 2011 \u2013 GCC Specs \u2013 Black  For Quick Sale",
+    "price": 18000,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "{'label': 'Year', 'value': 2011}",
+    "kilometers": "{'label': 'Kilometers', 'value': 193000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2025/4/21/hyundai-tucson-4wd-2011-gcc-specs-black-fo-2-407---71b7642614da4d2cad60f8a885ea1915/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16767158": {
+    "id": "16767158",
+    "title": "FORD EDGE 2013 WHITE GCC WITH LOW KM IN VERY MINT CONDITION REF. 3405",
+    "price": 18500,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "{'label': 'Year', 'value': 2013}",
+    "kilometers": "{'label': 'Kilometers', 'value': 89215}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/3/7/ford-edge-2013-white-gcc-with-low-km-in-ve-2-328---47b3e4f4f2e84aaab9a43e71ce005054/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 18500,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16752524": {
+    "id": "16752524",
+    "title": "Cadillac Escalade 2010 Model GCC Space Clean Condition",
+    "price": 22000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "{'label': 'Year', 'value': 2010}",
+    "kilometers": "{'label': 'Kilometers', 'value': 410682}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/2/21/cadillac-escalade-2010-model-gcc-space-cle-2-900---86bb836cf4b74649bfe8212b73ba1b42/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16362645": {
+    "id": "16362645",
+    "title": "A Very Clean And Beautiful AUDI Q5 2014 WHITE GCC WELL MAINTAINED REF. 8689",
+    "price": 44000,
+    "make": "Audi",
+    "model": "Q5",
+    "year": "{'label': 'Year', 'value': 2014}",
+    "kilometers": "{'label': 'Kilometers', 'value': 94521}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q5/2025/4/10/a-very-clean-and-beautiful-audi-q5-2014-wh-2-085---f765f1dbbd5f443abca6d33050019861/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 44000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16366808": {
+    "id": "16366808",
+    "title": "HYUNDAI SANFTAFE GRAND 3.3L 2014 MODEL BLACK GCC SPECS REF.0309",
+    "price": 22000,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "{'label': 'Year', 'value': 2014}",
+    "kilometers": "{'label': 'Kilometers', 'value': 93278}",
+    "body_type": "{'label': 'Body Type', 'value': 'Crossover'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2025/4/13/hyundai-sanftafe-grand-33l-2014-model-blac-2-803---26b7c7b80c1c4ad988739ce05505dade/",
+    "first_seen": "2026-03-08T18:30:05Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-03-08T18:30:05Z"
+      }
+    ],
+    "date": "2026-03-08"
   }
 }
