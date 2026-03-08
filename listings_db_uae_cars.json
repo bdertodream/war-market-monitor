@@ -3892,5 +3892,291 @@
       }
     ],
     "date": "2026-03-08"
+  },
+  "16768502": {
+    "id": "16768502",
+    "title": "Corolla hybrid GCC",
+    "price": 33000,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "{'label': 'Year', 'value': 2020}",
+    "kilometers": "{'label': 'Kilometers', 'value': 125000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Hybrid'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/3/8/corolla-hybrid-gcc-2-044---5b430b4397ee42178295727e8d6d477e/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768501": {
+    "id": "16768501",
+    "title": "Mustang Ecoboost",
+    "price": 39000,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "{'label': 'Year', 'value': 2020}",
+    "kilometers": "{'label': 'Kilometers', 'value': 70000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sports Car'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/8/mustang-ecoboost-2-161---a4c2caa797d7429398f73755e4f12eb8/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 39000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16753703": {
+    "id": "16753703",
+    "title": "(( clean title )) No accident No paint no flooded",
+    "price": 213000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "{'label': 'Year', 'value': 2025}",
+    "kilometers": "{'label': 'Kilometers', 'value': 16000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/2/22/clean-title-no-accident-no-paint-no-floode-2-691---6ecf1db05b564606b51a9d345b6f7774/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 213000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16746630": {
+    "id": "16746630",
+    "title": "(( clean title )) No accident No paint",
+    "price": 165000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "{'label': 'Year', 'value': 2025}",
+    "kilometers": "{'label': 'Kilometers', 'value': 24000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/2/16/clean-title-no-accident-no-paint-2-893---614c172d5c604e83ac43df70d71c39d7/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 165000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768498": {
+    "id": "16768498",
+    "title": "Kia Seltos 2021",
+    "price": 36000,
+    "make": "Kia",
+    "model": "Seltos",
+    "year": "{'label': 'Year', 'value': 2021}",
+    "kilometers": "{'label': 'Kilometers', 'value': 78000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2026/3/8/kia-seltos-2021-2-476---6af42d6ad81443bb92919361bb18a2ca/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 36000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16722481": {
+    "id": "16722481",
+    "title": "GLC 300 4matic AMG orginal",
+    "price": 163000,
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 13000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc/2026/1/27/glc-300-4matic-amg-orginal-2-579---00b00fa049a54542863601f63d1b0950/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 163000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16725063": {
+    "id": "16725063",
+    "title": "CLA 250 AMG orginal full options",
+    "price": 113000,
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 27000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla/2026/1/29/cla-250-amg-orginal-full-options-2-362---0290fc42e63549778636c09cebbce4c2/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 113000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16725122": {
+    "id": "16725122",
+    "title": "Velar R-Dynamic S ( V6 )",
+    "price": 168000,
+    "make": "Land Rover",
+    "model": "Range Rover Velar",
+    "year": "{'label': 'Year', 'value': 2023}",
+    "kilometers": "{'label': 'Kilometers', 'value': 26000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/1/29/velar-r-dynamic-s-v6-2-587---58cdce49c8294b7ea2db55ed656b0f88/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 168000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768493": {
+    "id": "16768493",
+    "title": "Lexi\u2019s LS",
+    "price": 18000,
+    "make": "Lexus",
+    "model": "LS-Series",
+    "year": "{'label': 'Year', 'value': 2008}",
+    "kilometers": "{'label': 'Kilometers', 'value': 230000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Hybrid'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ls-series/2026/3/8/lexis-ls-2-415---a80efad46dd846e689ebfc289407fddc/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768488": {
+    "id": "16768488",
+    "title": "Kicks 2024 model",
+    "price": 39000,
+    "make": "Nissan",
+    "model": "Kicks",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 20000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/kicks/2026/3/8/kicks-2024-model-2-218---31ddebbbe6c2469cba282d8f203cd9bc/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 39000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16760391": {
+    "id": "16760391",
+    "title": "2019 Nissan Pathfinder SL V6 3.5L 284HP, Top Option, Original Paint, Perfect Condition, No Accident",
+    "price": 65000,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "{'label': 'Year', 'value': 2019}",
+    "kilometers": "{'label': 'Kilometers', 'value': 136000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/2/27/2019-nissan-pathfinder-sl-v6-35l-284hp-top-2-638---969dd369eae44906803e0ab57675bc90/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 65000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768475": {
+    "id": "16768475",
+    "title": "GAC 2022 full options",
+    "price": 29500,
+    "make": "GAC",
+    "model": "GA8",
+    "year": "{'label': 'Year', 'value': 2022}",
+    "kilometers": "{'label': 'Kilometers', 'value': 175000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/ga8/2026/3/8/gac-2022-full-options-2-526---48a147d1be38449797703be20611c990/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16563114": {
+    "id": "16563114",
+    "title": "TOYOTA CAMRY 2017 GCC",
+    "price": 15000,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": "{'label': 'Year', 'value': 2017}",
+    "kilometers": "{'label': 'Kilometers', 'value': 200000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/camry/2025/9/17/toyota-camry-2017-gcc-2-232---27a298c7b0ba48778f47c72706b88c14/",
+    "first_seen": "2026-03-08T16:26:27Z",
+    "prices": [
+      {
+        "price": 15000,
+        "date": "2026-03-08T16:26:27Z"
+      }
+    ],
+    "date": "2026-03-08"
   }
 }
