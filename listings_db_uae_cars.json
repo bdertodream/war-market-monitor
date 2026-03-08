@@ -3848,5 +3848,49 @@
       }
     ],
     "date": "2026-03-08"
+  },
+  "16734829": {
+    "id": "16734829",
+    "title": "Nissan Patrol 2012 Model GCC Specs LE Options Big Engine",
+    "price": 43000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "{'label': 'Year', 'value': 2012}",
+    "kilometers": "{'label': 'Kilometers', 'value': 175000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/2/6/nissan-patrol-2012-model-gcc-specs-le-opti-2-563---d87cc6c7f467442a8607558b744b0f00/",
+    "first_seen": "2026-03-08T15:23:41Z",
+    "prices": [
+      {
+        "price": 43000,
+        "date": "2026-03-08T15:23:41Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16413006": {
+    "id": "16413006",
+    "title": "Dodge Durango   7-Seater SUV GCC Specs Full Option  Super Clean Family Car value for money",
+    "price": 18000,
+    "make": "Dodge",
+    "model": "Durango",
+    "year": "{'label': 'Year', 'value': 2012}",
+    "kilometers": "{'label': 'Kilometers', 'value': 160000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Rashidiya",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2025/5/17/urgent-sale-2012-dodge-durango-7-seater-su-2-234---d8f34d2b3a6742f99ac77604aae3638d/",
+    "first_seen": "2026-03-08T15:23:41Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-03-08T15:23:41Z"
+      }
+    ],
+    "date": "2026-03-08"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T14:59:44.289452",
-  "total_tracked": 208,
+  "generated_at": "2026-03-08T15:23:15.013109",
+  "total_tracked": 209,
   "total_drops": 1,
-  "total_new": 208,
+  "total_new": 209,
   "avg_drop_pct": 2.9,
   "biggest_drop_usd": 100,
   "drops": [
@@ -69,6 +69,24 @@
       "price_history": [
         {
           "price": 6000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116492666",
+      "title": "car plate special number: N 6722 نمرة سيارة",
+      "url": "https://www.olx.com.lb/ad/car-plate-special-number-n-6722-ID116492666.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 5000,
           "date": "2026-03-08"
         }
       ]
