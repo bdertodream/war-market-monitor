@@ -6246,5 +6246,181 @@
       }
     ],
     "date": "2026-03-08"
+  },
+  "16768723": {
+    "id": "16768723",
+    "title": "2020 Chevrolet Camaro LT | 3.6L V6 | GCC Specs | Agency Maintained!",
+    "price": 68500,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": "{'label': 'Year', 'value': 2020}",
+    "kilometers": "{'label': 'Kilometers', 'value': 97000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Coupe'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Nahda 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/camaro/2026/3/8/2020-chevrolet-camaro-lt-36l-v6-gcc-specs--2-418---2e8567d6b0164038baffccf4e87b16e7/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 68500,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16768722": {
+    "id": "16768722",
+    "title": "(RAMADAN OFFER) 2018 GCC GRAND CHEROKEE LIMITED/ original paint, perfect condition",
+    "price": 74900,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "{'label': 'Year', 'value': 2018}",
+    "kilometers": "{'label': 'Kilometers', 'value': 82000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/3/8/ramadan-offer-2018-gcc-grand-cherokee-limi-2-361---6970aabce954418e8f70cdf1519f9001/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 74900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16734473": {
+    "id": "16734473",
+    "title": "(RAMADAN OFFER) 2021 GCC BMW X7 M-Sport pro / Official Dealer warranty and service (AGMC)",
+    "price": 189900,
+    "make": "BMW",
+    "model": "X7",
+    "year": "{'label': 'Year', 'value': 2021}",
+    "kilometers": "{'label': 'Kilometers', 'value': 99000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/2/6/2021-gcc-bmw-x7-m-sport-pro-official-deale-2-837---bfddb472c1594fa69ee981549a17e3d0/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 189900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16701549": {
+    "id": "16701549",
+    "title": "(RAMADAN OFFER) 2016 GCC Mercedes E300  / low mileage, perfect condition",
+    "price": 59900,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "{'label': 'Year', 'value': 2016}",
+    "kilometers": "{'label': 'Kilometers', 'value': 84000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/1/10/2016-gcc-mercedes-e300-low-mileage-perfect-2-598---0424f054f61f45a3adf2bf56f2395156/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 59900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16743296": {
+    "id": "16743296",
+    "title": "(RAMADAN OFFER) 2022 GCC MITSUBISHI ATTRAGE",
+    "price": 22000,
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "year": "{'label': 'Year', 'value': 2022}",
+    "kilometers": "{'label': 'Kilometers', 'value': 73600}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/2/13/ramadan-offer-2022-gcc-mitsubishi-attrage-2-900---5980e05d74c04c679a99abf8492d7f48/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16693278": {
+    "id": "16693278",
+    "title": "(RAMADAN OFFER) 2022 GCC BMW X5 M-sport / warranty and service package with agency (AGMC)",
+    "price": 209900,
+    "make": "BMW",
+    "model": "X5",
+    "year": "{'label': 'Year', 'value': 2022}",
+    "kilometers": "{'label': 'Kilometers', 'value': 63000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/1/3/2022-gcc-bmw-x5-m-sport-warranty-and-servi-2-134---9208a5c386d2419295b612d5c17e12d7/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 209900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16761870": {
+    "id": "16761870",
+    "title": "(RAMADAN OFFER) 2022 GCC BMW 330i M-sport kit / Official dealer warranty and service package (AGMC)",
+    "price": 139900,
+    "make": "BMW",
+    "model": "3-Series",
+    "year": "{'label': 'Year', 'value': 2022}",
+    "kilometers": "{'label': 'Kilometers', 'value': 59000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/3/1/ramadan-offer-2022-gcc-bmw-330i-m-sport-ki-2-573---f2224b45d5f24d969c772cdd654312d8/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 139900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
+  },
+  "16701560": {
+    "id": "16701560",
+    "title": "(RAMADAN OFFER) 2025 GCC Hyundai Accent / official dealer warranty",
+    "price": 52900,
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "{'label': 'Year', 'value': 2025}",
+    "kilometers": "{'label': 'Kilometers', 'value': 22000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Sedan'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/1/10/2025-gcc-hyundai-accent-official-dealer-wa-2-148---98aed30e3fbd4695ba47ab670946e1ea/",
+    "first_seen": "2026-03-08T21:23:53Z",
+    "prices": [
+      {
+        "price": 52900,
+        "date": "2026-03-08T21:23:53Z"
+      }
+    ],
+    "date": "2026-03-08"
   }
 }
