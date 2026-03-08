@@ -21,7 +21,7 @@ import random
 from datetime import datetime
 
 WAR_START = "2026-03-01"
-BASE_URL = "https://www.dubizzle.com.ae"
+BASE_URL = "https://www.dubizzle.com"
 CATEGORY_URLS = [
     "/motors/used-cars/",
 ]
