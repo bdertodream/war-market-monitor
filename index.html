@@ -480,10 +480,7 @@ tbody tr{animation:rowIn .3s ease both}
         <button class="sbtn" data-sort="date" onclick="setSort('date')">Recent</button>
         <button class="sbtn" data-sort="price" onclick="setSort('price')">Price ↓</button>
         <button class="sbtn" data-sort="price_asc" onclick="setSort('price_asc')">Price ↑</button>
-        <button class="sbtn" data-sort="sqm" onclick="setSort('sqm')">$/sqm</button>
-            <button class="sbtn" data-sort="year_desc" onclick="setSort('year_desc')">Year ↓</button>
-            <button class="sbtn" data-sort="year_asc" onclick="setSort('year_asc')">Year ↑</button>
-            <button class="sbtn" data-sort="km" onclick="setSort('km')">KM</button></span>
+        <button class="sbtn" data-sort="sqm" onclick="setSort('sqm')">$/sqm</button></span>
       </div>
     </div>
   </div>
@@ -686,7 +683,7 @@ function switchTab(tab){
     orbs[2].style.background='rgba(52,211,153,.06)';
   }
 
-  refresh();
+  setView(viewMode);
 }
 
 function updateIllustrations(){
@@ -792,15 +789,24 @@ function setView(v){
   viewMode=v;
   document.getElementById('view-drops').classList.toggle('on',v==='drops');
   document.getElementById('view-new').classList.toggle('on',v==='new');
-  // Update sort buttons for view mode
-  const sortWrap=document.getElementById('sort-buttons');
-  if(v==='new'){
-    sortBy='date';
-    sortWrap.innerHTML='<button class="sbtn on" data-sort="date" onclick="setSort(\'date\')">Recent</button><button class="sbtn" data-sort="price" onclick="setSort(\'price\')">Price</button>';
-  }else{
+  const w=document.getElementById('sort-buttons');
+  let b='';
+  if(v==='drops'){
     sortBy='pct';
-    sortWrap.innerHTML='<button class="sbtn on" data-sort="pct" onclick="setSort(\'pct\')">% Drop</button><button class="sbtn" data-sort="usd" onclick="setSort(\'usd\')">$ Drop</button><button class="sbtn" data-sort="date" onclick="setSort(\'date\')">Recent</button><button class="sbtn" data-sort="price" onclick="setSort(\'price\')">Price</button>';
+    b+='<button class="sbtn on" data-sort="pct" onclick="setSort(\'pct\')">% Drop</button>';
+    b+='<button class="sbtn" data-sort="usd" onclick="setSort(\'usd\')">$ Drop</button>';
   }
+  b+='<button class="sbtn'+(v==='new'?' on':'')+'" data-sort="date" onclick="setSort(\'date\')">Recent</button>';
+  if(v==='new')sortBy='date';
+  b+='<button class="sbtn" data-sort="price" onclick="setSort(\'price\')">Price ↓</button>';
+  b+='<button class="sbtn" data-sort="price_asc" onclick="setSort(\'price_asc\')">Price ↑</button>';
+  if(activeTab==='re')b+='<button class="sbtn" data-sort="sqm" onclick="setSort(\'sqm\')">$/sqm</button>';
+  if(activeTab==='cars'){
+    b+='<button class="sbtn" data-sort="year_desc" onclick="setSort(\'year_desc\')">Year ↓</button>';
+    b+='<button class="sbtn" data-sort="year_asc" onclick="setSort(\'year_asc\')">Year ↑</button>';
+    b+='<button class="sbtn" data-sort="km" onclick="setSort(\'km\')">KM</button>';
+  }
+  w.innerHTML=b;
   refresh();
 }
 function setType(t){typeFilter=t;buildFilters();render()}
