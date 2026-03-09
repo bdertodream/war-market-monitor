@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T17:48:54.576027",
-  "total_tracked": 212,
+  "generated_at": "2026-03-09T18:47:39.149871",
+  "total_tracked": 213,
   "total_drops": 2,
-  "total_new": 212,
+  "total_new": 213,
   "avg_drop_pct": 16.9,
   "biggest_drop_usd": 1800,
   "drops": [
@@ -94,6 +94,24 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815572",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116815572.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 15000,
           "date": "2026-03-09"
         }
       ]
