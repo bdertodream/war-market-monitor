@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T01:22:07.643194",
-  "total_tracked": 1894,
+  "generated_at": "2026-03-09T04:15:45.535953",
+  "total_tracked": 1898,
   "total_drops": 52,
-  "total_new": 1894,
+  "total_new": 1898,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 425700,
   "drops": [
@@ -1734,6 +1734,94 @@
       "price_history": [
         {
           "price": 11000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116651601",
+      "title": "Mercedes-Benz E-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116651601.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 87000,
+      "transmission": "Steptronic",
+      "location": "Mazraat Yachouh, Metn",
+      "original_price": 24900,
+      "current_price": 24900,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 24900,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116814717",
+      "title": "Kia Rio 2018",
+      "url": "https://www.olx.com.lb/ad/kia-rio-2018-ID116814717.html",
+      "make": "Kia",
+      "model": "Rio",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 140000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 11200,
+      "current_price": 11200,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 11200,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116730584",
+      "title": "Mercedes-Benz S-Class 2002 company source",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-2002-ID116730584.html",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "body_type": "Sedan",
+      "year": 2002,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116814712",
+      "title": "فورد فوكس 2000",
+      "url": "https://www.olx.com.lb/ad/فورد-فوكس-2000-ID116814712.html",
+      "make": "Ford",
+      "model": "Focus",
+      "body_type": "Estate",
+      "year": 2000,
+      "mileage": 2000,
+      "transmission": "Automatic",
+      "location": "Bourj Hammoud, Metn",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 3500,
           "date": "2026-03-09"
         }
       ]

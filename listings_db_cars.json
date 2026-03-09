@@ -189,7 +189,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -972,7 +972,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -1371,7 +1371,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -2554,7 +2554,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3846,7 +3846,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5019,7 +5019,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5075,7 +5075,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -6165,7 +6165,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -13944,7 +13944,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -14307,7 +14307,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-07",
     "drop_usd": 1400,
     "drop_pct": 5.0,
@@ -14362,7 +14362,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -20978,7 +20978,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -28451,7 +28451,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -31857,7 +31857,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -32696,7 +32696,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -33431,7 +33431,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -50470,7 +50470,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -52678,6 +52678,118 @@
     "price_history": [
       {
         "price": 11000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116651601": {
+    "id": "116651601",
+    "title": "Mercedes-Benz E-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116651601.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 87000,
+    "transmission": "Steptronic",
+    "location": "Mazraat Yachouh, Metn",
+    "district": "Metn",
+    "original_price": 24900,
+    "current_price": 24900,
+    "price_history": [
+      {
+        "price": 24900,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814717": {
+    "id": "116814717",
+    "title": "Kia Rio 2018",
+    "url": "https://www.olx.com.lb/ad/kia-rio-2018-ID116814717.html",
+    "make": "Kia",
+    "model": "Rio",
+    "body_type": "Sedan",
+    "year": 2018,
+    "mileage": 140000,
+    "transmission": "Automatic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 11200,
+    "current_price": 11200,
+    "price_history": [
+      {
+        "price": 11200,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116730584": {
+    "id": "116730584",
+    "title": "Mercedes-Benz S-Class 2002 company source",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-2002-ID116730584.html",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "body_type": "Sedan",
+    "year": 2002,
+    "mileage": 130000,
+    "transmission": "Automatic",
+    "location": "Hazmiyeh, Baabda",
+    "district": "Baabda",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814712": {
+    "id": "116814712",
+    "title": "فورد فوكس 2000",
+    "url": "https://www.olx.com.lb/ad/فورد-فوكس-2000-ID116814712.html",
+    "make": "Ford",
+    "model": "Focus",
+    "body_type": "Estate",
+    "year": 2000,
+    "mileage": 2000,
+    "transmission": "Automatic",
+    "location": "Bourj Hammoud, Metn",
+    "district": "Metn",
+    "original_price": 3500,
+    "current_price": 3500,
+    "price_history": [
+      {
+        "price": 3500,
         "date": "2026-03-09"
       }
     ],
