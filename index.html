@@ -596,9 +596,9 @@ function normalizeUae(items){
     return Object.assign({},d,{
       type:d.type||d.category||'',
       location:d.location||d.area||'',
-      current_price:Math.round(cp/3.6725),
-      original_price:Math.round(op/3.6725),
-      drop_usd:Math.round((op-cp)/3.6725),
+      current_price:cp,
+      original_price:op,
+      drop_usd:op-cp,
       drop_pct:d.drop_pct||0,
       sqm:sqm,
       last_drop_date:d.last_drop_date||d.date||'',
