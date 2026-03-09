@@ -590,12 +590,12 @@ function fmtPrice(n){
 /* ── Data Loading ──────────────────────────────────── */
 async function loadData(){
   // LB data
-  try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)lbReData=j}}catch(e){console.log('LB RE data not yet available')}
-  try{const r=await fetch('drops_feed_cars.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)lbCarsData=j}}catch(e){console.log('LB Cars data not yet available')}
-  try{const r=await fetch('drops_feed_plates.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)lbPlatesData=j}}catch(e){console.log('LB Plates data not yet available')}
+  try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();lbReData=j}}catch(e){console.log('LB RE data not yet available')}
+  try{const r=await fetch('drops_feed_cars.json');if(r.ok){const j=await r.json();lbCarsData=j}}catch(e){console.log('LB Cars data not yet available')}
+  try{const r=await fetch('drops_feed_plates.json');if(r.ok){const j=await r.json();lbPlatesData=j}}catch(e){console.log('LB Plates data not yet available')}
   // UAE data
-  try{const r=await fetch('drops_feed_uae.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)uaeReData=j}}catch(e){console.log('UAE RE data not yet available')}
-  try{const r=await fetch('drops_feed_uae_cars.json');if(r.ok){const j=await r.json();if(j.total_tracked>0)uaeCarsData=j}}catch(e){console.log('UAE Cars data not yet available')}
+  try{const r=await fetch('drops_feed_uae.json');if(r.ok){const j=await r.json();uaeReData=j}}catch(e){console.log('UAE RE data not yet available')}
+  try{const r=await fetch('drops_feed_uae_cars.json');if(r.ok){const j=await r.json();uaeCarsData=j}}catch(e){console.log('UAE Cars data not yet available')}
   refresh();
 }
 
