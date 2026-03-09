@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T06:58:24.048297",
-  "total_tracked": 1903,
-  "total_drops": 52,
-  "total_new": 1903,
-  "avg_drop_pct": 8.7,
+  "generated_at": "2026-03-09T07:52:05.191778",
+  "total_tracked": 1910,
+  "total_drops": 54,
+  "total_new": 1910,
+  "avg_drop_pct": 8.5,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -806,6 +806,35 @@
       ]
     },
     {
+      "id": "116812672",
+      "title": "Jeep Cherokee 2017 Limited",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2017-limited-ID116812672.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 21000,
+      "current_price": 20000,
+      "drop_usd": 1000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 21000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 20000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
       "id": "116748700",
       "title": "Mercedes-Benz GLC300/2017",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-glc3002017-ID116748700.html",
@@ -1307,6 +1336,35 @@
         {
           "price": 28500,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116512301",
+      "title": "Porsche Macan S  2018",
+      "url": "https://www.olx.com.lb/ad/porsche-macan-s-2018-ID116512301.html",
+      "make": "Porsche",
+      "model": "Macan",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Mansourieh, Metn",
+      "original_price": 36500,
+      "current_price": 36000,
+      "drop_usd": 500,
+      "drop_pct": 1.4,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 36000,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -1936,6 +1994,160 @@
       "price_history": [
         {
           "price": 3700,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116814498",
+      "title": "Ford Escape 2013",
+      "url": "https://www.olx.com.lb/ad/ford-escape-2013-ID116814498.html",
+      "make": "Ford",
+      "model": "Escape",
+      "body_type": "Sedan",
+      "year": 2013,
+      "mileage": 172000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116776213",
+      "title": "Renault Clio 2016",
+      "url": "https://www.olx.com.lb/ad/renault-clio-2016-ID116776213.html",
+      "make": "Renault",
+      "model": "Clio",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 56000,
+      "transmission": "Automatic",
+      "location": "Biaqout, Metn",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116772158",
+      "title": "Cadillac ATS 2015",
+      "url": "https://www.olx.com.lb/ad/cadillac-ats-2015-ID116772158.html",
+      "make": "Cadillac",
+      "model": "ATS",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 11800,
+      "current_price": 11800,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 11800,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116759350",
+      "title": "Volkswagen Golf 2017",
+      "url": "https://www.olx.com.lb/ad/volkswagen-golf-2017-ID116759350.html",
+      "make": "Volkswagen",
+      "model": "Golf",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 75000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116775666",
+      "title": "Porsche Boxster S, Manual. Porsche Center Lebanon. Excellent condition",
+      "url": "https://www.olx.com.lb/ad/manual-porsche-boxster-s-excellent-condition-ID116775666.html",
+      "make": "Porsche",
+      "model": "Boxster",
+      "body_type": "Convertible",
+      "year": 2006,
+      "mileage": 109000,
+      "transmission": "Manual",
+      "location": "Rabieh, Metn",
+      "original_price": 21900,
+      "current_price": 21900,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 21900,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116774033",
+      "title": "Mercedes-Benz E-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116774033.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 123000,
+      "transmission": "Automatic",
+      "location": "Sawfar, Aley",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116773159",
+      "title": "BMW 3-Series 2010",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2010-ID116773159.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Convertible",
+      "year": 2010,
+      "mileage": 175000,
+      "transmission": "Automatic",
+      "location": "Sawfar, Aley",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 9000,
           "date": "2026-03-09"
         }
       ]
@@ -27022,13 +27234,17 @@
       "transmission": "Steptronic",
       "location": "Mansourieh, Metn",
       "original_price": 36500,
-      "current_price": 36500,
+      "current_price": 36000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 36500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 36000,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -27046,7 +27262,7 @@
       "original_price": 35000,
       "current_price": 35000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 35000,
@@ -27068,7 +27284,7 @@
       "original_price": 81000,
       "current_price": 81000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 81000,
@@ -27090,7 +27306,7 @@
       "original_price": 20000,
       "current_price": 20000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 20000,
@@ -36592,13 +36808,17 @@
       "transmission": "Automatic",
       "location": "Zgharta Town, Zgharta",
       "original_price": 21000,
-      "current_price": 21000,
+      "current_price": 20000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 21000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 20000,
+          "date": "2026-03-09"
         }
       ]
     },
