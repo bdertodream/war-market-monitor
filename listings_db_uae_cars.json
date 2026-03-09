@@ -12216,5 +12216,71 @@
       }
     ],
     "date": "2026-03-09"
+  },
+  "16769617": {
+    "id": "16769617",
+    "title": "Toyota Yaris 2018 SE 1.5L FULLAUTO",
+    "price": 23000,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "{'label': 'Year', 'value': 2018}",
+    "kilometers": "{'label': 'Kilometers', 'value': 118000}",
+    "body_type": "{'label': 'Body Type', 'value': 'Hatchback'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Nad Al Hamar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/3/9/toyota-yaris-2018-se-15l-fullauto-2-241---a6ed46bba25a4e4b8e39e2a5a4ad6ed5/",
+    "first_seen": "2026-03-09T16:56:15Z",
+    "prices": [
+      {
+        "price": 23000,
+        "date": "2026-03-09T16:56:15Z"
+      }
+    ],
+    "date": "2026-03-09"
+  },
+  "16546714": {
+    "id": "16546714",
+    "title": "Approved Maserati Grecale GT",
+    "price": 259000,
+    "make": "Maserati",
+    "model": "Grecale",
+    "year": "{'label': 'Year', 'value': 2023}",
+    "kilometers": "{'label': 'Kilometers', 'value': 5400}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Al Manara",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/maserati/grecale/2025/9/4/approved-maserati-grecale-gt-2-644---6474c14b18a644bfaa6c1d65aa66b875/",
+    "first_seen": "2026-03-09T16:56:15Z",
+    "prices": [
+      {
+        "price": 259000,
+        "date": "2026-03-09T16:56:15Z"
+      }
+    ],
+    "date": "2026-03-09"
+  },
+  "16769606": {
+    "id": "16769606",
+    "title": "Toyota Supra GR Tuned  Modified | Very Special Car |  Bank Loan 0% Down Payment",
+    "price": 239000,
+    "make": "Toyota",
+    "model": "Supra",
+    "year": "{'label': 'Year', 'value': 2021}",
+    "kilometers": "{'label': 'Kilometers', 'value': 19714}",
+    "body_type": "{'label': 'Body Type', 'value': 'Coupe'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Jebel Ali Industrial Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/supra/2026/3/9/toyota-supra-gr-tuned-modified-very-specia-2-943---bb3dee1ca7d54d97b9645f94fa6242f4/",
+    "first_seen": "2026-03-09T16:56:15Z",
+    "prices": [
+      {
+        "price": 239000,
+        "date": "2026-03-09T16:56:15Z"
+      }
+    ],
+    "date": "2026-03-09"
   }
 }
