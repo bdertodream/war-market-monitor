@@ -75,7 +75,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5047,7 +5047,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -11476,7 +11476,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -25577,11 +25577,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116670548": {
     "id": "116670548",
@@ -25604,11 +25605,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116808888": {
     "id": "116808888",
@@ -47678,7 +47680,7 @@
     "location": "Other in Akkar, Akkar",
     "district": "Akkar",
     "original_price": 430000,
-    "current_price": 4300,
+    "current_price": 4000,
     "price_history": [
       {
         "price": 430000,
@@ -47687,15 +47689,19 @@
       {
         "price": 4300,
         "date": "2026-03-08"
+      },
+      {
+        "price": 4000,
+        "date": "2026-03-09"
       }
     ],
     "first_seen": "2026-03-08",
     "last_seen": "2026-03-09",
-    "last_updated": "2026-03-08",
+    "last_updated": "2026-03-09",
     "posted_date": "2026-03-08",
-    "drop_usd": 425700,
-    "drop_pct": 99.0,
-    "last_drop_date": "2026-03-08"
+    "drop_usd": 426000,
+    "drop_pct": 99.1,
+    "last_drop_date": "2026-03-09"
   },
   "116729914": {
     "id": "116729914",
@@ -52818,6 +52824,118 @@
     "price_history": [
       {
         "price": 50000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116812501": {
+    "id": "116812501",
+    "title": "dodge challenger v8 2010",
+    "url": "https://www.olx.com.lb/ad/jeep-wrangler-2019-ID116812501.html",
+    "make": "Dodge",
+    "model": "Challenger",
+    "body_type": "Sports / Coupe",
+    "year": 2010,
+    "mileage": 100000,
+    "transmission": "Steptronic",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814733": {
+    "id": "116814733",
+    "title": "Audi Q8 Premium Plus 55TFSI-2019",
+    "url": "https://www.olx.com.lb/ad/audi-q8-premium-plus-55tfsi-2019-ID116814733.html",
+    "make": "Audi",
+    "model": "Q8",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 84000,
+    "transmission": "Steptronic",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 52300,
+    "current_price": 52300,
+    "price_history": [
+      {
+        "price": 52300,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814731": {
+    "id": "116814731",
+    "title": "Land Rover Discovery HSE luxury 2019 gray on black (clean carfax)",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-hse-luxury-2019-gray-on-black-clean-carfax-ID116814731.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 76000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 29000,
+    "current_price": 29000,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116776129": {
+    "id": "116776129",
+    "title": "Renault Fluence 2012",
+    "url": "https://www.olx.com.lb/ad/renault-fluence-2012-ID116776129.html",
+    "make": "Renault",
+    "model": "Fluence",
+    "body_type": "Other",
+    "year": 2012,
+    "mileage": 12,
+    "transmission": "Automatic",
+    "location": "Sad El Baouchriyeh, Metn",
+    "district": "Metn",
+    "original_price": 3700,
+    "current_price": 3700,
+    "price_history": [
+      {
+        "price": 3700,
         "date": "2026-03-09"
       }
     ],
