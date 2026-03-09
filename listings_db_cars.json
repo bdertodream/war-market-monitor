@@ -56621,7 +56621,7 @@
   },
   "116785112": {
     "id": "116785112",
-    "title": "Land Rover Range Rover Sport 2018",
+    "title": "Land Rover Range Rover Sport 2018 HSE",
     "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-ID116785112.html",
     "make": "Land Rover",
     "model": "Range Rover Sport",
@@ -57788,6 +57788,90 @@
     "price_history": [
       {
         "price": 36500,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116653166": {
+    "id": "116653166",
+    "title": "Maserati Quattroporte 2015",
+    "url": "https://www.olx.com.lb/ad/maserati-quattroporte-2015-ID116653166.html",
+    "make": "Maserati",
+    "model": "Quattroporte",
+    "body_type": "Sedan",
+    "year": 2015,
+    "mileage": 70000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 35000,
+    "current_price": 35000,
+    "price_history": [
+      {
+        "price": 35000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815713": {
+    "id": "116815713",
+    "title": "Land Rover Range Rover Vogue V8 Dynamic 2018",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-vogue-v8-dynamic-2018-ID116815713.html",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 88000,
+    "transmission": "Steptronic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 51000,
+    "current_price": 51000,
+    "price_history": [
+      {
+        "price": 51000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815710": {
+    "id": "116815710",
+    "title": "Mercedes-Benz E300 AMG Line 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e300-amg-line-2017-ID116815710.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 118000,
+    "transmission": "Steptronic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 24800,
+    "current_price": 24800,
+    "price_history": [
+      {
+        "price": 24800,
         "date": "2026-03-09"
       }
     ],
