@@ -11974,5 +11974,93 @@
       }
     ],
     "date": "2026-03-09"
+  },
+  "16769454": {
+    "id": "16769454",
+    "title": "Mercedes GLE Coupe, original paint, two keys, in excellent condition.",
+    "price": 93000,
+    "make": "Mercedes-Benz",
+    "model": "GLE Coupe",
+    "year": "{'label': 'Year', 'value': 2016}",
+    "kilometers": "{'label': 'Kilometers', 'value': 116000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/3/9/mercedes-gle-coupe-original-paint-two-keys-2-038---d1c87935791048a5a7abdfff957de4d9/",
+    "first_seen": "2026-03-09T14:08:14Z",
+    "prices": [
+      {
+        "price": 93000,
+        "date": "2026-03-09T14:08:14Z"
+      }
+    ],
+    "date": "2026-03-09"
+  },
+  "16769102": {
+    "id": "16769102",
+    "title": "0% DOWN PAYMENT! | PAY NOTHING UNTIL SUMMER | FLAGSHIP | FREE INSURANCE | WARRANTY",
+    "price": 69990,
+    "make": "Bestune",
+    "model": "T99",
+    "year": "{'label': 'Year', 'value': 2023}",
+    "kilometers": "{'label': 'Kilometers', 'value': 36800}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bestune/t99/2026/3/9/0-down-payment-pay-nothing-until-summer-fl-2-250---bd610a7da2ab4afdb6499f9b60b4ab8a/",
+    "first_seen": "2026-03-09T14:08:14Z",
+    "prices": [
+      {
+        "price": 69990,
+        "date": "2026-03-09T14:08:14Z"
+      }
+    ],
+    "date": "2026-03-09"
+  },
+  "16769411": {
+    "id": "16769411",
+    "title": "GCC 2020",
+    "price": 115000,
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "year": "{'label': 'Year', 'value': 2020}",
+    "kilometers": "{'label': 'Kilometers', 'value': 131946}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc/2026/3/9/gcc-2020-2-591---3ccfe310b2494c9c8ea5dc7622bc3c03/",
+    "first_seen": "2026-03-09T14:08:14Z",
+    "prices": [
+      {
+        "price": 115000,
+        "date": "2026-03-09T14:08:14Z"
+      }
+    ],
+    "date": "2026-03-09"
+  },
+  "16769189": {
+    "id": "16769189",
+    "title": "RAMADAN OFFER | 1090-MONTHLY | 1.5 L | 4WD | GCC | CRUISE CONTROL I GPS I ACCIDENT FREE",
+    "price": 69999,
+    "make": "Suzuki",
+    "model": "Jimny",
+    "year": "{'label': 'Year', 'value': 2024}",
+    "kilometers": "{'label': 'Kilometers', 'value': 34000}",
+    "body_type": "{'label': 'Body Type', 'value': 'SUV'}",
+    "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/jimny/2026/3/9/ramadan-offer-1090-monthly-15-l-4wd-gcc-cr-2-446---8f992ce253ce4d75a888af5ef1ca5205/",
+    "first_seen": "2026-03-09T14:08:14Z",
+    "prices": [
+      {
+        "price": 69999,
+        "date": "2026-03-09T14:08:14Z"
+      }
+    ],
+    "date": "2026-03-09"
   }
 }
