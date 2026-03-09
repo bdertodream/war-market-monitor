@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T07:52:05.191778",
-  "total_tracked": 1910,
+  "generated_at": "2026-03-09T08:41:51.639066",
+  "total_tracked": 1912,
   "total_drops": 54,
-  "total_new": 1910,
+  "total_new": 1912,
   "avg_drop_pct": 8.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2148,6 +2148,50 @@
       "price_history": [
         {
           "price": 9000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116791700",
+      "title": "2018 Audi A3 25 TFSI Nardo Grey/Red Leather Company Source&Maintenance",
+      "url": "https://www.olx.com.lb/ad/2018-audi-a3-25-tfsi-nardo-greyred-leather-company-sourcemaintenance-ID116791700.html",
+      "make": "Audi",
+      "model": "A3",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 109000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 15800,
+      "current_price": 15800,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 15800,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116806772",
+      "title": "Kia Rio 2018",
+      "url": "https://www.olx.com.lb/ad/kia-rio-2018-ID116806772.html",
+      "make": "Kia",
+      "model": "Rio",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 81000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 11000,
           "date": "2026-03-09"
         }
       ]
@@ -33674,7 +33718,7 @@
     },
     {
       "id": "116766979",
-      "title": "BYD E2 ( Full Electric ) - 2025 MY - 430 KM Range !!!",
+      "title": "BYD E2 ( Full Electric ) - 2025 MY - 405 KM Range !!!",
       "url": "https://www.olx.com.lb/ad/byd-e2-full-electric-2025-my-430-km-range-ID116766979.html",
       "make": "BYD",
       "model": "Other",
