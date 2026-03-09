@@ -199,7 +199,7 @@ def load_feed():
                 return json.load(f)
         except (json.JSONDecodeError, ValueError):
             pass
-    return {"meta": {"war_start": WAR_START, "threshold": DROP_THRESHOLD}, "tracked": 0, "drops": []}
+    return {"meta": {"war_start": WAR_START, "threshold": DROP_THRESHOLD}, "total_tracked": 0, "drops": [], "new_listings": []}
 
 
 def save_feed(feed):
@@ -268,9 +268,29 @@ def main():
             }
             new_count += 1
 
-    feed["tracked"] = len(db)
+    feed["total_tracked"] = len(db)
     feed["last_updated"] = today
     feed["drops"] = feed["drops"][-500:]
+
+    # Build new_listings from db (listings first seen after war start)
+    new_listings = []
+    for lid, entry in db.items():
+        if entry.get("first_seen", "") >= WAR_START:
+            new_listings.append({
+                "id": lid,
+                "title": entry["title"],
+                "url": entry["url"],
+                "area": entry.get("area", ""),
+                "category": entry.get("category", ""),
+                "size": entry.get("size", ""),
+                "bedrooms": entry.get("bedrooms", ""),
+                "price": entry["price"],
+                "first_seen": entry["first_seen"],
+            })
+    new_listings.sort(key=lambda x: x.get("first_seen", ""), reverse=True)
+    feed["new_listings"] = new_listings[:500]
+    feed["total_drops"] = len(feed["drops"])
+    feed["total_new"] = len(new_listings)
 
     save_db(db)
     save_feed(feed)
