@@ -1,10 +1,65 @@
 {
-  "total_tracked": 828,
+  "total_tracked": 833,
   "total_drops": 0,
-  "total_new": 828,
-  "last_updated": "2026-03-10T12:47:05Z",
+  "total_new": 833,
+  "last_updated": "2026-03-10T13:57:15Z",
   "drops": [],
   "new_listings": [
+    {
+      "id": "16736471",
+      "title": "PLATINUM NO.1 II 5 CAMERAS II 7 SEAT FULLY LOADED II GCC SPECS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/x-trail/2026/2/8/nissan-xtrail-ii-gcc-specs-2-891---8cf16266402b4cc6a82acebb187db425/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "year": "2019",
+      "price": 52500,
+      "first_seen": "2026-03-10T13:57:15Z"
+    },
+    {
+      "id": "16770554",
+      "title": "LIKE. NEW SUPER CLEAN MINOR DAMAGE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2026/3/10/like-new-super-clean-minor-damage-2-339---c29360dcd074488fabe1d8f08854911d/",
+      "category": "Used Cars",
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2022",
+      "price": 39500,
+      "first_seen": "2026-03-10T13:57:15Z"
+    },
+    {
+      "id": "16723064",
+      "title": "Audi Q7 35TFSI 2015 | 3.0L - 6 Cylinder - Supercharged | 2 Keys | Full Service History | GCC Spec",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/1/28/audi-q7-35tfsi-2015-30l-6-cylinder-superch-2-773---47247941cb35426093b16063d8f89da3/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q7",
+      "year": "2015",
+      "price": 27500,
+      "first_seen": "2026-03-10T13:57:15Z"
+    },
+    {
+      "id": "16680009",
+      "title": "Mazda 6 Skyactiv 2015 | 2.5L- 4 Cylinder | Single Owner | Accident Free | Service History | GCC Spec",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2025/12/22/mazda-6-skyactiv-2015-25l-4-cylinder-singl-2-696---6a08353e46504cb09a63d740faf3edab/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "6",
+      "year": "2015",
+      "price": 19500,
+      "first_seen": "2026-03-10T13:57:15Z"
+    },
+    {
+      "id": "16746741",
+      "title": "KIA SORENTO 2020 GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sorento/2026/2/16/kia-sorento-2020-gcc-2-214---8896de5aae444e12866fb2754c51e21d/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Sorento",
+      "year": "2020",
+      "price": 58000,
+      "first_seen": "2026-03-10T13:57:15Z"
+    },
     {
       "id": "16631471",
       "title": "LIVAN X3PRO 1.5L PETROL 2025 MODEL",
@@ -5449,61 +5504,6 @@
       "year": "{'label': 'Year', 'value': 2023}",
       "price": 1229000,
       "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16386262",
-      "title": "Standard Roof 15 Seater 2.5L Diesel RWD Model 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hiace/2025/4/28/standard-roof-15-seater-25l-diesel-rwd-mod-2-438---c5477e1bdee0460d8cb00f5353742823/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Hiace",
-      "year": "{'label': 'Year', 'value': 2025}",
-      "price": 106000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16657873",
-      "title": "AED 2,203 P.M \u2022 0% Downpayment \u2022 Lexus UX200 F-Sport \u2022 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ux-series/2025/12/3/2394-pm-0-downpayment-lexus-ux200-f-sport--2-036---a495d41ad445414dad48056047abee72/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "UX-Series",
-      "year": "{'label': 'Year', 'value': 2023}",
-      "price": 114950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16729340",
-      "title": "Ford Explorer XLT 2016 Grey single owner low mileage 7 seats",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/2/2/ford-explorer-xlt-2016-grey-single-owner-l-2-682---49306f1c17444ba2a9ab9b026cf42361/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Explorer",
-      "year": "{'label': 'Year', 'value': 2016}",
-      "price": 40500,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16740597",
-      "title": "PRE OWNED OMODA C5 |2025| | EMI: AED 814 | SERVICE CONTRACT | GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/omoda-c5/2026/2/11/pre-owned-omoda-c5-2025-emi-aed-1246-servi-2-100---f3cb48cd128a40a6a9867c85a033cbd3/",
-      "category": "Used Cars",
-      "make": "OMODA",
-      "model": "OMODA C5",
-      "year": "{'label': 'Year', 'value': 2025}",
-      "price": 61000,
-      "first_seen": "2026-03-09T06:00:30Z"
-    },
-    {
-      "id": "16485379",
-      "title": "MAZDA CX-9 BLACK 2009 6 CYLINDER 3.7L - GCC SPECIFICATION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2025/7/15/mazda-cx-9-black-2009-6-cylinder-37l-gcc-s-2-299---d0f688943ebf4e279e5f17d4df998da3/",
-      "category": "Used Cars",
-      "make": "Mazda",
-      "model": "CX-9",
-      "year": "{'label': 'Year', 'value': 2009}",
-      "price": 22500,
-      "first_seen": "2026-03-09T06:00:30Z"
     }
   ]
 }
