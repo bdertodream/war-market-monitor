@@ -1,8 +1,8 @@
 {
-  "total_tracked": 856,
+  "total_tracked": 857,
   "total_drops": 1,
-  "total_new": 856,
-  "last_updated": "2026-03-10T19:41:16Z",
+  "total_new": 857,
+  "last_updated": "2026-03-10T20:32:17Z",
   "drops": [
     {
       "id": "16770596",
@@ -20,6 +20,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16770875",
+      "title": "Porsche Carrera S 911",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/3/10/porsche-carrera-s-911-2-942---7e953b53ea5b48f6b75a99c0ba371155/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Carrera / 911",
+      "year": "2020",
+      "mileage": "80500",
+      "price": 400000,
+      "first_seen": "2026-03-10T20:32:17Z"
+    },
     {
       "id": "16770796",
       "title": "Mercedes-Benz Vito | Model 2019 | 6 Seater | GCC Specs",
@@ -6006,18 +6018,6 @@
       "year": "{'label': 'Year', 'value': 2023}",
       "mileage": "{'label': 'Kilometers', 'value': 64170}",
       "price": 154950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16707853",
-      "title": "AED 1,628 pm \u2022 0% Downpayment \u2022 Audi A3 35 TFSI \u2022 Agency Warranty and Service Contract",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a3/2026/1/15/aed-1724-pm-0-downpayment-audi-a3-35-tfsi--2-999---9f5d04e07287400dac29ee89fb7f9515/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A3",
-      "year": "{'label': 'Year', 'value': 2024}",
-      "mileage": "{'label': 'Kilometers', 'value': 41316}",
-      "price": 84950,
       "first_seen": "2026-03-09T06:59:10Z"
     }
   ]

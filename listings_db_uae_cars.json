@@ -18846,5 +18846,27 @@
       }
     ],
     "date": "2026-03-10"
+  },
+  "16770875": {
+    "id": "16770875",
+    "title": "Porsche Carrera S 911",
+    "price": 400000,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2020",
+    "kilometers": "80500",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/3/10/porsche-carrera-s-911-2-942---7e953b53ea5b48f6b75a99c0ba371155/",
+    "first_seen": "2026-03-10T20:32:17Z",
+    "prices": [
+      {
+        "price": 400000,
+        "date": "2026-03-10T20:32:17Z"
+      }
+    ],
+    "date": "2026-03-10"
   }
 }
