@@ -4,10 +4,10 @@ Dubizzle Dubai Car Scraper
 Uses Algolia API directly to bypass bot protection.
 """
 
-import json
+import jso
 import os
 import time
-import urllib.request
+import urllib.reques
 import urllib.error
 import urllib.parse
 from datetime import datetime, timezone
@@ -102,6 +102,8 @@ def parse_hit(hit):
                     vv = vv["value"]
                 if isinstance(vv, list):
                     vv = vv[0] if vv else ""
+                if isinstance(vv, dict) and "value" in vv:
+                    vv = vv["value"]
                 kl = k.lower()
                 if "year" in kl:
                     year = str(vv)
@@ -243,6 +245,7 @@ def main():
                         "make": item.get("make", ""),
                         "model": item.get("model", ""),
                         "year": item.get("year", ""),
+                        "mileage": item.get("kilometers", ""),
                         "date": now,
                     })
             elif item["price"] > old_price:
@@ -280,6 +283,7 @@ def main():
                 "make": entry.get("make", ""),
                 "model": entry.get("model", ""),
                 "year": entry.get("year", ""),
+                "mileage": entry.get("kilometers", ""),
                 "price": entry["price"],
                 "first_seen": entry["first_seen"],
             })
