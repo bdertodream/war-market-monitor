@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-10T13:56:21.714990",
-  "total_tracked": 2225,
+  "generated_at": "2026-03-10T14:03:45.980548",
+  "total_tracked": 2227,
   "total_drops": 82,
-  "total_new": 2225,
+  "total_new": 2227,
   "avg_drop_pct": 7.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5254,6 +5254,50 @@
       "price_history": [
         {
           "price": 14000,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116536294",
+      "title": "A250 full look a45 orginal",
+      "url": "https://www.olx.com.lb/ad/a250-full-look-a45-orginal-ID116536294.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Hatchback",
+      "year": 2015,
+      "mileage": 129000,
+      "transmission": "Automatic",
+      "location": "Jamhour, Baabda",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116816429",
+      "title": "Land Rover Range Rover 1998",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-1998-ID116816429.html",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "body_type": "SUV",
+      "year": 1998,
+      "mileage": 190000,
+      "transmission": "Automatic",
+      "location": "Bhamdoun, Aley",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 3000,
           "date": "2026-03-10"
         }
       ]

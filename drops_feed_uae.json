@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 2275,
+  "total_tracked": 2277,
   "total_drops": 11,
-  "total_new": 2275,
+  "total_new": 2277,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2767,6 +2767,28 @@
       "size": "2991",
       "bedrooms": "",
       "price": 1650000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "17155369",
+      "title": "Partially Upgraded | Furnished 2BR | Open View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/partially-upgraded-furnished-2br-open-v-2-168147/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Apartment",
+      "size": "1370",
+      "bedrooms": "2",
+      "price": 2350000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "17182723",
+      "title": "Exclusive Duplex | Big Layout | Brand New",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/exclusive-duplex-big-layout-brand-new-2-262129/",
+      "area": "Town Square",
+      "category": "Apartment",
+      "size": "1743",
+      "bedrooms": "2",
+      "price": 2500000,
       "first_seen": "2026-03-10"
     },
     {
@@ -5638,28 +5660,6 @@
       "size": "20990",
       "bedrooms": "",
       "price": 25000000,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9744215",
-      "title": "World island | Free hold plot | Huge plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/25/world-island-free-hold-plot-huge-plot-2-257992/",
-      "area": "The World Islands",
-      "category": "Land",
-      "size": "404333",
-      "bedrooms": "",
-      "price": 110000000,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9746053",
-      "title": "4 Bed Off-Plan Townhouse for Sale in Damac Hills 2 (Akoya by DAMAC)",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/5/4-bed-off-plan-townhouse-for-sale-in-da-2-433541/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Land",
-      "size": "2352",
-      "bedrooms": "",
-      "price": 1910000,
       "first_seen": "2026-03-09"
     }
   ],
