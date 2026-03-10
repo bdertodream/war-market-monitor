@@ -1,8 +1,8 @@
 {
-  "total_tracked": 853,
+  "total_tracked": 856,
   "total_drops": 1,
-  "total_new": 853,
-  "last_updated": "2026-03-10T17:48:28Z",
+  "total_new": 856,
+  "last_updated": "2026-03-10T18:44:53Z",
   "drops": [
     {
       "id": "16770596",
@@ -20,6 +20,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16770796",
+      "title": "Mercedes-Benz Vito | Model 2019 | 6 Seater | GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/vito/2026/3/10/mercedes-benz-vito-model-2019-6-seater-gcc-2-391---058a1f635cd14ba98cc50dcc1a76c67c/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "Vito",
+      "year": "2019",
+      "mileage": "800000",
+      "price": 65000,
+      "first_seen": "2026-03-10T18:44:53Z"
+    },
+    {
+      "id": "16770787",
+      "title": "Renault Duster 2014 GCC Specs \u2013IN EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/3/10/renault-duster-2014-gcc-specs-in-excellent-2-454---f866941d602f432f9b40e04905321780/",
+      "category": "Used Cars",
+      "make": "Renault",
+      "model": "Duster",
+      "year": "2014",
+      "mileage": "147000",
+      "price": 12500,
+      "first_seen": "2026-03-10T18:44:53Z"
+    },
+    {
+      "id": "16770767",
+      "title": "2025 Lexus Ux 300H Base White 2.0L Hybrid",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ux-series/2026/3/10/2025-lexus-ux-300h-base-white-20l-hybrid-2-205---1e5ffb65aa6c45e79e2d3eb94508ce53/",
+      "category": "Used Cars",
+      "make": "Lexus",
+      "model": "UX-Series",
+      "year": "2025",
+      "mileage": "410",
+      "price": 135000,
+      "first_seen": "2026-03-10T18:44:53Z"
+    },
     {
       "id": "16665636",
       "title": "RANGE ROVER EVOQUE 2015 GCC SPECS FULL OPTION FOR ONLY 37500 AED",
@@ -5982,42 +6018,6 @@
       "year": "{'label': 'Year', 'value': 2024}",
       "mileage": "{'label': 'Kilometers', 'value': 41316}",
       "price": 84950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16752168",
-      "title": "AED 2,490 pm  \u2022 0% Downpayment \u2022 BMW 530i M Sport \u2022 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/2/21/aed-2490-pm-0-downpayment-bmw-530i-m-sport-2-219---4fac6e6d5dd74688b6370dfb26a42171/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "{'label': 'Year', 'value': 2021}",
-      "mileage": "{'label': 'Kilometers', 'value': 103000}",
-      "price": 129950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16752150",
-      "title": "AED 4,407 pm \u2022 0% Downpayment \u2022 Porsche Macan Chrono Package  \u2022 Agency Warranty And Service Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/2/21/aed-4407-pm-0-downpayment-porsche-macan-ch-2-838---82f6b76152fd46e88fe1d3a5e59d1d61/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Macan",
-      "year": "{'label': 'Year', 'value': 2023}",
-      "mileage": "{'label': 'Kilometers', 'value': 30823}",
-      "price": 229950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16582047",
-      "title": "AED 1,858 pm \u2022 0% Downpayment \u2022 A4 35TFSI S-Line \u2022 Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2025/10/2/2299-pm-0-downpayment-a4-35tfsi-s-line-age-2-933---575e2ceabe9f4486a6417fbdf5b16b55/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A4",
-      "year": "{'label': 'Year', 'value': 2023}",
-      "mileage": "{'label': 'Kilometers', 'value': 95300}",
-      "price": 96950,
       "first_seen": "2026-03-09T06:59:10Z"
     }
   ]

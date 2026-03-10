@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 2298,
+  "total_tracked": 2299,
   "total_drops": 11,
-  "total_new": 2298,
+  "total_new": 2299,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3221,6 +3221,17 @@
       "first_seen": "2026-03-10"
     },
     {
+      "id": "16948188",
+      "title": "Next To Metro 1 Mint | Vacant on Transfer | Azizi Aura | High ROI | Best Investment Opportunity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/15/ultra-luxury-studio-for-sale-azizi-aura-2-191582/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "393",
+      "bedrooms": "0",
+      "price": 625000,
+      "first_seen": "2026-03-10"
+    },
+    {
       "id": "16316661",
       "title": "4-Bedroom Villa | Prime Investment | Luxury Family Living",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/9/3/4-bedroom-villa-prime-investment-luxury-2-940902/",
@@ -5649,17 +5660,6 @@
       "size": "1728",
       "bedrooms": "2",
       "price": 2894283,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "17157597",
-      "title": "OffPlan Units in a Prestigious New Development",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/offplan-units-in-a-prestigious-new-deve-2-250421/",
-      "area": "Meydan",
-      "category": "Apartment",
-      "size": "1122",
-      "bedrooms": "1",
-      "price": 2081844,
       "first_seen": "2026-03-09"
     }
   ],

@@ -18780,5 +18780,71 @@
       }
     ],
     "date": "2026-03-10"
+  },
+  "16770796": {
+    "id": "16770796",
+    "title": "Mercedes-Benz Vito | Model 2019 | 6 Seater | GCC Specs",
+    "price": 65000,
+    "make": "Mercedes-Benz",
+    "model": "Vito",
+    "year": "2019",
+    "kilometers": "800000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/vito/2026/3/10/mercedes-benz-vito-model-2019-6-seater-gcc-2-391---058a1f635cd14ba98cc50dcc1a76c67c/",
+    "first_seen": "2026-03-10T18:44:53Z",
+    "prices": [
+      {
+        "price": 65000,
+        "date": "2026-03-10T18:44:53Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16770787": {
+    "id": "16770787",
+    "title": "Renault Duster 2014 GCC Specs \u2013IN EXCELLENT CONDITION",
+    "price": 12500,
+    "make": "Renault",
+    "model": "Duster",
+    "year": "2014",
+    "kilometers": "147000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Flamingo Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/3/10/renault-duster-2014-gcc-specs-in-excellent-2-454---f866941d602f432f9b40e04905321780/",
+    "first_seen": "2026-03-10T18:44:53Z",
+    "prices": [
+      {
+        "price": 12500,
+        "date": "2026-03-10T18:44:53Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16770767": {
+    "id": "16770767",
+    "title": "2025 Lexus Ux 300H Base White 2.0L Hybrid",
+    "price": 135000,
+    "make": "Lexus",
+    "model": "UX-Series",
+    "year": "2025",
+    "kilometers": "410",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Al Mizhar 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ux-series/2026/3/10/2025-lexus-ux-300h-base-white-20l-hybrid-2-205---1e5ffb65aa6c45e79e2d3eb94508ce53/",
+    "first_seen": "2026-03-10T18:44:53Z",
+    "prices": [
+      {
+        "price": 135000,
+        "date": "2026-03-10T18:44:53Z"
+      }
+    ],
+    "date": "2026-03-10"
   }
 }
