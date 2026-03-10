@@ -1,10 +1,131 @@
 {
-  "total_tracked": 788,
+  "total_tracked": 799,
   "total_drops": 0,
-  "total_new": 788,
-  "last_updated": "2026-03-10T08:39:30Z",
+  "total_new": 799,
+  "last_updated": "2026-03-10T09:43:49Z",
   "drops": [],
   "new_listings": [
+    {
+      "id": "16737018",
+      "title": "MITSUBISHI PAJERO GLS 3.8 4X4 # 2020 GCC # ACCIDENT FREE AND AGENCY  MAINTAINED CAR FOR SALE.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/2/8/mitsubishi-pajero-gls-38-4x4-2020-gcc-acci-2-022---37d6aa3e3a454cca82ef7b86ce7fefe3/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2020",
+      "price": 55000,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16770193",
+      "title": "KIA SELTOS LX 2024 - AED 1,106/PM || UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2026/3/10/kia-seltos-lx-2024-aed-1106pm-under-warran-2-181---ad2c446b3547470d8ab878999e5b2011/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Seltos",
+      "year": "2024",
+      "price": 72900,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16754112",
+      "title": "CHEVROLET GROOVE 1.5 LT # 2023 GCC # WELL MAINTAINED CAR FOR SALE AED 34500.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/groove/2026/2/23/chevrolet-groove-15-lt-2023-gcc-well-maint-2-758---aa6a17a96e284ef0b6f1de9f42a6228a/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Groove",
+      "year": "2023",
+      "price": 34500,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16766037",
+      "title": "ALFA ROMEO STELVIO SUPER FULL OPTION # 2.0 TURBO # 2020 GCC # ACCIDENT FREE # AGENCY MAINTAINED CAR.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/stelvio/2026/3/6/alfa-romeo-stelvio-super-full-option-20-tu-2-800---b62688d27dcd49f7a899d1773e68db09/",
+      "category": "Used Cars",
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "year": "2020",
+      "price": 70000,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16599785",
+      "title": "2,938 P.M |  QX55 Sensory | 0% Downpayment | Agency Warranty!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx55/2025/10/16/3330-pm-qx55-sensory-0-downpayment-agency--2-643---150401f8a0ab4d7ba440c866c4212a8b/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX55",
+      "year": "2024",
+      "price": 149999,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16697291",
+      "title": "2026 TOYOTA CAMRY LE 2.5L PETROL - GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/camry/2026/1/7/2026-toyota-camry-le-25l-petrol-gcc-2-052---752b65907f0d4168910b1626139fd19c/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2026",
+      "price": 106500,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16757119",
+      "title": "HIACE CARGO 3.5 AUTOMATIC 2026MY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hiace/2026/2/25/hiace-cargo-35-automatic-2026my-2-419---de9323171a184e619c8fa0984dab5e4b/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Hiace",
+      "year": "2026",
+      "price": 134500,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16741843",
+      "title": "2,723 P.M | 0% Downpayment | Excellent Condition!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slc/2026/2/12/2742-pm-0-downpayment-excellent-condition-2-831---93c513205b5442928622672d44385e3a/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "SLC",
+      "year": "2020",
+      "price": 138999,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16770163",
+      "title": "LX600 F SPORT 3.5 2026MY FULL GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/3/10/lx600-f-sport-35-2026my-full-gcc-2-008---6feabfab62f94c33a4d93d5defd232d0/",
+      "category": "Used Cars",
+      "make": "Lexus",
+      "model": "LX-Series",
+      "year": "2026",
+      "price": 529000,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16741592",
+      "title": "2,245 P.M | 0% Downpayment | Warranty | Pristine!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glb/2026/2/12/2350-pm-0-downpayment-mercedes-history-war-2-762---6645fa5a7e104fb592f983b3e47672a4/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "year": "2020",
+      "price": 114600,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
+    {
+      "id": "16770159",
+      "title": "TOYOTA YARIS  E 2023 - AED 757/PM || UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/3/10/toyota-yaris-e-2023-aed-757pm-under-warran-2-669---c343b557c2c14d54a15a5b94598825fc/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": "2023",
+      "price": 49900,
+      "first_seen": "2026-03-10T09:43:49Z"
+    },
     {
       "id": "16608436",
       "title": "ROLLS ROYCE PHANTOM LWB, 2026, FULLY LOADED, ZERO KM",
@@ -5383,127 +5504,6 @@
       "year": "{'label': 'Year', 'value': 2025}",
       "price": 102000,
       "first_seen": "2026-03-09T04:16:39Z"
-    },
-    {
-      "id": "16768810",
-      "title": "2024 Rolls-Royce Spectre GCC | Like New | Full PPF | Highest Specification | Dubai dealer",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/3/9/2024-rolls-royce-spectre-like-new-full-ppf-2-778---41465b01af5c4b8faba4ec56384877ab/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Spectre",
-      "year": "{'label': 'Year', 'value': 2024}",
-      "price": 1650000,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16687634",
-      "title": "Toyota Corolla cross - 2.0L - 2025 - Hybrid - fully loaded",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla-cross/2025/12/29/toyota-corolla-cross-20l-2025-hybrid-fully-2-349---ad0de72894654809a8aa8713a4d67c7d/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "year": "{'label': 'Year', 'value': 2025}",
-      "price": 67500,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16427884",
-      "title": "Toyota levin - sport black edition - 2.0 Hybrid - 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/levin/2025/5/29/toyota-levin-sport-black-edition-20-hybrid-2-067---aeaf170ded2a421b8136b9cd50cbc0f5/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Levin",
-      "year": "{'label': 'Year', 'value': 2025}",
-      "price": 59500,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16602026",
-      "title": "Hyundai Staria - 3.5L - 2026 -PETROL-  GCC - comfort",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/staria/2025/10/18/hyundai-staria-35l-2026-petrol-gcc-comfort-2-493---454c494f38154eb4b48579c749fca8f9/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Staria",
-      "year": "{'label': 'Year', 'value': 2026}",
-      "price": 109000,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16689761",
-      "title": "Hyundai Palisade - 2.5L turbo- GCC - fully loaded - 2026",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/palisade/2025/12/31/hyundai-palisade-25l-turbo-gcc-fully-loade-2-856---4c24ac19399b41cda1af38775666ae4c/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Palisade",
-      "year": "{'label': 'Year', 'value': 2026}",
-      "price": 173000,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16768790",
-      "title": "First owner clean BMW 5 series GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/3/8/first-owner-clean-bmw-5-series-gcc-specs-2-042---9d94e9b3ab0843a894abd172381d0ee7/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "{'label': 'Year', 'value': 2012}",
-      "price": 19500,
-      "first_seen": "2026-03-09T01:22:57Z"
-    },
-    {
-      "id": "16653250",
-      "title": "!! 2024 !! CADILLAC | ESCALADE | SPORT LIXURY | BLACK EDITION | GCC | Warranty + Service Contract",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2025/11/28/2024-cadillac-escalade-sport-lixury-black--2-643---a2bccc0a305f45a7bfb395d475b1dbe8/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": "{'label': 'Year', 'value': 2024}",
-      "price": 375000,
-      "first_seen": "2026-03-08T22:23:14Z"
-    },
-    {
-      "id": "16768723",
-      "title": "2020 Chevrolet Camaro LT | 3.6L V6 | GCC Specs | Agency Maintained!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/camaro/2026/3/8/2020-chevrolet-camaro-lt-36l-v6-gcc-specs--2-418---2e8567d6b0164038baffccf4e87b16e7/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "year": "{'label': 'Year', 'value': 2020}",
-      "price": 68500,
-      "first_seen": "2026-03-08T21:23:53Z"
-    },
-    {
-      "id": "16768722",
-      "title": "(RAMADAN OFFER) 2018 GCC GRAND CHEROKEE LIMITED/ original paint, perfect condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/3/8/ramadan-offer-2018-gcc-grand-cherokee-limi-2-361---6970aabce954418e8f70cdf1519f9001/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "{'label': 'Year', 'value': 2018}",
-      "price": 74900,
-      "first_seen": "2026-03-08T21:23:53Z"
-    },
-    {
-      "id": "16734473",
-      "title": "(RAMADAN OFFER) 2021 GCC BMW X7 M-Sport pro / Official Dealer warranty and service (AGMC)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/2/6/2021-gcc-bmw-x7-m-sport-pro-official-deale-2-837---bfddb472c1594fa69ee981549a17e3d0/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X7",
-      "year": "{'label': 'Year', 'value': 2021}",
-      "price": 189900,
-      "first_seen": "2026-03-08T21:23:53Z"
-    },
-    {
-      "id": "16701549",
-      "title": "(RAMADAN OFFER) 2016 GCC Mercedes E300  / low mileage, perfect condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/1/10/2016-gcc-mercedes-e300-low-mileage-perfect-2-598---0424f054f61f45a3adf2bf56f2395156/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "{'label': 'Year', 'value': 2016}",
-      "price": 59900,
-      "first_seen": "2026-03-08T21:23:53Z"
     }
   ]
 }
