@@ -1,10 +1,70 @@
 {
-  "total_tracked": 838,
+  "total_tracked": 843,
   "total_drops": 0,
-  "total_new": 838,
-  "last_updated": "2026-03-10T15:33:23Z",
+  "total_new": 843,
+  "last_updated": "2026-03-10T16:00:59Z",
   "drops": [],
   "new_listings": [
+    {
+      "id": "16503889",
+      "title": "Amazing Top Of The Range Infiniti QX70 Sport Luxury Plus GCC Specs Full Service History Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx70/2025/7/30/almost-new-top-of-the-range-infiniti-qx70--2-569---8a4110b666e24271ba1c8decc302120b/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX70",
+      "year": "2019",
+      "mileage": "96000",
+      "price": 59000,
+      "first_seen": "2026-03-10T16:00:59Z"
+    },
+    {
+      "id": "16735403",
+      "title": "Amazing Top Of The Range Volvo C-Class V40 T5 R-Design GCC Specs Full Service History Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/v-class/2026/2/7/amazing-top-of-the-range-volvo-c-class-v40-2-157---042a9214e2ac45f69620736cbc48de3d/",
+      "category": "Used Cars",
+      "make": "Volvo",
+      "model": "V-Class",
+      "year": "2019",
+      "mileage": "92000",
+      "price": 40999,
+      "first_seen": "2026-03-10T16:00:59Z"
+    },
+    {
+      "id": "16662402",
+      "title": "Like New Top Volkswagen Tiguan SportStyle SEL 4Motion GCC Specs Full Vw Service History Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2025/12/6/amazing-top-volkswagen-tiguan-sportstyle-s-2-560---dea676560de54685987b3d3903fc250f/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2019",
+      "mileage": "98000",
+      "price": 56000,
+      "first_seen": "2026-03-10T16:00:59Z"
+    },
+    {
+      "id": "16587817",
+      "title": "Like New Top Mini Cooper S John Cooper Works GCC Specs Full Agency Service History Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2025/10/7/almost-new-top-mini-cooper-s-john-cooper-w-2-149---aade8405167b42ffafde1dcf91597e40/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2017",
+      "mileage": "130000",
+      "price": 36500,
+      "first_seen": "2026-03-10T16:00:59Z"
+    },
+    {
+      "id": "16627592",
+      "title": "2021 Dodge Charger | Showroom Fresh | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2025/11/7/2021-dodge-charger-showroom-condition-2-787---c646d358f8d04fb992eb40e7400d32f6/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": "2021",
+      "mileage": "120000",
+      "price": 39900,
+      "first_seen": "2026-03-10T16:00:59Z"
+    },
     {
       "id": "16722740",
       "title": "CHERY ARRIZO 6 PRO WHITE 2025 4 CYLINDER 1.5 TURBOCHARGED - GCC SPECIFICATION - BRAND NEW",
@@ -5943,66 +6003,6 @@
       "year": "{'label': 'Year', 'value': 2026}",
       "mileage": "{'label': 'Kilometers', 'value': 25}",
       "price": 899000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16709194",
-      "title": "GCC SPECS WARRANTY - SERVICE CONTRACT 2030 - 2024 AUDI RS7 PERFORMANCE 621 HP",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s7rs7/2026/1/16/gcc-specs-warranty-service-contract-2030-2-2-077---2c734bba29794a77833981f60588401b/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S7/RS7",
-      "year": "{'label': 'Year', 'value': 2024}",
-      "mileage": "{'label': 'Kilometers', 'value': 10000}",
-      "price": 529000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16591952",
-      "title": "GCC Al TAYER FACTORY WARRANTY AND SERVICE CONTRACT - 2022 FERRARI SF90 STRADALE V8 1000HP",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-stradale/2025/10/10/gcc-al-tayer-factory-warranty-and-service--2-715---4bfc16d0a3004762a982922fd67b9b4b/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "SF90 Stradale",
-      "year": "{'label': 'Year', 'value': 2022}",
-      "mileage": "{'label': 'Kilometers', 'value': 8000}",
-      "price": 1229000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16760082",
-      "title": "Audi A3 30TFSI 2015 low mileage first owner",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a3/2026/2/27/audi-a3-30tfsi-2015-low-mileage-first-owne-2-093---4e856e66d53e47f8a18cf5cb0fce6306/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A3",
-      "year": "{'label': 'Year', 'value': 2015}",
-      "mileage": "{'label': 'Kilometers', 'value': 110000}",
-      "price": 28000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16725966",
-      "title": "GCC SPECS - WARRANTY - 2020 LAMBORGHINI URUS - FULL SERVICE HISTORY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/1/30/gcc-specs-warranty-2020-lamborghini-urus-f-2-177---1f3fe3980dd44c6aa858b1c00041b84d/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Urus",
-      "year": "{'label': 'Year', 'value': 2020}",
-      "mileage": "{'label': 'Kilometers', 'value': 40000}",
-      "price": 749000,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16537443",
-      "title": "2017 Dodge Durango SXT Plus Low Mileage In Perfect Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2025/8/28/2017-dodge-durango-sxt-plus-low-mileage-in-2-855---292df428cf6e462a8cc8f661124583af/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Durango",
-      "year": "{'label': 'Year', 'value': 2017}",
-      "mileage": "{'label': 'Kilometers', 'value': 129000}",
-      "price": 44000,
       "first_seen": "2026-03-09T06:59:10Z"
     }
   ]

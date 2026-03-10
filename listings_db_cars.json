@@ -12945,19 +12945,23 @@
     "location": "Jbeil Town, Jbeil",
     "district": "Jbeil",
     "original_price": 18000,
-    "current_price": 18000,
+    "current_price": 17800,
     "price_history": [
       {
         "price": 18000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 17800,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-10",
+    "drop_usd": 200,
+    "drop_pct": 1.1,
+    "last_drop_date": "2026-03-10",
     "posted_date": "2026-03-01"
   },
   "116788698": {
@@ -55973,7 +55977,7 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 4500,
-    "current_price": 4200,
+    "current_price": 4000,
     "price_history": [
       {
         "price": 4500,
@@ -55982,14 +55986,18 @@
       {
         "price": 4200,
         "date": "2026-03-10"
+      },
+      {
+        "price": 4000,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-10",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-09",
-    "drop_usd": 300,
-    "drop_pct": 6.7,
+    "drop_usd": 500,
+    "drop_pct": 11.1,
     "last_drop_date": "2026-03-10"
   },
   "116723908": {
@@ -62501,6 +62509,34 @@
     "price_history": [
       {
         "price": 27500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816521": {
+    "id": "116816521",
+    "title": "Mercedes-Benz C-Class 2011",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2011-ID116816521.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Other",
+    "year": 2011,
+    "mileage": 170000,
+    "transmission": "Steptronic",
+    "location": "Kaslik, Keserouan",
+    "district": "Keserouan",
+    "original_price": 9900,
+    "current_price": 9900,
+    "price_history": [
+      {
+        "price": 9900,
         "date": "2026-03-10"
       }
     ],
