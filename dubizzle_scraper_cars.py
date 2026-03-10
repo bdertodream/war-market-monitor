@@ -4,10 +4,10 @@ Dubizzle Dubai Car Scraper
 Uses Algolia API directly to bypass bot protection.
 """
 
-import jso
+import json
 import os
 import time
-import urllib.reques
+import urllib.request
 import urllib.error
 import urllib.parse
 from datetime import datetime, timezone
