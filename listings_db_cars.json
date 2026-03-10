@@ -59052,10 +59052,14 @@
     "location": "Zouk Mosbeh, Keserouan",
     "district": "Keserouan",
     "original_price": 110000,
-    "current_price": 110000,
+    "current_price": 112000,
     "price_history": [
       {
         "price": 110000,
+        "date": "2026-03-10"
+      },
+      {
+        "price": 112000,
         "date": "2026-03-10"
       }
     ],
@@ -62200,6 +62204,118 @@
     "price_history": [
       {
         "price": 9600,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816461": {
+    "id": "116816461",
+    "title": "Mercedes-Benz CLK-Class 1998",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-clk-class-1998-ID116816461.html",
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "body_type": "Sedan",
+    "year": 1998,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Safra, Keserouan",
+    "district": "Keserouan",
+    "original_price": 2200,
+    "current_price": 2200,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816458": {
+    "id": "116816458",
+    "title": "Suzuki Grand Vitara 2026",
+    "url": "https://www.olx.com.lb/ad/suzuki-grand-vitara-2026-ID116816458.html",
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "body_type": "SUV",
+    "year": 2026,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Roumieh, Metn",
+    "district": "Metn",
+    "original_price": 35000,
+    "current_price": 35000,
+    "price_history": [
+      {
+        "price": 35000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116775304": {
+    "id": "116775304",
+    "title": "BMW 4-Series 2016",
+    "url": "https://www.olx.com.lb/ad/bmw-4-series-2016-ID116775304.html",
+    "make": "BMW",
+    "model": "4-Series",
+    "body_type": "Sports / Coupe",
+    "year": 2016,
+    "mileage": 55000,
+    "transmission": "Steptronic",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "original_price": 19500,
+    "current_price": 19500,
+    "price_history": [
+      {
+        "price": 19500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816445": {
+    "id": "116816445",
+    "title": "2019 RANGE ROVER SPORT V8 SUPERCHARGED AUTOBIOGRAPHY “CLEAN CARFAX”",
+    "url": "https://www.olx.com.lb/ad/2019-range-rover-sport-v8-supercharged-autobiography-clean-carfax-ID116816445.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 81000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 58000,
+    "current_price": 58000,
+    "price_history": [
+      {
+        "price": 58000,
         "date": "2026-03-10"
       }
     ],
