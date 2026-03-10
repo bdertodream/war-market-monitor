@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-10T07:42:13.380404",
-  "total_tracked": 2121,
+  "generated_at": "2026-03-10T08:38:34.996251",
+  "total_tracked": 2129,
   "total_drops": 71,
-  "total_new": 2121,
+  "total_new": 2129,
   "avg_drop_pct": 7.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2789,6 +2789,182 @@
       "price_history": [
         {
           "price": 8500,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116727299",
+      "title": "Nissan Murano 2013",
+      "url": "https://www.olx.com.lb/ad/nissan-murano-2013-ID116727299.html",
+      "make": "Nissan",
+      "model": "Murano",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 24909,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "111820697",
+      "title": "Corvette Stingray 1979",
+      "url": "https://www.olx.com.lb/ad/corvette-stingray-1970-ID111820697.html",
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "body_type": "Convertible",
+      "year": 1970,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116815964",
+      "title": "Nissan X-Trail 2015",
+      "url": "https://www.olx.com.lb/ad/nissan-x-trail-2015-ID116815964.html",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 145000,
+      "transmission": "Automatic",
+      "location": "Ballouneh, Keserouan",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116373947",
+      "title": "Infiniti Qx series 2017",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2017-ID116373947.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 77000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 19800,
+      "current_price": 19800,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 19800,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116815941",
+      "title": "Chevrolet Caprice 2010 Sedan",
+      "url": "https://www.olx.com.lb/ad/chevrolet-caprice-2010-sedan-ID116815941.html",
+      "make": "Chevrolet",
+      "model": "Caprice",
+      "body_type": "Sedan",
+      "year": 2010,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 4000,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116761396",
+      "title": "BMW M4 2016",
+      "url": "https://www.olx.com.lb/ad/bmw-m4-2016-ID116761396.html",
+      "make": "BMW",
+      "model": "M4",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 99500,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 49700,
+      "current_price": 49700,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 49700,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116614271",
+      "title": "Mercedes-Benz C-Class 2015 C300",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2015-c300-ID116614271.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 29700,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 17200,
+      "current_price": 17200,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 17200,
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116815929",
+      "title": "أودي أيه 4 1996",
+      "url": "https://www.olx.com.lb/ad/أودي-أيه-4-1996-ID116815929.html",
+      "make": "Audi",
+      "model": "A4",
+      "body_type": "Other",
+      "year": 1996,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Bchamoun, Aley",
+      "original_price": 1500,
+      "current_price": 1500,
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 1500,
           "date": "2026-03-10"
         }
       ]
@@ -20903,7 +21079,7 @@
       "original_price": 58000,
       "current_price": 58000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 58000,

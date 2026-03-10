@@ -8937,8 +8937,8 @@
   },
   "16750780": {
     "id": "16750780",
-    "title": "14,492 P.M | 0% Downpayment | SV Autobiography| 2029 Agency Warranty!",
-    "price": 739999,
+    "title": "14,394 P.M | 0% Downpayment | SV Autobiography| 2029 Agency Warranty!",
+    "price": 734999,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "{'label': 'Year', 'value': 2024}",
@@ -8953,6 +8953,10 @@
       {
         "price": 739999,
         "date": "2026-03-09T07:52:48Z"
+      },
+      {
+        "price": 734999,
+        "date": "2026-03-10T08:39:30Z"
       }
     ],
     "date": "2026-03-09"
@@ -14108,5 +14112,3239 @@
       }
     ],
     "date": "2026-03-09"
+  },
+  "16608436": {
+    "id": "16608436",
+    "title": "ROLLS ROYCE PHANTOM LWB, 2026, FULLY LOADED, ZERO KM",
+    "price": 3099000,
+    "make": "Rolls-Royce",
+    "model": "Phantom",
+    "year": "2026",
+    "kilometers": "33",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom/2025/10/23/rolls-royce-phantom-lwb-2026-fully-loaded--2-884---b36c621cf4ce49b0adc5736417237469/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 3099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15396796": {
+    "id": "15396796",
+    "title": "ROLLS ROYCE DAWN BLACK BADGE, 2019, GCC, DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 1299000,
+    "make": "Rolls-Royce",
+    "model": "Dawn",
+    "year": "2019",
+    "kilometers": "30000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/dawn/2023/1/21/rolls-royce-dawn-black-badge-2019-gcc-deal-2-161---91cad4979bc84787ac0517a7e5d524f8/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1299000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16070885": {
+    "id": "16070885",
+    "title": "KOENIGSEGG REGERA, 2019, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 11299000,
+    "make": "Koenigsegg",
+    "model": "Regera",
+    "year": "2019",
+    "kilometers": "800",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/koenigsegg/regera/2024/9/7/koenigsegg-regera-2019-fully-loaded-immacu-2-154---adbfb59cb43746dfa6a04cc7fc546277/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 11299000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16385900": {
+    "id": "16385900",
+    "title": "BENTLEY BENTAYGA V8S, 2023, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 819000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "2023",
+    "kilometers": "27000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2025/4/28/bentley-bentayga-v8s-2023-fully-loaded-exc-2-568---66e4728f46814a4988f0cc94ab9d5709/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 819000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16627637": {
+    "id": "16627637",
+    "title": "PAGANI HUAYRA BC RD, LIMITED EDITION 1 of 5, IMMACULATE CONDITION",
+    "price": 18999000,
+    "make": "Pagani",
+    "model": "Huayra",
+    "year": "2018",
+    "kilometers": "986",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/pagani/huayra/2025/11/7/pagani-huayra-bc-rd-limited-edition-1-of-5-2-166---780a6853b75446dbb606ab91dde03aa2/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 18999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16341386": {
+    "id": "16341386",
+    "title": "PORSCHE 718 GT4 RS SPIDER WEISSACH PACKAGE, 2024, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 699000,
+    "make": "Porsche",
+    "model": "718 Spyder",
+    "year": "2024",
+    "kilometers": "3000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718-spyder/2025/3/22/porsche-718-gt4-rs-spider-weissach-package-2-450---5cadf9c3086847e5afcc6b4ea5f05382/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16555533": {
+    "id": "16555533",
+    "title": "MERCEDES G900 BRABUS ROCKET, 2022, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2749000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "5000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2025/9/11/mercedes-g900-brabus-rocket-2022-fully-loa-2-523---63d9a123f03e479197d021b5dd2c2e71/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2749000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16341413": {
+    "id": "16341413",
+    "title": "FERRARI F12 TDF, 2017, LIMITED EDITION, IMMACULATE CONDITION",
+    "price": 5299000,
+    "make": "Ferrari",
+    "model": "F12",
+    "year": "2017",
+    "kilometers": "1700",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/f12/2025/3/22/ferrari-f12-tdf-2017-limited-edition-immac-2-634---4ac5dc39a1074ed0b5886ccda6a71036/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 5299000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16184802": {
+    "id": "16184802",
+    "title": "RANGE ROVER VOGUE AUTOBIOGRAPHY, 2022, GCC, WARRANTY AND SERVICE CONTRACT, EXCELLENT CONDITION",
+    "price": 679000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "kilometers": "44000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2024/12/1/range-rover-vogue-autobiography-2022-gcc-w-2-232---4c362a4447b04d4890a85a296d2b00c7/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 679000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16066597": {
+    "id": "16066597",
+    "title": "MCLAREN 675LT, 2016, GCC, FSH, EXCELLENT CONDITION",
+    "price": 749000,
+    "make": "McLaren",
+    "model": "675LT",
+    "year": "2016",
+    "kilometers": "8000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mclaren/675lt/2024/9/4/mclaren-675lt-2016-gcc-fsh-excellent-condi-2-372---354c186819844595aa2ab9d6ac7dbba4/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 749000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16649553": {
+    "id": "16649553",
+    "title": "PORSCHE CARRERA GT3RS WEISSACH, 2019, FULL CARBON, EXCELLENT CONDITION",
+    "price": 699000,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2019",
+    "kilometers": "17000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2025/11/25/porsche-carrera-gt3rs-weissach-2019-full-c-2-056---276c2913cd804747a13324ba34c7b714/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16482838": {
+    "id": "16482838",
+    "title": "MCLAREN ELVA, 2020, FULL OPTIONS, ZERO KM",
+    "price": 4199000,
+    "make": "McLaren",
+    "model": "Elva",
+    "year": "2020",
+    "kilometers": "100",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mclaren/elva/2025/7/13/mclaren-elva-2020-full-options-zero-km-2-695---14bca70fa57f4155be408146eee76c06/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 4199000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16551892": {
+    "id": "16551892",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE MANSORY, 2022, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1699000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2022",
+    "kilometers": "27000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/9/9/rolls-royce-cullinan-black-badge-mansory-2-2-823---196f52a820c547eb9dfda23112ea2e0a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15398614": {
+    "id": "15398614",
+    "title": "MERCEDES G63 AMG, 2021, FULL OPTIONS, DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 599000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2021",
+    "kilometers": "38000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2023/1/23/mercedes-g63-amg-2021-full-options-dealer--2-078---0f6963505114499bb6076db6b03f5839/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16638124": {
+    "id": "16638124",
+    "title": "RANGE ROVER VOGUE SV AUTOBIOGRAPHY, 2025, 5 YEARS DEALER WARRANTY, ZERO KM",
+    "price": 1099000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2025",
+    "kilometers": "33",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/11/16/range-rover-vogue-sv-autobiography-2025-5--2-062---0f430e5b6f7348b58a54ca8af1bd99db/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16596285": {
+    "id": "16596285",
+    "title": "RANGE ROVER VOGUE SE V8, 2023, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 429000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "19000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/10/13/range-rover-vogue-se-v8-2023-full-options--2-675---07c8d075b62d488d8672fd4e8e4c9864/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 429000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16073144": {
+    "id": "16073144",
+    "title": "LAMBORGHINI COUNTACH, 2022, FULLY LOADED, LIMITED EDITION, ZERO KM",
+    "price": 11399000,
+    "make": "Lamborghini",
+    "model": "Countach",
+    "year": "2022",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/countach/2024/9/9/lamborghini-countach-2022-fully-loaded-lim-2-961---082c522b802e44f2b27101b82b524c9a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 11399000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16666213": {
+    "id": "16666213",
+    "title": "RANGE ROVER VOGUE FIRST EDITION, 2022, GCC, FULL OPTIONS, EXCELLENT, EXCELLENT CONDITION",
+    "price": 459000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "kilometers": "70000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/12/10/range-rover-vogue-first-edition-2022-gcc-f-2-757---efd959effafb49eaa11a7c5b6c1ebf81/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 459000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16702535": {
+    "id": "16702535",
+    "title": "ROLLS ROYCE SPECTRE, 2025, GCC, DEALER WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 1999000,
+    "make": "Rolls-Royce",
+    "model": "Spectre",
+    "year": "2025",
+    "kilometers": "33",
+    "body_type": "Coupe",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/1/11/rolls-royce-spectre-2025-gcc-dealer-warran-2-945---e64fd44892424cd9a1a9fb1938b4f72b/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16505488": {
+    "id": "16505488",
+    "title": "ROLLS ROYCE DAWN BLACK BADGE ONYX, 2018, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1419000,
+    "make": "Rolls-Royce",
+    "model": "Dawn",
+    "year": "2018",
+    "kilometers": "13000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/dawn/2025/8/1/rolls-royce-dawn-black-badge-onyx-2018-ful-2-429---d6bf82a22f2947e28c2c1f469e66cc5b/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1419000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16682321": {
+    "id": "16682321",
+    "title": "ROLLS ROYCE GHOST MANSORY, 2021, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1499000,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": "2021",
+    "kilometers": "25000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2025/12/24/rolls-royce-ghost-mansory-2021-fully-loade-2-354---d6f4bf5d5a4140bfbf24139937513a4d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1499000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16745791": {
+    "id": "16745791",
+    "title": "PORSCHE TARGA 4 GTS, 2023, GCC, FSH, DEALER WARRANTY, IMMACULATE CONDITION",
+    "price": 729000,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2023",
+    "kilometers": "17000",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/2/16/porsche-targa-4-gts-2023-gcc-fsh-dealer-wa-2-252---c6c0a6ad850747bc937d473a0f6c91db/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 729000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16714336": {
+    "id": "16714336",
+    "title": "MERCEDES S580 MAYBACH, 2022? FULLY LOADED,, IMMACULATE CONDITION",
+    "price": 679000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2022",
+    "kilometers": "5000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/1/21/mercedes-s580-maybach-2022-fully-loaded-im-2-431---c7e53141fc4f451089e858ede337d233/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 679000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16745790": {
+    "id": "16745790",
+    "title": "BUGATTI VEYRON GRAND SPORT VITESSE, 2014, IMMACULATECONDITION,",
+    "price": 8999000,
+    "make": "Bugatti",
+    "model": "Veyron",
+    "year": "2014",
+    "kilometers": "18700",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bugatti/veyron/2026/2/16/bugatti-veyron-grand-sport-vitesse-2014-im-2-309---c6984cdcb3e84de589e2c2121fa46711/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 8999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16750802": {
+    "id": "16750802",
+    "title": "MERCEDES G63 AMG 6x6 BRABUS 900 XLP 1 OF 3, 2023, LIMITED EDITION, IMMACULATE CONDITION",
+    "price": 4799900,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2023",
+    "kilometers": "2500",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/2/20/mercedes-g63-amg-6x6-brabus-900-xlp-1-of-3-2-934---b8d4d22af2884f719ebc454260dbb3fa/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 4799900,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16748383": {
+    "id": "16748383",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2021, GCC, FSH, EXCELLENT CONDITION",
+    "price": 1199000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2021",
+    "kilometers": "25000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/2/18/rolls-royce-cullinan-black-badge-2021-gcc--2-599---b79e027143c94da1a795c8ab5e761304/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1199000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16745792": {
+    "id": "16745792",
+    "title": "MERCEDES GLE63 AMG COUPE, 2021, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 349000,
+    "make": "Mercedes-Benz",
+    "model": "GLE Coupe",
+    "year": "2021",
+    "kilometers": "22000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/2/16/mercedes-gle63-amg-coupe-2021-full-options-2-439---abc79d7ec58a49f0b62625a508ceb05e/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16746025": {
+    "id": "16746025",
+    "title": "MERCEDES G63 AMG BRABUS, 2021, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 699000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2021",
+    "kilometers": "13000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/2/16/mercedes-g63-amg-brabus-2021-full-options--2-565---ae20f154f8d74e06bf49d9831092afd6/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15691524": {
+    "id": "15691524",
+    "title": "MCLAREN SPEEDTAIL, 2021, LIMITED EDITION, ZERO KM",
+    "price": 9999000,
+    "make": "McLaren",
+    "model": "Speedtail",
+    "year": "2021",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mclaren/speedtail/2023/10/14/mclaren-speedtail-2021-limited-edition-zer-2-092---a35dbdb0f84343f382f1d26bc3f662d4/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 9999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16701951": {
+    "id": "16701951",
+    "title": "BUGATTI CHIRON SPORT, 2020, DEALER WARRANTY, FSH, IMMACULATE CONDITION",
+    "price": 12249000,
+    "make": "Bugatti",
+    "model": "Chiron",
+    "year": "2020",
+    "kilometers": "12500",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bugatti/chiron/2026/1/11/bugatti-chiron-sport-2020-dealer-warranty--2-228---aba0942d517b452d9701449e41e140d5/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 12249000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16362188": {
+    "id": "16362188",
+    "title": "MERCEDES G63 AMG 6X6, 2014, GCC, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 2249000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2014",
+    "kilometers": "27000",
+    "body_type": "Utility Truck",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2025/4/10/mercedes-g63-amg-6x6-2014-gcc-fully-loaded-2-108---a5869527f1004a7ca85fbc9047b0578d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2249000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16755775": {
+    "id": "16755775",
+    "title": "LAMBORGHINI REVUELTO, 2024, GCC, DEALER WARRANTY AND SERVICE CONTRACT, IMMACULATE CONDITION",
+    "price": 2299000,
+    "make": "Lamborghini",
+    "model": "Revuelto",
+    "year": "2024",
+    "kilometers": "9500",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/revuelto/2026/2/24/lamborghini-revuelto-2024-gcc-dealer-warra-2-992---8af0d74ace6549c3839bdeec9f0b1cd9/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2299000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16330286": {
+    "id": "16330286",
+    "title": "FERRARI SF90 SPIDER, 2022, FULL OPTIONS, IMMACULATE CONDITION",
+    "price": 1699000,
+    "make": "Ferrari",
+    "model": "SF90 Spider",
+    "year": "2022",
+    "kilometers": "4000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-spider/2025/3/15/ferrari-sf90-spider-2022-full-options-imma-2-442---79f32da76fd640b79af04650543a19ad/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16413119": {
+    "id": "16413119",
+    "title": "LINCOLN NAVIGATOR PRESIDENTIAL, 2021, GCC, FULLY LOADED, FSH, EXCELLENT CONDITION",
+    "price": 209000,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "year": "2021",
+    "kilometers": "80000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/navigator/2025/5/18/lincoln-navigator-presidential-2021-gcc-fu-2-337---89ed8bd6a3914df4b2d829ce55650828/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 209000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16754124": {
+    "id": "16754124",
+    "title": "FERRARI 812 GTS, 2023, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 1899000,
+    "make": "Ferrari",
+    "model": "812 GTS",
+    "year": "2023",
+    "kilometers": "7000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/812-gts/2026/2/23/ferrari-812-gts-2023-fully-loaded-immacula-2-877---5e55ea23720f4191969af654300829f0/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1899000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16662381": {
+    "id": "16662381",
+    "title": "ROLLS ROYCE CULLINAN, 2025, FULL OPTIONS, ZERO KM",
+    "price": 1999000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/12/6/rolls-royce-cullinan-2025-full-options-zer-2-061---57e7e0da58944663be7b85c9ade8111e/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16684206": {
+    "id": "16684206",
+    "title": "RANGE ROVER VOGUE V8 HSE, 2024, GCC, DEALER WARRANTY AND SERVICE CONTRACT, IMMACULATE CONDITION",
+    "price": 699000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2024",
+    "kilometers": "5000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/12/26/range-rover-vogue-v8-hse-2024-gcc-dealer-w-2-318---4c919f4311a048038f7c4bb459d1e11a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16713283": {
+    "id": "16713283",
+    "title": "ROLLS ROYCE CULLINAN MANSORY EMPEROR, 2025, FULLY LOADED, LIMITED EDITION",
+    "price": 4449000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/1/20/rolls-royce-cullinan-mansory-emperor-2025--2-049---30c9416f36444106998684263591e1e3/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 4449000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16560722": {
+    "id": "16560722",
+    "title": "MERCEDES AMG GT BRABUS ROCKET 900 1 OF 10, 2021, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1549000,
+    "make": "Mercedes-Benz",
+    "model": "AMG",
+    "year": "2021",
+    "kilometers": "14000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2025/9/16/mercedes-amg-gt-brabus-rocket-900-1-of-10--2-730---35a7216b02624509a684bb41df082f7a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1549000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16057679": {
+    "id": "16057679",
+    "title": "MERCEDES V250 VVIP, 2021, GCC, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 379000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2021",
+    "kilometers": "20000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2024/8/28/mercedes-v250-vvip-2021-gcc-full-options-e-2-907---1e0ac777773b48fa9993b73335d295eb/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 379000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16715665": {
+    "id": "16715665",
+    "title": "LAMBORGHINI URUS MANSORY, 2019, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 949000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2019",
+    "kilometers": "33000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/1/22/lamborghini-urus-mansory-2019-full-options-2-460---12ce5d44cdff45e2a1f80d077513eb3a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 949000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16715670": {
+    "id": "16715670",
+    "title": "PORSCHE MACAN GTS, 2017, GCC, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 129000,
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2017",
+    "kilometers": "86000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/1/22/porsche-macan-gts-2017-gcc-full-options-ex-2-565---0bb8e8a77e9d42ffa1b74efed5302b5d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 129000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16684205": {
+    "id": "16684205",
+    "title": "PORSCHE CAYENNE TURBO GT, 2022, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 499000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2022",
+    "kilometers": "54000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2025/12/26/porsche-cayenne-turbo-gt-2022-full-options-2-629---24a8984f44064e7eb8ea7af92024906d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 499000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16666224": {
+    "id": "16666224",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2025, GCC, DEALER WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2549000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2025",
+    "kilometers": "33",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/12/10/rolls-royce-cullinan-black-badge-2025-gcc--2-163---03e8cb9e3765434aa9e1500731aa45f0/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2549000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16660474": {
+    "id": "16660474",
+    "title": "TESLA MODEL S PLADE, 2023, GCC, 7 YEARS DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 289000,
+    "make": "Tesla",
+    "model": "Model S",
+    "year": "2023",
+    "kilometers": "16000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-s/2025/12/5/tesla-model-s-plade-2023-gcc-7-years-deale-2-430---0912deb2e16a4152bdea0b79ec54f1f8/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 289000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15179613": {
+    "id": "15179613",
+    "title": "MERCEDES G63 URBAN, 2020, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 899000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2020",
+    "kilometers": "34000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2022/6/24/mercedes-g63-urban-2020-full-options-excel-2-714---056859c5df1c4083975aa9c2fc17a124/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 899000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16660453": {
+    "id": "16660453",
+    "title": "FERRARI PORTOFINO, 2019, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 579000,
+    "make": "Ferrari",
+    "model": "Portofino",
+    "year": "2019",
+    "kilometers": "14000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/portofino/2025/12/5/ferrari-portofino-2019-full-options-excell-2-937---f0a969db474840d2acaff19746c0b9f3/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 579000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16330891": {
+    "id": "16330891",
+    "title": "ROLLS ROYCE CULLINAN DAWN MANSORY,",
+    "price": 1599000,
+    "make": "Rolls-Royce",
+    "model": "Dawn",
+    "year": "2021",
+    "kilometers": "32000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/dawn/2025/3/15/rolls-royce-cullinan-dawn-mansory-2-041---d4ce1bc660144466b8f7cc194110d43d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15358183": {
+    "id": "15358183",
+    "title": "BENTLEY GT W12 FIRSTEDITION, 2018, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 689000,
+    "make": "Bentley",
+    "model": "Continental",
+    "year": "2018",
+    "kilometers": "44000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2022/12/14/bentley-gt-w12-firstedition-2018-full-opti-2-915---fc0e2a0a1caf40a3a8ca3e8592153a48/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 689000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15498399": {
+    "id": "15498399",
+    "title": "MCLAREN 765LT SPIDER, 2022, GCC, DEALER WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 1999000,
+    "make": "McLaren",
+    "model": "765LT",
+    "year": "2022",
+    "kilometers": "0",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mclaren/765lt/2023/4/25/mclaren-765lt-spider-2022-gcc-dealer-warra-2-398---6ea623bf45274ab4a02dfec9971c11b5/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16337477": {
+    "id": "16337477",
+    "title": "FERRARI SF90 ATELIER SPIDER, 2023, SPECIAL ORDERED, ZERO KM",
+    "price": 2099000,
+    "make": "Ferrari",
+    "model": "SF90 Spider",
+    "year": "2023",
+    "kilometers": "0",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-spider/2025/3/19/ferrari-sf90-atelier-spider-2023-special-o-2-129---bebf994cdd654d7691001c005480a59d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16548874": {
+    "id": "16548874",
+    "title": "BENTLEY CONTINENTAL GTC FIRST EDITION, 2019, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 649000,
+    "make": "Bentley",
+    "model": "Continental",
+    "year": "2019",
+    "kilometers": "30000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2025/9/6/bentley-continental-gtc-first-edition-2019-2-168---469d724e3f3648b8af489f189ae7194c/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 649000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16452392": {
+    "id": "16452392",
+    "title": "ROLLS ROYCE GHOST, 2022, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1099000,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": "2022",
+    "kilometers": "16000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2025/6/19/rolls-royce-ghost-2022-fully-loaded-excell-2-392---a8139def508348f7823f054c1da7d08d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15838622": {
+    "id": "15838622",
+    "title": "FERRARI 296 ASSETTO FIRANO PACKAGE, 2024, GCC, ALTAYER WARRANTY  SERVICE CONTRACT, SPECIAL ORDERED",
+    "price": 1499000,
+    "make": "Ferrari",
+    "model": "296 GTB",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/296-gtb/2024/2/21/ferrari-296-setto-firano-package-2024-gcc--2-254---25cee40fe42b46e5a860c43cdd08639e/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1499000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15489091": {
+    "id": "15489091",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2022, GCC, DEALER WARRANTY, SPECIAL ORDERED",
+    "price": 1599000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2022",
+    "kilometers": "12000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2023/4/13/rolls-royce-cullinan-black-badge-2022-gcc--2-031---27fd0273060546de9be76f52b9f0db66/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15584203": {
+    "id": "15584203",
+    "title": "BENTLEY BENTAYGA FULL MANSORY, 2022. FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1599000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "2022",
+    "kilometers": "16000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2023/7/12/bentley-bentayga-full-mansory-2022-fully-l-2-146---13a2fea29f1e4e458adbdf5453befd8c/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16663557": {
+    "id": "16663557",
+    "title": "MERCEDES G63 AMG GOLDEN EDITION, 2024, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 899000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2024",
+    "kilometers": "15000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2025/12/8/mercedes-g63-amg-golden-edition-2024-full--2-171---27ea5498c1c24b67b7f7c656d6d830ae/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 899000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15310803": {
+    "id": "15310803",
+    "title": "MERCEDES G900 BRABUS 1 OF 10, 2020, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2349000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2020",
+    "kilometers": "3300",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2022/10/27/mercedes-g900-brabus-1-of-10-2020-fully-lo-2-883---1b5181c4435f47af8d4f79fbdc978baa/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16666110": {
+    "id": "16666110",
+    "title": "BENTLEY BENTAYGA W12 SPEED, 2022, GCC, DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 729000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "2022",
+    "kilometers": "53000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2025/12/10/bentley-bentayga-w12-speed-2022-gcc-dealer-2-894---00e1f502d18b44ddb8ec41e89d218d54/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 729000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15873979": {
+    "id": "15873979",
+    "title": "MERCEDES G900 BRABUS ROCKET LIMITED EDITION, 2022, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 3199000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "5900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2024/3/23/mercedes-g900-brabus-rocket-limited-editio-2-820---08f4978609284b4eb7f6751fb0047d38/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 3199000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16739844": {
+    "id": "16739844",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2026, GCC, WARRANTY AND SERVICE, ZERO KM, SPECIAL ORDERED",
+    "price": 2699000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2026",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/2/11/rolls-royce-cullinan-black-badge-2026-gcc--2-348---c3fd9ac410f741df84528f0fce6ec2e0/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16643156": {
+    "id": "16643156",
+    "title": "PORSCHE 718 GT4 RS SPYDER WEISSACH, 2024, FULL OPTIONS, ZERO KM",
+    "price": 669000,
+    "make": "Porsche",
+    "model": "718 Spyder",
+    "year": "2024",
+    "kilometers": "44",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718-spyder/2025/11/20/porsche-718-gt4-rs-spyder-weissach-2024-fu-2-526---a388830615a841b395c1a264e50dacb8/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 669000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16739843": {
+    "id": "16739843",
+    "title": "ROLLS ROYCE CULLINAN, 2026, GCC, DEALER WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2399000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2026",
+    "kilometers": "44",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/2/11/rolls-royce-cullinan-2026-gcc-dealer-warra-2-800---c049775dd8dc4fab897c1934ec3b28d5/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2399000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16702556": {
+    "id": "16702556",
+    "title": "MERCEDES G63 AMG, 2026, GCC, DEALER WARRANTY, ZERO KM",
+    "price": 1219000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2026",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/1/11/mercedes-g63-amg-2026-gcc-dealer-warranty--2-764---9a6a053541344efe935a53891a14feda/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1219000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16705694": {
+    "id": "16705694",
+    "title": "RANGE ROVER VOGUE V8 HSE, 2023, DEALER 5 YEARS WARRANTY, FSH, EXCELLENT CONDITION",
+    "price": 539000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "33000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/1/14/range-rover-vogue-v8-hse-2023-dealer-5-yea-2-007---770c63f5eff941a6bcb28e7c8dd168a6/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 539000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16610609": {
+    "id": "16610609",
+    "title": "FERRARI 12 CILINDRI, 2025, FULL CARBON, ZERO KM",
+    "price": 2099000,
+    "make": "Ferrari",
+    "model": "12Cilindri",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/12cilindri/2025/10/25/ferrari-12-cilindri-2025-full-carbon-zero--2-976---2169e75065174973896ed2fefe289996/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16719391": {
+    "id": "16719391",
+    "title": "FERRARI 488 PISTA SPIDER,  2021, FULL OPTIONS, IMMACULATE CONDITION",
+    "price": 2399000,
+    "make": "Ferrari",
+    "model": "488 Pista Spider",
+    "year": "2021",
+    "kilometers": "4200",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-pista-spider/2026/1/25/ferrari-488-pista-spider-2021-full-options-2-975---2432373e96694ebc9a549146a75f4d2e/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2399000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16739842": {
+    "id": "16739842",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2026, GCC, WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2649000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2026",
+    "kilometers": "33",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/2/11/rolls-royce-cullinan-black-badge-2026-gcc--2-046---46411ad66599452aa58e8167c85d35b3/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2649000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16560715": {
+    "id": "16560715",
+    "title": "ROLLS ROYCE CULLINAN, 2021, FULL OPTIONS, 2025 FACELIFT, EXCELLENT CONDITION",
+    "price": 1299000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2021",
+    "kilometers": "38000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/9/16/rolls-royce-cullinan-2021-full-options-202-2-977---60afd887f36148328892f7fd0899e524/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1299000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16713066": {
+    "id": "16713066",
+    "title": "LAMBORGHINI REVUELTO, 2024, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2349000,
+    "make": "Lamborghini",
+    "model": "Revuelto",
+    "year": "2024",
+    "kilometers": "1500",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/revuelto/2026/1/20/lamborghini-revuelto-2024-fully-loaded-imm-2-321---20b431341c5c478ea95e19abebae5d6f/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16702547": {
+    "id": "16702547",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2026, GCC, WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2649000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2026",
+    "kilometers": "44",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/1/11/rolls-royce-cullinan-black-badge-2026-gcc--2-019---1c1e7e0568464235919e6c986cd0bdd8/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2649000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16760494": {
+    "id": "16760494",
+    "title": "MERCEDES CLA 250, 2025, GCC, DEALER WARRANTY AND SERVICE CONTRACT, EXCELLENT CONDITION",
+    "price": 189000,
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "2025",
+    "kilometers": "9000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla/2026/2/28/mercedes-cla-250-2025-gcc-dealer-warranty--2-959---161992fb0cc246f98e03f105ace140a1/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 189000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16560718": {
+    "id": "16560718",
+    "title": "RANGE ROVER VOGUE AUTOBIOGRAPHY, 2023, DEALER WARRANTY, OPTIONS, EXCELLENT CONDITION",
+    "price": 689000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "23000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/9/16/range-rover-vogue-autobiography-2023-deale-2-078---2098cdd3246d4ea89c8e2f86bdfd647c/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 689000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16769943": {
+    "id": "16769943",
+    "title": "MERCEDES SL43 AMG, 2023, FULL OPTIONS, IMMACULATE CONDITION",
+    "price": 349000,
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": "2023",
+    "kilometers": "4000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sl-class/2026/3/10/mercedes-sl43-amg-2023-full-options-immacu-2-611---b3f06a2d867049218d848a78e2c0e0c9/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16721815": {
+    "id": "16721815",
+    "title": "FERRARI 488 PISTA SPIDER, 2021, GCC,  FULLY LOADED,SPECIAL ORDERED, IMMACULATE CONDITION",
+    "price": 2599000,
+    "make": "Ferrari",
+    "model": "488 Pista Spider",
+    "year": "2021",
+    "kilometers": "2400",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-pista-spider/2026/1/27/ferrari-488-pista-spider-2021-fully-loaded-2-318---a2ba854570e1453d9539dbac46be3378/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16721826": {
+    "id": "16721826",
+    "title": "FERRARI PUROSANGUE, 2024, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 1949000,
+    "make": "Ferrari",
+    "model": "Purosangue",
+    "year": "2024",
+    "kilometers": "15000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/purosangue/2026/1/27/ferrari-purosangue-2024-full-options-excel-2-583---8543db9a35dd4c3485538a8bc08d1ab2/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1949000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16769946": {
+    "id": "16769946",
+    "title": "MERCEDES G63 BRABUS XLP 900 ROCKET 1 OF 10, 2023, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2699000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2023",
+    "kilometers": "2200",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/10/mercedes-g63-brabus-xlp-900-rocket-1-of-10-2-914---aef67491f89c48d39c10cb3469479c07/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16760499": {
+    "id": "16760499",
+    "title": "BMW M3 MANHART 1 OF1 GTR, 2021, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 549000,
+    "make": "BMW",
+    "model": "M3",
+    "year": "2021",
+    "kilometers": "58000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m3/2026/2/28/bmw-m3-manhart-1-of1-gtr-2021-full-options-2-611---89d61d59f9de41beaffcd8aa297a50be/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 549000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16769949": {
+    "id": "16769949",
+    "title": "MERCEDES V300 VVIP, 2025, GCC, FULLY LOADED, 3 YEARS WARRANTY, ZERO KM",
+    "price": 779000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/3/10/mercedes-v300-vvip-2025-gcc-fully-loaded-3-2-640---6cc6fec6c60f494092045b8ab22a3d79/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 779000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16769950": {
+    "id": "16769950",
+    "title": "LAMBORGHINI URUS PERFORMANTE, 2024, GCC,  DEALER WARRANTY AND SERVICE CONTRACT, IMMACULATE CONDITION",
+    "price": 1449000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2024",
+    "kilometers": "2400",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/3/10/lamborghini-urus-performante-2024-gcc-deal-2-777---7b25f7a430dc4688bf5c4a24ebd18486/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1449000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16721780": {
+    "id": "16721780",
+    "title": "LAMBORGHINI URUS PERFORMANTE, 2023, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 1129000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2023",
+    "kilometers": "28000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/1/27/lamborghini-urus-performante-2023-full-opt-2-223---7dac3e1fd58b42f29a85be74c007aaf6/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1129000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16730040": {
+    "id": "16730040",
+    "title": "MERCEDES SLS AMG BLACK SERIES, 2013, IMMACULATE CONDITION",
+    "price": 3349000,
+    "make": "Mercedes-Benz",
+    "model": "SLS",
+    "year": "2013",
+    "kilometers": "1000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sls/2026/2/3/mercedes-sls-amg-black-series-2013-immacul-2-237---7db6e8e4deca43d2af058a7cac852432/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 3349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16725700": {
+    "id": "16725700",
+    "title": "FERRARI 488 PISTA, 2020, GCC, FSH, IMMACULATE CONDITION",
+    "price": 1749000,
+    "make": "Ferrari",
+    "model": "488 Pista",
+    "year": "2020",
+    "kilometers": "6200",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-pista/2026/1/30/ferrari-488-pista-2020-gcc-fsh-immaculate--2-879---6a3ad67c788f4772a1d50f4b7a991183/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1749000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16730050": {
+    "id": "16730050",
+    "title": "ROLLS ROYCE WRAITH MANSORY PALM EDITION, 2019, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2199000,
+    "make": "Rolls-Royce",
+    "model": "Wraith",
+    "year": "2019",
+    "kilometers": "5900",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/wraith/2026/2/3/rolls-royce-wraith-mansory-palm-edition-20-2-622---3c5c0dfd3bf145a48b7ca45f785d27d2/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2199000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16730039": {
+    "id": "16730039",
+    "title": "ROLLS ROYCE GHOST BLACK BADGE, 2026, GCC, WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2099000,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": "2026",
+    "kilometers": "44",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2026/2/3/rolls-royce-ghost-black-badge-2026-gcc-war-2-651---40bbcb3d3c8146559ab142a2b697dd00/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16760496": {
+    "id": "16760496",
+    "title": "MERCEDES G800 BRABUS, 2025, FULLY LOADED, ZERO KM",
+    "price": 1699000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/2/28/mercedes-g800-brabus-2025-fully-loaded-zer-2-766---583e85f6599241178b4dc1505629eff1/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16721810": {
+    "id": "16721810",
+    "title": "MERCEDES G800 FULL BRABUS, 2025, FULLY LOADED, SPECIAL ORDERED",
+    "price": 1999000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/1/27/mercedes-g800-full-brabus-2025-fully-loade-2-527---3588fcb9a213417e92aba14baa3e6ff7/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16730044": {
+    "id": "16730044",
+    "title": "ROLLS ROYCE CULLINAN BLACK BADGE, 2022, GCC, DEALER WARRANTY AND SERVICE CONTRACT, EXCELLENT CONDITI",
+    "price": 1399000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2022",
+    "kilometers": "16000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/2/3/rolls-royce-cullinan-black-badge-2022-gcc--2-608---3124e9b329084c8db14c385b39aea2b0/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1399000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16730042": {
+    "id": "16730042",
+    "title": "ROLLS ROYCE PHANTOM, 2026, GCC, WARRANTY AND SERVICE CONTRACT, ZERO KM",
+    "price": 2699000,
+    "make": "Rolls-Royce",
+    "model": "Phantom",
+    "year": "2026",
+    "kilometers": "44",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom/2026/2/3/rolls-royce-phantom-2026-gcc-warranty-and--2-206---187b2c003a9d49b998b761ea0f6336cb/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2699000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16763998": {
+    "id": "16763998",
+    "title": "PORSCHE CARRERA TURBO S, 2025, GCC, WARRANTY TILL 2030",
+    "price": 1149000,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2025",
+    "kilometers": "44",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/3/4/porsche-carrera-turbo-s-2025-gcc-warranty--2-360---2e9dc6d78bf24a289492c1859fa00dd4/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1149000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16760495": {
+    "id": "16760495",
+    "title": "CADILLAC ESCALADE PREMIUM SPORT, 2023, GCC, DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 339000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "2023",
+    "kilometers": "30000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/2/28/cadillac-escalade-premium-sport-2023-gcc-d-2-802---014984c5901e4319974e554e8b8814d4/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 339000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16555497": {
+    "id": "16555497",
+    "title": "MERCEDES SLR, 2004, IMMACULATE CONDITION",
+    "price": 1599000,
+    "make": "Mercedes-Benz",
+    "model": "SLR",
+    "year": "2004",
+    "kilometers": "5500",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slr/2025/9/11/mercedes-slr-2004-immaculate-condition-2-527---83f43782061e44fca8da86f74edd1e12/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1599000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16196061": {
+    "id": "16196061",
+    "title": "MERCEDES G400 DIESEL, 2024, FULL OPTIONS, ZERO KM",
+    "price": 729000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2024/12/11/mercedes-g400-diesel-2024-full-options-zer-2-001---e8efcf7e08c94821a19c2a32a214795f/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 729000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16471161": {
+    "id": "16471161",
+    "title": "LAND ROVER EVOQUE, 2020, GCC, EXCELLENT CONDITION",
+    "price": 109000,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": "2020",
+    "kilometers": "128000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2025/7/3/land-rover-evoque-2020-gcc-excellent-condi-2-148---75ef33a57b27410c900ffe46856747a2/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 109000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16426301": {
+    "id": "16426301",
+    "title": "ROLLS ROYCE CULLINAN FULL MANSORY, 2023, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 1999000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2023",
+    "kilometers": "1900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/5/28/rolls-royce-cullinan-full-mansory-2023-ful-2-733---46cfa933504546e78b543b01e8137316/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15824370": {
+    "id": "15824370",
+    "title": "FERRARI 296 GTS, FSH, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 1249000,
+    "make": "Ferrari",
+    "model": "296 GTS",
+    "year": "2023",
+    "kilometers": "21000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/296-gts/2024/2/8/ferrari-296-gts-2021-fsh-full-options-exce-2-796---9f95bd8aff5f4f718ac8f9488f474f59/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1249000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15743133": {
+    "id": "15743133",
+    "title": "MERCEDES AMG GT 63 4 DOORS E PREFORMANCE, 2023, FULL OPTIONS,  IMMACULATE CONDITION",
+    "price": 899000,
+    "make": "Mercedes-Benz",
+    "model": "AMG",
+    "year": "2023",
+    "kilometers": "2000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2023/11/29/mercedes-amg-gt-63-4-doors-e-preformance-2-2-219---8d0ddb8e3621433b84aed55d727a274b/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 899000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15508920": {
+    "id": "15508920",
+    "title": "BENTLEY GT W12, 2019, GCC, FSH, DEALER WARRANTY, EXCELLENT CONDITION",
+    "price": 499000,
+    "make": "Bentley",
+    "model": "Continental",
+    "year": "2019",
+    "kilometers": "33000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2023/5/4/bentley-gt-w12-2019-gcc-fsh-dealer-warrant-2-899---dae8f65a912e4486a5414f62a13e316b/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 499000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16647033": {
+    "id": "16647033",
+    "title": "LAND ROVER DEFENDER OCTA, 2025, FULL OPTIONS, 5 YEARS DEALER WARRANTY, ZERO KM",
+    "price": 799000,
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": "2025",
+    "kilometers": "33",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2025/11/23/land-rover-defender-octa-2025-full-options-2-076---040d627e63b14c7583e274e27a85652f/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 799000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16219340": {
+    "id": "16219340",
+    "title": "LAMBORGHINI HURACAN EVO ROADSTER, 2024, FULL OPTIONS, ZERO KM",
+    "price": 1379000,
+    "make": "Lamborghini",
+    "model": "Huracan",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/huracan/2024/12/30/lamborghini-huracan-evo-roadster-2024-full-2-803---6022118fe71b46a49a451936c6b35cb5/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1379000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16168349": {
+    "id": "16168349",
+    "title": "PORSCHE CARRERA TURBO S BRABUS, 2022, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 1249000,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2022",
+    "kilometers": "7900",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2024/11/18/porsche-carrera-turbo-s-brabus-2022-fully--2-707---a25a2aac60c643018028cfd289e2e47a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1249000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16219350": {
+    "id": "16219350",
+    "title": "MERCEDES G800 FULL BRABUS, 2022, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 849000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "76000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2024/12/30/mercedes-g800-full-brabus-2022-fully-loade-2-425---03aba31b20e444aca071f5fa7284c829/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 849000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16357956": {
+    "id": "16357956",
+    "title": "MERCEDES G800 BRABUS, 2019, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 799000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class Brabus",
+    "year": "2019",
+    "kilometers": "47000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class-brabus/2025/4/7/mercedes-g800-brabus-2019-full-options-exc-2-951---fea6802ad44f49238b4a26b8c9b7ce85/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 799000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15242902": {
+    "id": "15242902",
+    "title": "MERCEDES G800 BRABUS, 2022, FULL OPTIONS, STARLIGHTS, ZERO KM",
+    "price": 1799000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2022/8/25/mercedes-g800-brabus-2022-full-options-sta-2-140---b8e0e8d8bc3a4a22870b3c936bbceb72/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1799000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16388611": {
+    "id": "16388611",
+    "title": "ROLLS ROYCE CULLINAN MANSORY, 2021, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 1399000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2021",
+    "kilometers": "43000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/4/30/rolls-royce-cullinan-mansory-2021-full-opt-2-902---c6250b5901fa4682aca09c8bf84a7998/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1399000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16398924": {
+    "id": "16398924",
+    "title": "MERCEDES AMG GT BLACK SERIES, 2021, BIG STARS, IMMACULATE CONDITION",
+    "price": 1949000,
+    "make": "Mercedes-Benz",
+    "model": "AMG",
+    "year": "2021",
+    "kilometers": "2400",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2025/5/7/mercedes-amg-gt-black-series-2021-big-star-2-313---e29dab0e10234f9ea22cdfd2ef3ae445/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1949000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16681807": {
+    "id": "16681807",
+    "title": "RANGE ROVER VOGUE SV AUTOBIOGRAPHY, 2025, 5 YEARS DEALER WARRANTY, ZERO KM",
+    "price": 1099000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2025",
+    "kilometers": "55",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/12/24/range-rover-vogue-sv-autobiography-2025-5--2-870---18375f8c7f5140d7b8da5163f224a886/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15923498": {
+    "id": "15923498",
+    "title": "FERRARI ROMA FULL MANSORY, 2022, FULL OPTIONS, ZERO KM",
+    "price": 1999000,
+    "make": "Ferrari",
+    "model": "Roma",
+    "year": "2022",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/roma/2024/5/10/ferrari-roma-full-mansory-2022-full-option-2-624---f9c74b40c496419cb28ecd52e306c09e/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16553207": {
+    "id": "16553207",
+    "title": "MERCEDES AMG GT BLACK SERIES PROJECT ONE EDITION, 2021, LIMITED EDITION, IMMACULATE CONDITION",
+    "price": 2099000,
+    "make": "Mercedes-Benz",
+    "model": "AMG",
+    "year": "2021",
+    "kilometers": "800",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2025/9/10/mercedes-amg-gt-black-series-project-one-e-2-969---bd3266c57c8c4c9894cb8f07badd1fd5/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2099000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16643154": {
+    "id": "16643154",
+    "title": "ROLLS ROYCE SPECTRE BLACK BADGE, 2026, FULLY LOADED, ZERO KM",
+    "price": 1999000,
+    "make": "Rolls-Royce",
+    "model": "Spectre",
+    "year": "2026",
+    "kilometers": "55",
+    "body_type": "Coupe",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2025/11/20/rolls-royce-spectre-black-badge-2026-fully-2-688---82b23d4412b146f39cc9c010aaf55862/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16277567": {
+    "id": "16277567",
+    "title": "BENTLEY BENTAYGA V8 MANSORY, 2021, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 1549000,
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": "2021",
+    "kilometers": "9000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2025/2/13/bentley-bentayga-v8-mansory-2021-fully-loa-2-441---cc55d41efd57486d8ee2cc81e4c00164/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1549000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16277572": {
+    "id": "16277572",
+    "title": "MERCEDES SLR 722, 2007, FULL OPTIONS, IMMACULATE CONDITION",
+    "price": 2349000,
+    "make": "Mercedes-Benz",
+    "model": "SLR",
+    "year": "2007",
+    "kilometers": "16000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slr/2025/2/13/mercedes-slr-722-2007-full-options-immacul-2-252---27ba9e269c0d47d880a14de726d4e9ad/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2349000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16555514": {
+    "id": "16555514",
+    "title": "FERRARI 812 COMPETIZIONE, 2023, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 5499000,
+    "make": "Ferrari",
+    "model": "812",
+    "year": "2023",
+    "kilometers": "1000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/812/2025/9/11/ferrari-812-competizione-2023-fully-loaded-2-419---3997eb96c1e74ad984c80b6280570c6c/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 5499000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16299739": {
+    "id": "16299739",
+    "title": "ROLLS ROYCE WRAITH, 2018, GCC, FSH DEALER SERVICE CONTRACT, EXCELLENT CONDITION",
+    "price": 819000,
+    "make": "Rolls-Royce",
+    "model": "Wraith",
+    "year": "2018",
+    "kilometers": "50000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/wraith/2025/3/1/rolls-royce-wraith-2018-gcc-fsh-dealer-ser-2-270---f2fb48d901d042a48e03521c73bdb237/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 819000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16520466": {
+    "id": "16520466",
+    "title": "FERRARI 296 GTB, FULL MANSORY, 2022, FULL OPTIONS, ZERO KM",
+    "price": 1899000,
+    "make": "Ferrari",
+    "model": "296 GTB",
+    "year": "2022",
+    "kilometers": "55",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/296-gtb/2025/8/14/ferrari-296-gtb-full-mansory-2022-full-opt-2-617---94fe4f027ee84e499120b3b939ac3f6f/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1899000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16555581": {
+    "id": "16555581",
+    "title": "FERRARI SF90 SPIDER MANSORY F9XX, 2022, FULLY LOADED, IMMACULATE CONDITION",
+    "price": 2999000,
+    "make": "Ferrari",
+    "model": "SF90 Spider",
+    "year": "2022",
+    "kilometers": "500",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Hybrid",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-spider/2025/9/11/ferrari-sf90-spider-mansory-f9xx-2022-full-2-010---76586c3d32eb4c739ddd5c4fb8998486/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 2999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15658128": {
+    "id": "15658128",
+    "title": "FERRARI MONZA SP1, 2021, LIMITED EDITION, ZERO KM",
+    "price": 12999000,
+    "make": "Ferrari",
+    "model": "Other",
+    "year": "2021",
+    "kilometers": "0",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/other/2023/9/16/ferrari-monza-sp1-2021-limited-edition-zer-2-750---4ce0d00dd96146dcae62a1c230c66e32/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 12999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16626445": {
+    "id": "16626445",
+    "title": "FERRARI LA FERRARI APERTA, 2017, GCC SPEC, LIMITED EDITION 1 of 210",
+    "price": 23999000,
+    "make": "Ferrari",
+    "model": "La Ferrari Aperta",
+    "year": "2017",
+    "kilometers": "229",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Hybrid",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/la-ferrari-aperta/2025/11/6/ferrari-la-ferrari-aperta-2017-gcc-spec-li-2-398---6fb6f75c1f6a4c2d8a820e13a540a51f/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 23999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16168326": {
+    "id": "16168326",
+    "title": "AUDI RS6, 2021, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 419000,
+    "make": "Audi",
+    "model": "S6/RS6",
+    "year": "2021",
+    "kilometers": "33000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs6/2024/11/18/audi-rs6-2021-full-options-excellent-condi-2-260---fd392a2bacde4cfb996741bd4a900f76/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 419000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "15217112": {
+    "id": "15217112",
+    "title": "MERCEDES G800 BRABUS, 2021, FULL OPTIONS, ZERO KM",
+    "price": 1149000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2021",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2022/8/1/mercedes-g800-brabus-2021-full-options-zer-2-306---3b9cdbe53abb4b27b5fd76b416f17858/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1149000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "14855529": {
+    "id": "14855529",
+    "title": "MERCEDES GT AMG BLACK SERIES, 2021, GCC, ZERO KM",
+    "price": 1999000,
+    "make": "Mercedes-Benz",
+    "model": "AMG",
+    "year": "2021",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2021/7/6/mercedes-gtr-black-series-2021-zero-km-2-391---887c3d4514814310bdebc500d625d99d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16555767": {
+    "id": "16555767",
+    "title": "LAMBORGHINI URUS MANSORY, 2019, GCC, FULL OPTIONS, EXCELLENT CONDITION",
+    "price": 949000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2019",
+    "kilometers": "36000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2025/9/12/lamborghini-urus-mansory-2019-gcc-full-opt-2-895---ab215eb5f8564b008049f56be43765c0/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 949000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16627615": {
+    "id": "16627615",
+    "title": "BUGATTI CHIRON PUR SPORT GRAND PRIX 1 OF 3 IN THE WORLD, 2024, FULLY LOADED",
+    "price": 24999000,
+    "make": "Bugatti",
+    "model": "Chiron",
+    "year": "2024",
+    "kilometers": "1235",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bugatti/chiron/2025/11/7/bugatti-chiron-pur-sport-grand-prix-1-of-3-2-102---8abc95390dd24bab94a90342840e740d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 24999000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16638127": {
+    "id": "16638127",
+    "title": "AUDI RS6 ABT LIMITED EDITION 1 OF 30, 2023, FULLY LOADED, EXCELLENT CONDITION",
+    "price": 579000,
+    "make": "Audi",
+    "model": "S6/RS6",
+    "year": "2023",
+    "kilometers": "27000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs6/2025/11/16/audi-rs6-abt-limited-edition-1-of-30-2023--2-965---724251a6b8e543a88c30021b354f2ed1/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 579000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16638126": {
+    "id": "16638126",
+    "title": "RANGE ROVER VOGUE AUTOBIOGRAPHY, 2025, 5 YEARS DEALER WARRANTY, ZERO KM",
+    "price": 839000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2025",
+    "kilometers": "44",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/11/16/range-rover-vogue-autobiography-2025-5-yea-2-107---411b8262f5c647f9ae0f84d2db2484da/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 839000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16600800": {
+    "id": "16600800",
+    "title": "Porsche 911 GT3 (992.2) | Lease To Own | Weissach Package | PCCB I Crypto Friendly.",
+    "price": 1199990,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2025/10/17/porsche-911-gt3-9922-lease-to-own-exclusiv-2-831---21ac0500e1ba4b22900b17ea2b7906bc/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1199990,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16692693": {
+    "id": "16692693",
+    "title": "Ferrari SF90 Stradale | Assetto Fiorano Pack | GCC Spec | Factory Warranty  Service",
+    "price": 1470000,
+    "make": "Ferrari",
+    "model": "SF90 Stradale",
+    "year": "2023",
+    "kilometers": "4700",
+    "body_type": "Coupe",
+    "fuel_type": "Hybrid",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-stradale/2026/1/3/ferrari-sf90-stradale-assetto-fiorano-pack-2-431---9ad238000a5c4a5298a4630c9293b014/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 1470000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16652231": {
+    "id": "16652231",
+    "title": "2011 \u2013 E350  AMG - FULL OPTIONS - LOW MILEAGE  BLACK INSIDE - IMMACULATE CONDITION \u2013 ONLY 95,000 KM",
+    "price": 45000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2011",
+    "kilometers": "95000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2025/11/27/2011-e350-amg-full-options-low-mileage-bla-2-944---ea5be32f6a764ac4ac66d426040a06a9/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16770090": {
+    "id": "16770090",
+    "title": "LAND ROVER RANGE ROVER EVOUGUE FULL OPTION GCC SPECS SINGLE OWNER ORGINAL PAINT",
+    "price": 28000,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": "2015",
+    "kilometers": "249000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/3/10/land-rover-range-vover-evougue-full-option-2-284---3c95b71ae7014eed9379abc725c7e7f6/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 28000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16567584": {
+    "id": "16567584",
+    "title": "2012- S350 AMG - FULL OPTIONS -LOW MILEAGE- BLACK INSIDE - IMMACULATE CONDITION - ONLY 48,000 KM",
+    "price": 60000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2012",
+    "kilometers": "48000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2025/9/21/2012-s350-amg-full-options-low-mileage-bla-2-775---346ced0aab9640808b26b8a405515caf/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 60000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16609906": {
+    "id": "16609906",
+    "title": "2013-AUDI A5 S-LINE FULL OPTIONS -LOW MILEAGE-BEIGE INSIDE - IMMACULATE CONDITION - ONLY 125,000 KM",
+    "price": 40000,
+    "make": "Audi",
+    "model": "A5",
+    "year": "2013",
+    "kilometers": "125000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2025/10/24/2013-audi-a5-s-line-full-options-low-milea-2-607---94af11ac61874ebbb5af0ee63c10b237/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 40000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16713547": {
+    "id": "16713547",
+    "title": "2016 - VW TIGUAN - FULL OPTIONS - LOW MILEAGE-BEIGE INSIDE - IMMACULATE CONDITION \u2013 ONLY 39,000 KM",
+    "price": 50000,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": "2016",
+    "kilometers": "39000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/1/20/2016-vw-tiguan-full-options-low-mileage-be-2-891---c721e4f551934b8295c6f52561767dc7/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 50000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16727749": {
+    "id": "16727749",
+    "title": "AUTOBIOGRAPHY RR VOGUE  || GCC II FULLY LOADED I| PANORAMIC I| SCREENS || LUXURY INTERIOR",
+    "price": 188000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2019",
+    "kilometers": "79000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/1/31/autobiography-rr-vogue-2-717---b0d3738f91d048da868998a84ddf44d7/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 188000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16751861": {
+    "id": "16751861",
+    "title": "AMG ELITE MERCEDES G63 V8 || 2020 FACELIFT || TOP RANGE ||  GCC || LUXURY INTERIOR || ACCIDENTS FREE",
+    "price": 229000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2018",
+    "kilometers": "100000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/2/21/amg-elite-mercedes-g63-v8-engine-top-range-2-844---aa7dd5144b4144dfb65f2d3b44cdddcb/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 229000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16714266": {
+    "id": "16714266",
+    "title": "RANGE ROVER SPORT AUTOBIOGRAPHY || TOP RANGE ||ACCIDENTS FREE || VERY NEAT || PANORAMIC || LOW MILES",
+    "price": 188000,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2020",
+    "kilometers": "99000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/1/20/range-rover-sport-2-156---3fd8171c19a64fee89a36b0a84da3d7a/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 188000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16223473": {
+    "id": "16223473",
+    "title": "UNIQUE Mini COUNTRYMAN JOINS COOPER WORKS || ACCIDENT FREE || GCC  || PANORAMIC ROOF",
+    "price": 49000,
+    "make": "MINI",
+    "model": "Countryman",
+    "year": "2017",
+    "kilometers": "109000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/countryman/2025/1/3/beautiful-2-116---e45ce59b8de44cb69fce525ac2925816/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16703104": {
+    "id": "16703104",
+    "title": "2025 BYD DESTROYER 05 1.5L PLUG IN HYBRID",
+    "price": 42000,
+    "make": "BYD",
+    "model": "Destroyer 05",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/destroyer-05/2026/1/12/2025-byd-destroyer-05-15l-plug-in-hybrid-2-637---31414687b34d4e0a8fa6ec7b2e0e4656/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 42000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16734277": {
+    "id": "16734277",
+    "title": "2025 TOYOTA COROLLA 1.8L HYBRID",
+    "price": 54000,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/2/6/2025-toyota-corolla-18l-hybrid-2-075---ab0681c6efce46d49726ebdf780f5fb9/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 54000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16754884": {
+    "id": "16754884",
+    "title": "2014 Infiniti QX50,Luxury, Gcc",
+    "price": 19500,
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": "2014",
+    "kilometers": "216000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/2/23/2014-infiniti-qx50luxury-gcc-2-514---2edd6cd3be0448828b808125d4f3e9e7/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 19500,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16674488": {
+    "id": "16674488",
+    "title": "2016 Chevrolet Trax LT, Gcc",
+    "price": 14000,
+    "make": "Chevrolet",
+    "model": "Trax",
+    "year": "2016",
+    "kilometers": "230000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2025/12/16/2016-chevrolet-trax-lt-gcc-2-660---c8e871408748471fabb9dc757fc91f8d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 14000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16740902": {
+    "id": "16740902",
+    "title": "2016 VW Passat, Top Range gcc",
+    "price": 17000,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2016",
+    "kilometers": "211000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/2/11/2016-vw-passat-top-range-gcc-2-564---c69a35f297de42b9a8a705a1a6d94794/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 17000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16742615": {
+    "id": "16742615",
+    "title": "2018 CLA 250 4MATlC, Gcc",
+    "price": 54000,
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "2018",
+    "kilometers": "123000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla/2026/2/13/2018-cla-250-4matlc-gcc-2-524---220b9248a3b9488a96d5c93335c44542/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 54000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16746232": {
+    "id": "16746232",
+    "title": "FORD EDGE SPORT FULL OPTION GCC SPECS SINGLE OWNER ORIGINAL PAINT",
+    "price": 19500,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2013",
+    "kilometers": "199800",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/2/16/ford-edge-sport-full-option-gcc-specs-sing-2-514---184392b08a4f498fa7b510e91b109ec4/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 19500,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16770072": {
+    "id": "16770072",
+    "title": "2015 VOLVO S80,Full Service history from Agency",
+    "price": 16000,
+    "make": "Volvo",
+    "model": "S80",
+    "year": "2015",
+    "kilometers": "354000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/s80/2026/3/10/2015-volvo-s80full-service-history-from-ag-2-909---52cbecf225dd4f4e9defe2207731d759/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 16000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16602229": {
+    "id": "16602229",
+    "title": "JEEP WRANGLER GCC SPECS MANUAL GEAR SINGLE OWNER ORIGINAL PAINT FULL SERVICE HISTORY AVAILABLE",
+    "price": 39000,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2017",
+    "kilometers": "252544",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2025/10/18/jeep-wrangler-gcc-specs-manual-gear-single-2-836---a3e5e45f74fb4362b69381503965595d/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 39000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16703954": {
+    "id": "16703954",
+    "title": "JEEP WRANGLER SPORT FULL OPTION GCC SPECS SINCE OWNER ORGINAL PAINT",
+    "price": 65000,
+    "make": "Jeep",
+    "model": "Wrangler Unlimited",
+    "year": "2018",
+    "kilometers": "164000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler-unlimited/2026/1/12/jeep-wrangler-sport-full-option-gcc-specs--2-201---3f6d8d6f3cb3406fafc71839599a18f6/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 65000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16726568": {
+    "id": "16726568",
+    "title": "VOLKSWAGEN E-GOLF FULL OPTION SINGLE OWNER ORIGINAL PAINT FULL SERVICE HISTORY FROM AL NABOODA",
+    "price": 36000,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": "2020",
+    "kilometers": "106000",
+    "body_type": "Hatchback",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf/2026/1/30/volkswagen-e-golf-full-option-single-owner-2-086---272108a9a2da4265ae782085a50c132c/",
+    "first_seen": "2026-03-10T08:39:30Z",
+    "prices": [
+      {
+        "price": 36000,
+        "date": "2026-03-10T08:39:30Z"
+      }
+    ],
+    "date": "2026-03-10"
   }
 }
