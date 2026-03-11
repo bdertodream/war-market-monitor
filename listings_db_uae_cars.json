@@ -18868,5 +18868,71 @@
       }
     ],
     "date": "2026-03-10"
+  },
+  "16445172": {
+    "id": "16445172",
+    "title": "Suzuki Swift Hybrid,GCC,GLX ,Full Option , 2025",
+    "price": 49500,
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Hatchback",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/swift/2025/6/13/gcc-2025-suzuki-swift-hybrid-glx-full-opti-2-378---6176132b45bb45768ed2b2b67dd4d3a8/",
+    "first_seen": "2026-03-11T01:17:26Z",
+    "prices": [
+      {
+        "price": 49500,
+        "date": "2026-03-11T01:17:26Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16698914": {
+    "id": "16698914",
+    "title": "Elantra Premium Full Option With Radar",
+    "price": 56500,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/8/elantra-premium-full-option-with-radar-2-347---90e5d666d240494d86602f70846a82af/",
+    "first_seen": "2026-03-11T01:17:26Z",
+    "prices": [
+      {
+        "price": 56500,
+        "date": "2026-03-11T01:17:26Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16750443": {
+    "id": "16750443",
+    "title": "!! 2025 !! CADILLAC | ESCALADE | SPORT | GCC | BLACK EDITION",
+    "price": 485000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "2025",
+    "kilometers": "100",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/2/19/2025-cadillac-escalade-sport-gcc-under-del-2-467---ba9fe5b5e2514856b97f25efcf86b661/",
+    "first_seen": "2026-03-11T01:17:26Z",
+    "prices": [
+      {
+        "price": 485000,
+        "date": "2026-03-11T01:17:26Z"
+      }
+    ],
+    "date": "2026-03-11"
   }
 }

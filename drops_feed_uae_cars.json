@@ -1,8 +1,8 @@
 {
-  "total_tracked": 857,
+  "total_tracked": 860,
   "total_drops": 1,
-  "total_new": 857,
-  "last_updated": "2026-03-10T23:27:52Z",
+  "total_new": 860,
+  "last_updated": "2026-03-11T01:17:26Z",
   "drops": [
     {
       "id": "16770596",
@@ -20,6 +20,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16445172",
+      "title": "Suzuki Swift Hybrid,GCC,GLX ,Full Option , 2025",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/swift/2025/6/13/gcc-2025-suzuki-swift-hybrid-glx-full-opti-2-378---6176132b45bb45768ed2b2b67dd4d3a8/",
+      "category": "Used Cars",
+      "make": "Suzuki",
+      "model": "Swift",
+      "year": "2025",
+      "mileage": "0",
+      "price": 49500,
+      "first_seen": "2026-03-11T01:17:26Z"
+    },
+    {
+      "id": "16698914",
+      "title": "Elantra Premium Full Option With Radar",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/8/elantra-premium-full-option-with-radar-2-347---90e5d666d240494d86602f70846a82af/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2025",
+      "mileage": "0",
+      "price": 56500,
+      "first_seen": "2026-03-11T01:17:26Z"
+    },
+    {
+      "id": "16750443",
+      "title": "!! 2025 !! CADILLAC | ESCALADE | SPORT | GCC | BLACK EDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/2/19/2025-cadillac-escalade-sport-gcc-under-del-2-467---ba9fe5b5e2514856b97f25efcf86b661/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year": "2025",
+      "mileage": "100",
+      "price": 485000,
+      "first_seen": "2026-03-11T01:17:26Z"
+    },
     {
       "id": "16770875",
       "title": "Porsche Carrera S 911",
@@ -5982,42 +6018,6 @@
       "year": "{'label': 'Year', 'value': 2022}",
       "mileage": "{'label': 'Kilometers', 'value': 97698}",
       "price": 249950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16704677",
-      "title": "AED 4,790 pm  \u2022 0% Downpayment \u2022 Ford F-150 Raptor \u2022 Agency Warranty And Service Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-series-pickup/2026/1/13/aed-4790-pm-0-downpayment-ford-f-150-rapto-2-166---a15f078bf11e4435acb86bb84328724a/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-Series Pickup",
-      "year": "{'label': 'Year', 'value': 2022}",
-      "mileage": "{'label': 'Kilometers', 'value': 98635}",
-      "price": 249950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16742257",
-      "title": "AED 2,778  pm   \u2022 0% Downpayment \u2022 Mercedes CLA250 Premium+ \u2022 Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla/2026/2/12/aed-2778-pm-0-downpayment-mercedes-cla250--2-667---b139f21c2fa84388b84d6d95c48ad765/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "CLA",
-      "year": "{'label': 'Year', 'value': 2022}",
-      "mileage": "{'label': 'Kilometers', 'value': 80211}",
-      "price": 144950,
-      "first_seen": "2026-03-09T06:59:10Z"
-    },
-    {
-      "id": "16742198",
-      "title": "AED 2,969  pm  \u2022 0% Downpayment \u2022 Dodge Challenger R/T \u2022 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/2/12/aed-2969-pm-0-downpayment-dodge-challenger-2-570---7b173c12505243848229d0f522cd30c0/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "{'label': 'Year', 'value': 2023}",
-      "mileage": "{'label': 'Kilometers', 'value': 64170}",
-      "price": 154950,
       "first_seen": "2026-03-09T06:59:10Z"
     }
   ]

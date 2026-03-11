@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-10T23:27:00.299187",
-  "total_tracked": 2337,
+  "generated_at": "2026-03-11T01:16:41.518040",
+  "total_tracked": 2341,
   "total_drops": 90,
-  "total_new": 2337,
+  "total_new": 2341,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2686,6 +2686,94 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116647748",
+      "title": "Mercedes-Benz C-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-ID116647748.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2018,
+      "mileage": 135000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 27000,
+      "current_price": 27000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 27000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116683338",
+      "title": "Land Rover Range Rover Sport 2015",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2015-ID116683338.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 142000,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 28000,
+      "current_price": 28000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 28000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116250513",
+      "title": "Porsche Cayenne S 2012 like new",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-s-2012-ID116250513.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 125000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816862",
+      "title": "4x4 Jeep Grand Cherokee 2011 Limited",
+      "url": "https://www.olx.com.lb/ad/4x4-jeep-grand-cherokee-2011-limited-ID116816862.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 11300,
+      "current_price": 11300,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 11300,
+          "date": "2026-03-11"
+        }
+      ]
+    },
     {
       "id": "116776554",
       "title": "إنفينيتي فئة كيو إكس 2017",
