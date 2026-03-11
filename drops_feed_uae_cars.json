@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1067,
+  "total_tracked": 1068,
   "total_drops": 1,
-  "total_new": 1067,
-  "last_updated": "2026-03-11T14:08:22Z",
+  "total_new": 1068,
+  "last_updated": "2026-03-11T14:57:16Z",
   "drops": [
     {
       "id": "16770596",
@@ -20,6 +20,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16771725",
+      "title": "Toyota prado 2020 GXR",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/3/11/toyota-prado-2020-gxr-2-543---5114a54d6f4e4933bf730950d555e64d/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Prado",
+      "year": "2020",
+      "mileage": "128000",
+      "price": 129000,
+      "first_seen": "2026-03-11T14:57:16Z"
+    },
     {
       "id": "16771679",
       "title": "GCC clean car not negotiable \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646",
@@ -6006,18 +6018,6 @@
       "year": "{'label': 'Year', 'value': 2021}",
       "mileage": "{'label': 'Kilometers', 'value': 6600}",
       "price": 440000,
-      "first_seen": "2026-03-09T18:48:15Z"
-    },
-    {
-      "id": "16523368",
-      "title": "MERCEDES S 550L  S 65 KIT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2025/8/16/mercedes-s-550l-s-65-kit-2-352---7062d32d540a4a09b8135f4be136d564/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "{'label': 'Year', 'value': 2014}",
-      "mileage": "{'label': 'Kilometers', 'value': 73000}",
-      "price": 125000,
       "first_seen": "2026-03-09T18:48:15Z"
     }
   ]

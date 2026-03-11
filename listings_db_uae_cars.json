@@ -23536,5 +23536,27 @@
       }
     ],
     "date": "2026-03-11"
+  },
+  "16771725": {
+    "id": "16771725",
+    "title": "Toyota prado 2020 GXR",
+    "price": 129000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2020",
+    "kilometers": "128000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/3/11/toyota-prado-2020-gxr-2-543---5114a54d6f4e4933bf730950d555e64d/",
+    "first_seen": "2026-03-11T14:57:16Z",
+    "prices": [
+      {
+        "price": 129000,
+        "date": "2026-03-11T14:57:16Z"
+      }
+    ],
+    "date": "2026-03-11"
   }
 }

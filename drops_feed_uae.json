@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 2757,
+  "total_tracked": 2765,
   "total_drops": 17,
-  "total_new": 2757,
+  "total_new": 2765,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4570,6 +4570,94 @@
       "first_seen": "2026-03-11"
     },
     {
+      "id": "16458269",
+      "title": "HIGH ROI | Prime Location | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/hotel-apartment/2025/10/6/high-roi-prime-location-fully-furnished-2-272286/",
+      "area": "Al Wasl",
+      "category": "Hotel Apartment",
+      "size": "248",
+      "bedrooms": "0",
+      "price": 799999,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "17108301",
+      "title": "\ud83d\udd25 Hot Resale Deal \u2013 Below Developer Price \ud83d\udd25",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/20/hot-resale-deal-below-developer-price-2-251720/",
+      "area": "Liwan",
+      "category": "Apartment",
+      "size": "1328",
+      "bedrooms": "2",
+      "price": 1900000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9793624",
+      "title": "Grade A l Luxury Fit Out l Burj View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/10/grade-a-l-luxury-fit-out-l-burj-view-2-270618/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1173",
+      "bedrooms": "",
+      "price": 5000000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9792009",
+      "title": "Rare Opportunity \u2013 Limited Boutique Office Units I Invest Smart in Arjan\u2019s Thriving Commercial District",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/28/rare-opportunity-limited-boutique-offic-2-472008/",
+      "area": "Arjan",
+      "category": "Office",
+      "size": "1467",
+      "bedrooms": "",
+      "price": 2830000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9807594",
+      "title": "Fully Furnished | Tenanted | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/11/fully-furnished-tenanted-high-floor-2-269377/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1356",
+      "bedrooms": "",
+      "price": 4500000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9806415",
+      "title": "Retail Unit for Sale | Prime Investment Opportunity | Samana Barari Lagoon",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/3/retail-unit-for-sale-prime-investment-o-2-122999/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "984",
+      "bedrooms": "",
+      "price": 2400000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9805367",
+      "title": "1% Post Payment Plan | Strong Demand | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/23/1-post-payment-plan-strong-demand-high--2-205847/",
+      "area": "Al Sufouh",
+      "category": "Office",
+      "size": "468",
+      "bedrooms": "",
+      "price": 2636000,
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9804844",
+      "title": "Autodrome View | High ROI | Commercial Opportunity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/19/high-roi-commercial-opportunity-autodro-2-145180/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "852",
+      "bedrooms": "",
+      "price": 3358999,
+      "first_seen": "2026-03-11"
+    },
+    {
       "id": "17120003",
       "title": "Spacious 1BR I Prime Location | Investor Opportunity | Rented",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/23/spacious-1br-i-prime-location-investor--2-226471/",
@@ -5656,94 +5744,6 @@
       "size": "1144",
       "bedrooms": "2",
       "price": 2200000,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "16667683",
-      "title": "Investor Deal | Pool View | High Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/18/investor-deal-pool-view-high-floor-2-141428/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Apartment",
-      "size": "557",
-      "bedrooms": "1",
-      "price": 750000,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "17078924",
-      "title": "Stunning Views | 2BR Apartment | Large Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/12/stunning-views-2br-apartment-large-layo-2-108320/",
-      "area": "Motor City",
-      "category": "Apartment",
-      "size": "1124",
-      "bedrooms": "2",
-      "price": 2310848,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "16844267",
-      "title": "Resale 4 Bedroom | Ivy Riverside | 40% Paid",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/12/25/resale-4-bedroom-ivy-riverside-40-paid-2-153026/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Townhouse",
-      "size": "1550",
-      "bedrooms": "4",
-      "price": 2578000,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "17064406",
-      "title": "Negotiable Geniune Resale Huge Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/10/negotiable-geniune-resale-huge-plot-2-134970/",
-      "area": "Nad Al Sheba",
-      "category": "Villa",
-      "size": "7970",
-      "bedrooms": "4",
-      "price": 13400000,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "9803923",
-      "title": "ULTRA-LUXURY OFFICE | FUNCTIONAL LAYOUT | HIGH ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/13/executive-suite-work-life-balance-multi-2-158308/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2010",
-      "bedrooms": "",
-      "price": 10251765,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "9807389",
-      "title": "Prime Retail Shop | Rabdan Gates Majan | Pool & Skyline Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/10/prime-retail-shop-rabdan-gates-majan-po-2-279842/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1054",
-      "bedrooms": "",
-      "price": 3375232,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "9799230",
-      "title": "Fully Upgraded | Prime Location | Full Canal Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/14/fully-upgraded-prime-location-full-cana-2-140921/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "822",
-      "bedrooms": "",
-      "price": 2100000,
-      "first_seen": "2026-03-10"
-    },
-    {
-      "id": "9807387",
-      "title": "LUXURYA COMMERCIL RETAIL | HEART OF DUBAI CANAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/10/luxurya-commercil-retail-heart-of-dubai-2-306329/",
-      "area": "Business Bay",
-      "category": "Shop",
-      "size": "7694",
-      "bedrooms": "",
-      "price": 35930015,
       "first_seen": "2026-03-10"
     }
   ],
