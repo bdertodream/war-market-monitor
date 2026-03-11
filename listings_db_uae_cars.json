@@ -13130,7 +13130,7 @@
   "16769782": {
     "id": "16769782",
     "title": "Toyota fortuner 2010 v4 family used very good condition gcc and very calen car accident free tayr",
-    "price": 34000,
+    "price": 33000,
     "make": "Toyota",
     "model": "Fortuner",
     "year": "2010",
@@ -13145,6 +13145,10 @@
       {
         "price": 34000,
         "date": "2026-03-10T05:48:09Z"
+      },
+      {
+        "price": 33000,
+        "date": "2026-03-11T07:46:47Z"
       }
     ],
     "date": "2026-03-09"
@@ -20013,6 +20017,578 @@
       {
         "price": 180000,
         "date": "2026-03-11T06:49:06Z"
+      }
+    ],
+    "date": "2026-03-10"
+  },
+  "16771133": {
+    "id": "16771133",
+    "title": "KIA BONGO - 2700 - DEISEL - M/T - MODEL 2026",
+    "price": 50000,
+    "make": "Kia",
+    "model": "Bongo",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/bongo/2026/3/11/kia-bongo-2700-deisel-mt-model-2026-2-626---7b4a683289054af284d13c518810f4e4/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 50000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16695134": {
+    "id": "16695134",
+    "title": "AUDI A8L 5.0 TFSI QUATTRO FULL OPTION GCC SPECS SINGLE OWNER ORIGINAL PAINT",
+    "price": 39500,
+    "make": "Audi",
+    "model": "A8",
+    "year": "2015",
+    "kilometers": "188436",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a8/2026/1/5/audi-a8l-50-tfsi-quattro-full-option-gcc-s-2-472---7c661249273145f390a784abfede729b/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 39500,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16729585": {
+    "id": "16729585",
+    "title": "INFINITY QX50 FULL OPTION GCC SINGLE OWNER ORIGINAL PAINT",
+    "price": 24000,
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": "2014",
+    "kilometers": "85000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/2/2/infinity-qx50-full-option-gcc-single-owner-2-839---8b3b52a784784003a0cc870a0c2bc629/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 24000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16658279": {
+    "id": "16658279",
+    "title": "ZOTYE T600S FULL OPTION GCC SPECS SINGLE OWNER ORIGINAL PAINT FULL SERVICE HISTORY AVAILABLE",
+    "price": 23000,
+    "make": "Zotye",
+    "model": "T600",
+    "year": "2019",
+    "kilometers": "155222",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/zotye/t600/2025/12/3/zotye-t600s-full-option-gcc-specs-single-o-2-925---09ab57e5ad4b40ceb581f29bef2178b6/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 23000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771124": {
+    "id": "16771124",
+    "title": "2026 Mercedes-Benz CLE 200 AMG COUPE EQ Boost RWD GCC 0Km With 2 Years Unlimited Mileage Warranty",
+    "price": 280999,
+    "make": "Mercedes-Benz",
+    "model": "CLE-Class",
+    "year": "2026",
+    "kilometers": "5",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cle-class/2026/3/11/2026-mercedes-benz-cle-200-amg-coupe-eq-bo-2-145---02aedf6142b840eeaa3c3d35ed99d561/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 280999,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16685988": {
+    "id": "16685988",
+    "title": "TOYOTA COROLLA CROSS NEW FACE 2.0 HYBRID 2025 FULL OPTION",
+    "price": 70000,
+    "make": "Toyota",
+    "model": "Corolla Cross",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Crossover",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla-cross/2025/12/27/toyota-corolla-cross-new-face-20-hybrid-20-2-624---5d68c478420142dcb8667d707f57a627/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 70000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16497043": {
+    "id": "16497043",
+    "title": "TOYOTA COROLLA ELITE HYBRID 1.8L HEV 2025",
+    "price": 55000,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2025/7/24/toyota-corolla-elite-hybrid-18l-hev-2025-2-481---2250653e158c494b8b0aba5e0dbe6b59/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16637413": {
+    "id": "16637413",
+    "title": "TOYOTA LAND CRUISER PRADO ALL ROUNDER 2.4 TURBO 2025",
+    "price": 196000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2025/11/15/toyota-land-cruiser-prado-all-rounder-24-t-2-478---801f0daba3344d8a86c9e91445f4b6d2/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 196000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16709744": {
+    "id": "16709744",
+    "title": "Hyundai Elantra 1.5L Petrol, Model 2025, Color White",
+    "price": 45000,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/17/hyundai-elantra-15l-petrol-model-2025-colo-2-555---e194e8852adc4f8fbecf177ea0cbfbf5/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16743788": {
+    "id": "16743788",
+    "title": "TOYOTA HILUX ADVENTURE 4.0 PRTEOL 2026 FULL OPTION",
+    "price": 148000,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/2/14/toyota-hilux-adventure-40-prteol-2026-full-2-079---fd431e1096064dd7b48e3620c4752183/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 148000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16665140": {
+    "id": "16665140",
+    "title": "TOYOTA FORNTLANDER 2.0HYBRID 2025 FULL OPTION NEW FACE",
+    "price": 70000,
+    "make": "Toyota",
+    "model": "Frontlander",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Hatchback",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/frontlander/2025/12/9/toyota-forntlander-20hybrid-2025-full-opti-2-084---f52d651b8c2e418a83557334c6b7771e/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 70000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16574281": {
+    "id": "16574281",
+    "title": "KIA BONGO K2700 DEISEL M/T 2026",
+    "price": 50000,
+    "make": "Kia",
+    "model": "Bongo",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/bongo/2025/9/26/kia-bongo-k2700-deisel-mt-2026-2-621---df2ef169300640ef92324a18886eeab5/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 50000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771102": {
+    "id": "16771102",
+    "title": "COR222 CORSAIR I AWD 2.0L TURBOCHARGED / FOC Insurance + Registration",
+    "price": 88000,
+    "make": "Lincoln",
+    "model": "Corsair",
+    "year": "2022",
+    "kilometers": "62786",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/corsair/2026/3/11/cor222-corsair-i-awd-20l-turbocharged-al-t-2-203---6a36da0f1b3b418b8230207542449106/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 88000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16730824": {
+    "id": "16730824",
+    "title": "GXR 3.5 HYBRID HEV 2026",
+    "price": 290000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/2/3/gxr-35-hybrid-hev-2026-2-722---4a6d83bc97a940ea8f13b0487143968e/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 290000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16730966": {
+    "id": "16730966",
+    "title": "Hilux SR5 4.0 Oman GCC",
+    "price": 135000,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/2/3/hilux-sr5-40-oman-gcc-2-339---eef559b7795e4d9dad78447c96867266/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 135000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16735852": {
+    "id": "16735852",
+    "title": "Hilux Adventure 4.0 Full GCC 2026",
+    "price": 149000,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/2/7/hilux-adventure-40-full-gcc-2026-2-526---6bdaec93818a432092b1339bae83ad2a/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 149000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16751504": {
+    "id": "16751504",
+    "title": "RAMADAN OFFER DODGE RAM LIMITED 1500 5.7 HEMI FULL OPTION GCC 2020 MODEL",
+    "price": 125000,
+    "make": "Dodge",
+    "model": "Ram",
+    "year": "2020",
+    "kilometers": "100000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/ram/2026/2/20/dodge-ram-limited-1500-57-hemi-full-option-2-307---727312f1f02b4661ada308391b2cc24b/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16697676": {
+    "id": "16697676",
+    "title": "2025 AVATR 12 ULTRA HYBRID BRAND NEW",
+    "price": 199000,
+    "make": "Avatr",
+    "model": "12",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/avatr/12/2026/1/7/2025-avatr-12-ultra-with-5-years-warranty--2-536---f35bb9a479ef449eab6ee7442011006a/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 199000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771076": {
+    "id": "16771076",
+    "title": "Tesla 2021 Model 3 Long Range All-Wheel Drive (REF: 381953)",
+    "price": 90400,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2021",
+    "kilometers": "87550",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/3/11/tesla-2021-model-3-long-range-all-wheel-dr-2-096---f2af46fa123a447bbb39eac65ec6154f/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 90400,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16738225": {
+    "id": "16738225",
+    "title": "CHEVROLET TAHOE LT 2023 GCC UNDER WARRANTY",
+    "price": 169000,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": "2023",
+    "kilometers": "92000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/2/9/chevrolet-tahoe-lt-2023-gcc-under-warranty-2-808---757490ca3db54a1a9a148bd2c3c39e40/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 169000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771068": {
+    "id": "16771068",
+    "title": "2009 Volkswagen Tiguan RTA passed well maintained",
+    "price": 8900,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": "2009",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/3/11/2009-volkswagen-tiguan-rta-passed-well-mai-2-404---173f5343c41649e5ab4d493305f27779/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 8900,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16728746": {
+    "id": "16728746",
+    "title": "KIA SPORTAGE 2.0 4WD (EXPORT ONLY)",
+    "price": 81000,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/2/2/kia-sportage-20-4wd-export-only-2-196---74b1871e779d450783bd42d069627c0f/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 81000,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16554810": {
+    "id": "16554810",
+    "title": "LYNKCO 900 Ultra | BRAND NEW | 2.0L Turbo Ref#T205827",
+    "price": 224999,
+    "make": "Lynk & Co",
+    "model": "900",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/900/2025/9/11/lynk-co-900-em-p-brand-new-20l-turbo-under-2-420---69290fd1bdff4e30a3b930247121d38c/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 224999,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16737769": {
+    "id": "16737769",
+    "title": "GCC I Rolls Royce I Ghost Black Badge #X79754",
+    "price": 449999,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": "2016",
+    "kilometers": "85489",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2026/2/9/gcc-i-rolls-royce-i-ghost-black-badge-x797-2-070---1590aa82946741c1af00fd6216c252b8/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 449999,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16731565": {
+    "id": "16731565",
+    "title": "Tesla 2021 Model 3 Rear-Wheel Drive (REF: 299105)",
+    "price": 84600,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2021",
+    "kilometers": "59327",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/4/tesla-2021-model-3-rear-wheel-drive-ref-29-2-510---60a404b3204048919d97cb9e030ca7d0/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 84600,
+        "date": "2026-03-11T07:46:47Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16770569": {
+    "id": "16770569",
+    "title": "Suzuki Ciaz GLX",
+    "price": 34000,
+    "make": "Suzuki",
+    "model": "Ciaz",
+    "year": "2023",
+    "kilometers": "46000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/ciaz/2026/3/10/suzuki-ciaz-glx-2-837---ec5ee4ff5b0c451b85b3d98ac546763c/",
+    "first_seen": "2026-03-11T07:46:47Z",
+    "prices": [
+      {
+        "price": 34000,
+        "date": "2026-03-11T07:46:47Z"
       }
     ],
     "date": "2026-03-10"
