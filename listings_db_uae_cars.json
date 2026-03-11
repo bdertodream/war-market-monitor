@@ -2553,8 +2553,8 @@
   },
   "16747936": {
     "id": "16747936",
-    "title": "16,940 P.M | 0% Downpayment | 911 GT3 | Club Sport Package | Porsche Warranty 2029!",
-    "price": 864999,
+    "title": "16,255 P.M | 0% Downpayment | 911 GT3 | Club Sport Package | Porsche Warranty 2029!",
+    "price": 829999,
     "make": "Porsche",
     "model": "Carrera / 911",
     "year": "{'label': 'Year', 'value': 2024}",
@@ -2569,6 +2569,10 @@
       {
         "price": 864999,
         "date": "2026-03-08T13:42:36Z"
+      },
+      {
+        "price": 829999,
+        "date": "2026-03-11T12:46:21Z"
       }
     ],
     "date": "2026-03-08"
@@ -7948,7 +7952,7 @@
   "16746715": {
     "id": "16746715",
     "title": "GCC SPECS AL NABOODAH WARRANTY 2024 PORSCHE 911 GT3 RS WEISSACH PACKAGE PCCB + MAGNESIUM WHEELS",
-    "price": 1415000,
+    "price": 1395000,
     "make": "Porsche",
     "model": "Carrera / 911",
     "year": "{'label': 'Year', 'value': 2024}",
@@ -7963,6 +7967,10 @@
       {
         "price": 1415000,
         "date": "2026-03-09T06:59:10Z"
+      },
+      {
+        "price": 1395000,
+        "date": "2026-03-11T12:46:21Z"
       }
     ],
     "date": "2026-03-09"
@@ -8101,8 +8109,8 @@
   },
   "16738117": {
     "id": "16738117",
-    "title": "GCC SPECS AL NABOODAH WARRANTY - 2024 PORSCHE 911 GT3 RS WEISSACH PACKAGE + CERAMIC BRAKES",
-    "price": 1249000,
+    "title": "GCC SPECS AL NABOODAH WARRANTY - 2024 PORSCHE 911 GT3RS WEISSACH + CERAMIC BRAKES + MAGNESIUM WHEELS",
+    "price": 1229000,
     "make": "Porsche",
     "model": "Carrera / 911",
     "year": "{'label': 'Year', 'value': 2024}",
@@ -8117,6 +8125,10 @@
       {
         "price": 1249000,
         "date": "2026-03-09T06:59:10Z"
+      },
+      {
+        "price": 1229000,
+        "date": "2026-03-11T12:46:21Z"
       }
     ],
     "date": "2026-03-09"
@@ -22905,6 +22917,490 @@
       {
         "price": 360000,
         "date": "2026-03-11T11:34:26Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771570": {
+    "id": "16771570",
+    "title": "GCC SPECS - 2022 LAMBORGHINI URUS - SUNSHINE CARBON PACKAGE - CERAMIC BRAKES - BANG  OLUFSEN SO",
+    "price": 699000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2022",
+    "kilometers": "80000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/3/11/gcc-specs-2022-lamborghini-urus-sunshine-c-2-383---e37ed6026dba4a9496814edb333a239d/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16762603": {
+    "id": "16762603",
+    "title": "0% DOWN PAYMENT! | GUARANTEED EXIT PATH | ULTIMATE DARK | 120-DAY DEFERRAL | WARRANTY",
+    "price": 149990,
+    "make": "Volvo",
+    "model": "XC60",
+    "year": "2023",
+    "kilometers": "21518",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/xc60/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-744---46e247da7637426bb31f75373298d24d/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 149990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16763059": {
+    "id": "16763059",
+    "title": "0% DOWN PAYMENT! | 1.89% RATE | HYUNDAI KONA COMFORT | 90-DAY PAYMENT HOLIDAY | WARRANTY",
+    "price": 64990,
+    "make": "Hyundai",
+    "model": "Kona",
+    "year": "2022",
+    "kilometers": "35207",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/kona/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-431---712c5fe8d4ba4bffa5f17f717d6a6245/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 64990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16763071": {
+    "id": "16763071",
+    "title": "0% DOWN PAYMENT! | GUARANTEED EXIT PATH | PORSCHE MACAN S | 120-DAY DEFERRAL | WARRANTY",
+    "price": 269990,
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2022",
+    "kilometers": "47508",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-680---7fa665dbc42b4a04bec11f4511c1c2d4/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 269990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16763111": {
+    "id": "16763111",
+    "title": "0% DOWN PAYMENT! | NO HIDDEN FEES | 1.89% RATE | ULTIMATE DARK | FREE INSURANCE | WARRANTY",
+    "price": 169990,
+    "make": "Volvo",
+    "model": "XC60",
+    "year": "2024",
+    "kilometers": "12045",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/xc60/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-030---6bae137b9f3c4b9ebc74b78d84894093/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 169990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16689131": {
+    "id": "16689131",
+    "title": "0% DOWN PAYMENT! | 1.89% RATE | WRANGLER 392 | 90-DAY PAYMENT HOLIDAY | WARRANTY + SERVICE",
+    "price": 279990,
+    "make": "Jeep",
+    "model": "Wrangler Unlimited",
+    "year": "2023",
+    "kilometers": "35803",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler-unlimited/2025/12/30/0-down-payment-rubicon-392-gcc-warranty-pl-2-322---b9a4f4c3e0584053b96a1ad5d2cdcea6/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 279990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771563": {
+    "id": "16771563",
+    "title": "GCC SPECS AL TAYER WARRANTY + SERVICE CONTRACT- 2023 RANGE ROVER VOGUE HSE P530 V8",
+    "price": 525000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "41000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/3/11/gcc-specs-al-tayer-warranty-service-contra-2-305---79ba3dac95354b0f95e4611f763eb59b/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 525000,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16762558": {
+    "id": "16762558",
+    "title": "0% DOWN PAYMENT! | FREE REG  SALIK | S90 CORE | ALL-IN | WARRANTY",
+    "price": 129990,
+    "make": "Volvo",
+    "model": "S90",
+    "year": "2024",
+    "kilometers": "22186",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/s90/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-345---8c56a935ec804ac4b36aaf7fa50e9449/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 129990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771559": {
+    "id": "16771559",
+    "title": "( Only For Export ) 2026 BMW X3 xDrive 25L 2.0T AWD BRAND NEW",
+    "price": 170999,
+    "make": "BMW",
+    "model": "X3",
+    "year": "2026",
+    "kilometers": "5",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/3/11/only-for-export-2026-bmw-x3-xdrive-25l-20t-2-947---09c3f97f36cf4a50b6b3ea5ff6c380eb/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 170999,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16763092": {
+    "id": "16763092",
+    "title": "0% DOWN PAYMENT! | NO HIDDEN FEES | 1.89% RATE | 595 COMPETIZIONE | FREE INSURANCE | WARRANTY",
+    "price": 69990,
+    "make": "Abarth",
+    "model": "595",
+    "year": "2021",
+    "kilometers": "43607",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/abarth/595/2026/3/3/0-down-ramadan-all-inclusive-free-insuranc-2-268---ec109575707b4b2eb947db61917ff747/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 69990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16752464": {
+    "id": "16752464",
+    "title": "CARRERA S | UNDER WARRANTY | GCC",
+    "price": 219990,
+    "make": "Porsche",
+    "model": "Carrera / 911",
+    "year": "2012",
+    "kilometers": "118705",
+    "body_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/2/21/carrera-s-under-warranty-gcc-2-255---bd00b519140d46cb888427e9cdb3d939/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 219990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16754862": {
+    "id": "16754862",
+    "title": "0% DOWN PAYMENT! | 1.89% RATE | RANGER RAPTOR | 90-DAY PAYMENT HOLIDAY | 5YR WARRANTY+SERVICE",
+    "price": 229990,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": "2024",
+    "kilometers": "26000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ranger/2026/2/23/0-down-ramadan-all-inclusive-low-kms-5yr-w-2-969---006e1469657e45408ea372441f7c497e/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 229990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16770527": {
+    "id": "16770527",
+    "title": "0% DOWN PAYMENT! | PAY NOTHING UNTIL SUMMER | 1.89% RATE | WRANGLER SPORT | WARRANTY + SERVICE",
+    "price": 179990,
+    "make": "Jeep",
+    "model": "Wrangler Unlimited",
+    "year": "2023",
+    "kilometers": "46900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler-unlimited/2026/3/10/0-down-payment-pay-nothing-until-summer-18-2-756---a8d93988821f41a69f62daab5507b841/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 179990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16765573": {
+    "id": "16765573",
+    "title": "BMW X5 2014 v6",
+    "price": 37000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2014",
+    "kilometers": "187000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/3/5/bmw-x5-2014-v6-2-481---5ddcddd6796f48cabd22b064aa0332df/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 37000,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16732288": {
+    "id": "16732288",
+    "title": "470-Monthly l GCC l Camera, GPS l Accident Free",
+    "price": 29500,
+    "make": "Nissan",
+    "model": "Sunny",
+    "year": "2023",
+    "kilometers": "81000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/2/4/490-monthly-l-gcc-l-camera-gps-l-accident--2-130---8ca3acd4c5d14f67a1c522f80aeeb083/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771538": {
+    "id": "16771538",
+    "title": "2026 Mercedes-AMG GLE 53 Coupe 4MATIC+ EQ Boost GCC With 2 Years Unlimited Mileage Warranty",
+    "price": 451999,
+    "make": "Mercedes-Benz",
+    "model": "GLE Coupe",
+    "year": "2026",
+    "kilometers": "5",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/3/11/2026-mercedes-amg-gle-53-coupe-4matic-eq-b-2-496---d0148b12707f41ae8370cce23928e1f3/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 451999,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771501": {
+    "id": "16771501",
+    "title": "0% DOWN PAYMENT! | 1.89% RATE | LUXURY | 10-DAY HOLD | ALL-IN | WARRANTY",
+    "price": 79990,
+    "make": "Jetour",
+    "model": "Dashing",
+    "year": "2024",
+    "kilometers": "61657",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/3/11/0-down-payment-189-rate-luxury-10-day-hold-2-368---a4a7d3514c444bddac59ae06b34f97c9/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 79990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771398": {
+    "id": "16771398",
+    "title": "0% DOWN PAYMENT! | PAY NOTHING UNTIL SUMMER | SPORT | WARRANTY",
+    "price": 89990,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2018",
+    "kilometers": "81943",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/3/11/0-down-payment-pay-nothing-until-summer-sp-2-159---f686354e4a5147d5b3d3ad72a075cb17/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 89990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771359": {
+    "id": "16771359",
+    "title": "0% DOWN PAYMENT! | GUARANTEED EXIT PATH | 440 CABRIO M SPORT | 120-DAY DEFERRAL | WARRANTY + SERVICE",
+    "price": 129990,
+    "make": "BMW",
+    "model": "4-Series",
+    "year": "2019",
+    "kilometers": "85109",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/3/11/0-down-payment-guaranteed-exit-path-440-ca-2-436---7222851a70ad460ba645d39adc148ee3/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 129990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771314": {
+    "id": "16771314",
+    "title": "0% DOWN PAYMENT! | 718 BOXSTER S | GCC | WARRANTY | 1.89% RATE | PERFORMANCE CABRIO | FREE INSURANCE",
+    "price": 229990,
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": "2017",
+    "kilometers": "49018",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/boxster/2026/3/11/0-down-payment-718-boxster-s-gcc-warranty--2-916---fef1c20e121f4d4aa455fcf8a0646425/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 229990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771212": {
+    "id": "16771212",
+    "title": "0% DOWN PAYMENT! | PAY NOTHING UNTIL SUMMER | 1.89% RATE | BASE | WARRANTY",
+    "price": 47990,
+    "make": "Hyundai",
+    "model": "i10",
+    "year": "2024",
+    "kilometers": "9880",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/i10/2026/3/11/0-down-payment-pay-nothing-until-summer-18-2-444---2bf7368817d84bfaa7cf16dac4438e03/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 47990,
+        "date": "2026-03-11T12:46:21Z"
+      }
+    ],
+    "date": "2026-03-11"
+  },
+  "16771167": {
+    "id": "16771167",
+    "title": "0% DOWN PAYMENT! | GUARANTEED EXIT PATH | STYLE | 120-DAY DEFERRAL | WARRANTY",
+    "price": 74990,
+    "make": "Volkswagen",
+    "model": "T-Roc",
+    "year": "2022",
+    "kilometers": "33175",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/t-roc/2026/3/11/0-down-payment-guaranteed-exit-path-style--2-075---d7178807f2534a978d6d97650c16de81/",
+    "first_seen": "2026-03-11T12:46:21Z",
+    "prices": [
+      {
+        "price": 74990,
+        "date": "2026-03-11T12:46:21Z"
       }
     ],
     "date": "2026-03-11"
