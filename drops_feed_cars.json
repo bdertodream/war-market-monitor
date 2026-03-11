@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-11T07:46:00.427822",
-  "total_tracked": 2355,
+  "generated_at": "2026-03-11T08:38:06.986075",
+  "total_tracked": 2365,
   "total_drops": 90,
-  "total_new": 2355,
+  "total_new": 2365,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3082,6 +3082,226 @@
       "price_history": [
         {
           "price": 15500,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816993",
+      "title": "Mercedes-Benz ML-Class 2006",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-ml-class-2006-ID116816993.html",
+      "make": "Mercedes-Benz",
+      "model": "ML-Class",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 20000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 6400,
+      "current_price": 6400,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 6400,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816988",
+      "title": "Infiniti Q30S series 2018",
+      "url": "https://www.olx.com.lb/ad/infiniti-q30s-series-2018-ID116816988.html",
+      "make": "Infiniti",
+      "model": "Q series",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59900,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 26900,
+      "current_price": 26900,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 26900,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116726983",
+      "title": "BMW X6 2014",
+      "url": "https://www.olx.com.lb/ad/bmw-x6-2014-ID116726983.html",
+      "make": "BMW",
+      "model": "X6",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 14000,
+      "current_price": 14000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816983",
+      "title": "Infiniti Qx80 series 2022",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx80-series-2022-ID116816983.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 37000,
+      "transmission": "Steptronic",
+      "location": "Naccache, Metn",
+      "original_price": 84900,
+      "current_price": 84900,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 84900,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116776296",
+      "title": "2008 Saturn Vue XE",
+      "url": "https://www.olx.com.lb/ad/2008-saturn-vue-xe-ID116776296.html",
+      "make": "Other make",
+      "model": "Other",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 136000,
+      "transmission": "Automatic",
+      "location": "Deir El Qamar, Chouf",
+      "original_price": 4700,
+      "current_price": 4700,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 4700,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816977",
+      "title": "Infiniti Q30 series 2019",
+      "url": "https://www.olx.com.lb/ad/infiniti-q30-series-2019-ID116816977.html",
+      "make": "Infiniti",
+      "model": "Q series",
+      "body_type": "Other",
+      "year": 2019,
+      "mileage": 59000,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 20900,
+      "current_price": 20900,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 20900,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816972",
+      "title": "Mercedes-Benz A-Class 2019 4matic Look AMG",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-4matic-look-amg-ID116816972.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 23200,
+      "current_price": 23200,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 23200,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816967",
+      "title": "2019 Subaru Crosstrek AWD | Clean Carfax | Low Mileage",
+      "url": "https://www.olx.com.lb/ad/2019-subaru-crosstrek-awd-clean-carfax-low-mileage-ID116816967.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 58665,
+      "transmission": "Automatic",
+      "location": "Adonis, Keserouan",
+      "original_price": 18800,
+      "current_price": 18800,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 18800,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816966",
+      "title": "Land Rover Range Rover Sport 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116816966.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 44000,
+      "current_price": 44000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 44000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816955",
+      "title": "Grand Cheroke Limited 2018",
+      "url": "https://www.olx.com.lb/ad/grand-cheroke-limited-2018-ID116816955.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 108000,
+      "transmission": "Automatic",
+      "location": "Deddeh, Koura",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 23000,
           "date": "2026-03-11"
         }
       ]
@@ -8898,7 +9118,7 @@
     },
     {
       "id": "116814731",
-      "title": "Land Rover Discovery HSE luxury 2019 gray on black (clean carfax)",
+      "title": "Land Rover Discovery HSE luxury 2018 gray on black (clean carfax)",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-hse-luxury-2019-gray-on-black-clean-carfax-ID116814731.html",
       "make": "Land Rover",
       "model": "Discovery",
@@ -26118,7 +26338,7 @@
       "original_price": 15300,
       "current_price": 15300,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 15300,
