@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1156,
+  "total_tracked": 1157,
   "total_drops": 2,
-  "total_new": 1156,
-  "last_updated": "2026-03-11T20:33:38Z",
+  "total_new": 1157,
+  "last_updated": "2026-03-11T21:33:00Z",
   "drops": [
     {
       "id": "16770596",
@@ -34,6 +34,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16772033",
+      "title": "Mercedes G63 AMG",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/11/mercedes-g63-amg-2-096---a74715d887384a2295cd2e2e08b48cff/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2019",
+      "mileage": "150000",
+      "price": 356000,
+      "first_seen": "2026-03-11T21:33:00Z"
+    },
     {
       "id": "16772009",
       "title": "AED 1,750 Monthly | 2020 Model | 2.0L 4CYL engine | USA Specs | Fully loaded",
@@ -6020,18 +6032,6 @@
       "year": "2013",
       "mileage": "125000",
       "price": 40000,
-      "first_seen": "2026-03-10T08:39:30Z"
-    },
-    {
-      "id": "16713547",
-      "title": "2016 - VW TIGUAN - FULL OPTIONS - LOW MILEAGE-BEIGE INSIDE - IMMACULATE CONDITION \u2013 ONLY 39,000 KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/1/20/2016-vw-tiguan-full-options-low-mileage-be-2-891---c721e4f551934b8295c6f52561767dc7/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "year": "2016",
-      "mileage": "39000",
-      "price": 50000,
       "first_seen": "2026-03-10T08:39:30Z"
     }
   ]

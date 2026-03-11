@@ -25498,5 +25498,27 @@
       }
     ],
     "date": "2026-03-11"
+  },
+  "16772033": {
+    "id": "16772033",
+    "title": "Mercedes G63 AMG",
+    "price": 356000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2019",
+    "kilometers": "150000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/11/mercedes-g63-amg-2-096---a74715d887384a2295cd2e2e08b48cff/",
+    "first_seen": "2026-03-11T21:33:00Z",
+    "prices": [
+      {
+        "price": 356000,
+        "date": "2026-03-11T21:33:00Z"
+      }
+    ],
+    "date": "2026-03-11"
   }
 }
