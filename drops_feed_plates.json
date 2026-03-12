@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T14:05:14.805734",
-  "total_tracked": 223,
+  "generated_at": "2026-03-12T14:52:56.271915",
+  "total_tracked": 224,
   "total_drops": 6,
-  "total_new": 223,
+  "total_new": 224,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -190,6 +190,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116818488",
+      "title": "Lebanese Plate Number",
+      "url": "https://www.olx.com.lb/ad/lebanese-plate-number-ID116818488.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
     {
       "id": "116817412",
       "title": "لوحة عمومية للبيع",

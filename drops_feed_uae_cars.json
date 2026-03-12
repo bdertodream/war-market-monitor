@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1356,
+  "total_tracked": 1358,
   "total_drops": 2,
-  "total_new": 1356,
-  "last_updated": "2026-03-12T14:05:50Z",
+  "total_new": 1358,
+  "last_updated": "2026-03-12T14:53:34Z",
   "drops": [
     {
       "id": "16770596",
@@ -34,6 +34,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16772816",
+      "title": "\u2b50 Ramadan Offer \u2b50 | Limousine | Bestune Warranty till 2029",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bestune/t77/2026/3/12/ramadan-offer-limousine-bestune-warranty-t-2-158---1d98d5e98dca42b48c1c7adabae6b96c/",
+      "category": "Used Cars",
+      "make": "Bestune",
+      "model": "T77",
+      "year": "2023",
+      "mileage": "21597",
+      "price": 55000,
+      "first_seen": "2026-03-12T14:53:34Z"
+    },
+    {
+      "id": "16564279",
+      "title": "MERCEDES BENZ CLS450 4MATIC MODEL 2018 - HYACINTH RED - BROWN INTERIOR -  FRESH JAPAN IMPORT",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cls-class/2025/9/18/mercedes-benz-cls450-4matic-model-2018-hya-2-978---4e269ea59b2c40f38b6cd9dc4be84b29/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "CLS-Class",
+      "year": "2018",
+      "mileage": "70000",
+      "price": 135000,
+      "first_seen": "2026-03-12T14:53:34Z"
+    },
     {
       "id": "16772788",
       "title": "NISSAN - X-Trail - 2023 - original paint no accident GCC",
@@ -6009,30 +6033,6 @@
       "mileage": "0",
       "price": 56500,
       "first_seen": "2026-03-11T01:17:26Z"
-    },
-    {
-      "id": "16750443",
-      "title": "!! 2025 !! CADILLAC | ESCALADE | SPORT | GCC | BLACK EDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/2/19/2025-cadillac-escalade-sport-gcc-under-del-2-467---ba9fe5b5e2514856b97f25efcf86b661/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": "2025",
-      "mileage": "100",
-      "price": 485000,
-      "first_seen": "2026-03-11T01:17:26Z"
-    },
-    {
-      "id": "16770875",
-      "title": "Porsche Carrera S 911",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/3/10/porsche-carrera-s-911-2-942---7e953b53ea5b48f6b75a99c0ba371155/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Carrera / 911",
-      "year": "2020",
-      "mileage": "80500",
-      "price": 400000,
-      "first_seen": "2026-03-10T20:32:17Z"
     }
   ]
 }

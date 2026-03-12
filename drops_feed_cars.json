@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T14:04:55.738241",
-  "total_tracked": 2629,
+  "generated_at": "2026-03-12T14:52:37.890485",
+  "total_tracked": 2639,
   "total_drops": 114,
-  "total_new": 2629,
+  "total_new": 2639,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4504,8 +4504,8 @@
     },
     {
       "id": "116818204",
-      "title": "Subaru Crosstrek Hybrid 2018 - سوبارو كروس تريك",
-      "url": "https://www.olx.com.lb/ad/subaru-crosstrek-hybrid-2018-سوبارو-كروس-تريك-ID116818204.html",
+      "title": "Subaru Crosstrek 2018 - سوبارو كروس تريك",
+      "url": "https://www.olx.com.lb/ad/subaru-crosstrek-2018-سوبارو-كروس-تريك-ID116818204.html",
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
       "body_type": "SUV",
@@ -5353,6 +5353,226 @@
       "mileage": 50000,
       "transmission": "Steptronic",
       "location": "Jbeil Town, Jbeil",
+      "original_price": 14800,
+      "current_price": 14800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 14800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818523",
+      "title": "Mercedes-Benz C-Class 2011",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2011-ID116818523.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 188000,
+      "transmission": "Steptronic",
+      "location": "Mkalles, Metn",
+      "original_price": 10900,
+      "current_price": 10900,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 10900,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818521",
+      "title": "Kia Sportage 2017",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-ID116818521.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Other in Koura, Koura",
+      "original_price": 13300,
+      "current_price": 13300,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 13300,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116785949",
+      "title": "Opel Corsa 2023",
+      "url": "https://www.olx.com.lb/ad/opel-corsa-2023-ID116785949.html",
+      "make": "Opel",
+      "model": "Corsa",
+      "body_type": "Hatchback",
+      "year": 2023,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Mansourieh, Metn",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 10500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116776274",
+      "title": "Mitsubishi Outlander Sport 2016 4WD",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2016-4wd-ID116776274.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 161000,
+      "transmission": "Automatic",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 14000,
+      "current_price": 14000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818509",
+      "title": "Renault Megane 2008",
+      "url": "https://www.olx.com.lb/ad/renault-megane-2008-ID116818509.html",
+      "make": "Renault",
+      "model": "Megane",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 213000,
+      "transmission": "Automatic",
+      "location": "Baabdat, Metn",
+      "original_price": 3300,
+      "current_price": 3300,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 3300,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818499",
+      "title": "Mercedes-Benz E-Class 2011 Avantgarde",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2011-ID116818499.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 44500,
+      "transmission": "Steptronic",
+      "location": "Sanayeh, Beirut",
+      "original_price": 15500,
+      "current_price": 15500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116705581",
+      "title": "Mazda CX-5 2018 GT model 2018",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-5-2018-gt-model-2018-ID116705581.html",
+      "make": "Mazda",
+      "model": "CX-5",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Mazraa, Beirut",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818492",
+      "title": "Land Rover Discovery 1999",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-1999-ID116818492.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 1999,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Qattine, Keserouan",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 4800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116392910",
+      "title": "2019 Mercedes-Benz GLC 250 COUPE  AMG - 1 OWNER",
+      "url": "https://www.olx.com.lb/ad/2019-mercedes-benz-glc-250-coupe-amg-1-owner-ID116392910.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Monteverde, Metn",
+      "original_price": 39900,
+      "current_price": 39900,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 39900,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116348481",
+      "title": "Infiniti Qx50 AWD 2016 one owner",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx50-awd-2016-one-owner-ID116348481.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
       "original_price": 14800,
       "current_price": 14800,
       "first_seen": "2026-03-12",
@@ -12692,7 +12912,7 @@
     },
     {
       "id": "116536294",
-      "title": "A250 full look a45 orginal",
+      "title": "Mercedes-Benz A250 2015 – Full A45 Look – Excellent Condition",
       "url": "https://www.olx.com.lb/ad/a250-full-look-a45-orginal-ID116536294.html",
       "make": "Mercedes-Benz",
       "model": "A-Class",

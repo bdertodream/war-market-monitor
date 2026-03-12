@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3302,
+  "total_tracked": 3303,
   "total_drops": 23,
-  "total_new": 3302,
+  "total_new": 3303,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4841,6 +4841,17 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "9747792",
+      "title": "Largest Plot | Motivated Seller | Hot Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/12/largest-plot-motivated-seller-hot-locat-2-108820/",
+      "area": "Haven by Aldar",
+      "category": "Land",
+      "size": "12310",
+      "bedrooms": "",
+      "price": 18499888,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5817,17 +5828,6 @@
       "size": "741",
       "bedrooms": "",
       "price": 1865000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9800533",
-      "title": "Turnkey Grade A Office | Premium Finish | DMCC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/23/turnkey-grade-a-office-premium-finish-d-2-500120/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "925",
-      "bedrooms": "",
-      "price": 2000000,
       "first_seen": "2026-03-11"
     }
   ],
