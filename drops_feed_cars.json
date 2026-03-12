@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-11T23:24:53.042878",
-  "total_tracked": 2540,
+  "generated_at": "2026-03-12T01:13:53.510778",
+  "total_tracked": 2543,
   "total_drops": 107,
-  "total_new": 2540,
+  "total_new": 2543,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3195,6 +3195,72 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116817957",
+      "title": "Hyundai Veloster 2014",
+      "url": "https://www.olx.com.lb/ad/hyundai-veloster-2014-ID116817957.html",
+      "make": "Hyundai",
+      "model": "Veloster",
+      "body_type": "Other",
+      "year": 2014,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 7400,
+      "current_price": 7400,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 7400,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116779967",
+      "title": "Mazda CX-9 2018",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-9-2018-ID116779967.html",
+      "make": "Mazda",
+      "model": "CX-9",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 111000,
+      "transmission": "Steptronic",
+      "location": "Al Qalamoun, Tripoli",
+      "original_price": 24500,
+      "current_price": 24500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 24500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116817951",
+      "title": "Nissan Pathfinder 2005",
+      "url": "https://www.olx.com.lb/ad/nissan-pathfinder-2005-ID116817951.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 2005,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Other in Jbeil, Jbeil",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
     {
       "id": "116647748",
       "title": "Mercedes-Benz C-Class 2018",

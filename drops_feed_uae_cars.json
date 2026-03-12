@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1163,
+  "total_tracked": 1164,
   "total_drops": 2,
-  "total_new": 1163,
-  "last_updated": "2026-03-11T23:25:41Z",
+  "total_new": 1164,
+  "last_updated": "2026-03-12T01:14:43Z",
   "drops": [
     {
       "id": "16770596",
@@ -34,6 +34,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16772104",
+      "title": "Jeep Grand Cherokee Limited 2018 GCC specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/3/11/jeep-grand-cherokee-limited-2018-gcc-specs-2-363---a89a9fd0340046e5ade17c5f0c7205c6/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2018",
+      "mileage": "155000",
+      "price": 55000,
+      "first_seen": "2026-03-12T01:14:43Z"
+    },
     {
       "id": "16708938",
       "title": "MERCEDES BENZ G63 | 2023 | Original Paint | Included warranty |",
@@ -6020,18 +6032,6 @@
       "year": "2023",
       "mileage": "27000",
       "price": 579000,
-      "first_seen": "2026-03-10T08:39:30Z"
-    },
-    {
-      "id": "16638126",
-      "title": "RANGE ROVER VOGUE AUTOBIOGRAPHY, 2025, 5 YEARS DEALER WARRANTY, ZERO KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/11/16/range-rover-vogue-autobiography-2025-5-yea-2-107---411b8262f5c647f9ae0f84d2db2484da/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover",
-      "year": "2025",
-      "mileage": "44",
-      "price": 839000,
       "first_seen": "2026-03-10T08:39:30Z"
     }
   ]
