@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1358,
-  "total_drops": 2,
-  "total_new": 1358,
-  "last_updated": "2026-03-12T14:53:34Z",
+  "total_tracked": 1359,
+  "total_drops": 3,
+  "total_new": 1359,
+  "last_updated": "2026-03-12T15:57:38Z",
   "drops": [
     {
       "id": "16770596",
@@ -31,9 +31,35 @@
       "year": "2022",
       "mileage": "73600",
       "date": "2026-03-11T18:50:23Z"
+    },
+    {
+      "id": "16765573",
+      "title": "BMW X5 2014 v6",
+      "old_price": 37000,
+      "new_price": 34000,
+      "drop_pct": 8.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/3/5/bmw-x5-2014-v6-2-481---5ddcddd6796f48cabd22b064aa0332df/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2014",
+      "mileage": "187000",
+      "date": "2026-03-12T15:57:38Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16772820",
+      "title": "MERCEDES BENZ G63 AMG 2024 JAPANESE MINT CONDITION FULL OPTION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/12/mercedes-benz-g63-amg-2024-japanese-mint-c-2-959---fad857dab10f430dbb544de54a47ee0e/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2024",
+      "mileage": "31490",
+      "price": 680000,
+      "first_seen": "2026-03-12T15:57:38Z"
+    },
     {
       "id": "16772816",
       "title": "\u2b50 Ramadan Offer \u2b50 | Limousine | Bestune Warranty till 2029",
@@ -3763,7 +3789,7 @@
       "model": "X5",
       "year": "2014",
       "mileage": "187000",
-      "price": 37000,
+      "price": 34000,
       "first_seen": "2026-03-11T12:46:21Z"
     },
     {
@@ -6020,18 +6046,6 @@
       "year": "2025",
       "mileage": "0",
       "price": 49500,
-      "first_seen": "2026-03-11T01:17:26Z"
-    },
-    {
-      "id": "16698914",
-      "title": "Elantra Premium Full Option With Radar",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/8/elantra-premium-full-option-with-radar-2-347---90e5d666d240494d86602f70846a82af/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Elantra",
-      "year": "2025",
-      "mileage": "0",
-      "price": 56500,
       "first_seen": "2026-03-11T01:17:26Z"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T14:52:56.271915",
-  "total_tracked": 224,
+  "generated_at": "2026-03-12T15:57:08.857491",
+  "total_tracked": 225,
   "total_drops": 6,
-  "total_new": 224,
+  "total_new": 225,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -204,6 +204,24 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818561",
+      "title": "مطلوب نمرة سيارة ٣ أرقام من صاحب العلاقة مباشرة",
+      "url": "https://www.olx.com.lb/ad/مطلوب-نمرة-سيارة-٣-أرقام-من-صاحب-العلاقة-مباشرة-ID116818561.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tabarja, Keserouan",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 12000,
           "date": "2026-03-12"
         }
       ]

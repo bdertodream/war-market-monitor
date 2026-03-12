@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3303,
+  "total_tracked": 3306,
   "total_drops": 23,
-  "total_new": 3303,
+  "total_new": 3306,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4852,6 +4852,39 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "16834136",
+      "title": "Ramadan Offer 4% DLD Waiver | High ROI + High Capital Growth | Ready in 12 Months | Book Your Unit Today",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/23/high-roi-investment-flexible-payment-op-2-888241/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "800",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "16833749",
+      "title": "Ramadan Offer 4% DLD Waiver | High ROI | Near Miracle Garden | Great for Rental Income | Almost Ready",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/23/12-roi-luxury-waterfront-living-high-fl-2-257766/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "372",
+      "bedrooms": "0",
+      "price": 700000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17194737",
+      "title": "High ROI Golf Community | Golf Vale | Near Al Maktoum Airport",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/high-roi-golf-community-golf-vale-near--2-333053/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "800",
+      "bedrooms": "1",
+      "price": 1090000,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5795,39 +5828,6 @@
       "size": "462",
       "bedrooms": "",
       "price": 1000000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9800562",
-      "title": "High Floor | Canal View | Partitioned",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/23/high-floor-canal-view-partitioned-2-207219/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "850",
-      "bedrooms": "",
-      "price": 1900000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9800541",
-      "title": "Freehold Retail | Strong Footfall | Prime Location handover -Q3-2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/23/freehold-retail-strong-footfall-prime-l-2-186416/",
-      "area": "Dubai Studio City",
-      "category": "Shop",
-      "size": "711",
-      "bedrooms": "",
-      "price": 2133000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9800536",
-      "title": "Pemium Office Space | Canal View | Near Downtown",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/23/pemium-office-space-canal-view-near-dow-2-279330/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "741",
-      "bedrooms": "",
-      "price": 1865000,
       "first_seen": "2026-03-11"
     }
   ],

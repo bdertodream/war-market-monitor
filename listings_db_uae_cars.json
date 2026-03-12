@@ -23234,7 +23234,7 @@
   "16765573": {
     "id": "16765573",
     "title": "BMW X5 2014 v6",
-    "price": 37000,
+    "price": 34000,
     "make": "BMW",
     "model": "X5",
     "year": "2014",
@@ -23249,6 +23249,10 @@
       {
         "price": 37000,
         "date": "2026-03-11T12:46:21Z"
+      },
+      {
+        "price": 34000,
+        "date": "2026-03-12T15:57:38Z"
       }
     ],
     "date": "2026-03-11"
@@ -29963,6 +29967,28 @@
       {
         "price": 135000,
         "date": "2026-03-12T14:53:34Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772820": {
+    "id": "16772820",
+    "title": "MERCEDES BENZ G63 AMG 2024 JAPANESE MINT CONDITION FULL OPTION",
+    "price": 680000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2024",
+    "kilometers": "31490",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/12/mercedes-benz-g63-amg-2024-japanese-mint-c-2-959---fad857dab10f430dbb544de54a47ee0e/",
+    "first_seen": "2026-03-12T15:57:38Z",
+    "prices": [
+      {
+        "price": 680000,
+        "date": "2026-03-12T15:57:38Z"
       }
     ],
     "date": "2026-03-12"
