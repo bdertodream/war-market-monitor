@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T07:47:55.852508",
-  "total_tracked": 2565,
+  "generated_at": "2026-03-12T08:39:37.228135",
+  "total_tracked": 2572,
   "total_drops": 107,
-  "total_new": 2565,
+  "total_new": 2572,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3741,6 +3741,160 @@
       "price_history": [
         {
           "price": 25000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116780091",
+      "title": "Fiat 500 2011",
+      "url": "https://www.olx.com.lb/ad/fiat-500-2011-ID116780091.html",
+      "make": "Fiat",
+      "model": "500",
+      "body_type": "Hatchback",
+      "year": 2011,
+      "mileage": 120000,
+      "transmission": "Manual",
+      "location": "Aley Town, Aley",
+      "original_price": 7999,
+      "current_price": 7999,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 7999,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116016693",
+      "title": "Chevrolet Other 2000",
+      "url": "https://www.olx.com.lb/ad/chevrolet-other-2000-ID116016693.html",
+      "make": "Chevrolet",
+      "model": "Other",
+      "body_type": "Van / Bus",
+      "year": 2000,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Beit Mery, Metn",
+      "original_price": 1500,
+      "current_price": 1500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 1500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818088",
+      "title": "Dodge Dakota 2011",
+      "url": "https://www.olx.com.lb/ad/dodge-dakota-2011-ID116818088.html",
+      "make": "Dodge",
+      "model": "Dakota",
+      "body_type": "Pickup",
+      "year": 2011,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Faraya, Keserouan",
+      "original_price": 9800,
+      "current_price": 9800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 9800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818082",
+      "title": "Audi Q4 e-tron 2025",
+      "url": "https://www.olx.com.lb/ad/audi-q4-e-tron-2025-ID116818082.html",
+      "make": "Audi",
+      "model": "e-tron",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 8800,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 33500,
+      "current_price": 33500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 33500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818070",
+      "title": "Daihatsu Mira 2002",
+      "url": "https://www.olx.com.lb/ad/daihatsu-mira-2002-ID116818070.html",
+      "make": "Daihatsu",
+      "model": "Mira",
+      "body_type": "Small city car",
+      "year": 2002,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Hamra, Beirut",
+      "original_price": 2200,
+      "current_price": 2200,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 2200,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116703200",
+      "title": "Mercedes c class 250",
+      "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2007-ID116703200.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2013,
+      "mileage": 150000,
+      "transmission": "Steptronic",
+      "location": "Verdun, Beirut",
+      "original_price": 11600,
+      "current_price": 11600,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 11600,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818067",
+      "title": "Nissan X-Trail 2011",
+      "url": "https://www.olx.com.lb/ad/nissan-x-trail-2011-ID116818067.html",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 78000,
+      "transmission": "Automatic",
+      "location": "Barbour, Beirut",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 9000,
           "date": "2026-03-12"
         }
       ]
