@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T06:49:52.997433",
-  "total_tracked": 2559,
+  "generated_at": "2026-03-12T07:47:55.852508",
+  "total_tracked": 2565,
   "total_drops": 107,
-  "total_new": 2559,
+  "total_new": 2565,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3609,6 +3609,138 @@
       "price_history": [
         {
           "price": 12800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818043",
+      "title": "KIA SPORTAGE GS 2017 4X4 !! 58,000 KM COMPANY SOURCE!",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-gs-2017-4x4-58000-km-company-source-ID116818043.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 58000,
+      "transmission": "Steptronic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116775673",
+      "title": "Mercedes GLC 300 2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-glc-300-2019-ID116775673.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 76000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 30000,
+      "current_price": 30000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 30000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116732914",
+      "title": "MERCEDES C 300 AMG 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-c-300-amg-2018-ID116732914.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 24000,
+      "current_price": 24000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 24000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116706357",
+      "title": "Land Rover Discovery 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116706357.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 71000,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 30800,
+      "current_price": 30800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 30800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116499961",
+      "title": "Land Rover Defender 1981 special",
+      "url": "https://www.olx.com.lb/ad/land-rover-defender-1981-ID116499961.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "Pickup",
+      "year": 1981,
+      "mileage": 55000,
+      "transmission": "Manual",
+      "location": "Mreijat, Zahle",
+      "original_price": 49900,
+      "current_price": 49900,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 49900,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116606481",
+      "title": "Land Rover Discovery 2017 HSE Clean Carfax Car Loan Available",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2017-hse-clean-carfax-car-loan-available-ID116606481.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 25000,
           "date": "2026-03-12"
         }
       ]

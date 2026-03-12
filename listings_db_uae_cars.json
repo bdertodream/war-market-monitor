@@ -8363,8 +8363,8 @@
   },
   "16754455": {
     "id": "16754455",
-    "title": "4,505 P.M | 0% Downpayment | X4M COMPETITION EXCELLENT CONDITION!",
-    "price": 229999,
+    "title": "4,465 P.M | 0% Downpayment | X4M COMPETITION EXCELLENT CONDITION!",
+    "price": 227999,
     "make": "BMW",
     "model": "X4",
     "year": "{'label': 'Year', 'value': 2020}",
@@ -8379,6 +8379,10 @@
       {
         "price": 229999,
         "date": "2026-03-09T07:52:48Z"
+      },
+      {
+        "price": 227999,
+        "date": "2026-03-12T07:48:54Z"
       }
     ],
     "date": "2026-03-09"
@@ -9541,8 +9545,8 @@
   },
   "16739181": {
     "id": "16739181",
-    "title": "19,094 P.M |  DBX 707 | 0% Downpayment | Immaculate with full PPF!!",
-    "price": 974999,
+    "title": "18,605 P.M |  DBX 707 | 0% Downpayment | Immaculate with full PPF!!",
+    "price": 949999,
     "make": "Aston Martin",
     "model": "DBX",
     "year": "{'label': 'Year', 'value': 2025}",
@@ -9557,6 +9561,10 @@
       {
         "price": 974999,
         "date": "2026-03-09T08:42:39Z"
+      },
+      {
+        "price": 949999,
+        "date": "2026-03-12T07:48:54Z"
       }
     ],
     "date": "2026-03-09"
@@ -10731,8 +10739,8 @@
   },
   "16751396": {
     "id": "16751396",
-    "title": "2,253 P.M | 0% Downpayment | Audi Q3 35 TFSI!",
-    "price": 114999,
+    "title": "2,155 P.M | 0% Downpayment | Audi Q3 35 TFSI!",
+    "price": 109999,
     "make": "Audi",
     "model": "Q3",
     "year": "{'label': 'Year', 'value': 2023}",
@@ -10747,6 +10755,10 @@
       {
         "price": 114999,
         "date": "2026-03-09T11:37:45Z"
+      },
+      {
+        "price": 109999,
+        "date": "2026-03-12T07:48:54Z"
       }
     ],
     "date": "2026-03-09"
@@ -26558,5 +26570,313 @@
       }
     ],
     "date": "2026-03-12"
+  },
+  "16772279": {
+    "id": "16772279",
+    "title": "ALMOST NEW MAZDA CX-5 GL 2024 GCC SPEC NO ACCIDENT 100%ORIGINAL PAINT CAR PLAY NAV PUSH START CAMERA",
+    "price": 72000,
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": "2024",
+    "kilometers": "37300",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-5/2026/3/12/almost-new-mazda-cx-5-gl-2024-gcc-spec-no--2-934---a5e42a49b6564f6fb086bcbf2e5e4043/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 72000,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772278": {
+    "id": "16772278",
+    "title": "EID OFFER - 0% DP - JAC WARRANTY 2028 - JAC S3 2023 - APPLE CARPLAY - ORIGINAL PAINT",
+    "price": 37500,
+    "make": "JAC",
+    "model": "S3",
+    "year": "2023",
+    "kilometers": "32900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/3/12/eid-offer-0-dp-jac-warranty-2028-jac-s3-20-2-918---69c3d2c7d4214149a6bcd758afa35c3c/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 37500,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16735175": {
+    "id": "16735175",
+    "title": "BRAND NEW BYD QIN PLUS || 2025 MODEL || HYBRID || 0 KM",
+    "price": 41500,
+    "make": "BYD",
+    "model": "Qin",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/qin/2026/2/7/brand-new-byd-qin-plus-2025-model-hybrid-0-2-697---71f9fdac82364653909fb7767a70455b/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 41500,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16730578": {
+    "id": "16730578",
+    "title": "1 YR WARRANTY | 4.0 GXR | GCC | AED 4,000 PM",
+    "price": 236900,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2024",
+    "kilometers": "48490",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/2/3/1-yr-warranty-gcc-40l-aed-4000-pm-2-752---f3ee8021e1904fb28b35bae49be52b58/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 236900,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772253": {
+    "id": "16772253",
+    "title": "1 YR WARRANTY | GCC | 1.6L | AED 1,000 PM",
+    "price": 62900,
+    "make": "Kia",
+    "model": "Seltos",
+    "year": "2024",
+    "kilometers": "38650",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2026/3/12/1-yr-warranty-gcc-16l-aed-1000-pm-2-879---19529cd6b8504f89b91617f800af1373/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 62900,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16762452": {
+    "id": "16762452",
+    "title": "RAMADAN OFFER - 0% DP - ORIGINAL PAINT - MITSUBISHI ATTRAGE 2022 - LOW MILEAGE - GCC",
+    "price": 28500,
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "year": "2022",
+    "kilometers": "71900",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/3/3/ramadan-offer-0-dp-original-paint-mitsubis-2-459---e2edfbe251c346568db4dc22111e0062/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 28500,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16709247": {
+    "id": "16709247",
+    "title": "EID OFFER - 0% DP - JAC J7 1.5TC LUXURY 2023 - LOW MILEAGE - MINT CONDITION",
+    "price": 34900,
+    "make": "JAC",
+    "model": "J7",
+    "year": "2023",
+    "kilometers": "62300",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/j7/2026/1/16/emi-560-aed-jac-j7-15tc-luxury-2023-low-mi-2-742---4570b74dc3a2488f873836c39893eb2c/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 34900,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772238": {
+    "id": "16772238",
+    "title": "2019 Ford Explorer | G.C.C Spec",
+    "price": 48000,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2019",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/3/12/2019-ford-explorer-gcc-spec-2-439---0fd776c05e8f46709fbf9bba13adfe8b/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 48000,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16714940": {
+    "id": "16714940",
+    "title": "10,380 P.M |  Escalade Sport Platinum | 0% Downpayment | Cadillac Warranty!",
+    "price": 529999,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "2025",
+    "kilometers": "16000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/1/21/10771-pm-escalade-sport-platinum-0-downpay-2-658---6edcc06b94324588888adbf873d9c670/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 529999,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772237": {
+    "id": "16772237",
+    "title": "EID OFFER - 0% DP - APPLE CARPLAY - NISSAN SUNNY SV 1.5L GCC SPECS - WELL MAINTAINED",
+    "price": 26900,
+    "make": "Nissan",
+    "model": "Sunny",
+    "year": "2022",
+    "kilometers": "145900",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/3/12/eid-offer-0-dp-apple-carplay-nissan-sunny--2-325---220a89a54c1c472688d59455e8b1efaf/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 26900,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16684646": {
+    "id": "16684646",
+    "title": "2,155 P.M |  CT5 | 0% Downpayment | Agency Warranty!",
+    "price": 109999,
+    "make": "Cadillac",
+    "model": "CT5",
+    "year": "2022",
+    "kilometers": "89000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/ct5/2025/12/26/2448-pm-ct5-0-downpayment-agency-warranty-2-362---185f324621224c7b847a9fe1a4000118/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 109999,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16768181": {
+    "id": "16768181",
+    "title": "3,721 P.M |  Defender S P300 | 0% Downpayment | DEFENDER S AMAZING CONDITION!",
+    "price": 189999,
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": "2020",
+    "kilometers": "72000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/3/8/3721-pm-defender-s-p300-0-downpayment-defe-2-786---c096fcf85d1c468e9de0849b3b6b0cd7/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 189999,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772183": {
+    "id": "16772183",
+    "title": "HYUNDAI VELOSTER 2015, GCC, FULL OPTION",
+    "price": 16500,
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": "2015",
+    "kilometers": "240000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/veloster/2026/3/12/hyundai-veloster-2015-gcc-full-option-2-829---53fa7b1f375f48a0a4f8ed8d76644431/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16771971": {
+    "id": "16771971",
+    "title": "2026 BRAND NEW SOUEAST S08DM I PLUG-IN HYBRID I 7 SEATERS I 7 YEARS WARRANTY I 355HP l 530Nm",
+    "price": 119000,
+    "make": "Soueast",
+    "model": "S08DM",
+    "year": "2026",
+    "kilometers": "32",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/soueast/s08dm/2026/3/11/2026-brand-new-soueast-s08dm-i-plug-in-hyb-2-984---3a5a666c28624989b66377bf57da6d5d/",
+    "first_seen": "2026-03-12T07:48:54Z",
+    "prices": [
+      {
+        "price": 119000,
+        "date": "2026-03-12T07:48:54Z"
+      }
+    ],
+    "date": "2026-03-11"
   }
 }
