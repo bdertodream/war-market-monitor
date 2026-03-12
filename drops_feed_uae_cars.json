@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1400,
+  "total_tracked": 1401,
   "total_drops": 4,
-  "total_new": 1400,
-  "last_updated": "2026-03-12T21:32:52Z",
+  "total_new": 1401,
+  "last_updated": "2026-03-12T22:24:59Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16773175",
+      "title": "2021 Nissan Patrol SE Platinum V6 4.0L 275HP, GCC Specs AWR, Nissan Warranty, Top Option, 2 Keys",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/3/12/2021-nissan-patrol-se-platinum-v6-40l-275h-2-699---d8551685d2504281b5a465cb6aa33eb5/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Patrol",
+      "year": "2021",
+      "mileage": "154000",
+      "price": 158000,
+      "first_seen": "2026-03-12T22:24:59Z"
+    },
     {
       "id": "16773164",
       "title": "2013 Lexus LX570 | G.C.C Spec | First Owner",
@@ -6048,18 +6060,6 @@
       "year": "2022",
       "mileage": "24542",
       "price": 988000,
-      "first_seen": "2026-03-11T06:49:06Z"
-    },
-    {
-      "id": "16646917",
-      "title": "AED 7445/month | 2025 Porsche Panamera Standard | GCC Specs | Ref#397335",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2025/11/23/aed-7597month-2025-porsche-panamera-standa-2-159---16c162cf612a440183870e78d82d6246/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Panamera",
-      "year": "2025",
-      "mileage": "4230",
-      "price": 490000,
       "first_seen": "2026-03-11T06:49:06Z"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3345,
+  "total_tracked": 3346,
   "total_drops": 23,
-  "total_new": 3345,
+  "total_new": 3346,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5314,6 +5314,17 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "9788988",
+      "title": "Grade-A Office | Near DMCC Metro | Rented",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/8/vacant-fitted-office-with-partitions-2-209259/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "632",
+      "bedrooms": "",
+      "price": 1850000,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5817,17 +5828,6 @@
       "size": "3257",
       "bedrooms": "4",
       "price": 6500000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "17186436",
-      "title": "Luxury Branded Residences in Downtown Dubai",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/11/luxury-branded-residences-in-downtown-d-2-216188/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "704",
-      "bedrooms": "1",
-      "price": 3610000,
       "first_seen": "2026-03-11"
     }
   ],

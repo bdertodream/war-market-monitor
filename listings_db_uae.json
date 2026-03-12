@@ -31145,7 +31145,7 @@
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/11/fitted-retail-furnished-shop-pool-city--2-132711/",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11"
+    "last_seen": "2026-03-12"
   },
   "9802137": {
     "title": "Metro Easy Access | Fantastic View | Corner Office",
@@ -35890,7 +35890,7 @@
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/28/rare-opportunity-limited-boutique-offic-2-472008/",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11"
+    "last_seen": "2026-03-12"
   },
   "9807594": {
     "title": "Fully Furnished | Tenanted | High Floor",
@@ -43481,6 +43481,19 @@
     "city": "Dubai",
     "category": "Land",
     "url": "https://dubai.dubizzle.com/property-for-sale/land/2025/7/8/freehold-g-8-residential-plot-for-sale-2-215218/",
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12"
+  },
+  "9788988": {
+    "title": "Grade-A Office | Near DMCC Metro | Rented",
+    "price": 1850000,
+    "size": "632",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Jumeirah Lake Towers (JLT)",
+    "city": "Dubai",
+    "category": "Office",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/8/vacant-fitted-office-with-partitions-2-209259/",
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-12"
   }

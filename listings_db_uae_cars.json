@@ -30906,5 +30906,27 @@
       }
     ],
     "date": "2026-03-12"
+  },
+  "16773175": {
+    "id": "16773175",
+    "title": "2021 Nissan Patrol SE Platinum V6 4.0L 275HP, GCC Specs AWR, Nissan Warranty, Top Option, 2 Keys",
+    "price": 158000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2021",
+    "kilometers": "154000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/3/12/2021-nissan-patrol-se-platinum-v6-40l-275h-2-699---d8551685d2504281b5a465cb6aa33eb5/",
+    "first_seen": "2026-03-12T22:24:59Z",
+    "prices": [
+      {
+        "price": 158000,
+        "date": "2026-03-12T22:24:59Z"
+      }
+    ],
+    "date": "2026-03-12"
   }
 }
