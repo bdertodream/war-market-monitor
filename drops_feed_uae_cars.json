@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1384,
+  "total_tracked": 1386,
   "total_drops": 4,
-  "total_new": 1384,
-  "last_updated": "2026-03-12T18:48:42Z",
+  "total_new": 1386,
+  "last_updated": "2026-03-12T19:45:23Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16773101",
+      "title": "\u2b50\ufe0f ENJOY RAMADAN MEGA OFFERS NOW \u2b50\ufe0f Top condition | Great value for money",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/408/2026/3/12/enjoy-ramadan-mega-offers-now-top-conditio-2-262---7858777154914465aaee9290e0c64c92/",
+      "category": "Used Cars",
+      "make": "Peugeot",
+      "model": "408",
+      "year": "2014",
+      "mileage": "178000",
+      "price": 11999,
+      "first_seen": "2026-03-12T19:45:23Z"
+    },
+    {
+      "id": "16773078",
+      "title": "Range Rover Vogue HSE P400 | 2026 GCC 0km",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/3/12/range-rover-vogue-hse-p400-2026-gcc-0km-2-853---97c9dbf727e54b4fb6b351769fb2728e/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2026",
+      "mileage": "0",
+      "price": 595000,
+      "first_seen": "2026-03-12T19:45:23Z"
+    },
     {
       "id": "16773050",
       "title": "2014 Bmw X5 1st Owner Full Option v6",
@@ -6036,30 +6060,6 @@
       "year": "2023",
       "mileage": "2300",
       "price": 565000,
-      "first_seen": "2026-03-11T06:49:06Z"
-    },
-    {
-      "id": "16714144",
-      "title": "GCC SPECS MERCEDES BENZ 250 V CLASS LUXURY VAN FALCON EDITION UAE SPECIAL EDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/1/20/gcc-specs-mercedes-benz-250-v-class-luxury-2-636---e5a3a171e0a24715af12cf2ad7776603/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "V-Class",
-      "year": "2023",
-      "mileage": "21000",
-      "price": 265000,
-      "first_seen": "2026-03-11T06:49:06Z"
-    },
-    {
-      "id": "16742821",
-      "title": "2024 BMW M440i XDrive, 2028 BMW Warranty + Service Contract, GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/2/13/2024-bmw-m440i-xdrive-2028-bmw-warranty-se-2-825---664517fe78614f2dafbb615f3b36cf2d/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "4-Series",
-      "year": "2024",
-      "mileage": "58729",
-      "price": 239000,
       "first_seen": "2026-03-11T06:49:06Z"
     }
   ]

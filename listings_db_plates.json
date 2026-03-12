@@ -3480,16 +3480,20 @@
     "location": "Downtown, Beirut",
     "district": "Beirut",
     "original_price": 31000,
-    "current_price": 31000,
+    "current_price": 34000,
     "price_history": [
       {
         "price": 31000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 34000,
+        "date": "2026-03-12"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-12",
-    "last_updated": "2026-03-07",
+    "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -5455,6 +5459,78 @@
     "price_history": [
       {
         "price": 12000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818749": {
+    "id": "116818749",
+    "title": "Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+    "url": "https://www.olx.com.lb/ad/car-plate-number-sak-tokhsis-jehez-final-price-ID116818749.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other International, International",
+    "district": "International",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818746": {
+    "id": "116818746",
+    "title": "Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+    "url": "https://www.olx.com.lb/ad/car-plate-number-sak-tokhsis-jehez-final-price-ID116818746.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other International, International",
+    "district": "International",
+    "original_price": 2500,
+    "current_price": 2500,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818732": {
+    "id": "116818732",
+    "title": "Porsche Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+    "url": "https://www.olx.com.lb/ad/porsche-car-plate-number-sak-tokhsis-jehez-final-price-ID116818732.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other International, International",
+    "district": "International",
+    "original_price": 5000,
+    "current_price": 5000,
+    "price_history": [
+      {
+        "price": 5000,
         "date": "2026-03-12"
       }
     ],

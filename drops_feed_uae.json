@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3317,
+  "total_tracked": 3321,
   "total_drops": 23,
-  "total_new": 3317,
+  "total_new": 3321,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5006,6 +5006,50 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "17194937",
+      "title": "New Launch | 10% DP | Book Now | Golf Course Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/new-launch-10-dp-book-now-golf-course-l-2-627450/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "798",
+      "bedrooms": "1",
+      "price": 1096888,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17194846",
+      "title": "Golf Course Lifestyle | Flexible Payment Plan | Invest in Golf Vale",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/golf-course-lifestyle-flexible-payment--2-325896/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "800",
+      "bedrooms": "1",
+      "price": 1090000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17185512",
+      "title": "Townhouse 3BR + Maid // G+1 // Within Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/10/townhouse-3br-maid-g1-within-community-2-269777/",
+      "area": "Nad Al Sheba",
+      "category": "Townhouse",
+      "size": "2016",
+      "bedrooms": "3",
+      "price": 5900000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9807742",
+      "title": "OFFICE SPACE OPPORTUNITY \u2014 PRIME BUSINESS LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/12/office-space-opportunity-prime-business-2-217369/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "1269",
+      "bedrooms": "",
+      "price": 3200000,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5784,50 +5828,6 @@
       "size": "4273",
       "bedrooms": "4",
       "price": 6950000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9787586",
-      "title": "Off Plan | 50/50 Payment Plan | Duplex Penthouse",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/30/off-plan-5050-payment-plan-duplex-penth-2-108939/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "3591",
-      "bedrooms": "",
-      "price": 20861620,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9787575",
-      "title": "Off Plan | 50/50 Payment Plan | Deluxe Type",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/30/off-plan-5050-payment-plan-deluxe-type-2-331156/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "704",
-      "bedrooms": "",
-      "price": 6518720,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9787574",
-      "title": "Off Plan | 50/50 Payment Plan | Loft Office",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/30/off-plan-5050-payment-plan-loft-office-2-468341/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2326",
-      "bedrooms": "",
-      "price": 11891000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9787542",
-      "title": "Prime Location | Aquarise Commercial Spaces",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/29/prime-location-aquarise-commercial-spac-2-234228/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "860",
-      "bedrooms": "",
-      "price": 19819806,
       "first_seen": "2026-03-11"
     }
   ],

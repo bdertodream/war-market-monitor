@@ -64617,7 +64617,7 @@
   },
   "116767777": {
     "id": "116767777",
-    "title": "Mercedes-Benz GLC-Class 2017 look amg",
+    "title": "Mercedes-Benz GLC-Class 2018 4matic",
     "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2017-ID116767777.html",
     "make": "Mercedes-Benz",
     "model": "GLC-Class",
@@ -64628,16 +64628,20 @@
     "location": "Zgharta Town, Zgharta",
     "district": "Zgharta",
     "original_price": 25800,
-    "current_price": 25800,
+    "current_price": 26000,
     "price_history": [
       {
         "price": 25800,
         "date": "2026-03-10"
+      },
+      {
+        "price": 26000,
+        "date": "2026-03-12"
       }
     ],
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-12",
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-12",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -75100,6 +75104,230 @@
     "price_history": [
       {
         "price": 37000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818771": {
+    "id": "116818771",
+    "title": "Mercedes-Benz C-Class 2012",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2012-ID116818771.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2012,
+    "mileage": 130000,
+    "transmission": "Automatic",
+    "location": "Adlieh, Beirut",
+    "district": "Beirut",
+    "original_price": 11000,
+    "current_price": 11000,
+    "price_history": [
+      {
+        "price": 11000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116351275": {
+    "id": "116351275",
+    "title": "Nissan 370Z 2016",
+    "url": "https://www.olx.com.lb/ad/nissan-370z-2016-ID116351275.html",
+    "make": "Nissan",
+    "model": "370Z",
+    "body_type": "Sports / Coupe",
+    "year": 2016,
+    "mileage": 118000,
+    "transmission": "Steptronic",
+    "location": "Barbour, Beirut",
+    "district": "Beirut",
+    "original_price": 17000,
+    "current_price": 17000,
+    "price_history": [
+      {
+        "price": 17000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818769": {
+    "id": "116818769",
+    "title": "Toyota Corolla 2014",
+    "url": "https://www.olx.com.lb/ad/toyota-corolla-2014-ID116818769.html",
+    "make": "Toyota",
+    "model": "Corolla",
+    "body_type": "Sedan",
+    "year": 2014,
+    "mileage": 130000,
+    "transmission": "Automatic",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 11500,
+    "current_price": 11500,
+    "price_history": [
+      {
+        "price": 11500,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818766": {
+    "id": "116818766",
+    "title": "جي ام سي انفوي 2003",
+    "url": "https://www.olx.com.lb/ad/جي-ام-سي-انفوي-2003-ID116818766.html",
+    "make": "GMC",
+    "model": "Envoy",
+    "body_type": "Estate",
+    "year": 2005,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 3800,
+    "current_price": 3800,
+    "price_history": [
+      {
+        "price": 3800,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116643844": {
+    "id": "116643844",
+    "title": "Chevrolet Camaro 2010",
+    "url": "https://www.olx.com.lb/ad/chevrolet-camaro-2010-ID116643844.html",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "body_type": "Sports / Coupe",
+    "year": 2010,
+    "mileage": 110000,
+    "transmission": "Automatic",
+    "location": "Verdun, Beirut",
+    "district": "Beirut",
+    "original_price": 7900,
+    "current_price": 7900,
+    "price_history": [
+      {
+        "price": 7900,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818756": {
+    "id": "116818756",
+    "title": "Land Rover Velar 2023",
+    "url": "https://www.olx.com.lb/ad/land-rover-velar-2023-ID116818756.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2023,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Tabarja, Keserouan",
+    "district": "Keserouan",
+    "original_price": 68000,
+    "current_price": 68000,
+    "price_history": [
+      {
+        "price": 68000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116778104": {
+    "id": "116778104",
+    "title": "Land Rover Discovery 2018",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116778104.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 125000,
+    "transmission": "Steptronic",
+    "location": "Jouret Al Ballout, Metn",
+    "district": "Metn",
+    "original_price": 27300,
+    "current_price": 27300,
+    "price_history": [
+      {
+        "price": 27300,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818736": {
+    "id": "116818736",
+    "title": "Mercedes-Benz C300 4 matic 2015 super clean",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c300-4-matic-2015-super-clean-ID116818736.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2015,
+    "mileage": 140000,
+    "transmission": "Steptronic",
+    "location": "Ain Al Mraiseh, Beirut",
+    "district": "Beirut",
+    "original_price": 16300,
+    "current_price": 16300,
+    "price_history": [
+      {
+        "price": 16300,
         "date": "2026-03-12"
       }
     ],

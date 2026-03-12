@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T18:48:12.975780",
-  "total_tracked": 225,
+  "generated_at": "2026-03-12T19:44:46.566489",
+  "total_tracked": 228,
   "total_drops": 6,
-  "total_new": 225,
+  "total_new": 228,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -222,6 +222,60 @@
       "price_history": [
         {
           "price": 12000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818749",
+      "title": "Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-sak-tokhsis-jehez-final-price-ID116818749.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other International, International",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818746",
+      "title": "Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-sak-tokhsis-jehez-final-price-ID116818746.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other International, International",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818732",
+      "title": "Porsche Car Plate Number Sak Tokhsis Jehez (FINAL PRICE)",
+      "url": "https://www.olx.com.lb/ad/porsche-car-plate-number-sak-tokhsis-jehez-final-price-ID116818732.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other International, International",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 5000,
           "date": "2026-03-12"
         }
       ]
@@ -3178,13 +3232,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 31000,
-      "current_price": 31000,
+      "current_price": 34000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 31000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 34000,
+          "date": "2026-03-12"
         }
       ]
     },
