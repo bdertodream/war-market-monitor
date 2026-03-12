@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3309,
+  "total_tracked": 3310,
   "total_drops": 23,
-  "total_new": 3309,
+  "total_new": 3310,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4886,7 +4886,7 @@
     },
     {
       "id": "16766244",
-      "title": "Limited Time Offer 4% DLD Waiver I Spacious Layout | Burj Khalifa & Villas Views | Q1 2027 | High R",
+      "title": "Limited Time Offer 4% DLD Waiver I Spacious Layout | Burj Khalifa & Villas Views | Q1 2027 | High ROI",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/9/spacious-layout-burj-khalifa-villas-vie-2-167537/",
       "area": "Majan",
       "category": "Apartment",
@@ -4915,6 +4915,17 @@
       "size": "24873",
       "bedrooms": "",
       "price": 52000000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9747822",
+      "title": "Available Mixed Use Land | Nadd Hessa | Park & City Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/12/available-mixed-use-land-nadd-hessa-par-2-543160/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Land",
+      "size": "51511",
+      "bedrooms": "",
+      "price": 59500000,
       "first_seen": "2026-03-12"
     },
     {
@@ -5817,17 +5828,6 @@
       "size": "1028",
       "bedrooms": "",
       "price": 4350000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9801168",
-      "title": "1%MONTHLY_SPACIOUS_POST HANDOVER_BEST PRICE",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/27/1monthly_spacious_post-handover_best-pr-2-227410/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Office",
-      "size": "1269",
-      "bedrooms": "",
-      "price": 3227132,
       "first_seen": "2026-03-11"
     }
   ],

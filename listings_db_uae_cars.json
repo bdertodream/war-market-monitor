@@ -23787,8 +23787,8 @@
   },
   "16738000": {
     "id": "16738000",
-    "title": "RANGE ROVER SPORTS 2013 GCC SPECS ORIGINAL PAINT MINT CONDITION",
-    "price": 28500,
+    "title": "RANGE ROVER SPORTS 2013 GCC SPECS FULL SERVICE HISTORY FROM AGENCY ORIGINAL PAINT MINT CONDITION",
+    "price": 26900,
     "make": "Land Rover",
     "model": "Range Rover Sport",
     "year": "2013",
@@ -23803,6 +23803,10 @@
       {
         "price": 28500,
         "date": "2026-03-11T16:49:01Z"
+      },
+      {
+        "price": 26900,
+        "date": "2026-03-12T17:51:02Z"
       }
     ],
     "date": "2026-03-11"
@@ -30121,6 +30125,248 @@
       {
         "price": 2250000,
         "date": "2026-03-12T16:59:20Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16660459": {
+    "id": "16660459",
+    "title": "GAC M8 GT | 2026 GCC 0km | 5 Years Agency Warranty",
+    "price": 127000,
+    "make": "GAC",
+    "model": "M8",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/m8/2025/12/5/gac-m8-gt-2026-gcc-0km-5-years-agency-warr-2-460---31a2370d06324e2da520660306ab8753/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 127000,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772998": {
+    "id": "16772998",
+    "title": "Nissan Maxima 2016 very good condition",
+    "price": 28500,
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": "2016",
+    "kilometers": "163000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Meydan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/3/12/nissan-maxima-2016-very-good-condition-2-449---206b13f677c64bfb85af2a212ed3ced2/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 28500,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16742449": {
+    "id": "16742449",
+    "title": "Ford Titanium 2019 in good condition.",
+    "price": 44000,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2019",
+    "kilometers": "127000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "England Cluster",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/2/12/ford-titanium-2019-in-good-condition-2-701---ba09e7811d7943dcb6c87f8a97b39955/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 44000,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772987": {
+    "id": "16772987",
+    "title": "INFINITY QX60 FULL OPTION GCC SPECS SINGLE OWNER FULL SERVICE HISTORY FROM AW ROSTAMANI MOTORS",
+    "price": 27500,
+    "make": "Infiniti",
+    "model": "QX60",
+    "year": "2016",
+    "kilometers": "239000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx60/2026/3/12/infinity-qx60-full-option-gcc-specs-single-2-339---b81bf7c0c4914117a1a9e30eea28ac0a/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 27500,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16566451": {
+    "id": "16566451",
+    "title": "Toyota Yaris 2021 GCC Excellent condition",
+    "price": 33500,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2021",
+    "kilometers": "107000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2025/9/20/toyota-yaris-2021-gcc-excellent-condition-2-385---f364481a604041aeafeac22c44fac26a/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 33500,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16708066": {
+    "id": "16708066",
+    "title": "Toyota Rush 2023 GCC Excellent Condition",
+    "price": 47500,
+    "make": "Toyota",
+    "model": "Rush",
+    "year": "2023",
+    "kilometers": "85000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rush/2026/1/15/toyota-rush-2023-gcc-excellent-condition-2-913---1d169fb3c44c41e3abc95d81644636de/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 47500,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16734798": {
+    "id": "16734798",
+    "title": "Toyota Avanza 2017 GCC Excellent condition",
+    "price": 20500,
+    "make": "Toyota",
+    "model": "Avanza",
+    "year": "2017",
+    "kilometers": "560000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/avanza/2026/2/6/toyota-avanza-2017-gcc-excellent-condition-2-883---661c6a6483724d939650af13806377f8/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 20500,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772965": {
+    "id": "16772965",
+    "title": "GCC PERFECT CONDITION FULL SERVICE HISTORY TOP OF THE RANGE JUST AMAZING CAR",
+    "price": 169000,
+    "make": "BMW",
+    "model": "X7",
+    "year": "2020",
+    "kilometers": "83000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/3/12/gcc-perfect-condition-full-service-history-2-086---93130234c422468da1ceda26027d690e/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 169000,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772958": {
+    "id": "16772958",
+    "title": "(RAMADAN OFFER) 2022 GCC BMW 520i M-Sport/ official dealer warranty and service package",
+    "price": 144900,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2022",
+    "kilometers": "63000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/3/12/ramadan-offer-2022-gcc-bmw-520i-m-sport-of-2-805---dcbd72498ab24d7eaa624d15a7ed7079/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 144900,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772776": {
+    "id": "16772776",
+    "title": "AED 1,551 EMI \u2022 2020 GCC Mercedes Benz CLA35 AMG \u2022  2.0L 4CYL \u2022 SUPERB CONDITION!!",
+    "price": 99000,
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "2020",
+    "kilometers": "124000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla/2026/3/12/aed-1551-emi-2020-gcc-mercedes-benz-cla35--2-912---38f702e34396468d8ad47d3e2dbdc7a9/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-03-12T17:51:02Z"
+      }
+    ],
+    "date": "2026-03-12"
+  },
+  "16772737": {
+    "id": "16772737",
+    "title": "TOYOTA LC300 VXR 3.5L TT FULL OPTION 2026YM  \u062a\u0648\u064a\u0648\u062a\u0627 \u0644\u0627\u0646\u062f\u0643\u0631\u0648\u0632\u0631 \u0641\u064a \u0627\u0643\u0633 \u0627\u0631 \u062a\u0648\u064a\u0646 \u062a\u0648\u0631\u0628\u0648 3.55 \u0644\u062a\u0631 \u0641\u0644 \u0627\u0648\u0628\u0634\u0646",
+    "price": 356000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/3/12/toyota-lc300-vxr-35l-tt-full-option-2026ym-2-256---e914a50cb89e49598b027cf04fd793db/",
+    "first_seen": "2026-03-12T17:51:02Z",
+    "prices": [
+      {
+        "price": 356000,
+        "date": "2026-03-12T17:51:02Z"
       }
     ],
     "date": "2026-03-12"
