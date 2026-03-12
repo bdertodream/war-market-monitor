@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3294,
-  "total_drops": 22,
-  "total_new": 3294,
+  "total_tracked": 3302,
+  "total_drops": 23,
+  "total_new": 3302,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -310,6 +310,20 @@
       "area": "Dubai Investment Park (DIP)",
       "category": "Office",
       "size": "860",
+      "bedrooms": "",
+      "date": "2026-03-12",
+      "first_seen": "2026-03-08"
+    },
+    {
+      "id": "9745992",
+      "title": "\ud83c\udf3f Premium Residential Plot | Emerald Hills | Dubai Hills Estate - FOR SALE",
+      "old_price": 26000000,
+      "new_price": 23000000,
+      "drop_pct": 11.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/4/premium-residential-plot-emerald-hills--2-702301/",
+      "area": "Dubai Hills Estate",
+      "category": "Land",
+      "size": "7743",
       "bedrooms": "",
       "date": "2026-03-12",
       "first_seen": "2026-03-08"
@@ -4739,6 +4753,94 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "17079596",
+      "title": "Handover Soon | Spectacular View | Great Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/13/handover-soon-spectacular-view-great-lo-2-373746/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Apartment",
+      "size": "819",
+      "bedrooms": "1",
+      "price": 1850000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17130836",
+      "title": "Prime Location Zabeel Park|Metro Access |Q2 2027",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/25/prime-location-zabeel-parkmetro-access--2-273652/",
+      "area": "Bur Dubai",
+      "category": "Apartment",
+      "size": "1110",
+      "bedrooms": "2",
+      "price": 2330000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "16897956",
+      "title": "4th Floor | Fitted | Canal Pool/Burj Khalifa View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/6/4th-floor-fitted-canal-poolburj-khalifa-2-324025/",
+      "area": "Mina Rashid",
+      "category": "Apartment",
+      "size": "1163",
+      "bedrooms": "2",
+      "price": 2950000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "16880816",
+      "title": "Spacious 06 Series | Partial Sea View | Low Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/2/handover-soon-spacious-06-series-low-fl-2-729268/",
+      "area": "Mina Rashid",
+      "category": "Apartment",
+      "size": "1215",
+      "bedrooms": "2",
+      "price": 3250000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17097231",
+      "title": "Premium Address | Strong Returns | Spacious Layout | Pool View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/17/premium-address-strong-returns-spacious-2-962139/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "923",
+      "bedrooms": "1",
+      "price": 1690000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "17170845",
+      "title": "Premium & Elegant unit I Best buy I Prime location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/7/premium-elegant-unit-i-best-buy-i-prime-2-358779/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "754",
+      "bedrooms": "0",
+      "price": 720000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9807722",
+      "title": "Grade A | Luxury Furnished | 11 Parkings",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/12/grade-a-luxury-furnished-11-parkings-2-220739/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "5510",
+      "bedrooms": "",
+      "price": 30305000,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9790611",
+      "title": "Prime Retail Opportunity I Burj & Lagoon Views | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/11/20/prime-retail-opportunity-i-burj-lagoon--2-290808/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "1175",
+      "bedrooms": "",
+      "price": 5150000,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5726,94 +5828,6 @@
       "size": "925",
       "bedrooms": "",
       "price": 2000000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9800528",
-      "title": "Furnished with Partitions | Canal View | Vastu",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/23/furnished-with-partitions-canal-view-va-2-134942/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "876",
-      "bedrooms": "",
-      "price": 1855000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16978888",
-      "title": "Studio Apartment | Lowest Price | Investment worthy",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/22/studio-apartment-lowest-price-investmen-2-604007/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "383",
-      "bedrooms": "0",
-      "price": 699000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16978814",
-      "title": "Elegant High-Floor Apartment | Premium Layout & Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/22/elegant-high-floor-apartment-premium-la-2-294458/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "363",
-      "bedrooms": "0",
-      "price": 747000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16627478",
-      "title": "Spacious Studio | High ROI | Cash offer | Book now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/10/spacious-studio-high-roi-cash-offer-boo-2-174745/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "368",
-      "bedrooms": "0",
-      "price": 671000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16894907",
-      "title": "Iconic Structure Building | Modern Design | High ROI | Park view",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/5/iconic-structure-building-modern-design-2-135987/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "368",
-      "bedrooms": "0",
-      "price": 674000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16674432",
-      "title": "Studio Apartment | Lowest Price | Investment worthy",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/19/studio-apartment-lowest-price-investmen-2-658829/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "364",
-      "bedrooms": "0",
-      "price": 655000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "17183189",
-      "title": "Prime Location | Handover Soon | No Agents",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/10/prime-location-handover-soon-no-agents-2-331544/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "1550",
-      "bedrooms": "4",
-      "price": 2600000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "16918774",
-      "title": "Fully Upgraded | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/9/new-exclusive-fully-upgraded-walk-to-je-2-323121/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "2425",
-      "bedrooms": "4",
-      "price": 6300000,
       "first_seen": "2026-03-11"
     }
   ],
