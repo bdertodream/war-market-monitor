@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3321,
+  "total_tracked": 3323,
   "total_drops": 23,
-  "total_new": 3321,
+  "total_new": 3323,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5050,6 +5050,28 @@
       "first_seen": "2026-03-12"
     },
     {
+      "id": "9747790",
+      "title": "Freehold | Premium Lot | Great Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/12/freehold-premium-lot-great-investment-2-398855/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9770",
+      "bedrooms": "",
+      "price": 3907816,
+      "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9747713",
+      "title": "Premium Land Plot | Ideal for Custom Villa",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/12/premium-land-plot-ideal-for-custom-vill-2-209368/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9656",
+      "bedrooms": "",
+      "price": 4500000,
+      "first_seen": "2026-03-12"
+    },
+    {
       "id": "9802019",
       "title": "High Visibility | Great Investment | Payment Plan",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/1/high-visibility-great-investment-paymen-2-331582/",
@@ -5806,28 +5828,6 @@
       "size": "1160",
       "bedrooms": "2",
       "price": 1889000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "15779363",
-      "title": "A Seamless Blend of Art and Architecture Awaits You",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/5/14/a-seamless-blend-of-art-and-architectur-2-873059/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "576",
-      "bedrooms": "1",
-      "price": 928000,
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "17074925",
-      "title": "Viewable | Vacant Now | Large Plot | Negotiable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/12/viewable-vacant-now-large-plot-negotiab-2-291305/",
-      "area": "Dubai Science Park",
-      "category": "Villa",
-      "size": "4273",
-      "bedrooms": "4",
-      "price": 6950000,
       "first_seen": "2026-03-11"
     }
   ],

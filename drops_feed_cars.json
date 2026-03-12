@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T19:44:27.145031",
-  "total_tracked": 2686,
-  "total_drops": 116,
-  "total_new": 2686,
+  "generated_at": "2026-03-12T20:32:31.015740",
+  "total_tracked": 2698,
+  "total_drops": 117,
+  "total_new": 2698,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -421,6 +421,35 @@
         {
           "price": 4300,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116810005",
+      "title": "BMW X5 2008 (fe sot 2shour)",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2008-fe-sot-2shour-ID116810005.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 4900,
+      "current_price": 4400,
+      "drop_usd": 500,
+      "drop_pct": 10.2,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 4900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4400,
+          "date": "2026-03-12"
         }
       ]
     },
@@ -6684,6 +6713,270 @@
       "price_history": [
         {
           "price": 16300,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818804",
+      "title": "Porsche Cayenne V6 - 2006",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-v6-2006-ID116818804.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818801",
+      "title": "Jeep Grand Cherokee 2014",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2014-ID116818801.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 15899,
+      "current_price": 15899,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 15899,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818796",
+      "title": "Jeep Grand Cherokee 2008",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2008-ID116818796.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 190000,
+      "transmission": "Automatic",
+      "location": "Other in Zahle, Zahle",
+      "original_price": 8600,
+      "current_price": 8600,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 8600,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "115617138",
+      "title": "Land Rover HSE Luxury 7 seater full option clean carfax",
+      "url": "https://www.olx.com.lb/ad/land-rover-hse-luxury-7-seater-full-option-clean-carfax-ID115617138.html",
+      "make": "Land Rover",
+      "model": "LR4",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 105000,
+      "transmission": "Automatic",
+      "location": "Damour, Chouf",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818794",
+      "title": "2019 Chevrolet Tahoe 2LT Black/Black Clean Carfax Like New",
+      "url": "https://www.olx.com.lb/ad/2019-chevrolet-tahoe-2lt-blackblack-clean-carfax-like-new-ID116818794.html",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 38000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116781456",
+      "title": "Honda CR-V 2012",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2012-ID116781456.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 99000,
+      "transmission": "Steptronic",
+      "location": "Bir Hassan, Beirut",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116778155",
+      "title": "Mercedes-Benz CLA-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2017-ID116778155.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 118000,
+      "transmission": "Steptronic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818783",
+      "title": "Hyundai Accent 2017",
+      "url": "https://www.olx.com.lb/ad/hyundai-accent-2017-ID116818783.html",
+      "make": "Hyundai",
+      "model": "Accent",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 73000,
+      "transmission": "Automatic",
+      "location": "Deir Qoubel, Aley",
+      "original_price": 8800,
+      "current_price": 8800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 8800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818782",
+      "title": "Mazda 2 2017",
+      "url": "https://www.olx.com.lb/ad/mazda-2-2017-ID116818782.html",
+      "make": "Mazda",
+      "model": "2",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 165000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116783355",
+      "title": "Porsche Macan 2018",
+      "url": "https://www.olx.com.lb/ad/porsche-macan-2018-ID116783355.html",
+      "make": "Porsche",
+      "model": "Macan",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 33000,
+      "current_price": 33000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 33000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116731834",
+      "title": "Chevrolet Camaro 2016",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-2016-ID116731834.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 15300,
+      "current_price": 15300,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 15300,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116686773",
+      "title": "Fiat 500 2014",
+      "url": "https://www.olx.com.lb/ad/fiat-500-2014-ID116686773.html",
+      "make": "Fiat",
+      "model": "500",
+      "body_type": "Sports / Coupe",
+      "year": 2014,
+      "mileage": 125000,
+      "transmission": "Steptronic",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-03-12"
         }
       ]
@@ -40446,13 +40739,17 @@
       "transmission": "Automatic",
       "location": "Achrafieh, Beirut",
       "original_price": 4900,
-      "current_price": 4900,
+      "current_price": 4400,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 4900,
           "date": "2026-03-01"
+        },
+        {
+          "price": 4400,
+          "date": "2026-03-12"
         }
       ]
     },
