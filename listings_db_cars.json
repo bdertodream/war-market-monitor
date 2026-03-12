@@ -9368,7 +9368,7 @@
   },
   "116810272": {
     "id": "116810272",
-    "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !Arriving In 5 Days",
+    "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !",
     "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-altitude-2018-no-airbags-deployed-4x4-ID116810272.html",
     "make": "Jeep",
     "model": "Grand Cherokee",
@@ -34915,7 +34915,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-12",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35223,7 +35223,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-12",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35279,7 +35279,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-12",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -75669,6 +75669,118 @@
     "price_history": [
       {
         "price": 6500,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818836": {
+    "id": "116818836",
+    "title": "بي ام دبليو الفئة 3 2002",
+    "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2002-ID116818836.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Estate",
+    "year": 2002,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "original_price": 3000,
+    "current_price": 3000,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818835": {
+    "id": "116818835",
+    "title": "Mercedes-Benz S-Class 1996",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-1996-ID116818835.html",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "body_type": "Sedan",
+    "year": 1996,
+    "mileage": 197000,
+    "transmission": "Automatic",
+    "location": "Other in Jezzine, Jezzine",
+    "district": "Jezzine",
+    "original_price": 9500,
+    "current_price": 9500,
+    "price_history": [
+      {
+        "price": 9500,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116737299": {
+    "id": "116737299",
+    "title": "Land Rover Range Rover Sport 2019",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116737299.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 100000,
+    "transmission": "Steptronic",
+    "location": "Charehbil, Saida",
+    "district": "Saida",
+    "original_price": 51950,
+    "current_price": 51950,
+    "price_history": [
+      {
+        "price": 51950,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818813": {
+    "id": "116818813",
+    "title": "Subaru XV 2020",
+    "url": "https://www.olx.com.lb/ad/subaru-xv-2020-ID116818813.html",
+    "make": "Subaru",
+    "model": "XV",
+    "body_type": "Sports / Coupe",
+    "year": 2020,
+    "mileage": 80000,
+    "transmission": "Automatic",
+    "location": "Zalka, Metn",
+    "district": "Metn",
+    "original_price": 19800,
+    "current_price": 19800,
+    "price_history": [
+      {
+        "price": 19800,
         "date": "2026-03-12"
       }
     ],

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T20:32:51.400722",
-  "total_tracked": 228,
+  "generated_at": "2026-03-12T21:32:17.752063",
+  "total_tracked": 230,
   "total_drops": 6,
-  "total_new": 228,
+  "total_new": 230,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -276,6 +276,42 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116126178",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116126178.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Downtown, Beirut",
+      "original_price": 100,
+      "current_price": 100,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 100,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818826",
+      "title": "3 digits",
+      "url": "https://www.olx.com.lb/ad/3-digits-ID116818826.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 123,
+      "current_price": 123,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 123,
           "date": "2026-03-12"
         }
       ]
