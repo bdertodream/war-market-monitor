@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T23:27:04.304044",
-  "total_tracked": 2711,
+  "generated_at": "2026-03-13T01:19:52.818258",
+  "total_tracked": 2716,
   "total_drops": 118,
-  "total_new": 2711,
+  "total_new": 2716,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3526,6 +3526,116 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116108168",
+      "title": "جيب شيروكى 2014",
+      "url": "https://www.olx.com.lb/ad/جيب-شيروكى-2014-ID116108168.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Summerland, Beirut",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818941",
+      "title": "كيا فورت 2014",
+      "url": "https://www.olx.com.lb/ad/كيا-فورت-2014-ID116818941.html",
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "Estate",
+      "year": 2014,
+      "mileage": 180000,
+      "transmission": "Automatic",
+      "location": "Jiyyeh, Chouf",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 9000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116728895",
+      "title": "Mercedes-Benz C-Class 300 / 4matic AMG",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-4matic-amg-ID116728895.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Abdul Latif El Bissar, Tripoli",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818928",
+      "title": "Audi E5 , Quattro , Price including registration and warranty .",
+      "url": "https://www.olx.com.lb/ad/audi-e5-quattro-price-including-registration-and-warranty-ID116818928.html",
+      "make": "Audi",
+      "model": "e-tron",
+      "body_type": "Estate",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Khaldeh, Aley",
+      "original_price": 55000,
+      "current_price": 55000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 55000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818924",
+      "title": "Mercedes-Benz GLA-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2018-ID116818924.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
     {
       "id": "116817957",
       "title": "Hyundai Veloster 2014",

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1402,
+  "total_tracked": 1404,
   "total_drops": 4,
-  "total_new": 1402,
-  "last_updated": "2026-03-12T23:27:58Z",
+  "total_new": 1404,
+  "last_updated": "2026-03-13T01:20:47Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16757851",
+      "title": "640/Month | MG zs 2022 | Gcc | Special Ramadan Offer | Cruise Control | Bank Loan @ 0% DP",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/2/25/640month-mg-zs-2022-gcc-cruise-control-ban-2-761---b0a82236f5f4478f8bc2180f187d705c/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "ZS",
+      "year": "2022",
+      "mileage": "72000",
+      "price": 31999,
+      "first_seen": "2026-03-13T01:20:47Z"
+    },
+    {
+      "id": "16773207",
+      "title": "Mercedes-Benz A-Class A 250 2015 - GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/3/12/mercedes-benz-a-class-a-250-2015-gcc-specs-2-418---9d322652e1c640aeb896371009641647/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "year": "2015",
+      "mileage": "139000",
+      "price": 39000,
+      "first_seen": "2026-03-13T01:20:47Z"
+    },
     {
       "id": "16773192",
       "title": "2021 Range Rover Vogue V6 HSE, GCC Specs ALTAYER, Under Warranty, Original Paint, Perfect Condition",
@@ -6036,30 +6060,6 @@
       "year": "2022",
       "mileage": "24189",
       "price": 906900,
-      "first_seen": "2026-03-11T06:49:06Z"
-    },
-    {
-      "id": "16729789",
-      "title": "AED 3873/month | 2023 Ford F-Series  | GCC Specs | Ref#422361",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-series/2026/2/2/aed-4346month-2023-ford-f-series-gcc-specs-2-853---ae9b8c44f0ec46519c55dc14fe063f4a/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-Series",
-      "year": "2023",
-      "mileage": "67715",
-      "price": 254900,
-      "first_seen": "2026-03-11T06:49:06Z"
-    },
-    {
-      "id": "16671642",
-      "title": "AED 603/month | 2016 Infiniti Q50 Premium | GCC Specs | Ref#405246",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q50/2025/12/14/aed-603month-2016-infiniti-q50-premium-gcc-2-202---d4a41f2a16df4f7db0c8900fb06ac5f4/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "Q50",
-      "year": "2016",
-      "mileage": "175465",
-      "price": 25000,
       "first_seen": "2026-03-11T06:49:06Z"
     }
   ]
