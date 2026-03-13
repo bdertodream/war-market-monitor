@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3650,
+  "total_tracked": 3651,
   "total_drops": 27,
-  "total_new": 3650,
+  "total_new": 3651,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3665,6 +3665,17 @@
       "first_seen": "2026-03-13"
     },
     {
+      "id": "16829733",
+      "title": "Investor Deal | Great Returns | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/22/distress-deal-great-returns-prime-locat-2-332130/",
+      "area": "Dubai Studio City",
+      "category": "Apartment",
+      "size": "347",
+      "bedrooms": "0",
+      "price": 499999,
+      "first_seen": "2026-03-13"
+    },
+    {
       "id": "9802287",
       "title": "Premium Office Space | Fitted Office | Vacant",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/premium-office-space-fitted-office-vaca-2-176952/",
@@ -5873,17 +5884,6 @@
       "size": "775",
       "bedrooms": "1",
       "price": 1127000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "17191955",
-      "title": "Post Handover PP | Rare Privacy | Handover Soon",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/12/post-handover-pp-rare-privacy-handover--2-237269/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "1673",
-      "bedrooms": "4",
-      "price": 3150000,
       "first_seen": "2026-03-12"
     }
   ],
