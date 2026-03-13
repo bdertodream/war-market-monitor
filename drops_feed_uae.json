@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3651,
+  "total_tracked": 3652,
   "total_drops": 28,
-  "total_new": 3651,
+  "total_new": 3652,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3690,6 +3690,17 @@
       "first_seen": "2026-03-13"
     },
     {
+      "id": "16917096",
+      "title": "DISTRESSED | Park View | Handed Over | Best Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/1/9/close-to-park-luxury-by-elie-saab-brand-2-218315/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Townhouse",
+      "size": "2773",
+      "bedrooms": "4",
+      "price": 3675000,
+      "first_seen": "2026-03-13"
+    },
+    {
       "id": "9802287",
       "title": "Premium Office Space | Fitted Office | Vacant",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/premium-office-space-fitted-office-vaca-2-176952/",
@@ -5887,17 +5898,6 @@
       "size": "380",
       "bedrooms": "0",
       "price": 824379,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "17060672",
-      "title": "High ROI | 4% DLD Waver | Limited Units |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/9/high-roi-flexible-7030-payment-plan-lim-2-205050/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "775",
-      "bedrooms": "1",
-      "price": 1127000,
       "first_seen": "2026-03-12"
     }
   ],
