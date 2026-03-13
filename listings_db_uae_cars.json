@@ -35530,5 +35530,71 @@
       }
     ],
     "date": "2026-03-13"
+  },
+  "16773819": {
+    "id": "16773819",
+    "title": "2,938 P.M |  Z | 0% Downpayment | Nissan Warranty!",
+    "price": 149999,
+    "make": "Nissan",
+    "model": "Z",
+    "year": "2023",
+    "kilometers": "41000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/z/2026/3/13/2938-pm-z-0-downpayment-nissan-warranty-2-539---4ab27a480e3c4bd08e54e0705b1a9127/",
+    "first_seen": "2026-03-13T14:45:45Z",
+    "prices": [
+      {
+        "price": 149999,
+        "date": "2026-03-13T14:45:45Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16773797": {
+    "id": "16773797",
+    "title": "BMW 520i \u2013 2015 Model | GCC Specs IN EXCELLENT CONDITION \ud83c\udde6\ud83c\uddea",
+    "price": 29500,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2015",
+    "kilometers": "123000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Flamingo Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/3/13/bmw-520i-2015-model-gcc-specs-in-excellent-2-100---cc4edce788434b148403e4b875efcce1/",
+    "first_seen": "2026-03-13T14:45:45Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-03-13T14:45:45Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16773780": {
+    "id": "16773780",
+    "title": "0% DOWN PAYMENT! | ALL INCLUSIVE | FREE INSURANCE  | M-SPORT  | AGMC WARRANTY + SERVICE | ONE OWNER",
+    "price": 254990,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2023",
+    "kilometers": "39300",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/3/13/0-down-payment-free-reg-salik-189-rate-40i-2-695---abb9e1be1d33492988c4feb0dcc709ce/",
+    "first_seen": "2026-03-13T14:45:45Z",
+    "prices": [
+      {
+        "price": 254990,
+        "date": "2026-03-13T14:45:45Z"
+      }
+    ],
+    "date": "2026-03-13"
   }
 }

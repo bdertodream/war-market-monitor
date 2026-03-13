@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T14:02:03.542933",
-  "total_tracked": 2800,
+  "generated_at": "2026-03-13T14:44:45.577046",
+  "total_tracked": 2806,
   "total_drops": 126,
-  "total_new": 2800,
+  "total_new": 2806,
   "avg_drop_pct": 6.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5720,6 +5720,138 @@
       "price_history": [
         {
           "price": 36500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819532",
+      "title": "Volvo S60 T6 Polestar R-Design AWD 2014 Saad-Trad",
+      "url": "https://www.olx.com.lb/ad/volvo-s60-t6-polestar-r-design-awd-2014-saad-trad-ID116819532.html",
+      "make": "Volvo",
+      "model": "S60",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819572",
+      "title": "Mercedes AMG GLE 53 2021 !!!! AMG PACK +",
+      "url": "https://www.olx.com.lb/ad/mercedes-amg-gle-53-2021-amg-pack-ID116819572.html",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 60000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 96900,
+      "current_price": 96900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 96900,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819568",
+      "title": "Kia Sportage 2007",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2007-ID116819568.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 1000000,
+      "transmission": "Automatic",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819555",
+      "title": "Land Rover Velar R Dynamic 2019 clean carfax 57k miles",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-r-dynamic-2019-clean-carfax-57k-miles-ID116819555.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 57000,
+      "transmission": "Automatic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 33000,
+      "current_price": 33000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 33000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116777234",
+      "title": "Mazda CX-9 2021 AWD Carbon Edition",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-9-2021-awd-carbon-edition-ID116777234.html",
+      "make": "Mazda",
+      "model": "CX-9",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 40000,
+      "transmission": "Automatic",
+      "location": "Al Zarif, Beirut",
+      "original_price": 36250,
+      "current_price": 36250,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 36250,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819543",
+      "title": "Cadillac CTS 2012",
+      "url": "https://www.olx.com.lb/ad/cadillac-cts-2012-ID116819543.html",
+      "make": "Cadillac",
+      "model": "CTS",
+      "body_type": "Sedan",
+      "year": 2012,
+      "mileage": 164000,
+      "transmission": "Automatic",
+      "location": "Anfeh, Koura",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 12500,
           "date": "2026-03-13"
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1608,
+  "total_tracked": 1611,
   "total_drops": 4,
-  "total_new": 1608,
-  "last_updated": "2026-03-13T14:02:55Z",
+  "total_new": 1611,
+  "last_updated": "2026-03-13T14:45:45Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16773819",
+      "title": "2,938 P.M |  Z | 0% Downpayment | Nissan Warranty!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/z/2026/3/13/2938-pm-z-0-downpayment-nissan-warranty-2-539---4ab27a480e3c4bd08e54e0705b1a9127/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Z",
+      "year": "2023",
+      "mileage": "41000",
+      "price": 149999,
+      "first_seen": "2026-03-13T14:45:45Z"
+    },
+    {
+      "id": "16773797",
+      "title": "BMW 520i \u2013 2015 Model | GCC Specs IN EXCELLENT CONDITION \ud83c\udde6\ud83c\uddea",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/3/13/bmw-520i-2015-model-gcc-specs-in-excellent-2-100---cc4edce788434b148403e4b875efcce1/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2015",
+      "mileage": "123000",
+      "price": 29500,
+      "first_seen": "2026-03-13T14:45:45Z"
+    },
+    {
+      "id": "16773780",
+      "title": "0% DOWN PAYMENT! | ALL INCLUSIVE | FREE INSURANCE  | M-SPORT  | AGMC WARRANTY + SERVICE | ONE OWNER",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/3/13/0-down-payment-free-reg-salik-189-rate-40i-2-695---abb9e1be1d33492988c4feb0dcc709ce/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2023",
+      "mileage": "39300",
+      "price": 254990,
+      "first_seen": "2026-03-13T14:45:45Z"
+    },
     {
       "id": "16755726",
       "title": "0% DOWN PAYMENT! | NO HIDDEN FEES | 1.89% RATE | EX | FREE INSURANCE | WARRANTY",
@@ -6024,42 +6060,6 @@
       "year": "2016",
       "mileage": "162000",
       "price": 75000,
-      "first_seen": "2026-03-11T18:50:23Z"
-    },
-    {
-      "id": "16653798",
-      "title": "GAC M8 GX Master | 2026 GCC 0km | 5 Years Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/m8/2025/11/28/gac-m8-gx-master-2026-gcc-0km-5-years-agen-2-853---61eb8460770b41bfbd527e39eabcb4fd/",
-      "category": "Used Cars",
-      "make": "GAC",
-      "model": "M8",
-      "year": "2026",
-      "mileage": "0",
-      "price": 148000,
-      "first_seen": "2026-03-11T18:50:23Z"
-    },
-    {
-      "id": "16653797",
-      "title": "GAC M8 GT | 2026 GCC 0km | 5 Years Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/m8/2025/11/28/gac-m8-gt-2026-gcc-0km-5-years-agency-warr-2-857---2647a6179bf9471bbbbf6038de743edb/",
-      "category": "Used Cars",
-      "make": "GAC",
-      "model": "M8",
-      "year": "2026",
-      "mileage": "0",
-      "price": 127000,
-      "first_seen": "2026-03-11T18:50:23Z"
-    },
-    {
-      "id": "16628904",
-      "title": "Mercedes-Benz S 500 | 2026 GCC 0km | Agency Warranty | Dark Seires",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2025/11/8/mercedes-benz-s-500-2026-gcc-0km-agency-wa-2-446---f6cda592cc7e4371b8bc6bd4a68fe530/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2026",
-      "mileage": "0",
-      "price": 545000,
       "first_seen": "2026-03-11T18:50:23Z"
     }
   ]

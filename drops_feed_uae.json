@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3644,
+  "total_tracked": 3645,
   "total_drops": 27,
-  "total_new": 3644,
+  "total_new": 3645,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3599,6 +3599,17 @@
       "first_seen": "2026-03-13"
     },
     {
+      "id": "17129999",
+      "title": "Vacant | Fully Upgraded | Huge Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/25/vacant-fully-upgraded-huge-plot-2-324193/",
+      "area": "Green Community",
+      "category": "Villa",
+      "size": "10010",
+      "bedrooms": "4",
+      "price": 8200000,
+      "first_seen": "2026-03-13"
+    },
+    {
       "id": "9802287",
       "title": "Premium Office Space | Fitted Office | Vacant",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/premium-office-space-fitted-office-vaca-2-176952/",
@@ -5873,17 +5884,6 @@
       "size": "1693",
       "bedrooms": "",
       "price": 3387620,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9805457",
-      "title": "High Floor| Premium Furnishing | Options Available",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/24/high-floor-premium-furnishing-options-a-2-324341/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "3076",
-      "bedrooms": "",
-      "price": 10000000,
       "first_seen": "2026-03-12"
     }
   ],
