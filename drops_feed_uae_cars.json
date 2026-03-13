@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1525,
+  "total_tracked": 1532,
   "total_drops": 4,
-  "total_new": 1525,
-  "last_updated": "2026-03-13T07:46:59Z",
+  "total_new": 1532,
+  "last_updated": "2026-03-13T08:38:29Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,90 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16752327",
+      "title": "Porsche Panamera 4 2022",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/2/21/porsche-panamera-4-2022-2-091---14fff816127540de8912d7ba04161f93/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Panamera",
+      "year": "2022",
+      "mileage": "74785",
+      "price": 229000,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16680865",
+      "title": "7,599 P.M | 0% Downpayment | QX80 Autograph| Infiniti Warranty!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2025/12/23/7834-pm-qx80-autograph-0-downpayment-agenc-2-255---2272f7a5a340409396a82e74b051f1e8/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": "2025",
+      "mileage": "10000",
+      "price": 387999,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16589693",
+      "title": "GCC SPECS AL NABOODAH 5 YEARS PORSCHE WARRANTY 2024 911 PORSCHE TURBO AERO PACKAGE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2025/10/8/gcc-specs-with-5-years-porsche-warranty-20-2-839---bb88c79adfd447218344c687abcc9fed/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Carrera / 911",
+      "year": "2024",
+      "mileage": "5000",
+      "price": 799000,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16741976",
+      "title": "GCC SPECS AGMC WARRANTY - 2023 BMW M4 CSL 1/1000 WORLDWIDE EXPOSED CARBON FIBRE + LASERLIGHT TECH",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m4/2026/2/12/gcc-specs-agmc-warranty-2023-bmw-m4-csl-al-2-271---a9f71c84de814066981ea4a4fc5d4391/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "M4",
+      "year": "2023",
+      "mileage": "700",
+      "price": 569000,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16738131",
+      "title": "2022 MERCEDES MAYBACH GLS 600 4MATIC - FULL GARGASH SERVICE HISTORY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/gls-class/2026/2/9/2022-mercedes-maybach-gls-600-4matic-full--2-177---bfc8e723819d4c3aaf3db8d5cc2893c6/",
+      "category": "Used Cars",
+      "make": "Mercedes-Maybach",
+      "model": "GLS-Class",
+      "year": "2022",
+      "mileage": "37000",
+      "price": 465000,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16593081",
+      "title": "2005 Mercedes-McLaren SLR",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slr/2025/10/11/2005-mercedes-mclaren-slr-2-736---9b441b7ca48f4b1d98c3bb0e30239042/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "SLR",
+      "year": "2005",
+      "mileage": "26000",
+      "price": 1400000,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
+    {
+      "id": "16773413",
+      "title": "SUZUKI JIMNY GLX 2024   - AED 1,136/PM || UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/jimny/2026/3/13/suzuki-jimny-glx-2024-aed-1136pm-under-war-2-341---04282eaf4ac446c49b7906f7987acfe7/",
+      "category": "Used Cars",
+      "make": "Suzuki",
+      "model": "Jimny",
+      "year": "2024",
+      "mileage": "31875",
+      "price": 74900,
+      "first_seen": "2026-03-13T08:38:29Z"
+    },
     {
       "id": "16752171",
       "title": "AED 2,530/month | 0 Downpayment | Free 1 Year Warranty | 30 Day Return | MERCEDES-BENZ C 200 2024",
@@ -5976,90 +6060,6 @@
       "year": "2025",
       "mileage": "0",
       "price": 185000,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16746427",
-      "title": "Monthly 1400/- | 0% DP | Sunroof | Heated Wheels | Alcantara Seats | # 09482",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/2/16/monthly-1400-0-dp-sunroof-heated-wheels-al-12-364---6a02656b47cb4821a8c0989192d36853/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2022",
-      "mileage": "69400",
-      "price": 87000,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16763192",
-      "title": "UNLIMITED MILEAGE WARRANTY / AWD + NAVIGATION + CAMERA + LANE ASSIST + POWER SEATS + APPLE CAR PLAY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/3/3/unlimited-mileage-warranty-awd-navigation--2-828---4422d1cacfd74333b26269657cc261aa/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Edge",
-      "year": "2019",
-      "mileage": "117540",
-      "price": 42500,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16763215",
-      "title": "UNLIMITED MILEAGE WARRANTY / 490 AED MONTHLY / NAVIGATION + CAMERA + CAR PLAY / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ecosport/2026/3/3/unlimited-mileage-warranty-490-aed-monthly-2-587---8d764b0dd2894fb5be731e49f2057318/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Ecosport",
-      "year": "2020",
-      "mileage": "136540",
-      "price": 21950,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16771439",
-      "title": "BYD Han EV Radar Flagship 635KM | Luxury Electric Sedan | Jebel Ali Dubai Stock",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/han/2026/3/11/byd-han-ev-radar-flagship-635km-luxury-ele-2-743---0e3d24a1c40c4de190574559dfdfdd1a/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "HAN",
-      "year": "2025",
-      "mileage": "0",
-      "price": 108000,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16767593",
-      "title": "UNLIMITED MILEAGE WARRANTY / TREND + NAVIGATION + CAMERA + ALLOY WHEELS + APPLE CAR PLAY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ecosport/2026/3/7/unlimited-mileage-warranty-trend-navigatio-2-633---9f17be9e65524c18be93491953af886e/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Ecosport",
-      "year": "2020",
-      "mileage": "99540",
-      "price": 25950,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16771433",
-      "title": "AED 393/month | Sunny SV | GCC Specs | REF#N18872",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/3/11/aed-393month-sunny-sv-gcc-specs-refn18872-2-488---bf60e23f31f040819946a689bf73b059/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Sunny",
-      "year": "2023",
-      "mileage": "116603",
-      "price": 23900,
-      "first_seen": "2026-03-11T11:34:26Z"
-    },
-    {
-      "id": "16718761",
-      "title": "UNLIMITED MILEAGE WARRANTY / 490 AED MONTHLY / NAVIGATION + CAMERA + CAR PLAY / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ecosport/2026/1/24/unlimited-mileage-warranty-490-aed-monthly-2-650---f4df6ecd13c34cc29c19f62b55888826/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Ecosport",
-      "year": "2020",
-      "mileage": "84541",
-      "price": 24900,
       "first_seen": "2026-03-11T11:34:26Z"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T07:46:28.869420",
+  "generated_at": "2026-03-13T08:37:52.521599",
   "total_tracked": 231,
   "total_drops": 6,
   "total_new": 231,
@@ -876,19 +876,23 @@
     },
     {
       "id": "115879522",
-      "title": "Y   85000",
+      "title": "T   20001   &   M   20001",
       "url": "https://www.olx.com.lb/ad/b-7961-ID115879522.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 8000,
-      "current_price": 8000,
+      "current_price": 17500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 8000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-13"
         }
       ]
     },
