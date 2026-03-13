@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1632,
+  "total_tracked": 1639,
   "total_drops": 4,
-  "total_new": 1632,
-  "last_updated": "2026-03-13T16:37:52Z",
+  "total_new": 1639,
+  "last_updated": "2026-03-13T17:36:19Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,90 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16740977",
+      "title": "FERRARI F8 SPIDER 2022 full carbon  low mileage full service history",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/f8-spider/2026/2/11/ferrari-f8-spider-2022-full-carbon-low-mil-2-184---65a5036d09a5493d8c7eb518e8969228/",
+      "category": "Used Cars",
+      "make": "Ferrari",
+      "model": "F8 Spider",
+      "year": "2022",
+      "mileage": "6900",
+      "price": 1225000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16740605",
+      "title": "JEATUR DASHING 1.6T LUXURY FULL OPTION FROM ELITE GCC SPECS SINGLE OWNER UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/2/11/jeatur-dashing-16t-luxury-full-option-from-2-247---2e03386917ee4c4b8c7acc0e2cd1cfb2/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "Dashing",
+      "year": "2025",
+      "mileage": "37000",
+      "price": 78000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16749192",
+      "title": "GMC SIERRA DINALI FULL OPTION GCC SPECS SINGLE OWNER",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra/2026/2/18/gmc-sierra-dinali-full-option-gcc-specs-si-2-203---ca995f3fbd7744888b36ce8f9de3a894/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Sierra",
+      "year": "2014",
+      "mileage": "230000",
+      "price": 38000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16766164",
+      "title": "Jetour T2 Travel Plus | 2.0T | Brand New | Full Option",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/3/6/jetour-t2-travel-plus-20t-brand-new-full-o-2-256---9ef59180a5f1486999bfe80441d22888/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "mileage": "20",
+      "price": 91000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16351698",
+      "title": "// 7 seats// RADAR// warranty// 4X4// finance0%DP",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2025/4/2/limited-7-seats-radar-4x4-finance0dp-2-869---754e608af73b415284bf9bdd4b69dd82/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2021",
+      "mileage": "33000",
+      "price": 79999,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16762342",
+      "title": "Land Rover Evoque HSE 2015 / 2.0L - 4 Cylinder / 98,000 Kms Only / 2 Keys / Single Owner / GCC Spec",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/3/3/land-rover-evoque-hse-2015-20l-4-cylinder--2-509---9c16450eac1345908ebc3b4c314bc33f/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "year": "2015",
+      "mileage": "98000",
+      "price": 39000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
+    {
+      "id": "16279293",
+      "title": "Audi A4 S4 kit in agency condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2025/2/14/audi-a4-s4-kit-in-agency-condition-2-288---681c99d3def942168acb55c4843e30e1/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A4",
+      "year": "2021",
+      "mileage": "37528",
+      "price": 85000,
+      "first_seen": "2026-03-13T17:36:19Z"
+    },
     {
       "id": "16536263",
       "title": "!! 2024 !! CADILLAC | ESCALADE | SPORT PLATINUM | Gcc",
@@ -5976,90 +6060,6 @@
       "year": "2019",
       "mileage": "61000",
       "price": 99000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16748646",
-      "title": "AED 2020 Model | 2.0L 4CYL engine | E350 AMG | Accident Free | Fully loaded",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/2/18/aed-2020-model-20l-4cyl-engine-e350-amg-ac-2-903---96ab766c83c3416e879cf6631781ce48/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2020",
-      "mileage": "74000",
-      "price": 69000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16674915",
-      "title": "AED 650 monthly - No down payment needed - 2020 Model - GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2025/12/17/aed-825-monthly-no-down-payment-needed-202-2-115---e70bbf7c779b4eaca9d197261ba6a0c9/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "2020",
-      "mileage": "400000",
-      "price": 25000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16642946",
-      "title": "Only AED 1100 /Month \u2022 Model 2025 \u2022 Bank Finance \u2022 No Down Payment",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/magnite/2025/11/19/only-aed-1250month-model-2025-bank-finance-2-126---8f5bc2dd396642128cfe75d346c12889/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Magnite",
-      "year": "2025",
-      "mileage": "304",
-      "price": 49000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16748103",
-      "title": "2017 Model | 2.0L 4CYL engine | E300 AMG | Accident Free | Fully loaded",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/2/17/2017-model-20l-4cyl-engine-e300-amg-accide-2-519---01a0ae9cc0394e3e8000ec8b7f3f12d4/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2017",
-      "mileage": "196000",
-      "price": 65000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16771958",
-      "title": "\u0643\u064a\u0627 \u0633\u0628\u0648\u0631\u062a\u0627\u062c | \u0645\u0648\u062f\u064a\u0644 2016 | \u062e\u0644\u064a\u062c\u064a \u062f\u0641\u0639 \u0631\u0628\u0627\u0639\u064a  | \u0646\u0638\u064a\u0641\u0629 \u062c\u062f\u0627\u064b | \u062c\u0627\u0647\u0632\u0629 \u0644\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 | \u062d\u0627\u0644\u0629 \u0645\u0645\u062a\u0627\u0632\u0629",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/3/11/2016-2-192---687786c847cc4dcbb2549ebd73bfcbba/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Sportage",
-      "year": "2016",
-      "mileage": "209000",
-      "price": 21000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16742400",
-      "title": "TIGGO 8 LUX 2026 - 0% DP    Official Dealer warranty 6 Years -Free Serivce - insurance Support",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo-8/2026/2/12/tiggo-8-lux-2026-free-service-free-registr-2-297---35f9eaccbd484b3dbcc9afbcdf5c8213/",
-      "category": "Used Cars",
-      "make": "Chery",
-      "model": "Tiggo 8",
-      "year": "2026",
-      "mileage": "0",
-      "price": 89000,
-      "first_seen": "2026-03-11T19:45:18Z"
-    },
-    {
-      "id": "16629760",
-      "title": "EMZOOM GS3 0% DP  - Insurance support - free Registration",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/emzoom/2025/11/9/gac-emzoom-gs3-0-dp-free-registration-free-2-121---7693c2a857e6488b9ae282dfad0dcd98/",
-      "category": "Used Cars",
-      "make": "GAC",
-      "model": "EMZOOM",
-      "year": "2026",
-      "mileage": "0",
-      "price": 64500,
       "first_seen": "2026-03-11T19:45:18Z"
     }
   ]

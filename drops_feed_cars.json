@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T16:37:03.147203",
-  "total_tracked": 2850,
+  "generated_at": "2026-03-13T17:35:33.253347",
+  "total_tracked": 2861,
   "total_drops": 130,
-  "total_new": 2850,
+  "total_new": 2861,
   "avg_drop_pct": 6.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -6940,6 +6940,248 @@
       "price_history": [
         {
           "price": 14000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819712",
+      "title": "Mercedes-Benz GLA-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2017-ID116819712.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 18800,
+      "current_price": 18800,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18800,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116782996",
+      "title": "Ford F150/Raptor 2006",
+      "url": "https://www.olx.com.lb/ad/ford-f150raptor-2006-ID116782996.html",
+      "make": "Ford",
+      "model": "F150/Raptor",
+      "body_type": "Pickup",
+      "year": 2006,
+      "mileage": 240000,
+      "transmission": "Automatic",
+      "location": "Rachaya Town, Rachaya",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116776998",
+      "title": "Hyundai Santa Fe 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2018-ID116776998.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 58000,
+      "transmission": "Automatic",
+      "location": "Louaizeh, Baabda",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819704",
+      "title": "MAZDA CX-3 2019 AWD TOURING AERODYNAMIC MINT CONDITION",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-3-2019-awd-touring-aerodynamic-mint-condition-ID116819704.html",
+      "make": "Mazda",
+      "model": "CX-3",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 19200,
+      "current_price": 19200,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 19200,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116780763",
+      "title": "Mercedes-Benz C-Class 300  2011  2 wheel",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2011-2-wheel-ID116780763.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 103000,
+      "transmission": "Steptronic",
+      "location": "Aley Town, Aley",
+      "original_price": 11200,
+      "current_price": 11200,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 11200,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116768340",
+      "title": "Honda Odyssey 2017",
+      "url": "https://www.olx.com.lb/ad/honda-odyssey-2017-ID116768340.html",
+      "make": "Honda",
+      "model": "Odyssey",
+      "body_type": "MPV",
+      "year": 2017,
+      "mileage": 97000,
+      "transmission": "Automatic",
+      "location": "Louaizeh, Baabda",
+      "original_price": 18750,
+      "current_price": 18750,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18750,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819678",
+      "title": "Nissan Sunny 2012",
+      "url": "https://www.olx.com.lb/ad/nissan-sunny-2012-ID116819678.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Sedan",
+      "year": 2012,
+      "mileage": 82000,
+      "transmission": "Automatic",
+      "location": "Baouchriye, Metn",
+      "original_price": 7300,
+      "current_price": 7300,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 7300,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819671",
+      "title": "Discovery 2017 HSE Luxury facelift 2020",
+      "url": "https://www.olx.com.lb/ad/discovery-2017-hse-luxury-facelift-2020-ID116819671.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Sabtieh, Metn",
+      "original_price": 29500,
+      "current_price": 29500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 29500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116782966",
+      "title": "Land Rover Vogue V8 Supercharged 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-v8-supercharged-2017-ID116782966.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 45000,
+      "current_price": 45000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 45000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116782959",
+      "title": "Mercedes-Benz GLE-Class 43 AMG 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-43-amg-2018-ID116782959.html",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2018,
+      "mileage": 60000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 57000,
+      "current_price": 57000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 57000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116659240",
+      "title": "Land Rover Evoque 2020 P 250",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2020-p-250-ID116659240.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 39000,
+      "current_price": 39000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 39000,
           "date": "2026-03-13"
         }
       ]
@@ -59624,13 +59866,17 @@
       "transmission": "Automatic",
       "location": "Dekwaneh, Metn",
       "original_price": 16800,
-      "current_price": 16800,
+      "current_price": 17200,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 16800,
           "date": "2026-03-01"
+        },
+        {
+          "price": 17200,
+          "date": "2026-03-13"
         }
       ]
     },
