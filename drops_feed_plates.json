@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T10:34:52.581149",
-  "total_tracked": 232,
+  "generated_at": "2026-03-13T11:32:10.157657",
+  "total_tracked": 234,
   "total_drops": 6,
-  "total_new": 232,
+  "total_new": 234,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -222,6 +222,42 @@
       "price_history": [
         {
           "price": 4200,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819324",
+      "title": "B 6316",
+      "url": "https://www.olx.com.lb/ad/b-6316-ID116819324.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jal El Dib, Metn",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819287",
+      "title": "5 digit number",
+      "url": "https://www.olx.com.lb/ad/5-digit-number-ID116819287.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 2200,
+      "current_price": 2200,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 2200,
           "date": "2026-03-13"
         }
       ]
@@ -1482,7 +1518,7 @@
     },
     {
       "id": "116809774",
-      "title": "4161 Y 4800$ 40064 Y 2200$",
+      "title": "4161 Y",
       "url": "https://www.olx.com.lb/ad/4161-y-ID116809774.html",
       "plate_code": "",
       "plate_type": "Standard",

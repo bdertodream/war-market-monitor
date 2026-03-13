@@ -31380,7 +31380,7 @@
   "16758643": {
     "id": "16758643",
     "title": "The BEST Ramadan Offer in the UAE - Limited Time Only, June 2026 Land Rover Warranty, GCC",
-    "price": 279000,
+    "price": 289000,
     "make": "Land Rover",
     "model": "Defender",
     "year": "2022",
@@ -31395,6 +31395,10 @@
       {
         "price": 279000,
         "date": "2026-03-13T05:50:25Z"
+      },
+      {
+        "price": 289000,
+        "date": "2026-03-13T11:32:48Z"
       }
     ],
     "date": "2026-03-13"
@@ -33213,8 +33217,8 @@
   },
   "16700055": {
     "id": "16700055",
-    "title": "AED 1,514/month | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | DODGE CHARGER 2023",
-    "price": 99599,
+    "title": "AED 1,496/month | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | DODGE CHARGER 2023",
+    "price": 98399,
     "make": "Dodge",
     "model": "Charger",
     "year": "2023",
@@ -33229,6 +33233,10 @@
       {
         "price": 99599,
         "date": "2026-03-13T07:46:59Z"
+      },
+      {
+        "price": 98399,
+        "date": "2026-03-13T11:32:48Z"
       }
     ],
     "date": "2026-03-13"
@@ -34645,6 +34653,182 @@
       {
         "price": 999000,
         "date": "2026-03-13T10:35:30Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16712291": {
+    "id": "16712291",
+    "title": "2022  -  S580L  -  FULL OPTIONS  -  Rear Entertainment Package  -  VIP SEATS  -  PERFECT CONDITION",
+    "price": 365000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2022",
+    "kilometers": "30000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/1/19/2022-s580l-full-options-rear-entertainment-2-666---dec0fc168bde43e4bcd4773fd658f436/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 365000,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16742753": {
+    "id": "16742753",
+    "title": "UNLIMITED MILEAGE WARRANTY / 4WD + NAVIGATION + CAMERA + CRUISE CONTROL / IN HOUSE FINANCE",
+    "price": 39900,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2018",
+    "kilometers": "183774",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/2/13/unlimited-mileage-warranty-4wd-navigation--2-069---1610b36b71314f0f968445ea5671bced/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16739265": {
+    "id": "16739265",
+    "title": "2009 Range Rover HSE \u2013 GCC Specs- well maintained",
+    "price": 15000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2009",
+    "kilometers": "355000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/2/10/2009-range-rover-hse-gcc-specs-well-mainta-2-753---6e08a9805510405c8495b39808c7bf4a/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 15000,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16639501": {
+    "id": "16639501",
+    "title": "Isuzu D-Max GT \u2013 3.0 L Turbo Diesel | Ready for Export",
+    "price": 117500,
+    "make": "Isuzu",
+    "model": "D-Max",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/d-max/2025/11/17/isuzu-d-max-double-cabin-4x4-30l-diesel-2-589---49b10d87d24a4ba3b0adc65494b1d58c/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 117500,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16755794": {
+    "id": "16755794",
+    "title": "Hyundai H100 Frigo \u2013 2.6L Diesel | Manual | Refrigerator Truck | Ready for Export",
+    "price": 90000,
+    "make": "Hyundai",
+    "model": "H 100",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/h-100/2026/2/24/hyundai-h100-frigo-26l-diesel-manual-refri-2-117---b6e4f9f5c6224dc0b8f4e5e7e334a7d8/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16743011": {
+    "id": "16743011",
+    "title": "New KIA K4000 \u2013 4-Ton Truck | Diesel | Heavy Duty | Export Ready",
+    "price": 62000,
+    "make": "Kia",
+    "model": "Bongo",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Other",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/bongo/2026/2/13/new-kia-k4000-4-ton-truck-diesel-heavy-dut-2-758---e94e8199fd614297a90155b93bfa327a/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 62000,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16744504": {
+    "id": "16744504",
+    "title": "Toyota Hilux Country Double Cab 2.8L 4x4 Turbo Diesel | Saudi Specifications | Brand New 0KM |Export",
+    "price": 155000,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/2/14/toyota-hilux-country-double-cab-28l-4x4-tu-2-971---ef21d704f49044c0a2dd5dae9cca8891/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 155000,
+        "date": "2026-03-13T11:32:48Z"
+      }
+    ],
+    "date": "2026-03-13"
+  },
+  "16773565": {
+    "id": "16773565",
+    "title": "FROM 3,289 PM. MANUFACTURER WARRANTY",
+    "price": 214900,
+    "make": "TANK",
+    "model": "700",
+    "year": "2026",
+    "kilometers": "157",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tank/700/2026/3/13/from-3289-pm-manufacturer-warranty-2-320---25d649df782b4ff08e60e82e6b34d0bc/",
+    "first_seen": "2026-03-13T11:32:48Z",
+    "prices": [
+      {
+        "price": 214900,
+        "date": "2026-03-13T11:32:48Z"
       }
     ],
     "date": "2026-03-13"
