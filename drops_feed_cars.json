@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T05:49:36.642050",
-  "total_tracked": 2724,
+  "generated_at": "2026-03-13T06:47:59.319544",
+  "total_tracked": 2728,
   "total_drops": 118,
-  "total_new": 2724,
+  "total_new": 2728,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3808,6 +3808,94 @@
       "price_history": [
         {
           "price": 51500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818999",
+      "title": "Mercedes-Benz C-Class 2009",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2009-ID116818999.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Other",
+      "year": 2009,
+      "mileage": 140000,
+      "transmission": "Automatic",
+      "location": "Amioun, Koura",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 9500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116781755",
+      "title": "Jeep Grand Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116781755.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Aamchit, Jbeil",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116781769",
+      "title": "Jeep Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116781769.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Mar Roukoz, Metn",
+      "original_price": 21000,
+      "current_price": 21000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 21000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116811179",
+      "title": "Land Rover LR3 2005",
+      "url": "https://www.olx.com.lb/ad/land-rover-lr3-2005-ID116811179.html",
+      "make": "Land Rover",
+      "model": "LR3",
+      "body_type": "SUV",
+      "year": 2005,
+      "mileage": 171000,
+      "transmission": "Automatic",
+      "location": "Baouchriye, Metn",
+      "original_price": 7700,
+      "current_price": 7700,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 7700,
           "date": "2026-03-13"
         }
       ]
@@ -32584,13 +32672,17 @@
       "transmission": "Automatic",
       "location": "Ghazir, Keserouan",
       "original_price": 19500,
-      "current_price": 19500,
+      "current_price": 19800,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 19500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 19800,
+          "date": "2026-03-13"
         }
       ]
     },
