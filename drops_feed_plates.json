@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T12:44:15.007688",
-  "total_tracked": 234,
+  "generated_at": "2026-03-13T14:02:21.355586",
+  "total_tracked": 242,
   "total_drops": 6,
-  "total_new": 234,
+  "total_new": 242,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -258,6 +258,150 @@
       "price_history": [
         {
           "price": 2200,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772379",
+      "title": "A 5557766",
+      "url": "https://www.olx.com.lb/ad/a-5557766-ID116772379.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772423",
+      "title": "B 77758",
+      "url": "https://www.olx.com.lb/ad/b-77758-ID116772423.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Baalbeck Town, Baalbeck",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772417",
+      "title": "O 66000",
+      "url": "https://www.olx.com.lb/ad/o-66000-ID116772417.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772413",
+      "title": "o 44448",
+      "url": "https://www.olx.com.lb/ad/o-44448-ID116772413.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aamchit, Jbeil",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 7000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772408",
+      "title": "N 77000",
+      "url": "https://www.olx.com.lb/ad/n-77000-ID116772408.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Yarzeh, Baabda",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772402",
+      "title": "N 2991",
+      "url": "https://www.olx.com.lb/ad/n-2991-ID116772402.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Batroun Town, Batroun",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772389",
+      "title": "Y 26222",
+      "url": "https://www.olx.com.lb/ad/y-26222-ID116772389.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Downtown, Beirut",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116772372",
+      "title": "0 1235",
+      "url": "https://www.olx.com.lb/ad/0-1235-ID116772372.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 9000,
           "date": "2026-03-13"
         }
       ]

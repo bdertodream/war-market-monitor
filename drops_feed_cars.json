@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T12:43:55.772032",
-  "total_tracked": 2792,
+  "generated_at": "2026-03-13T14:02:03.542933",
+  "total_tracked": 2800,
   "total_drops": 126,
-  "total_new": 2792,
+  "total_new": 2800,
   "avg_drop_pct": 6.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5544,6 +5544,182 @@
       "price_history": [
         {
           "price": 67500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116782468",
+      "title": "BMW X5 2019",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2019-ID116782468.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 152000,
+      "transmission": "Automatic",
+      "location": "Ghaziyeh, Saida",
+      "original_price": 50000,
+      "current_price": 50000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 50000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116655646",
+      "title": "Mercedes-Benz C-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116655646.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 99000,
+      "transmission": "Steptronic",
+      "location": "Zebdine, Nabatieh",
+      "original_price": 18000,
+      "current_price": 18000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819481",
+      "title": "Toyota FJ Cruiser 2008",
+      "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2008-ID116819481.html",
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Tabarja, Keserouan",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819478",
+      "title": "Infiniti Fx series 2004",
+      "url": "https://www.olx.com.lb/ad/infiniti-fx-series-2004-ID116819478.html",
+      "make": "Infiniti",
+      "model": "Fx series",
+      "body_type": "Sedan",
+      "year": 2004,
+      "mileage": 140000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 4800,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "115779383",
+      "title": "Kia Rio 2012",
+      "url": "https://www.olx.com.lb/ad/kia-rio-2012-ID115779383.html",
+      "make": "Kia",
+      "model": "Rio",
+      "body_type": "Sedan",
+      "year": 2012,
+      "mileage": 100000,
+      "transmission": "Manual",
+      "location": "Baouchriye, Metn",
+      "original_price": 3999,
+      "current_price": 3999,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 3999,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116701520",
+      "title": "Kia Sportage SX turbo 2018 NO ACCIDENT FULLLLLLL OPTIONS",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-sx-turbo-2018-no-accident-fulllllll-options-ID116701520.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 84000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 18900,
+      "current_price": 18900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18900,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819454",
+      "title": "مازدا 3 2015",
+      "url": "https://www.olx.com.lb/ad/مازدا-3-2015-ID116819454.html",
+      "make": "Mazda",
+      "model": "3",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 600000,
+      "transmission": "Automatic",
+      "location": "Dawhet el Hoss, Aley",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819446",
+      "title": "Toyota FJ Cruiser 2018",
+      "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2018-ID116819446.html",
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Monteverde, Metn",
+      "original_price": 36500,
+      "current_price": 36500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 36500,
           "date": "2026-03-13"
         }
       ]
