@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1897,
+  "total_tracked": 1898,
   "total_drops": 5,
-  "total_new": 1897,
-  "last_updated": "2026-03-14T20:26:34Z",
+  "total_new": 1898,
+  "last_updated": "2026-03-14T21:26:53Z",
   "drops": [
     {
       "id": "16770596",
@@ -76,6 +76,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775126",
+      "title": "2021 FORD MUSTANG GT IN CALIFORNIA GREEN V8 WITH WARRANTY AND FINANCE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/14/2021-ford-mustang-gt-in-california-green-v-2-612---1f2e21fdbd144fcab9b06be2e81dd477/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2021",
+      "mileage": "40000",
+      "price": 69000,
+      "first_seen": "2026-03-14T21:26:53Z"
+    },
     {
       "id": "16775118",
       "title": "Mercedes E200 Coupe Full Option.",
@@ -6062,18 +6074,6 @@
       "year": "2023",
       "mileage": "59800",
       "price": 199000,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16699633",
-      "title": "BMW M8 Competition Carbon Core Edition || FINAL PRICE || IN PERFECT CONDITION, RECENTLY SERVICE DONE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m8/2026/1/9/bmw-m8-competition-carbon-core-edition-in--2-072---0ac9901361e84e8ba9716581eb467ac2/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "M8",
-      "year": "2019",
-      "mileage": "82900",
-      "price": 219000,
       "first_seen": "2026-03-12T21:32:52Z"
     }
   ]

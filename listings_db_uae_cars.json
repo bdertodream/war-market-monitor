@@ -41952,5 +41952,27 @@
       }
     ],
     "date": "2026-03-14"
+  },
+  "16775126": {
+    "id": "16775126",
+    "title": "2021 FORD MUSTANG GT IN CALIFORNIA GREEN V8 WITH WARRANTY AND FINANCE",
+    "price": 69000,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2021",
+    "kilometers": "40000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/14/2021-ford-mustang-gt-in-california-green-v-2-612---1f2e21fdbd144fcab9b06be2e81dd477/",
+    "first_seen": "2026-03-14T21:26:53Z",
+    "prices": [
+      {
+        "price": 69000,
+        "date": "2026-03-14T21:26:53Z"
+      }
+    ],
+    "date": "2026-03-14"
   }
 }
