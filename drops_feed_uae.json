@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3839,
+  "total_tracked": 3843,
   "total_drops": 29,
-  "total_new": 3839,
+  "total_new": 3843,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2073,6 +2073,50 @@
       "size": "1206",
       "bedrooms": "",
       "price": 2519051,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17176551",
+      "title": "Upgraded & Extended | Large I Vastu I R2M14",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/9/upgraded-extended-large-i-vastu-i-r2m14-2-675537/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Townhouse",
+      "size": "2402",
+      "bedrooms": "3",
+      "price": 1990000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17201773",
+      "title": "Genuine Resale / Furnished / Smart Living Home",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/14/genuine-resale-furnished-smart-living-h-2-240723/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Apartment",
+      "size": "712",
+      "bedrooms": "1",
+      "price": 1000000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17200668",
+      "title": "Near Global Village / 3 BR + Maid Room / Gym with Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/14/near-global-village-3-br-maid-room-gym--2-204272/",
+      "area": "Living Legends",
+      "category": "Townhouse",
+      "size": "1966",
+      "bedrooms": "3",
+      "price": 3200000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9806952",
+      "title": "Retail- Freehold | Shell and Core| LLC License",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/6/retail-freehold-shell-and-core-llc-lice-2-150870/",
+      "area": "Al Satwa",
+      "category": "Shop",
+      "size": "1097",
+      "bedrooms": "",
+      "price": 3400000,
       "first_seen": "2026-03-14"
     },
     {
@@ -5868,50 +5912,6 @@
       "size": "1198",
       "bedrooms": "",
       "price": 2700000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802411",
-      "title": "Green Boulevard View | Luxurious Office Space | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/4/green-boulevard-view-luxurious-office-s-2-637737/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Office",
-      "size": "1092",
-      "bedrooms": "",
-      "price": 1968467,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802574",
-      "title": "Brand New Office Space in Imtiaz Cove Boulevard | Modern and Luxurious",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/5/brand-new-office-space-in-imtiaz-cove-b-2-122064/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Office",
-      "size": "1387",
-      "bedrooms": "",
-      "price": 2050726,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802335",
-      "title": "Fitted office for sale in Bay Square | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/fitted-office-for-sale-in-bay-square-va-2-294008/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1573",
-      "bedrooms": "",
-      "price": 6800000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802200",
-      "title": "Prime Offices | Sheikh Zayed Road | Danube",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/2/prime-offices-sheikh-zayed-road-danube-2-271232/",
-      "area": "Al Sufouh",
-      "category": "Office",
-      "size": "2781",
-      "bedrooms": "",
-      "price": 12627000,
       "first_seen": "2026-03-12"
     }
   ],
