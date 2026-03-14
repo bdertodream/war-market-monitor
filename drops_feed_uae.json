@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3801,
+  "total_tracked": 3807,
   "total_drops": 28,
-  "total_new": 3801,
+  "total_new": 3807,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1641,6 +1641,72 @@
       "size": "722",
       "bedrooms": "",
       "price": 3338350,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17132241",
+      "title": "2BEDROOM+STUDY | HIGH ROI | BRAND NEW CONDITION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/25/2bedroomstudy-high-roi-brand-new-condit-2-338144/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "1269",
+      "bedrooms": "2",
+      "price": 2050000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17133123",
+      "title": "Vacant now | Fully furnished | Turnkey",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/25/vacant-now-fully-furnished-turnkey-2-327059/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "596",
+      "bedrooms": "1",
+      "price": 990000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17111303",
+      "title": "Pool view | Vacant now | Spacious layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/20/pool-view-vacant-now-spacious-layout-2-125492/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "890",
+      "bedrooms": "1",
+      "price": 1380000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9806131",
+      "title": "ground floor 4000 sq ft for sale in jvc, ideal for any government office or for medical center or any developer office or for any large scale business",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/28/ground-floor-4000-sq-ft-for-sale-in-jvc-2-543544/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "4000",
+      "bedrooms": "",
+      "price": 10000000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9806883",
+      "title": "Brand New | High Floor | Museum of the Future View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/6/brand-new-high-floor-museum-of-the-futu-2-252414/",
+      "area": "Sheikh Zayed Road",
+      "category": "Office",
+      "size": "1414",
+      "bedrooms": "",
+      "price": 5999888,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9807418",
+      "title": "Full Floor | Premium Grade A | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/10/full-floor-premium-grade-a-prime-locati-2-301579/",
+      "area": "Sheikh Zayed Road",
+      "category": "Office",
+      "size": "6499",
+      "bedrooms": "",
+      "price": 37700000,
       "first_seen": "2026-03-14"
     },
     {
@@ -3658,7 +3724,7 @@
     },
     {
       "id": "17197370",
-      "title": "FULL CASH OFFER | DISCOUNT DEAL | 1 Bedroom With Private Pool And Balcony | High Floor | Prime Loca",
+      "title": "FULL CASH OFFER | DISCOUNT DEAL | 1 Bedroom With Private Pool And Balcony | High Floor | Prime Location In Majan",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/full-cash-offer-discount-deal-1-bedroom-2-564294/",
       "area": "Majan",
       "category": "Apartment",
@@ -3724,7 +3790,7 @@
     },
     {
       "id": "17196922",
-      "title": "Luxury 2 Bedroom Semi-Furnished Apartment for Sale | Off-Plan | Amaal 8 | Ras Al Khor Industrial Area 1",
+      "title": "Luxury 2 Bedroom Semi-Furnished Apartment for Sale | Off-Plan | Amaal 8 | Ras Al Khor Industrial Ar",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/luxury-2-bedroom-semi-furnished-apartme-2-122684/",
       "area": "Ras Al Khor",
       "category": "Apartment",
@@ -5832,72 +5898,6 @@
       "size": "1269",
       "bedrooms": "",
       "price": 3200000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800121",
-      "title": "Commercial Prime Office | High ROI | More Options",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/20/commercial-prime-office-high-roi-more-o-2-214526/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Office",
-      "size": "694",
-      "bedrooms": "",
-      "price": 1774999,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800088",
-      "title": "OFF-PLAN OFFICES | BINGHATTI RUBY | INVESTOR DEAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/20/off-plan-offices-binghatti-ruby-investo-2-279014/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Office",
-      "size": "1337",
-      "bedrooms": "",
-      "price": 2162186,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800087",
-      "title": "Grade A | Lake View | Close to Metro",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/20/grade-a-lake-view-close-to-metro-2-200207/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "2560",
-      "bedrooms": "",
-      "price": 9000000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800083",
-      "title": "Ground Floor Commercial Space / Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/20/ground-floor-commercial-space-prime-loc-2-273189/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Shop",
-      "size": "2191",
-      "bedrooms": "",
-      "price": 5700000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800081",
-      "title": "Prime JLT Location | Fitted | High Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/20/prime-jlt-location-fitted-high-floor-2-923497/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "565",
-      "bedrooms": "",
-      "price": 1683000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9800059",
-      "title": "Fully Fitted | Prime Location | Community Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/20/fitted-office-tenanted-prime-business-b-2-215489/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "314",
-      "bedrooms": "",
-      "price": 850000,
       "first_seen": "2026-03-12"
     }
   ],
