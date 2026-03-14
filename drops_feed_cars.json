@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T23:27:19.708533",
-  "total_tracked": 2910,
+  "generated_at": "2026-03-14T01:18:46.652641",
+  "total_tracked": 2915,
   "total_drops": 135,
-  "total_new": 2910,
+  "total_new": 2915,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4023,6 +4023,116 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116819947",
+      "title": "مرسيدس بنز أيه كلاس 2017",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-أيه-كلاس-2017-ID116819947.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Estate",
+      "year": 2017,
+      "mileage": 103000,
+      "transmission": "Automatic",
+      "location": "Other in Akkar, Akkar",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116586225",
+      "title": "BMW 4-Series 2024",
+      "url": "https://www.olx.com.lb/ad/bmw-4-series-2024-ID116586225.html",
+      "make": "BMW",
+      "model": "4-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2024,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Hadath, Baabda",
+      "original_price": 85000,
+      "current_price": 85000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116773325",
+      "title": "جيب رانجلر 2019",
+      "url": "https://www.olx.com.lb/ad/جيب-رانجلر-2019-ID116773325.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "Convertible",
+      "year": 2019,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 34000,
+      "current_price": 34000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 34000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116534757",
+      "title": "McLaren 570S Coupe 2016",
+      "url": "https://www.olx.com.lb/ad/mclaren-570s-coupe-2016-ID116534757.html",
+      "make": "McLaren",
+      "model": "570S Coupe",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 29000,
+      "transmission": "Steptronic",
+      "location": "Al Maarad, Tripoli",
+      "original_price": 200000,
+      "current_price": 200000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116636281",
+      "title": "Honda HR-V 2016 Full options EX-L HRV",
+      "url": "https://www.olx.com.lb/ad/honda-hr-v-2016-full-options-ex-l-hrv-ID116636281.html",
+      "make": "Honda",
+      "model": "HR-V",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 60000,
+      "transmission": "Automatic",
+      "location": "Al Mina, Tripoli",
+      "original_price": 14999,
+      "current_price": 14999,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 14999,
+          "date": "2026-03-14"
+        }
+      ]
+    },
     {
       "id": "116108168",
       "title": "جيب شيروكى 2014",

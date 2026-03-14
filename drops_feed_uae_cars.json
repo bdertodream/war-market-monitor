@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1665,
+  "total_tracked": 1674,
   "total_drops": 4,
-  "total_new": 1665,
-  "last_updated": "2026-03-13T23:28:14Z",
+  "total_new": 1674,
+  "last_updated": "2026-03-14T01:19:34Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,114 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16583567",
+      "title": "AUDI A6 S-LINE 2015 GCC SPECS EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2025/10/3/audi-a6-s-line-2015-gcc-specs-excellent-co-2-017---3a41ba2d4f844283ae1b86bad29c131f/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A6",
+      "year": "2015",
+      "mileage": "155000",
+      "price": 27500,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16736540",
+      "title": "Mercedes-Benz GLA 250 4MATIC \u2013 2017 | GCC Specs \n\n Luxury \u2022 Performance \u2022 Reliability",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla/2026/2/8/mercedes-benz-gla-250-4matic-2017-gcc-spec-2-901---03cdf6d8391d4141b7f712420e87a69b/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2017",
+      "mileage": "141000",
+      "price": 39000,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16702636",
+      "title": "Kia Picanto 2015 | GCC Specs IN EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2026/1/11/kia-picanto-2015-gcc-specs-in-excellent-co-2-126---15505f2c081c42be908bf4cfc7f42297/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Picanto",
+      "year": "2015",
+      "mileage": "117000",
+      "price": 17000,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16738184",
+      "title": "Audi A5 S-Line 2018 | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/2/9/audi-a5-s-line-2018-gcc-specs-excellent-co-2-050---824ecdebcb0e4470a1c79a058a078ceb/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A5",
+      "year": "2018",
+      "mileage": "254000",
+      "price": 44000,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16670465",
+      "title": "BMW X1 2014 GCC SPECS EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2025/12/13/bmw-x1-2014-gcc-specs-excellent-condition-2-448---e446552b2f03421db704bdafc36e658f/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X1",
+      "year": "2014",
+      "mileage": "140000",
+      "price": 16500,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16393676",
+      "title": "2015 AUDI A4 GCC SPECS IN EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2025/5/3/2015-audi-a4-gcc-specs-in-excellent-condit-2-577---8c685663fdc04b4489054e94af04cb84/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A4",
+      "year": "2015",
+      "mileage": "150000",
+      "price": 24500,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16738035",
+      "title": "2016 BMW X5 xDrive35i \u2013 Excellent Condition (GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/2/9/2016-bmw-x5-xdrive35i-excellent-condition--2-770---71b240bcefcb4bf4b4665eacde31363c/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2016",
+      "mileage": "145000",
+      "price": 49000,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16661317",
+      "title": "AUDI A8L 3.0T GCC SPECS IN EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a8/2025/12/6/audi-a8l-30t-gcc-specs-in-excellent-condit-2-469---e3517d884a7a4aa8af65be2db46b26d8/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A8",
+      "year": "2014",
+      "mileage": "160000",
+      "price": 38500,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
+    {
+      "id": "16736166",
+      "title": "Audi Q5 2011 | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q5/2026/2/7/audi-q5-2011-gcc-specs-excellent-condition-2-798---69e2851191d44332b006f5a0db6ce813/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q5",
+      "year": "2011",
+      "mileage": "176000",
+      "price": 16000,
+      "first_seen": "2026-03-14T01:19:34Z"
+    },
     {
       "id": "16745538",
       "title": "G Class | GCC | Perfect condition",
@@ -5952,114 +6060,6 @@
       "year": "2012",
       "mileage": "209000",
       "price": 12500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "15592428",
-      "title": "2015 INFINITI QX70 3.7L GCC SPECIFICATION FULL OPTION IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx70/2023/7/19/2015-infiniti-qx70-37l-gcc-specification-f-2-086---3024a8bdff92475fb462c9adc5a97e8d/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX70",
-      "year": "2015",
-      "mileage": "182000",
-      "price": 25500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "15824493",
-      "title": "2014 FORD MUSTANG SOFT TOP CONVERTIBLE 3.7L IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2024/2/8/2014-ford-mustang-soft-top-convertible-37l-2-238---61c09acde9e647bfb49b1e70b126e416/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Mustang",
-      "year": "2014",
-      "mileage": "164000",
-      "price": 21500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16772140",
-      "title": "2013 JAGUAR XJL 3.0L V6 GCC SPECIFICATION FULL LUXURIOUS IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/3/12/2013-jaguar-xjl-30l-v6-gcc-specification-f-2-753---6583510250f1443eb9a4d56ab428d0fb/",
-      "category": "Used Cars",
-      "make": "Jaguar",
-      "model": "XJ",
-      "year": "2013",
-      "mileage": "168000",
-      "price": 25500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16702901",
-      "title": "Ferrari 488 Spider | 2018 | 3.9L V8 Twin-Turbo",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-spider/2026/1/11/ferrari-488-spider-2018-39l-v8-twin-turbo-2-836---2958e9af763243d7a55104e704e687d7/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "488 Spider",
-      "year": "2018",
-      "mileage": "28000",
-      "price": 735000,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16702700",
-      "title": "RAMADAN PROMO! / Geely Coolray ( 2026 Model ) in Gray Color GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/coolray/2026/1/11/aed-1646-emi-at-0-dp-geely-coolray-2026-mo-2-962---b4915c6109c241ffad58098239a938fe/",
-      "category": "Used Cars",
-      "make": "Geely",
-      "model": "Coolray",
-      "year": "2026",
-      "mileage": "0",
-      "price": 79500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16585826",
-      "title": "MG One - 2025 - Top Line - Sport Seats - GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/one/2025/10/5/mg-one-lux-2-397---f4d5846e83114c32b948b239c1ecc7e2/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "One",
-      "year": "2025",
-      "mileage": "3",
-      "price": 68000,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16473503",
-      "title": "JETOUR DAHING | 2024 FULL OPTIONS |",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2025/7/5/jetour-dahing-2024-full-options-2-805---8a2ae414527b41f9a05ea6ef79a9b33b/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "Dashing",
-      "year": "2024",
-      "mileage": "1150",
-      "price": 74000,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16551696",
-      "title": "MG RX8  | LUXURY 2024 | GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx8/2025/9/8/mg-rx8-luxury-2024-gcc-2-247---84a76f85eb5940fa8c0e44df77e70dec/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "RX8",
-      "year": "2024",
-      "mileage": "4",
-      "price": 79000,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16772133",
-      "title": "2022 Lincoln Aviator Reserve ll | G.C.C Spec | First Owner | Warranty and Service from Lincoln",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/aviator/2026/3/12/2022-lincoln-aviator-reserve-ll-gcc-spec-f-2-611---2c7986eccc2949f2bdaeddfe5eca5b0b/",
-      "category": "Used Cars",
-      "make": "Lincoln",
-      "model": "Aviator",
-      "year": "2022",
-      "mileage": "72000",
-      "price": 155000,
       "first_seen": "2026-03-12T04:14:07Z"
     }
   ]
