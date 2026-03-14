@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1890,
+  "total_tracked": 1895,
   "total_drops": 5,
-  "total_new": 1890,
-  "last_updated": "2026-03-14T18:33:41Z",
+  "total_new": 1895,
+  "last_updated": "2026-03-14T19:29:08Z",
   "drops": [
     {
       "id": "16770596",
@@ -76,6 +76,66 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16733076",
+      "title": "Jeep Sahara 2015, original paint, in excellent condition.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/2/5/jeep-sahara-2015-original-paint-in-excelle-2-897---30c09e4ef43b41789c04600cffd87cd1/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2015",
+      "mileage": "254000",
+      "price": 34000,
+      "first_seen": "2026-03-14T19:29:08Z"
+    },
+    {
+      "id": "16760919",
+      "title": "INFINITY Q30 SINGLE OWNER GCC SPECS FULL SERVICE HISTORY AVAILABLE ORGINAL PAINT",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q30/2026/2/28/infinity-q30-single-owner-gcc-specs-full-s-2-446---60c41298b6b643d3b28d07d5cf64becd/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "Q30",
+      "year": "2019",
+      "mileage": "127232",
+      "price": 35000,
+      "first_seen": "2026-03-14T19:29:08Z"
+    },
+    {
+      "id": "16775059",
+      "title": "VOLKSWAGEN PASSAT SINGLE OWNER SERVICE HISTORY AVAILABLE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/3/14/volkswagen-passat-single-owner-service-his-2-538---5d379bc4368c4fd8bc5caa506148e690/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": "2015",
+      "mileage": "260000",
+      "price": 14500,
+      "first_seen": "2026-03-14T19:29:08Z"
+    },
+    {
+      "id": "16775054",
+      "title": "2021 BMW X6 M Competition, Warranty, Full Agency Service History, GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/3/14/2021-bmw-x6-m-competition-warranty-full-ag-2-857---b67acc89abb148f4ae9ba8ed2ed24fcc/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X6",
+      "year": "2021",
+      "mileage": "97000",
+      "price": 259000,
+      "first_seen": "2026-03-14T19:29:08Z"
+    },
+    {
+      "id": "16775043",
+      "title": "Nissan patrol 2014 big engine gcc full option full 2024 nismo kit super clean car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/3/14/nissan-patrol-2014-big-engine-gcc-full-opt-2-323---8177e6178c9a4b7fa21fbe6032bb64d0/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Patrol",
+      "year": "2014",
+      "mileage": "192000",
+      "price": 58000,
+      "first_seen": "2026-03-14T19:29:08Z"
+    },
     {
       "id": "16766062",
       "title": "0% DOWN! | PAY NOTHING UNTIL SUMMER | 1.89% RATE | SHARK 6 | AGENCY WARRANTY | FREE INSURANCE",
@@ -6014,66 +6074,6 @@
       "year": "2019",
       "mileage": "97000",
       "price": 89999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16760395",
-      "title": "One Year Warranty \u2b50\ufe0f ENJOY RAMADAN MEGA OFFERS NOW \u2b50\ufe0f 980 AED per month  Drive this beast home",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/camaro/2026/2/27/one-year-warranty-enjoy-ramadan-mega-offer-2-822---9c274ef25c2c401393e6a76245439ba4/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "year": "2020",
-      "mileage": "62000",
-      "price": 59999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16711182",
-      "title": "\u2b50\ufe0f ENJOY RAMADAN OFFERS NOW \u2b50\ufe0f BEST PRICE IN THE MARKET!!! AED 998 per month | V8 5.3L | RWD",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/silverado/2026/1/18/aed-1190-per-month-v8-53l-rwd-2-005---2f5299d784094bbabdf692edf9f95c83/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Silverado",
-      "year": "2022",
-      "mileage": "33000",
-      "price": 59999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16714232",
-      "title": "90 Days warranty \u2b50\ufe0f ENJOY RAMADAN OFFERS NOW \u2b50\ufe0f 641 AED per month | Fully Serviced by Ford |",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkc/2026/1/20/641-aed-per-month-fully-serviced-by-ford-a-2-883---33dfaeb692c04e2899d75395bc3fdb87/",
-      "category": "Used Cars",
-      "make": "Lincoln",
-      "model": "MKC",
-      "year": "2017",
-      "mileage": "138000",
-      "price": 29999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16716750",
-      "title": "\u2b50\ufe0f ENJOY RAMADAN OFFERS NOW \u2b50\ufe0f GCC SPECS | EXCELLENT CONDITION | UPGRADED SHOCKS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/1/22/gcc-specs-excellent-condition-upgraded-sho-2-843---fa59df792da7425b934751dd458c4fc6/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler",
-      "year": "2009",
-      "mileage": "202000",
-      "price": 24999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16772777",
-      "title": "Audi Q3 S Line, 2022 model, full option, very clean",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q3/2026/3/12/audi-q3-s-line-2022-model-full-option-very-2-961---52fc543780b943e9944e05a9446f9d8a/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "Q3",
-      "year": "2022",
-      "mileage": "70000",
-      "price": 115000,
       "first_seen": "2026-03-12T21:32:52Z"
     }
   ]

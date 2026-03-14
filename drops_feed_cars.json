@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T18:32:44.991728",
-  "total_tracked": 3085,
+  "generated_at": "2026-03-14T19:28:13.522999",
+  "total_tracked": 3098,
   "total_drops": 156,
-  "total_new": 3085,
+  "total_new": 3098,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8502,6 +8502,292 @@
       "price_history": [
         {
           "price": 18500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820601",
+      "title": "BMW X3 2012",
+      "url": "https://www.olx.com.lb/ad/bmw-x3-2012-ID116820601.html",
+      "make": "BMW",
+      "model": "X3",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 140000,
+      "transmission": "Steptronic",
+      "location": "Al Zarif, Beirut",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116765249",
+      "title": "Jeep Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116765249.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Arab Salim, Nabatieh",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820582",
+      "title": "Volkswagen ID UNYX Pro 2025",
+      "url": "https://www.olx.com.lb/ad/volkswagen-id-unyx-pro-2025-ID116820582.html",
+      "make": "Volkswagen",
+      "model": "ID UNYX Pro",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 4200,
+      "transmission": "Automatic",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116784399",
+      "title": "Jaguar F-Pace 2018",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-pace-2018-ID116784399.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Al Maarad, Tripoli",
+      "original_price": 19900,
+      "current_price": 19900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 19900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116782935",
+      "title": "Audi SQ5 2019",
+      "url": "https://www.olx.com.lb/ad/audi-sq5-2019-ID116782935.html",
+      "make": "Audi",
+      "model": "Q5",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Ksara, Zahle",
+      "original_price": 39500,
+      "current_price": 39500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 39500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820572",
+      "title": "Ford F150/Raptor 2009",
+      "url": "https://www.olx.com.lb/ad/ford-f150raptor-2009-ID116820572.html",
+      "make": "Ford",
+      "model": "F150/Raptor",
+      "body_type": "Pickup",
+      "year": 2009,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 9200,
+      "current_price": 9200,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 9200,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116777112",
+      "title": "Mitsubishi Outlander Sport 2020",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2020-ID116777112.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "Estate",
+      "year": 2020,
+      "mileage": 77000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820564",
+      "title": "tgf GARGOUR Jeep Grand Cherokee 2022 L Limited | 50,000KM",
+      "url": "https://www.olx.com.lb/ad/tgf-gargour-jeep-grand-cherokee-2022-l-limited-50000km-ID116820564.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 54900,
+      "current_price": 54900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 54900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820560",
+      "title": "Chevrolet Captiva 2010",
+      "url": "https://www.olx.com.lb/ad/chevrolet-captiva-2010-ID116820560.html",
+      "make": "Chevrolet",
+      "model": "Captiva",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Bqosta, Saida",
+      "original_price": 5400,
+      "current_price": 5400,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5400,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116470414",
+      "title": "BMW 530 2017 luxury line 70000km only one owner Bassoul Heneine",
+      "url": "https://www.olx.com.lb/ad/bmw-530-2017-luxury-line-70000km-only-one-owner-bassoul-heneine-ID116470414.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116387924",
+      "title": "Audi A4 35tfsi S-Line 2016 ketteneh full service",
+      "url": "https://www.olx.com.lb/ad/audi-a4-35tfsi-s-line-2016-ketteneh-full-service-ID116387924.html",
+      "make": "Audi",
+      "model": "A4",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 14800,
+      "current_price": 14800,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 14800,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820552",
+      "title": "Toyota Tacoma 2008",
+      "url": "https://www.olx.com.lb/ad/toyota-tacoma-2008-ID116820552.html",
+      "make": "Toyota",
+      "model": "Tacoma",
+      "body_type": "Pickup",
+      "year": 2008,
+      "mileage": 109000,
+      "transmission": "Automatic",
+      "location": "Bouar, Keserouan",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116751861",
+      "title": "BYD LEOPARD 3 BRAND NEW  MODEL 2025  FULL WARRANTY 8 YEARS big battery",
+      "url": "https://www.olx.com.lb/ad/byd-leopard-3-brand-new-model-2025-full-warranty-8-years-big-battery-ID116751861.html",
+      "make": "BYD",
+      "model": "Leopard 3",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 28800,
+      "current_price": 28800,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 28800,
           "date": "2026-03-14"
         }
       ]
