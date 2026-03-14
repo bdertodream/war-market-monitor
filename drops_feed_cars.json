@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T06:42:50.095723",
-  "total_tracked": 2941,
+  "generated_at": "2026-03-14T07:37:25.725041",
+  "total_tracked": 2946,
   "total_drops": 136,
-  "total_new": 2941,
+  "total_new": 2946,
   "avg_drop_pct": 6.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4730,6 +4730,116 @@
       "price_history": [
         {
           "price": 27500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820006",
+      "title": "Honda CR-V 2015",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2015-ID116820006.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 77000,
+      "transmission": "Automatic",
+      "location": "Aicha Bakkar, Beirut",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116562107",
+      "title": "Chevrolet Camaro 2011 ss 6.2 super car !! 2ss PACKAGE dream ride",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-2011-ss-62-super-car-2ss-package-dream-ride-ID116562107.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2011,
+      "mileage": 140,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116819998",
+      "title": "Hummer H3 2006 luxury edition super clean",
+      "url": "https://www.olx.com.lb/ad/hummer-h3-2006-luxury-edition-super-clean-ID116819998.html",
+      "make": "Hummer",
+      "model": "H3",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 127000,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 7000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116819993",
+      "title": "Land Rover Range Rover Sport 2013",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2013-ID116819993.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 103000,
+      "transmission": "Automatic",
+      "location": "Baabdat, Metn",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116819992",
+      "title": "Infiniti G-Series 2004",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2004-ID116819992.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Sedan",
+      "year": 2004,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Beino, Akkar",
+      "original_price": 2000,
+      "current_price": 2000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 2000,
           "date": "2026-03-14"
         }
       ]
