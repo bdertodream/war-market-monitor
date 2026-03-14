@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T19:28:13.522999",
-  "total_tracked": 3098,
+  "generated_at": "2026-03-14T20:25:36.670106",
+  "total_tracked": 3105,
   "total_drops": 156,
-  "total_new": 3098,
+  "total_new": 3105,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8788,6 +8788,160 @@
       "price_history": [
         {
           "price": 28800,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116784826",
+      "title": "Audi RS 6  MY 2015  From kettaneh Service Dealer 46000 km only",
+      "url": "https://www.olx.com.lb/ad/audi-rs-6-my-2015-from-kettaneh-service-dealer-46000-km-only-ID116784826.html",
+      "make": "Audi",
+      "model": "RS 6 C6",
+      "body_type": "Hatchback",
+      "year": 2015,
+      "mileage": 46000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 65000,
+      "current_price": 65000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 65000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116784499",
+      "title": "Subaru Forester 2005",
+      "url": "https://www.olx.com.lb/ad/subaru-forester-2005-ID116784499.html",
+      "make": "Subaru",
+      "model": "Forester",
+      "body_type": "SUV",
+      "year": 2005,
+      "mileage": 319000,
+      "transmission": "Automatic",
+      "location": "Qornayel, Baabda",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116738434",
+      "title": "Kia Sportage 2017",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-ID116738434.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 15800,
+      "current_price": 15800,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 15800,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820634",
+      "title": "Mercedes-Benz C-Class 2005",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2005-ID116820634.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 250000,
+      "transmission": "Automatic",
+      "location": "Aley Town, Aley",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116399700",
+      "title": "Jaguar XJ8 (Taym Hassan cars of Mawlana)",
+      "url": "https://www.olx.com.lb/ad/jaguar-xj8-saad-trad-source-one-owner-ID116399700.html",
+      "make": "Jaguar",
+      "model": "XJ",
+      "body_type": "Sedan",
+      "year": 1999,
+      "mileage": 180000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116694213",
+      "title": "Toyota Rav 4 2013",
+      "url": "https://www.olx.com.lb/ad/toyota-rav-4-2013-ID116694213.html",
+      "make": "Toyota",
+      "model": "Rav 4",
+      "body_type": "Other",
+      "year": 2013,
+      "mileage": 300,
+      "transmission": "Steptronic",
+      "location": "Hadath, Baabda",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820609",
+      "title": "Mercedes-Benz 190 1991",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-190-1991-ID116820609.html",
+      "make": "Mercedes-Benz",
+      "model": "190",
+      "body_type": "Sedan",
+      "year": 1991,
+      "mileage": 290,
+      "transmission": "Automatic",
+      "location": "Beirut Port, Beirut",
+      "original_price": 2800,
+      "current_price": 2800,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 2800,
           "date": "2026-03-14"
         }
       ]

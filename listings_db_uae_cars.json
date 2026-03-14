@@ -41908,5 +41908,49 @@
       }
     ],
     "date": "2026-03-14"
+  },
+  "16775118": {
+    "id": "16775118",
+    "title": "Mercedes E200 Coupe Full Option.",
+    "price": 93000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2019",
+    "kilometers": "151000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/3/14/mercedes-e200-coupe-full-option-2-280---c5e341c399ed49ef9dd340d2f4b766ab/",
+    "first_seen": "2026-03-14T20:26:34Z",
+    "prices": [
+      {
+        "price": 93000,
+        "date": "2026-03-14T20:26:34Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16775096": {
+    "id": "16775096",
+    "title": "NEW MG ZS STD 2026 MODEL ( EXPORT ONLY)",
+    "price": 42500,
+    "make": "MG",
+    "model": "ZS",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/3/14/new-mg-zs-std-2026-model-2-424---185978512eeb43b7b409327b99e54ca5/",
+    "first_seen": "2026-03-14T20:26:34Z",
+    "prices": [
+      {
+        "price": 42500,
+        "date": "2026-03-14T20:26:34Z"
+      }
+    ],
+    "date": "2026-03-14"
   }
 }

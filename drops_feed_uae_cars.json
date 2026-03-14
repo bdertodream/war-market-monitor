@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1895,
+  "total_tracked": 1897,
   "total_drops": 5,
-  "total_new": 1895,
-  "last_updated": "2026-03-14T19:29:08Z",
+  "total_new": 1897,
+  "last_updated": "2026-03-14T20:26:34Z",
   "drops": [
     {
       "id": "16770596",
@@ -76,6 +76,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775118",
+      "title": "Mercedes E200 Coupe Full Option.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/3/14/mercedes-e200-coupe-full-option-2-280---c5e341c399ed49ef9dd340d2f4b766ab/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2019",
+      "mileage": "151000",
+      "price": 93000,
+      "first_seen": "2026-03-14T20:26:34Z"
+    },
+    {
+      "id": "16775096",
+      "title": "NEW MG ZS STD 2026 MODEL ( EXPORT ONLY)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/3/14/new-mg-zs-std-2026-model-2-424---185978512eeb43b7b409327b99e54ca5/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "ZS",
+      "year": "2026",
+      "mileage": "0",
+      "price": 42500,
+      "first_seen": "2026-03-14T20:26:34Z"
+    },
     {
       "id": "16733076",
       "title": "Jeep Sahara 2015, original paint, in excellent condition.",
@@ -6050,30 +6074,6 @@
       "year": "2019",
       "mileage": "82900",
       "price": 219000,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16767884",
-      "title": "90 Days Warranty \u2b50\ufe0f ENJOY RAMADAN MEGA OFFERS NOW \u2b50\ufe0f Full Option | Top Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/3/7/90-days-warranty-enjoy-ramadan-mega-offers-2-505---b11df11c21e04bf7a641dcd2fa4d88ac/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "2014",
-      "mileage": "172000",
-      "price": 34999,
-      "first_seen": "2026-03-12T21:32:52Z"
-    },
-    {
-      "id": "16760178",
-      "title": "90 DAYS WARRANTY | \u2b50\ufe0f ENJOY RAMADAN MEGA OFFERS NOW \u2b50\ufe0f | FULL VOLVO SERVICE HISTORY | 1,670 AED EMI",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/xc90/2026/2/27/90-days-warranty-enjoy-ramadan-mega-offers-2-921---675875db51f142d4b07592e0a2a8a812/",
-      "category": "Used Cars",
-      "make": "Volvo",
-      "model": "XC90",
-      "year": "2019",
-      "mileage": "97000",
-      "price": 89999,
       "first_seen": "2026-03-12T21:32:52Z"
     }
   ]
