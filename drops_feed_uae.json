@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3845,
+  "total_tracked": 3849,
   "total_drops": 29,
-  "total_new": 3845,
+  "total_new": 3849,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2139,6 +2139,50 @@
       "size": "802",
       "bedrooms": "",
       "price": 1100000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17197697",
+      "title": "Fully Furnished Studio | Spacious 415 Sqft | High ROI Investment | Prime Location in Arjan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/fully-furnished-studio-spacious-415-sqf-2-244760/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "415",
+      "bedrooms": "0",
+      "price": 540000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17053148",
+      "title": "HANDOVER Q2 2030 | LUXURY 5 BR VILLA | SEMI FITTED | BARBADOS 1 DAMAC ISLANDS 2",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/7/handover-q2-2030-luxury-5-br-villa-semi-2-108687/",
+      "area": "DAMAC Islands 2",
+      "category": "Villa",
+      "size": "3158",
+      "bedrooms": "5",
+      "price": 3902000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17116471",
+      "title": "1 BEDROOM | PANORAMIC AMENITY & CITY VIEW | PRIMARY OFF-PLAN | FASHIONZ 1 BY DANUBE | JVT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/22/1-bedroom-panoramic-amenity-city-view-p-2-196398/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "872",
+      "bedrooms": "1",
+      "price": 1555000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17063239",
+      "title": "Vacant \u2013 Terrace \u2013 Inner Circle \u2013 Next to the School",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/10/vacant-terrace-inner-circle-next-to-the-2-209584/",
+      "area": "Remraam",
+      "category": "Apartment",
+      "size": "1489",
+      "bedrooms": "2",
+      "price": 1450000,
       "first_seen": "2026-03-14"
     },
     {
@@ -5868,50 +5912,6 @@
       "size": "733",
       "bedrooms": "",
       "price": 4154000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802277",
-      "title": "Office Spaces | Sheikh Zayed Road | Flexible Layouts",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/office-spaces-sheikh-zayed-road-flexibl-2-181043/",
-      "area": "Al Sufouh",
-      "category": "Office",
-      "size": "2721",
-      "bedrooms": "",
-      "price": 11865000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802245",
-      "title": "Fully Furnished | DED License | Tenanted",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/fully-furnished-ded-license-tenanted-2-873141/",
-      "area": "Barsha Heights (Tecom)",
-      "category": "Office",
-      "size": "1626",
-      "bedrooms": "",
-      "price": 3100000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802241",
-      "title": "SHELL AND CORE | VACANT | NEXT TO AL KHAIL RD",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/shell-and-core-vacant-next-to-al-khail--2-295120/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1128",
-      "bedrooms": "",
-      "price": 2819000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802235",
-      "title": "Tenanted | Grade A Office | Great Investment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/tenanted-grade-a-office-great-investmen-2-299511/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1927",
-      "bedrooms": "",
-      "price": 5500000,
       "first_seen": "2026-03-12"
     }
   ],

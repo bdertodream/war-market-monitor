@@ -40654,5 +40654,27 @@
       }
     ],
     "date": "2026-03-14"
+  },
+  "16774833": {
+    "id": "16774833",
+    "title": "2017 CHEVROLET IMPALA RTA PASS IN VERY GOOD CONDITION",
+    "price": 16500,
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": "2017",
+    "kilometers": "160000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/impala/2026/3/14/2017-chevrolet-impala-rta-pass-in-very-goo-2-194---ef0a6cc4f26945559aad394c83fc0c1f/",
+    "first_seen": "2026-03-14T15:27:07Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-03-14T15:27:07Z"
+      }
+    ],
+    "date": "2026-03-14"
   }
 }

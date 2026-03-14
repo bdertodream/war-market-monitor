@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T14:28:30.677086",
-  "total_tracked": 3034,
-  "total_drops": 150,
-  "total_new": 3034,
+  "generated_at": "2026-03-14T15:26:20.118125",
+  "total_tracked": 3049,
+  "total_drops": 151,
+  "total_new": 3049,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -839,6 +839,43 @@
       ]
     },
     {
+      "id": "116810546",
+      "title": "jaguar F pace S",
+      "url": "https://www.olx.com.lb/ad/ssang-yong-tivoli-2016-ID116810546.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Zouk Mikael, Keserouan",
+      "original_price": 25000,
+      "current_price": 23000,
+      "drop_usd": 2000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-03-14",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 24000,
+          "date": "2026-03-07"
+        },
+        {
+          "price": 23500,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
       "id": "116432493",
       "title": "Lotus Evora S  2012",
       "url": "https://www.olx.com.lb/ad/lotus-evora-2012-ID116432493.html",
@@ -926,6 +963,35 @@
         {
           "price": 18500,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116820239",
+      "title": "Hyundai Tucson 2005",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2005-ID116820239.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 193000,
+      "transmission": "Automatic",
+      "location": "Adonis, Keserouan",
+      "original_price": 5300,
+      "current_price": 4900,
+      "drop_usd": 400,
+      "drop_pct": 7.5,
+      "last_drop_date": "2026-03-14",
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5300,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 4900,
+          "date": "2026-03-14"
         }
       ]
     },
@@ -1075,39 +1141,6 @@
         {
           "price": 15500,
           "date": "2026-03-07"
-        }
-      ]
-    },
-    {
-      "id": "116810546",
-      "title": "jaguar F pace S",
-      "url": "https://www.olx.com.lb/ad/ssang-yong-tivoli-2016-ID116810546.html",
-      "make": "Jaguar",
-      "model": "F-Pace",
-      "body_type": "SUV",
-      "year": 2017,
-      "mileage": 90000,
-      "transmission": "Automatic",
-      "location": "Zouk Mikael, Keserouan",
-      "original_price": 25000,
-      "current_price": 23500,
-      "drop_usd": 1500,
-      "drop_pct": 6.0,
-      "last_drop_date": "2026-03-08",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 25000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 24000,
-          "date": "2026-03-07"
-        },
-        {
-          "price": 23500,
-          "date": "2026-03-08"
         }
       ]
     },
@@ -6414,12 +6447,16 @@
       "transmission": "Automatic",
       "location": "Adonis, Keserouan",
       "original_price": 5300,
-      "current_price": 5300,
+      "current_price": 4900,
       "first_seen": "2026-03-14",
       "posted_date": "2026-03-14",
       "price_history": [
         {
           "price": 5300,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 4900,
           "date": "2026-03-14"
         }
       ]
@@ -7190,6 +7227,336 @@
       "price_history": [
         {
           "price": 9500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820422",
+      "title": "Mitsubishi Outlander 2010",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-2010-ID116820422.html",
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "body_type": "MPV",
+      "year": 2010,
+      "mileage": 200000,
+      "transmission": "Steptronic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 8600,
+      "current_price": 8600,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 8600,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "115833572",
+      "title": "Wrangler Sahara",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-sahara-ID115833572.html",
+      "make": "Jeep",
+      "model": "Wrangler Sahara",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Ajaltoun, Keserouan",
+      "original_price": 40000,
+      "current_price": 40000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 40000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820421",
+      "title": "Mitsubishi Lancer 2017",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-lancer-2017-ID116820421.html",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 160000,
+      "transmission": "Steptronic",
+      "location": "Fourzol, Zahle",
+      "original_price": 14000,
+      "current_price": 14000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116784275",
+      "title": "GMC Terrain 2011",
+      "url": "https://www.olx.com.lb/ad/gmc-terrain-2011-ID116784275.html",
+      "make": "GMC",
+      "model": "Terrain",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Halat, Jbeil",
+      "original_price": 7900,
+      "current_price": 7900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 7900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820418",
+      "title": "هوندا سي ار في 2019",
+      "url": "https://www.olx.com.lb/ad/هوندا-سي-ار-في-2019-ID116820418.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "Other",
+      "year": 2019,
+      "mileage": 9600,
+      "transmission": "Automatic",
+      "location": "Al Minie, Minieh-Denniye",
+      "original_price": 22500,
+      "current_price": 22500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116573491",
+      "title": "Hyundai Tucson 2019 Company Source Special Car",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-company-source-special-car-ID116573491.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 19500,
+      "current_price": 19500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 19500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116305264",
+      "title": "Honda Accord 2003",
+      "url": "https://www.olx.com.lb/ad/honda-accord-2003-ID116305264.html",
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "Sports / Coupe",
+      "year": 2003,
+      "mileage": 170000,
+      "transmission": "Automatic",
+      "location": "Nabatieh Town, Nabatieh",
+      "original_price": 1700,
+      "current_price": 1700,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 1700,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820398",
+      "title": "Chevrolet Trailblazer RS year 2019 $28,000",
+      "url": "https://www.olx.com.lb/ad/chevrolet-trailblazer-rs-year-2019-28000-ID116820398.html",
+      "make": "Chevrolet",
+      "model": "Trailblazer (SUV)",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 75000,
+      "transmission": "Steptronic",
+      "location": "Al Qalamoun, Tripoli",
+      "original_price": 28000,
+      "current_price": 28000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 28000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820394",
+      "title": "Subaru XV Crosstrek 2018",
+      "url": "https://www.olx.com.lb/ad/subaru-xv-crosstrek-2018-ID116820394.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Barsa, Koura",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116612403",
+      "title": "BMW 5-Series 2018",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-ID116612403.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 51000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820391",
+      "title": "Volvo V40 2016 T3",
+      "url": "https://www.olx.com.lb/ad/volvo-v40-2016-t3-ID116820391.html",
+      "make": "Volvo",
+      "model": "V40",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 129000,
+      "transmission": "Steptronic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 9800,
+      "current_price": 9800,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 9800,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "115211423",
+      "title": "Mini Cooper s 2018",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-2018-ID115211423.html",
+      "make": "MINI",
+      "model": "Cooper S",
+      "body_type": "Convertible",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 14900,
+      "current_price": 14900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 14900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820386",
+      "title": "Mercedes-Benz C-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116820386.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 129000,
+      "transmission": "Automatic",
+      "location": "Sahel Alma, Keserouan",
+      "original_price": 18000,
+      "current_price": 18000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116559710",
+      "title": "Land Rover Range Rover Sport V8 Dynamic 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-v8-dynamic-2017-ID116559710.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 50000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 42000,
+      "current_price": 42000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 42000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116423449",
+      "title": "Land Rover Discovery luxury 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-luxury-2017-ID116423449.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 29000,
           "date": "2026-03-14"
         }
       ]
@@ -45686,7 +46053,7 @@
       "transmission": "Automatic",
       "location": "Zouk Mikael, Keserouan",
       "original_price": 25000,
-      "current_price": 23500,
+      "current_price": 23000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -45701,6 +46068,10 @@
         {
           "price": 23500,
           "date": "2026-03-08"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-14"
         }
       ]
     },

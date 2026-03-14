@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1838,
+  "total_tracked": 1839,
   "total_drops": 5,
-  "total_new": 1838,
-  "last_updated": "2026-03-14T14:29:16Z",
+  "total_new": 1839,
+  "last_updated": "2026-03-14T15:27:07Z",
   "drops": [
     {
       "id": "16770596",
@@ -76,6 +76,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16774833",
+      "title": "2017 CHEVROLET IMPALA RTA PASS IN VERY GOOD CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/impala/2026/3/14/2017-chevrolet-impala-rta-pass-in-very-goo-2-194---ef0a6cc4f26945559aad394c83fc0c1f/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Impala",
+      "year": "2017",
+      "mileage": "160000",
+      "price": 16500,
+      "first_seen": "2026-03-14T15:27:07Z"
+    },
     {
       "id": "16774774",
       "title": "0% DOWN PAYMENT! | G63 AMG | 1.89% RATE | FREE REG + SALIK | DOUBLE NIGHT PACKAGE | GCC | EXTENDED W",
@@ -6062,18 +6074,6 @@
       "year": "2023",
       "mileage": "34000",
       "price": 168999,
-      "first_seen": "2026-03-12T12:45:29Z"
-    },
-    {
-      "id": "16759576",
-      "title": "9,792 P.M | 0% Downpayment | RS7 | AUDI WARRANTY  SERVICE 2030!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s7rs7/2026/2/27/9792-pm-0-downpayment-rs7-audi-warranty-se-2-953---e1111e54342241e7aabe4497fc39b025/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S7/RS7",
-      "year": "2025",
-      "mileage": "38000",
-      "price": 499999,
       "first_seen": "2026-03-12T12:45:29Z"
     }
   ]

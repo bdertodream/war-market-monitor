@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T14:28:49.846403",
-  "total_tracked": 244,
+  "generated_at": "2026-03-14T15:26:36.902361",
+  "total_tracked": 245,
   "total_drops": 6,
-  "total_new": 244,
+  "total_new": 245,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -204,6 +204,24 @@
       "price_history": [
         {
           "price": 3700,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116282851",
+      "title": "بيروت",
+      "url": "https://www.olx.com.lb/ad/بيروت-ID116282851.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Downtown, Beirut",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5500,
           "date": "2026-03-14"
         }
       ]
