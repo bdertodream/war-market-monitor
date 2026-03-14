@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3843,
+  "total_tracked": 3845,
   "total_drops": 29,
-  "total_new": 3843,
+  "total_new": 3845,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2117,6 +2117,28 @@
       "size": "1097",
       "bedrooms": "",
       "price": 3400000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "17202139",
+      "title": "Standalone Villa | Huge Plot | Distress Sale | Contact Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/14/4br-villa-with-maids-family-room-post-h-2-298169/",
+      "area": "Dubai South",
+      "category": "Villa",
+      "size": "3423",
+      "bedrooms": "4",
+      "price": 4600000,
+      "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9777516",
+      "title": "DISTRESS DEAL | 1.25 | INVESTORS ONLY",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/8/16/office-for-sale-executive-bay-tower-b-t-2-176062/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "802",
+      "bedrooms": "",
+      "price": 1100000,
       "first_seen": "2026-03-14"
     },
     {
@@ -5890,28 +5912,6 @@
       "size": "1927",
       "bedrooms": "",
       "price": 5500000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802234",
-      "title": "Furnished | Prime Area | Smart Investment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/furnished-prime-area-smart-investment-2-331723/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "777",
-      "bedrooms": "",
-      "price": 2200000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9802224",
-      "title": "Investor deal | Canal View | Great 8% ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/investor-deal-canal-view-great-8-roi-2-180661/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1198",
-      "bedrooms": "",
-      "price": 2700000,
       "first_seen": "2026-03-12"
     }
   ],

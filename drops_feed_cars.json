@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T13:47:30.385398",
-  "total_tracked": 3028,
+  "generated_at": "2026-03-14T14:28:30.677086",
+  "total_tracked": 3034,
   "total_drops": 150,
-  "total_new": 3028,
+  "total_new": 3034,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -7058,6 +7058,138 @@
       "price_history": [
         {
           "price": 8500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116222012",
+      "title": "مرسيدس بنز جي ال سي - كلاس 2018",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-جي-ال-سي-كلاس-2018-ID116222012.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 75600,
+      "transmission": "Steptronic",
+      "location": "sakiet al janzeer, Beirut",
+      "original_price": 38500,
+      "current_price": 38500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 38500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820374",
+      "title": "Mercedes-Benz GLC-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2017-ID116820374.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 67000,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 34500,
+      "current_price": 34500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 34500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820367",
+      "title": "هوندا أكورد 2005",
+      "url": "https://www.olx.com.lb/ad/هوندا-أكورد-2005-ID116820367.html",
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "Estate",
+      "year": 2005,
+      "mileage": 2500,
+      "transmission": "Automatic",
+      "location": "Bourj Hammoud, Metn",
+      "original_price": 5200,
+      "current_price": 5200,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5200,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820366",
+      "title": "BMW X3 2011",
+      "url": "https://www.olx.com.lb/ad/bmw-x3-2011-ID116820366.html",
+      "make": "BMW",
+      "model": "X3",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Mar Roukoz, Metn",
+      "original_price": 8600,
+      "current_price": 8600,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 8600,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820355",
+      "title": "Mitsubishi Pajero 2011",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-pajero-2011-ID116820355.html",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 102000,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820351",
+      "title": "Jeep Grand Cherokee 2011",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2011-ID116820351.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "Estate",
+      "year": 2011,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 9500,
           "date": "2026-03-14"
         }
       ]
