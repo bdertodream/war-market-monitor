@@ -5994,7 +5994,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -8404,7 +8404,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -15474,19 +15474,24 @@
     "location": "Jounieh, Keserouan",
     "district": "Keserouan",
     "original_price": 72000,
-    "current_price": 72000,
+    "current_price": 69500,
     "price_history": [
       {
         "price": 72000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 69500,
+        "date": "2026-03-14"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "drop_usd": 2500,
+    "drop_pct": 3.5,
+    "last_drop_date": "2026-03-14",
+    "posted_date": "2026-03-01"
   },
   "116807038": {
     "id": "116807038",
@@ -34165,12 +34170,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116766979": {
     "id": "116766979",
@@ -36293,7 +36299,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -40159,7 +40165,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -44208,7 +44214,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -44264,7 +44270,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -52252,7 +52258,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -53772,7 +53778,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -53912,7 +53918,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -54080,7 +54086,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -54360,7 +54366,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -54652,7 +54658,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -56012,7 +56018,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -57396,7 +57402,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -60240,7 +60246,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -61748,7 +61754,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -75032,7 +75038,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -75060,7 +75066,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -82272,6 +82278,286 @@
     "price_history": [
       {
         "price": 14999,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116819960": {
+    "id": "116819960",
+    "title": "MERCEDES AMG GLE 43 COUPE 2017 - CLEAN CARFAX",
+    "url": "https://www.olx.com.lb/ad/mercedes-amg-gle-43-coupe-2017-clean-carfax-ID116819960.html",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 87000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 52900,
+    "current_price": 52900,
+    "price_history": [
+      {
+        "price": 52900,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116731471": {
+    "id": "116731471",
+    "title": "Mercedes C 300 2019 !!!!! AMG PACK - CLEAN CARFAX",
+    "url": "https://www.olx.com.lb/ad/mercedes-c-300-2019-amg-pack-clean-carfax-ID116731471.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2019,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116611529": {
+    "id": "116611529",
+    "title": "Range Rover Sport V8 SUPERCHARGED 2018 !!!! Clean Carfax",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-2018-clean-carfax-ID116611529.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 46500,
+    "current_price": 46500,
+    "price_history": [
+      {
+        "price": 46500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116758030": {
+    "id": "116758030",
+    "title": "PORSCHE CAYENNE COUPE 2021 !!!! 50,000 MILES",
+    "url": "https://www.olx.com.lb/ad/porsche-cayenne-coupe-2021-50000-miles-ID116758030.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "year": 2021,
+    "mileage": 50000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 84900,
+    "current_price": 84900,
+    "price_history": [
+      {
+        "price": 84900,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116571589": {
+    "id": "116571589",
+    "title": "Mercedes-Benz CLA 250 4 Matic 2020 !!!! NIGHT PACK",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-250-4-matic-2020-night-pack-ID116571589.html",
+    "make": "Mercedes-Benz",
+    "model": "CLA-Class",
+    "body_type": "Sedan",
+    "year": 2020,
+    "mileage": 80000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 36900,
+    "current_price": 36900,
+    "price_history": [
+      {
+        "price": 36900,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116480299": {
+    "id": "116480299",
+    "title": "Porsche 911 GT3 2015 !!!! Under Warranty Till 07/2026",
+    "url": "https://www.olx.com.lb/ad/porsche-911-gt3-2015-under-warranty-till-072026-ID116480299.html",
+    "make": "Porsche",
+    "model": "911 GT 3",
+    "body_type": "Sports / Coupe",
+    "year": 2015,
+    "mileage": 44000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 147995,
+    "current_price": 147995,
+    "price_history": [
+      {
+        "price": 147995,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116718290": {
+    "id": "116718290",
+    "title": "Range Rover Sport V8 2017 !!!!! CLEAN CARFAX",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-2017-75000-miles-only-ID116718290.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 75000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 37900,
+    "current_price": 37900,
+    "price_history": [
+      {
+        "price": 37900,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116671828": {
+    "id": "116671828",
+    "title": "Audi RSQ8 2023 !!! FULL CARBON FIBER PACK",
+    "url": "https://www.olx.com.lb/ad/audi-rsq8-2021-full-carbon-fiber-pack-ID116671828.html",
+    "make": "Audi",
+    "model": "Q8",
+    "body_type": "SUV",
+    "year": 2023,
+    "mileage": 17000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 137995,
+    "current_price": 137995,
+    "price_history": [
+      {
+        "price": 137995,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116819959": {
+    "id": "116819959",
+    "title": "RANGE ROVER SPORT V6 AUTOBIOGRAPHY - WHITE ON RED ( CLEAN CARFAX )",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-v6-autobiography-white-on-red-clean-carfax-ID116819959.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 66000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 44500,
+    "current_price": 44500,
+    "price_history": [
+      {
+        "price": 44500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116744778": {
+    "id": "116744778",
+    "title": "2015 Ford Mustang EcoBoost Premium",
+    "url": "https://www.olx.com.lb/ad/ford-mustang-2015-ID116744778.html",
+    "make": "Ford",
+    "model": "Mustang",
+    "body_type": "Sports / Coupe",
+    "year": 2015,
+    "mileage": 127720,
+    "transmission": "Automatic",
+    "location": "Zalka, Metn",
+    "district": "Metn",
+    "original_price": 14500,
+    "current_price": 14500,
+    "price_history": [
+      {
+        "price": 14500,
         "date": "2026-03-14"
       }
     ],

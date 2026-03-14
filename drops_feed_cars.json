@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-14T01:18:46.652641",
-  "total_tracked": 2915,
-  "total_drops": 135,
-  "total_new": 2915,
-  "avg_drop_pct": 6.6,
+  "generated_at": "2026-03-14T04:10:28.451582",
+  "total_tracked": 2925,
+  "total_drops": 136,
+  "total_new": 2925,
+  "avg_drop_pct": 6.5,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -1994,6 +1994,35 @@
         {
           "price": 7900,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116731255",
+      "title": "Mercedes AMG CLS 53  2019 !!! TGF SOURCE",
+      "url": "https://www.olx.com.lb/ad/mercedes-amg-cls-53-2019-tgf-source-ID116731255.html",
+      "make": "Mercedes-Benz",
+      "model": "CLS-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 52000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 72000,
+      "current_price": 69500,
+      "drop_usd": 2500,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-03-14",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 72000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 69500,
+          "date": "2026-03-14"
         }
       ]
     },
@@ -4129,6 +4158,226 @@
       "price_history": [
         {
           "price": 14999,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116819960",
+      "title": "MERCEDES AMG GLE 43 COUPE 2017 - CLEAN CARFAX",
+      "url": "https://www.olx.com.lb/ad/mercedes-amg-gle-43-coupe-2017-clean-carfax-ID116819960.html",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 87000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 52900,
+      "current_price": 52900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 52900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116731471",
+      "title": "Mercedes C 300 2019 !!!!! AMG PACK - CLEAN CARFAX",
+      "url": "https://www.olx.com.lb/ad/mercedes-c-300-2019-amg-pack-clean-carfax-ID116731471.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116611529",
+      "title": "Range Rover Sport V8 SUPERCHARGED 2018 !!!! Clean Carfax",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-2018-clean-carfax-ID116611529.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 46500,
+      "current_price": 46500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 46500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116758030",
+      "title": "PORSCHE CAYENNE COUPE 2021 !!!! 50,000 MILES",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-coupe-2021-50000-miles-ID116758030.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 84900,
+      "current_price": 84900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 84900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116571589",
+      "title": "Mercedes-Benz CLA 250 4 Matic 2020 !!!! NIGHT PACK",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-250-4-matic-2020-night-pack-ID116571589.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 36900,
+      "current_price": 36900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 36900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116480299",
+      "title": "Porsche 911 GT3 2015 !!!! Under Warranty Till 07/2026",
+      "url": "https://www.olx.com.lb/ad/porsche-911-gt3-2015-under-warranty-till-072026-ID116480299.html",
+      "make": "Porsche",
+      "model": "911 GT 3",
+      "body_type": "Sports / Coupe",
+      "year": 2015,
+      "mileage": 44000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 147995,
+      "current_price": 147995,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 147995,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116718290",
+      "title": "Range Rover Sport V8 2017 !!!!! CLEAN CARFAX",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-2017-75000-miles-only-ID116718290.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 37900,
+      "current_price": 37900,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 37900,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116671828",
+      "title": "Audi RSQ8 2023 !!! FULL CARBON FIBER PACK",
+      "url": "https://www.olx.com.lb/ad/audi-rsq8-2021-full-carbon-fiber-pack-ID116671828.html",
+      "make": "Audi",
+      "model": "Q8",
+      "body_type": "SUV",
+      "year": 2023,
+      "mileage": 17000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 137995,
+      "current_price": 137995,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 137995,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116819959",
+      "title": "RANGE ROVER SPORT V6 AUTOBIOGRAPHY - WHITE ON RED ( CLEAN CARFAX )",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v6-autobiography-white-on-red-clean-carfax-ID116819959.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 66000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 44500,
+      "current_price": 44500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 44500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116744778",
+      "title": "2015 Ford Mustang EcoBoost Premium",
+      "url": "https://www.olx.com.lb/ad/ford-mustang-2015-ID116744778.html",
+      "make": "Ford",
+      "model": "Mustang",
+      "body_type": "Sports / Coupe",
+      "year": 2015,
+      "mileage": 127720,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 14500,
           "date": "2026-03-14"
         }
       ]
@@ -43883,13 +44132,17 @@
       "transmission": "Automatic",
       "location": "Jounieh, Keserouan",
       "original_price": 72000,
-      "current_price": 72000,
+      "current_price": 69500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 72000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 69500,
+          "date": "2026-03-14"
         }
       ]
     },
@@ -58603,7 +58856,7 @@
       "original_price": 52900,
       "current_price": 52900,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 52900,

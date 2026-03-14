@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1674,
+  "total_tracked": 1680,
   "total_drops": 4,
-  "total_new": 1674,
-  "last_updated": "2026-03-14T01:19:34Z",
+  "total_new": 1680,
+  "last_updated": "2026-03-14T04:11:13Z",
   "drops": [
     {
       "id": "16770596",
@@ -62,6 +62,78 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16672271",
+      "title": "Magnificent BMW 520i \u2014 Where Power Meets Pure Class!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2025/12/15/magnificent-bmw-520i-where-power-meets-pur-2-352---6c8926e4a1d143f2a0c85a5e361c1fb3/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2015",
+      "mileage": "371000",
+      "price": 27500,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
+    {
+      "id": "16597355",
+      "title": "RAMADAN PROMO! / Hyundai SantaFe ( 2023 Model ) in White Color GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2025/10/14/aed-1339-emi-at-0-dp-hyundai-santafe-2023--2-792---e5c54a6fd1594ee2b6cb94497bfe5ffb/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2023",
+      "mileage": "78000",
+      "price": 64000,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
+    {
+      "id": "16538044",
+      "title": "!! 2025 !! GAC | GS8 | 2.0 TURBO | GCC | SERVICE CONTRACT | UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2025/8/28/2025-gac-gs8-20-turbo-gcc-under-warranty-2-168---916e130e0cc942b3b2feb3319a615362/",
+      "category": "Used Cars",
+      "make": "GAC",
+      "model": "GS8",
+      "year": "2025",
+      "mileage": "0",
+      "price": 94900,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
+    {
+      "id": "16751057",
+      "title": "!! 2025 !! BYD | LEOPARD TITANIUM 7 |  EVS WARRANTY + SERVICE CONTRACT",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-titanium-7/2026/2/20/2025-byd-leopard-titanium-7-ultra-4wd-unde-2-742---2145bf01d7fc4704aa354e3003b6d4dd/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Leopard Titanium 7",
+      "year": "2025",
+      "mileage": "100",
+      "price": 139900,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
+    {
+      "id": "16774178",
+      "title": "Mustang | Cabrio | GT Premium | Warranty | Service Contract",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/14/mustang-cabrio-gt-premium-warranty-service-2-976---60cbbc9a3ce947e397f3d47276adf24d/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2024",
+      "mileage": "19900",
+      "price": 179000,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
+    {
+      "id": "16420321",
+      "title": "TURBO// RADAR // warranty// finance0%DP//",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2025/5/23/turbo-2-120---3707cc5482334b14a857d9d9331aa2ef/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2022",
+      "mileage": "59000",
+      "price": 55000,
+      "first_seen": "2026-03-14T04:11:13Z"
+    },
     {
       "id": "16583567",
       "title": "AUDI A6 S-LINE 2015 GCC SPECS EXCELLENT CONDITION",
@@ -5988,78 +6060,6 @@
       "year": "2016",
       "mileage": "238000",
       "price": 58000,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16758538",
-      "title": "2021 JEEP WRANGLER UNLIMITED SAHARA 4X4 2.0T JAPANESE SPECIFICATION IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler-unlimited/2026/2/26/2021-jeep-wrangler-unlimited-sahara-4x4-20-2-428---7da8b99740b24b9f9025c22863c68cf3/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler Unlimited",
-      "year": "2021",
-      "mileage": "29000",
-      "price": 89500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16756263",
-      "title": "2012 HONDA CIVIC 1.8L i-VTEC JAPANESE SPECIFICATION FULL OPTION IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2026/2/24/2012-honda-civic-18l-i-vtec-korean-specifi-2-855---24e02de72efe41479a8ac48d9dc14da6/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Civic",
-      "year": "2012",
-      "mileage": "82000",
-      "price": 22500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16753168",
-      "title": "2012 BMW 5-SERIES 523i GCC SPECIFICATION WITH FULL AGENCY SERVICE HISTORY IN VERY EXCELLENT CONDITIO",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/2/22/2012-bmw-5-series-523i-gcc-specification-w-2-175---9a2d267ef92b435a8ab84cb40074c66e/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "2012",
-      "mileage": "140000",
-      "price": 23500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16711304",
-      "title": "2013 NISSAN ARMADA LE 5.6L V8 GCC SPECIFICATION FULL OPTION IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/armada/2026/1/18/2013-nissan-armada-le-56l-v8-gcc-specifica-2-512---2ad18003b3434ce39d223ee359370730/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Armada",
-      "year": "2013",
-      "mileage": "145000",
-      "price": 25500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "16751070",
-      "title": "2017 KIA MORNING JAPANESE SPECIFICATION IN VERY EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/morning/2026/2/20/2017-kia-morning-korean-specification-in-v-2-772---1cd874339dac45259ec9393cfeb15813/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Morning",
-      "year": "2017",
-      "mileage": "132000",
-      "price": 16500,
-      "first_seen": "2026-03-12T04:14:07Z"
-    },
-    {
-      "id": "15729453",
-      "title": "2012 VOLKSWAGEN JETTA 2.0L GCC SPECIFICATION FULL OPTION IN EXCELLENT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/jetta/2023/11/16/2012-volkswagen-jetta-20l-gcc-specificatio-2-735---a2fe6183375a4618a3269230456d6569/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "year": "2012",
-      "mileage": "209000",
-      "price": 12500,
       "first_seen": "2026-03-12T04:14:07Z"
     }
   ]
