@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4061,
+  "total_tracked": 4062,
   "total_drops": 34,
-  "total_new": 4061,
+  "total_new": 4062,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2066,6 +2066,17 @@
       "size": "2781",
       "bedrooms": "",
       "price": 20000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17174533",
+      "title": "Passo by Beyond | Ocean View | Waterfront Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/8/passo-by-beyond-ocean-view-waterfront-l-2-230740/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "1426",
+      "bedrooms": "2",
+      "price": 8801000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5971,17 +5982,6 @@
       "size": "1595",
       "bedrooms": "3",
       "price": 7299999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196681",
-      "title": "High Floor | Best View | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/high-floor-best-view-motivated-seller-2-176378/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1351",
-      "bedrooms": "2",
-      "price": 5199999,
       "first_seen": "2026-03-13"
     }
   ],

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-15T16:29:11.748171",
-  "total_tracked": 3240,
-  "total_drops": 165,
-  "total_new": 3240,
-  "avg_drop_pct": 6.3,
+  "generated_at": "2026-03-15T17:28:19.879878",
+  "total_tracked": 3253,
+  "total_drops": 167,
+  "total_new": 3253,
+  "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -3305,6 +3305,35 @@
       ]
     },
     {
+      "id": "116684366",
+      "title": "Mercedes-Benz GLE-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-2017-ID116684366.html",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 40900,
+      "current_price": 39900,
+      "drop_usd": 1000,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 40900,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 39900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
       "id": "116811070",
       "title": "Nissan Rogue SL 2019 Full options 58000 miles",
       "url": "https://www.olx.com.lb/ad/nissan-rogue-sl-2019-full-options-58000-miles-ID116811070.html",
@@ -4162,6 +4191,35 @@
         {
           "price": 12800,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116793987",
+      "title": "Cadillac XT4 2022",
+      "url": "https://www.olx.com.lb/ad/cadillac-xt4-2022-ID116793987.html",
+      "make": "Cadillac",
+      "model": "XT4",
+      "body_type": "Hatchback",
+      "year": 2022,
+      "mileage": 66000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 33500,
+      "current_price": 32999,
+      "drop_usd": 501,
+      "drop_pct": 1.5,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 33500,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 32999,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -6489,12 +6547,16 @@
       "transmission": "Automatic",
       "location": "Mtayleb, Metn",
       "original_price": 40900,
-      "current_price": 40900,
+      "current_price": 39900,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 40900,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 39900,
           "date": "2026-03-15"
         }
       ]
@@ -6533,12 +6595,16 @@
       "transmission": "Automatic",
       "location": "Mtayleb, Metn",
       "original_price": 33500,
-      "current_price": 33500,
+      "current_price": 32999,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 33500,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 32999,
           "date": "2026-03-15"
         }
       ]
@@ -7045,6 +7111,292 @@
       "price_history": [
         {
           "price": 19900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116768987",
+      "title": "Porsche Cayman 2011",
+      "url": "https://www.olx.com.lb/ad/porsche-cayman-2011-ID116768987.html",
+      "make": "Porsche",
+      "model": "Cayman",
+      "body_type": "Sports / Coupe",
+      "year": 2011,
+      "mileage": 123967,
+      "transmission": "Automatic",
+      "location": "Jouret Al Ballout, Metn",
+      "original_price": 27000,
+      "current_price": 27000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 27000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821424",
+      "title": "Porsche Cayenne 2016",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2016-ID116821424.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 27999,
+      "current_price": 27999,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 27999,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116807788",
+      "title": "HYUNDAI KONA 2018 SEL AWD 2.0 LUXURY EDITION MINT CONDITION",
+      "url": "https://www.olx.com.lb/ad/hyundai-kona-2018-sel-awd-20-luxury-edition-mint-condition-ID116807788.html",
+      "make": "Hyundai",
+      "model": "Kona",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 18000,
+      "current_price": 18000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116805546",
+      "title": "KIA SPORTAGE 2017 EX 2.4 AWD MINT CONDITION LIMITED EDITION",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-ex-24-awd-mint-condition-limited-edition-ID116805546.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 67000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 17900,
+      "current_price": 17900,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 17900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "115939534",
+      "title": "Honda CR-V 2021",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2021-ID115939534.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "Other",
+      "year": 2021,
+      "mileage": 38000,
+      "transmission": "Automatic",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821379",
+      "title": "Mercedes-Benz CLK-Class 1998",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-clk-class-1998-ID116821379.html",
+      "make": "Mercedes-Benz",
+      "model": "CLK-Class",
+      "body_type": "Convertible",
+      "year": 1998,
+      "mileage": 140000,
+      "transmission": "Automatic",
+      "location": "Zouq El Kharab, Metn",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821404",
+      "title": "Seat Ibiza 1998",
+      "url": "https://www.olx.com.lb/ad/seat-ibiza-1998-ID116821404.html",
+      "make": "Seat",
+      "model": "Ibiza",
+      "body_type": "Hatchback",
+      "year": 1998,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ain Najm, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821399",
+      "title": "Mercedes-Benz C-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116821399.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Convertible",
+      "year": 2017,
+      "mileage": 78000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 24500,
+      "current_price": 24500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 24500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116785794",
+      "title": "Chevrolet Camaro V6 RS 2016 Impex full history factory paint 72000km",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-v6-rs-2016-impex-full-history-factory-paint-72000km-ID116785794.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 72000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116613683",
+      "title": "Infiniti Qx60 AWD technology 2017 Rymco Source and Service",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx60-awd-technology-2019-rymco-source-and-service-ID116613683.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 22800,
+      "current_price": 22800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 22800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116336878",
+      "title": "Mercedes-Benz E300 2017 Coupe All original paint Designo premium plus",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e300-2017-coupe-all-original-paint-designo-premium-plus-ID116336878.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "caracas, Beirut",
+      "original_price": 39800,
+      "current_price": 39800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 39800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116700519",
+      "title": "Ford Mustang 2005",
+      "url": "https://www.olx.com.lb/ad/ford-mustang-2005-ID116700519.html",
+      "make": "Ford",
+      "model": "Mustang",
+      "body_type": "Convertible",
+      "year": 2005,
+      "mileage": 89000,
+      "transmission": "Automatic",
+      "location": "Louaizeh, Baabda",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116701331",
+      "title": "Chevrolet Tahoe 2015",
+      "url": "https://www.olx.com.lb/ad/chevrolet-tahoe-2015-ID116701331.html",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 125000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 25999,
+      "current_price": 25999,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 25999,
           "date": "2026-03-15"
         }
       ]
@@ -52819,7 +53171,7 @@
       "original_price": 12900,
       "current_price": 12900,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 12900,
