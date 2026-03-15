@@ -2552,7 +2552,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -50924,7 +50924,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -54852,7 +54852,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -69000,7 +69000,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "last_updated": "2026-03-11",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
@@ -89384,6 +89384,118 @@
     "price_history": [
       {
         "price": 14900,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116820866": {
+    "id": "116820866",
+    "title": "Seat Ibiza 2010",
+    "url": "https://www.olx.com.lb/ad/seat-ibiza-2010-ID116820866.html",
+    "make": "Seat",
+    "model": "Ibiza",
+    "body_type": "Hatchback",
+    "year": 2010,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Barsa, Koura",
+    "district": "Koura",
+    "original_price": 4800,
+    "current_price": 4800,
+    "price_history": [
+      {
+        "price": 4800,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116779941": {
+    "id": "116779941",
+    "title": "كيا كرنفال 2014",
+    "url": "https://www.olx.com.lb/ad/كيا-كرنفال-2014-ID116779941.html",
+    "make": "Kia",
+    "model": "Carnival",
+    "body_type": "Estate",
+    "year": 2014,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Adlieh, Beirut",
+    "district": "Beirut",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116754496": {
+    "id": "116754496",
+    "title": "Mercedes-Benz C180  2008",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c180-2008-ID116754496.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2008,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Other in Tripoli, Tripoli",
+    "district": "Tripoli",
+    "original_price": 8500,
+    "current_price": 8500,
+    "price_history": [
+      {
+        "price": 8500,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116703423": {
+    "id": "116703423",
+    "title": "Subaru Legacy 2006",
+    "url": "https://www.olx.com.lb/ad/subaru-legacy-2006-ID116703423.html",
+    "make": "Subaru",
+    "model": "Legacy",
+    "body_type": "Sedan",
+    "year": 2006,
+    "mileage": 168000,
+    "transmission": "Automatic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 5800,
+    "current_price": 5800,
+    "price_history": [
+      {
+        "price": 5800,
         "date": "2026-03-15"
       }
     ],

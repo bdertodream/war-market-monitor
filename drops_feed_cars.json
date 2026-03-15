@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T04:32:58.177659",
-  "total_tracked": 3161,
+  "generated_at": "2026-03-15T06:08:20.626041",
+  "total_tracked": 3165,
   "total_drops": 156,
-  "total_new": 3161,
+  "total_new": 3165,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5022,6 +5022,94 @@
       "price_history": [
         {
           "price": 14900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820866",
+      "title": "Seat Ibiza 2010",
+      "url": "https://www.olx.com.lb/ad/seat-ibiza-2010-ID116820866.html",
+      "make": "Seat",
+      "model": "Ibiza",
+      "body_type": "Hatchback",
+      "year": 2010,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Barsa, Koura",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 4800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116779941",
+      "title": "كيا كرنفال 2014",
+      "url": "https://www.olx.com.lb/ad/كيا-كرنفال-2014-ID116779941.html",
+      "make": "Kia",
+      "model": "Carnival",
+      "body_type": "Estate",
+      "year": 2014,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Adlieh, Beirut",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116754496",
+      "title": "Mercedes-Benz C180  2008",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c180-2008-ID116754496.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Other in Tripoli, Tripoli",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116703423",
+      "title": "Subaru Legacy 2006",
+      "url": "https://www.olx.com.lb/ad/subaru-legacy-2006-ID116703423.html",
+      "make": "Subaru",
+      "model": "Legacy",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 168000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 5800,
+      "current_price": 5800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 5800,
           "date": "2026-03-15"
         }
       ]
