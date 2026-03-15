@@ -24482,7 +24482,7 @@
   "16737247": {
     "id": "16737247",
     "title": "Ford Focus ST 2014 / GCC / Superb Condition / Modified / Manual Gear/ Well maintained",
-    "price": 25999,
+    "price": 23999,
     "make": "Ford",
     "model": "Focus",
     "year": "2014",
@@ -24497,6 +24497,10 @@
       {
         "price": 25999,
         "date": "2026-03-11T18:50:23Z"
+      },
+      {
+        "price": 23999,
+        "date": "2026-03-15T01:31:53Z"
       }
     ],
     "date": "2026-03-11"
@@ -24702,7 +24706,7 @@
   "16771797": {
     "id": "16771797",
     "title": "Toyota Land Cruiser 2012 / GCC / 4.0L V6 / Original paint / Zero accident / Superb Condition",
-    "price": 61999,
+    "price": 59999,
     "make": "Toyota",
     "model": "Land Cruiser",
     "year": "2012",
@@ -24717,6 +24721,10 @@
       {
         "price": 61999,
         "date": "2026-03-11T18:50:23Z"
+      },
+      {
+        "price": 59999,
+        "date": "2026-03-15T01:31:53Z"
       }
     ],
     "date": "2026-03-11"
@@ -41993,6 +42001,270 @@
       {
         "price": 19800,
         "date": "2026-03-14T23:27:51Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16775260": {
+    "id": "16775260",
+    "title": "2022 TOYOTA YARIS 1.5 GCC",
+    "price": 36500,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2022",
+    "kilometers": "67000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/3/15/2022-toyota-yaris-15-gcc-2-592---954321ea0c01436293b1eedb4efa2760/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 36500,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775253": {
+    "id": "16775253",
+    "title": "2017 VOLKSWAGON TIGUAN TOP OPTION GCC",
+    "price": 40000,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": "2017",
+    "kilometers": "125000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/3/15/2017-volkswagon-tiguan-top-option-gcc-2-920---cc3b0678f55c4565ab9d4d7568dcd8b4/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 40000,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16762343": {
+    "id": "16762343",
+    "title": "Peugeot Expert 2018 / GCC / Automatic gear / 2.0L Turbo engine / well maintained",
+    "price": 29999,
+    "make": "Peugeot",
+    "model": "Expert",
+    "year": "2018",
+    "kilometers": "106000",
+    "body_type": "Van",
+    "fuel_type": "Diesel",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/expert/2026/3/3/peugeot-expert-2018-gcc-automatic-gear-20l-2-094---e45840f21d3a432aa4d52f5cc8017fc5/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 29999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16764639": {
+    "id": "16764639",
+    "title": "Infiniti Q50 2018 / GCC / 2.0L turbo / Great condition / Well maintained",
+    "price": 31999,
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2018",
+    "kilometers": "162000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q50/2026/3/4/infiniti-q50-2018-gcc-20l-turbo-great-cond-2-410---0b6448bc76024b86a8193aa8ce205b9f/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 31999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16375501": {
+    "id": "16375501",
+    "title": "Dodge Durango GT 2019 / GCC / Full service agency / Mint Condition / Zero Accident",
+    "price": 61999,
+    "make": "Dodge",
+    "model": "Durango",
+    "year": "2019",
+    "kilometers": "100000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2025/4/19/dodge-durango-gt-2019-gcc-full-service-age-2-678---58b0a1680e514c49a3befce2a0e67e85/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 61999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16741274": {
+    "id": "16741274",
+    "title": "Dodge Ram 2018 / 5.7L V8 / GCC / Bighorn / Clean and well maintained",
+    "price": 59999,
+    "make": "Dodge",
+    "model": "Ram",
+    "year": "2018",
+    "kilometers": "152000",
+    "body_type": "Utility Truck",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/ram/2026/2/12/dodge-ram-2018-57l-v8-gcc-bighorn-clean-an-2-658---47de55860da24436889806171e583b56/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 59999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16735110": {
+    "id": "16735110",
+    "title": "Jaguar F-type 2014 / Supercharged V8 / GCC / Convertible / Well Maintained / Great condition",
+    "price": 89999,
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2014",
+    "kilometers": "131000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-type/2026/2/7/jaguar-f-type-2014-supercharged-v8-gcc-con-2-691---e1095a1bc7b541c78fbaf43d3a223b23/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 89999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16722434": {
+    "id": "16722434",
+    "title": "2022 Toyota Hilux GL Automatic \u2013 GCC Specs Dual Cab Pickup | Book Now.",
+    "price": 75999,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2022",
+    "kilometers": "57500",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/1/27/2022-toyota-hilux-gl-automatic-gcc-specs-d-2-831---bd55777fdb4e40269e3cf3664aeed4c4/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 75999,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16755598": {
+    "id": "16755598",
+    "title": "BMW XM LABEL RED",
+    "price": 501000,
+    "make": "BMW",
+    "model": "XM",
+    "year": "2024",
+    "kilometers": "40000",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Dubai Media City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/xm/2026/2/24/bmw-xm-label-red-2-879---2d511aed4c0b4b93afeb063bc0cd9113/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 501000,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16765185": {
+    "id": "16765185",
+    "title": "2025 Toyota Coaster 23-Seater Bus 4.0L Diesel RWD GCC Specs Full Option White",
+    "price": 228000,
+    "make": "Toyota",
+    "model": "Coaster",
+    "year": "2025",
+    "kilometers": "250",
+    "body_type": "Other",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/coaster/2026/3/5/2025-toyota-coaster-23-seater-bus-40l-dies-2-198---13a9a2ebde8941338cf9835d941c6916/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 228000,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16763652": {
+    "id": "16763652",
+    "title": "2025 Isuzu NQR Bare Chassis | GCC Specs | 350 KM |7 Ton | Brand New Condition",
+    "price": 108000,
+    "make": "Isuzu",
+    "model": "N-SERIES",
+    "year": "2025",
+    "kilometers": "350",
+    "body_type": "Other",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/n-series/2026/3/4/2025-isuzu-nqr-bare-chassis-gcc-specs-350--2-261---073ade3c99234f0db5ab71df0e86e1e9/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 108000,
+        "date": "2026-03-15T01:31:53Z"
+      }
+    ],
+    "date": "2026-03-14"
+  },
+  "16724992": {
+    "id": "16724992",
+    "title": "2022 Toyota Hilux GL 2.7L Automatic | GCC Specs Dual-Cab Pickup Built for Power  Reliability",
+    "price": 75999,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2022",
+    "kilometers": "45400",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/1/29/2022-toyota-hilux-gl-27l-automatic-gcc-spe-2-757---5fd075d139684ed0bd357acb708669c8/",
+    "first_seen": "2026-03-15T01:31:53Z",
+    "prices": [
+      {
+        "price": 75999,
+        "date": "2026-03-15T01:31:53Z"
       }
     ],
     "date": "2026-03-14"

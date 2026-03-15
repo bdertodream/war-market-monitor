@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3917,
+  "total_tracked": 3924,
   "total_drops": 31,
-  "total_new": 3917,
+  "total_new": 3924,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -442,6 +442,83 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9792638",
+      "title": "Burj Khalifa View | Modular and Unique Design",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/3/burj-khalifa-view-modular-and-unique-de-2-222728/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "805",
+      "bedrooms": "",
+      "price": 9728440,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9792637",
+      "title": "Flexibility Design | Harmony Access Modular Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/3/flexibility-design-harmony-access-modul-2-314355/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "805",
+      "bedrooms": "",
+      "price": 9688850,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9790713",
+      "title": "Stand alone WH-Office| with AC- Jebel Ali North",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2025/11/21/stand-alone-wh-office-with-ac-jebel-ali-2-118184/",
+      "area": "Jebel Ali",
+      "category": "Warehouse",
+      "size": "15715",
+      "bedrooms": "",
+      "price": 10500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9787160",
+      "title": "Fully Fitted Office at B2B Tower | Prime Sale",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/27/fully-fitted-office-at-b2b-tower-prime--2-232128/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "529",
+      "bedrooms": "",
+      "price": 1750000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9788247",
+      "title": "Modern Office Space for Sale in Binghatti Twilight | Culture Village | Prime Location Near Metro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/3/modern-office-space-for-sale-in-binghat-2-714847/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Office",
+      "size": "837",
+      "bedrooms": "",
+      "price": 3500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9773255",
+      "title": "CORNER | VACANT | SHOP FOR SALE | ENGLAND CLUSTER",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/7/16/corner-vacant-shop-for-sale-england-clu-2-109897/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "742",
+      "bedrooms": "",
+      "price": 1125000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9777422",
+      "title": "Retail Space | Prime | Strategic Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/15/retail-space-prime-strategic-location-2-164196/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "259",
+      "bedrooms": "",
+      "price": 1999000,
+      "first_seen": "2026-03-15"
+    },
     {
       "id": "16455750",
       "title": "1 Bed room unit for sale, Madinat Jumeriah",
@@ -5864,85 +5941,8 @@
       "bedrooms": "0",
       "price": 750000,
       "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17092609",
-      "title": "Prime Location | Luxury | Great ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/2/16/prime-location-luxury-great-roi-2-173110/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3046",
-      "bedrooms": "5",
-      "price": 4000000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197971",
-      "title": "Ocean Pearl by SD in Dubai Islands | 3 Bedrooms",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/ocean-pearl-by-sd-in-dubai-islands-3-be-2-915509/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1559",
-      "bedrooms": "3",
-      "price": 4278811,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9802622",
-      "title": "Prime Investment | Fully Leased 16 Warehouses | DIP 2",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/2/5/prime-investment-fully-leased-15-wareho-2-209301/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Warehouse",
-      "size": "72697",
-      "bedrooms": "",
-      "price": 26000000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9806012",
-      "title": "2 Parking | Next To Metro | Newly Renovated",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/27/2-parking-next-to-metro-newly-renovated-2-257255/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1626",
-      "bedrooms": "",
-      "price": 3292650,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9804629",
-      "title": "Premium Fit-Out | High Floor | Furnished Office",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/17/premium-fit-out-high-floor-furnished-of-2-230162/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "4476",
-      "bedrooms": "",
-      "price": 10500000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9802567",
-      "title": "Jumeirah Bay X2 | Fully Fitted Office | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/5/jumeirah-bay-x2-fully-fitted-office-hig-2-226414/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "2153",
-      "bedrooms": "",
-      "price": 3600000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9801102",
-      "title": "Vacant Soon | 2 Title Deeds | Fitted Office",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/27/vacant-soon-2-title-deeds-fitted-office-2-260078/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "3950",
-      "bedrooms": "",
-      "price": 7146000,
-      "first_seen": "2026-03-13"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-03-14"
+  "last_updated": "2026-03-15"
 }
