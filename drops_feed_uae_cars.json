@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2003,
+  "total_tracked": 2004,
   "total_drops": 7,
-  "total_new": 2003,
-  "last_updated": "2026-03-15T10:28:46Z",
+  "total_new": 2004,
+  "last_updated": "2026-03-15T11:27:58Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775525",
+      "title": "2013 Chevrolet trailblazer good condition 7 seater neat and clean inside and outside",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trailblazer/2026/3/15/2013-chevrolet-trailblazer-good-condition--2-787---e525b8eb1e1645199d4d1061193f2928/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "year": "2013",
+      "mileage": "220000",
+      "price": 13900,
+      "first_seen": "2026-03-15T11:27:58Z"
+    },
     {
       "id": "16742146",
       "title": "AED 5,925/MONTH | MODIFIED TOYOTA LAND CRUISER 76",
@@ -6089,18 +6101,6 @@
       "model": "Range Rover Evoque",
       "year": "2024",
       "mileage": "11",
-      "price": 177999,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16719536",
-      "title": "3,486 P.M | Range Rover Evoque | 0% Downpayment | Range Rover Evoque Dynamic",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/1/25/3525-pm-range-rover-evoque-0-downpayment-r-2-102---8bc5c2374abf4aea9e76a5e6f295f407/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2024",
-      "mileage": "19",
       "price": 177999,
       "first_seen": "2026-03-13T07:46:59Z"
     }

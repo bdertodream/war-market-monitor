@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3975,
+  "total_tracked": 3986,
   "total_drops": 34,
-  "total_new": 3975,
+  "total_new": 3986,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1120,6 +1120,127 @@
       "size": "856",
       "bedrooms": "",
       "price": 2114000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "16978728",
+      "title": "Luxury Studio with Crystal Lagoon Views | Rooftop Pool & Private Beach",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/22/luxury-studio-with-crystal-lagoon-views-2-237008/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "384",
+      "bedrooms": "0",
+      "price": 640000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17204016",
+      "title": "Up to 40% Discount | 1% Monthly Plan | Prime Location in DIP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/15/up-to-40-discount-1-monthly-plan-prime--2-326099/",
+      "area": "Dubai Investment Park (DIP)",
+      "category": "Apartment",
+      "size": "1814",
+      "bedrooms": "4",
+      "price": 980000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9805330",
+      "title": "Shop | High investment | Azizi Riviera",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/23/shop-high-investment-azizi-riviera-2-104487/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "486",
+      "bedrooms": "",
+      "price": 3000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9804806",
+      "title": "Save 30% Immediately | Spacious Layout | Investment Friendly",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/19/save-30-immediately-spacious-layout-inv-2-228229/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "1233",
+      "bedrooms": "",
+      "price": 3800000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9804805",
+      "title": "Retail For Sale | Investors Deal | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/19/retail-for-sale-investors-deal-prime-lo-2-741257/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "554",
+      "bedrooms": "",
+      "price": 2700000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9805331",
+      "title": "Luxury Investment Prime Location -Easy Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/23/luxury-investment-prime-location-easy-p-2-157923/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "711",
+      "bedrooms": "",
+      "price": 4825000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9793739",
+      "title": "EXCLUSIVE Main Street | Open for Viewings |",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/12/11/shell-core-shop-for-sale-or-rent--2-332022/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "610",
+      "bedrooms": "",
+      "price": 3000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806008",
+      "title": "Premium Location | Spacious and Canal View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/27/premium-location-spacious-and-canal-vie-2-171276/",
+      "area": "Dubai Marina",
+      "category": "Shop",
+      "size": "4352",
+      "bedrooms": "",
+      "price": 16000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9805329",
+      "title": "7-Year Payment Plan | Discounted | High Footfall",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/23/7-year-payment-plan-discounted-high-foo-2-325174/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "1011",
+      "bedrooms": "",
+      "price": 2680149,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9807558",
+      "title": "Investor Deal |High Floor Office |Walk to Metro|",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/11/investor-deal-high-floor-office-walk-to-2-239985/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1108",
+      "bedrooms": "",
+      "price": 1800000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806007",
+      "title": "Panoramic | Bright | Corner High Floor | Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/27/panoramic-bright-corner-high-floor-offi-2-305503/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "933",
+      "bedrooms": "",
+      "price": 1875000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5861,127 +5982,6 @@
       "size": "2689",
       "bedrooms": "",
       "price": 13226496,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807266",
-      "title": "Vacant Now | Full Floor | Panoramic Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/9/vacant-now-full-floor-panoramic-views-2-230578/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "11136",
-      "bedrooms": "",
-      "price": 36000000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807785",
-      "title": "Ready Office | Fully Furnished Unit | Business Bay",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/13/ready-office-fully-furnished-unit-busin-2-156487/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "472",
-      "bedrooms": "",
-      "price": 1400000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196467",
-      "title": "EXCLUSIVE| UPGRADED TYPE B| BEST PRICE | ELEVATED",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/13/exclusive-upgraded-type-b-best-price-el-2-558426/",
-      "area": "Al Furjan",
-      "category": "Villa",
-      "size": "4979",
-      "bedrooms": "4",
-      "price": 8500000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17003705",
-      "title": "Mercedes Benz Branded | Studio Apartment Off-Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/28/studio-apartment-off-plan-branded-resid-2-135928/",
-      "area": "Meydan",
-      "category": "Apartment",
-      "size": "385",
-      "bedrooms": "0",
-      "price": 1295320,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17031224",
-      "title": "High ROI | Off Plan Property | Dubai Creek Harbour",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/3/high-roi-off-plan-property-dubai-creek--2-287776/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "757",
-      "bedrooms": "1",
-      "price": 1795748,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "16785022",
-      "title": "High-Return 2BR Apartment for Sale in Dubai South",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/13/high-return-2br-apartment-for-sale-in-d-2-212197/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "933",
-      "bedrooms": "2",
-      "price": 959811,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17091679",
-      "title": "1 Bedroom Off Plan Dubai |Binghatti Luxury Project",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/16/1-bedroom-off-plan-dubai-binghatti-luxu-2-230681/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "638",
-      "bedrooms": "1",
-      "price": 1124999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197293",
-      "title": "Studio Apartment | Binghatti Luxury Projects |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/studio-apartment-binghatti-luxury-proje-2-225614/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "379",
-      "bedrooms": "0",
-      "price": 831249,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17184349",
-      "title": "Marina Views | Open City View | Best Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/marina-views-open-city-view-best-deal-2-992012/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "659",
-      "bedrooms": "1",
-      "price": 860000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17184367",
-      "title": "Skyline Views | Best Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/skyline-views-best-deal-2-123067/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "365",
-      "bedrooms": "0",
-      "price": 532000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197607",
-      "title": "1 Bedroom Off Plan | Binghatti Luxury Projects |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/1-bedroom-off-plan-binghatti-luxury-pro-2-105629/",
-      "area": "Al Jaddaf",
-      "category": "Apartment",
-      "size": "699",
-      "bedrooms": "1",
-      "price": 1463579,
       "first_seen": "2026-03-13"
     }
   ],
