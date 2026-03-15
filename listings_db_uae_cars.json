@@ -8222,7 +8222,7 @@
   "16679584": {
     "id": "16679584",
     "title": "GCC SPECS ULTIMATE MOTORS WARRANTY FEB 2027 - 2023 LAMBORGHINI HURACAN EVO SPYDER",
-    "price": 1229000,
+    "price": 1199000,
     "make": "Lamborghini",
     "model": "Huracan",
     "year": "{'label': 'Year', 'value': 2023}",
@@ -8237,6 +8237,10 @@
       {
         "price": 1229000,
         "date": "2026-03-09T06:59:10Z"
+      },
+      {
+        "price": 1199000,
+        "date": "2026-03-15T16:29:56Z"
       }
     ],
     "date": "2026-03-09"
@@ -44491,6 +44495,138 @@
       {
         "price": 119000,
         "date": "2026-03-15T15:29:02Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16750477": {
+    "id": "16750477",
+    "title": "(RAMADAN OFFER) 2023 GCC JAC S3",
+    "price": 25900,
+    "make": "JAC",
+    "model": "S3",
+    "year": "2023",
+    "kilometers": "90000",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/2/19/ramadan-offer-2023-gcc-jac-s3-official-dea-2-343---1365ae062a8e4c66b662259f95455bc7/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 25900,
+        "date": "2026-03-15T16:29:56Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774442": {
+    "id": "16774442",
+    "title": "Apx EMI 2074 / month | 2021 | Range Rover Evoque P200 2021 \u2013 GCC | First Owner | Agency Service | Wa",
+    "price": 119900,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": "2021",
+    "kilometers": "50405",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/3/14/apx-emi-2074-month-2021-range-rover-evoque-2-836---e07fd19021ed478c8de06e7cd0661ab1/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 119900,
+        "date": "2026-03-15T16:29:56Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775796": {
+    "id": "16775796",
+    "title": "Mercedes 560 SL AMG Kit | Fully Rebuilt",
+    "price": 385000,
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": "1988",
+    "kilometers": "79440",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Dubai Production City (IMPZ)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sl-class/2026/3/15/mercedes-560-sl-amg-kit-fully-rebuilt-2-514---317760f84a1640a8ab40886953f1953a/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 385000,
+        "date": "2026-03-15T16:29:56Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16749418": {
+    "id": "16749418",
+    "title": "!!!Amazing Top Of The Range BMW X1 M-Kit Sport-Line sDrive20i GCC Specs Full BMW Service History",
+    "price": 49000,
+    "make": "BMW",
+    "model": "X1",
+    "year": "2018",
+    "kilometers": "138000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar Front",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2026/2/18/amazing-top-of-the-range-bmw-x1-sdrive20i--2-735---7f2e44f117454199b6831b80fc48a105/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-03-15T16:29:56Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775773": {
+    "id": "16775773",
+    "title": "APX EMI 780/M | FIAT 500 Cabrio Convertible | 2024 | GCC Spec | Low KM",
+    "price": 39900,
+    "make": "Fiat",
+    "model": "500",
+    "year": "2024",
+    "kilometers": "21635",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/fiat/500/2026/3/15/apx-emi-780m-fiat-500-cabrio-convertible-2-2-337---97211359a9714eac8032dacc0db2a62d/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-03-15T16:29:56Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775746": {
+    "id": "16775746",
+    "title": "EMI AED 780 per month | MG RX5 Luxury | 2021 | GCC Spec | Low KM | Excellent Condition",
+    "price": 39900,
+    "make": "MG",
+    "model": "RX5",
+    "year": "2021",
+    "kilometers": "41835",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx5/2026/3/15/emi-aed-780-per-month-mg-rx5-luxury-2021-g-2-535---2a5d437689e74aa18be061ff14f435e1/",
+    "first_seen": "2026-03-15T16:29:56Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-03-15T16:29:56Z"
       }
     ],
     "date": "2026-03-15"

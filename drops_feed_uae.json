@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4054,
+  "total_tracked": 4061,
   "total_drops": 34,
-  "total_new": 4054,
+  "total_new": 4061,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1989,6 +1989,83 @@
       "size": "14638",
       "bedrooms": "",
       "price": 27583000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794416",
+      "title": "Premium Office | Strong Demand | Modern Look",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/premium-office-strong-demand-modern-loo-2-405310/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "997",
+      "bedrooms": "",
+      "price": 1695461,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794400",
+      "title": "Modern Office | Bright Space | Premium Finish",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/modern-office-bright-space-premium-fini-2-144832/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "1087",
+      "bedrooms": "",
+      "price": 1847951,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794392",
+      "title": "Premium Workspace | Open Layout | Efficient Design",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/premium-workspace-open-layout-efficient-2-213620/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "1216",
+      "bedrooms": "",
+      "price": 2068118,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794380",
+      "title": "Luxury Office | Bright Interior | Elegant Finish",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/luxury-office-bright-interior-elegant-f-2-868965/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "1260",
+      "bedrooms": "",
+      "price": 2112301,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794373",
+      "title": "Trendy Office | Open & Airy | Modern Design",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/trendy-office-open-airy-modern-design-2-229102/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "1434",
+      "bedrooms": "",
+      "price": 2290850,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794354",
+      "title": "Office Hub | Modern Layout | High Exposure",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/office-hub-modern-layout-high-exposure-2-164248/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Office",
+      "size": "3196",
+      "bedrooms": "",
+      "price": 3865120,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9794302",
+      "title": "Investment | Vacant | ROI | 4 Parking",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/15/investment-vacant-roi-4-parking-2-207002/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2781",
+      "bedrooms": "",
+      "price": 20000000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5905,83 +5982,6 @@
       "size": "1351",
       "bedrooms": "2",
       "price": 5199999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17098033",
-      "title": "The Lakes | 3Bed Type C (End Unit) with Maid`s and Study | Close to Lake Pool Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/17/the-lakes-3bed-type-c-end-unit-with-mai-2-463768/",
-      "area": "The Lakes",
-      "category": "Villa",
-      "size": "2889",
-      "bedrooms": "3",
-      "price": 6600000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196605",
-      "title": "Prime Location | Luxury Finish | Completion Q4 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/13/prime-location-luxury-finish-completion-2-592537/",
-      "area": "Tilal Al Ghaf",
-      "category": "Villa",
-      "size": "3712",
-      "bedrooms": "4",
-      "price": 8199999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17104471",
-      "title": "Upgraded | Vacant Now | Converted to 3 bed | Vastu",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/19/upgraded-vacant-close-to-pool-vastu-2-325685/",
-      "area": "The Springs",
-      "category": "Villa",
-      "size": "1647",
-      "bedrooms": "2",
-      "price": 3850000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17179102",
-      "title": "Upgraded | Landscaped Garden | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/9/upgraded-landscaped-garden-single-row-2-770053/",
-      "area": "The Lakes",
-      "category": "Villa",
-      "size": "3628",
-      "bedrooms": "3",
-      "price": 10400000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17190226",
-      "title": "5BR Fully Upgraded Villa | Massive Layout | VOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/11/5br-villa-fully-upgraded-golf-view-vot-2-174481/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "7659",
-      "bedrooms": "5",
-      "price": 29950000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9804529",
-      "title": "Full Floor for sale|10287 SQFT|Vacant on Transfer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/17/full-floor-for-sale10287-sqftvacant-on--2-142926/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1899",
-      "bedrooms": "",
-      "price": 4749575,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9805853",
-      "title": "SZR | Furnished | Awesome Fitting",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/26/szr-furnished-awesome-fitting-2-311422/",
-      "area": "Sheikh Zayed Road",
-      "category": "Office",
-      "size": "1409",
-      "bedrooms": "",
-      "price": 4500000,
       "first_seen": "2026-03-13"
     }
   ],
