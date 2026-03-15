@@ -44406,5 +44406,49 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16379961": {
+    "id": "16379961",
+    "title": "GCC M kit original paint not negotiable",
+    "price": 89000,
+    "make": "BMW",
+    "model": "3-Series",
+    "year": "2019",
+    "kilometers": "138000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Motor City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2025/4/23/gcc-m-kit-original-paint-not-negotiable-2-378---1e575cdc6f4249a8bbd4838ab78b3669/",
+    "first_seen": "2026-03-15T13:49:02Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-03-15T13:49:02Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775626": {
+    "id": "16775626",
+    "title": "Lamborghini Urus Pearl Capsule Edition Full Carbon Pano BO",
+    "price": 789000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2021",
+    "kilometers": "28900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/3/15/lamborghini-urus-pearl-capsule-edition-ful-2-419---7e22c982080f42c1880a883901672ae0/",
+    "first_seen": "2026-03-15T13:49:02Z",
+    "prices": [
+      {
+        "price": 789000,
+        "date": "2026-03-15T13:49:02Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

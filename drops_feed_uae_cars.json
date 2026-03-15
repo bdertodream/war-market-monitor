@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2008,
+  "total_tracked": 2010,
   "total_drops": 7,
-  "total_new": 2008,
-  "last_updated": "2026-03-15T12:40:22Z",
+  "total_new": 2010,
+  "last_updated": "2026-03-15T13:49:02Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16379961",
+      "title": "GCC M kit original paint not negotiable",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2025/4/23/gcc-m-kit-original-paint-not-negotiable-2-378---1e575cdc6f4249a8bbd4838ab78b3669/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "3-Series",
+      "year": "2019",
+      "mileage": "138000",
+      "price": 89000,
+      "first_seen": "2026-03-15T13:49:02Z"
+    },
+    {
+      "id": "16775626",
+      "title": "Lamborghini Urus Pearl Capsule Edition Full Carbon Pano BO",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/3/15/lamborghini-urus-pearl-capsule-edition-ful-2-419---7e22c982080f42c1880a883901672ae0/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "year": "2021",
+      "mileage": "28900",
+      "price": 789000,
+      "first_seen": "2026-03-15T13:49:02Z"
+    },
     {
       "id": "16775624",
       "title": "Kia Telluride 2020 ( GT Line ) Gcc specs ( Full service history ) low kms .",
@@ -6078,30 +6102,6 @@
       "year": "2022",
       "mileage": "56000",
       "price": 89999,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16700055",
-      "title": "AED 1,496/month | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | DODGE CHARGER 2023",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/1/9/aed-1596month-free-1-year-warranty-service-2-552---56a689e6a9c64a0f9547f2419e3acbd7/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Charger",
-      "year": "2023",
-      "mileage": "76869",
-      "price": 98399,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16695776",
-      "title": "AED 1,977/month | Manufacturer Warranty | Service History | 30 Day Return | JETOUR T2 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/1/6/aed-2067month-0-downpayment-free-3-months--2-151---1732e29a64254b69b6e0fabb5e043c2c/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "T2",
-      "year": "2025",
-      "mileage": "12240",
-      "price": 130099,
       "first_seen": "2026-03-13T07:46:59Z"
     }
   ]
