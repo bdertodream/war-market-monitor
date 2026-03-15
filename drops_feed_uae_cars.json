@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2004,
+  "total_tracked": 2008,
   "total_drops": 7,
-  "total_new": 2004,
-  "last_updated": "2026-03-15T11:27:58Z",
+  "total_new": 2008,
+  "last_updated": "2026-03-15T12:40:22Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,54 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775624",
+      "title": "Kia Telluride 2020 ( GT Line ) Gcc specs ( Full service history ) low kms .",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/telluride/2026/3/15/kia-telluride-2020-gt-line-gcc-specs-full--2-336---70931c38ef3e4c08925eff37b5d6ea32/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Telluride",
+      "year": "2020",
+      "mileage": "99000",
+      "price": 85000,
+      "first_seen": "2026-03-15T12:40:22Z"
+    },
+    {
+      "id": "16774830",
+      "title": "Monthly 1150/- | 0% DP | Blindspot | Fog Lights | Touch Screen | # 04187",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/14/monthly-1150-0-dp-blindspot-fog-lights-tou-2-366---79348c8f44ea43ea910e276a4925dceb/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2022",
+      "mileage": "65900",
+      "price": 72000,
+      "first_seen": "2026-03-15T12:40:22Z"
+    },
+    {
+      "id": "16707756",
+      "title": "GENESIS GV80 ROYAL 3.5T | 48V E-SUPERCHARGED | AWD | 2025",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv80/2026/1/15/genesis-gv80-royal-35t-48v-e-supercharged--2-028---785a8c85d1504e9897cf61c6652d525b/",
+      "category": "Used Cars",
+      "make": "Genesis",
+      "model": "GV80",
+      "year": "2025",
+      "mileage": "0",
+      "price": 330000,
+      "first_seen": "2026-03-15T12:40:22Z"
+    },
+    {
+      "id": "16742797",
+      "title": "2018 BMW 318i-Excellent Condition-Full Service History with BMW-Bank Finance Available",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/2/13/2018-bmw-318i-excellent-condition-full-ser-2-467---017de3f3ab2a4703b8ace2b82c888a38/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "3-Series",
+      "year": "2018",
+      "mileage": "67000",
+      "price": 47000,
+      "first_seen": "2026-03-15T12:40:22Z"
+    },
     {
       "id": "16775525",
       "title": "2013 Chevrolet trailblazer good condition 7 seater neat and clean inside and outside",
@@ -6054,54 +6102,6 @@
       "year": "2025",
       "mileage": "12240",
       "price": 130099,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16742120",
-      "title": "3,643 P.M | 0% Downpayment | BMW M235 Pristine Condition!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/2/12/3682-pm-0-downpayment-bmw-m235-pristine-co-2-800---c920de0558b440aab7be87f2c0216743/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "2-Series",
-      "year": "2025",
-      "mileage": "5000",
-      "price": 185999,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16753597",
-      "title": "AED 696/month | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | KIA SPORTAGE 2018",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/2/22/aed-752month-0-dp-free-3-months-warranty-s-2-003---a8d8aacd27394818a2ce9fda51f5bde9/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Sportage",
-      "year": "2018",
-      "mileage": "118432",
-      "price": 44399,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16764849",
-      "title": "AED 978/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | HYUNDAI TUCSON 2023",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2026/3/5/aed-1019m-0-dp-free-3-months-warranty-serv-2-432---693aecbea0904c8c83c247c8bbcf69f4/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Tucson",
-      "year": "2023",
-      "mileage": "72387",
-      "price": 62399,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16717638",
-      "title": "3,486 P.M |  Range Rover Evoque | 0% Downpayment | Range Rover Evoque Dynamic",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/1/23/3525-pm-range-rover-evoque-0-downpayment-r-2-353---c0cd85da2d554337877b01b23ad95b98/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2024",
-      "mileage": "11",
-      "price": 177999,
       "first_seen": "2026-03-13T07:46:59Z"
     }
   ]
