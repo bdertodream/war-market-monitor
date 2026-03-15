@@ -44472,5 +44472,27 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16775751": {
+    "id": "16775751",
+    "title": "GCC SPECS VERY LOW KM FORD F150 SPORT XLT V8 5.0 IN NEW CONDITION",
+    "price": 119000,
+    "make": "Ford",
+    "model": "F-Series Pickup",
+    "year": "2020",
+    "kilometers": "24000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ghoroob Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-series-pickup/2026/3/15/gcc-specs-very-low-km-ford-f150-sport-xlt--2-235---66bc7d5892d74e8d818c889abbabab2a/",
+    "first_seen": "2026-03-15T15:29:02Z",
+    "prices": [
+      {
+        "price": 119000,
+        "date": "2026-03-15T15:29:02Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

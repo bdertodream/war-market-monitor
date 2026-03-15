@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2011,
+  "total_tracked": 2012,
   "total_drops": 7,
-  "total_new": 2011,
-  "last_updated": "2026-03-15T14:30:43Z",
+  "total_new": 2012,
+  "last_updated": "2026-03-15T15:29:02Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775751",
+      "title": "GCC SPECS VERY LOW KM FORD F150 SPORT XLT V8 5.0 IN NEW CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-series-pickup/2026/3/15/gcc-specs-very-low-km-ford-f150-sport-xlt--2-235---66bc7d5892d74e8d818c889abbabab2a/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "F-Series Pickup",
+      "year": "2020",
+      "mileage": "24000",
+      "price": 119000,
+      "first_seen": "2026-03-15T15:29:02Z"
+    },
     {
       "id": "16775701",
       "title": "Renault Dokker 2018 | Perfect Condition | GCC Specs | Clean  Well Maintained",
@@ -6090,18 +6102,6 @@
       "year": "2022",
       "mileage": "71966",
       "price": 63199,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16762521",
-      "title": "AED 897/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | MITSUBISHI PAJERO 2017",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/3/3/aed-983m-0-dp-free-3-months-warranty-servi-2-435---ee65c061f831471290a7530cce09592d/",
-      "category": "Used Cars",
-      "make": "Mitsubishi",
-      "model": "Pajero",
-      "year": "2017",
-      "mileage": "63234",
-      "price": 47199,
       "first_seen": "2026-03-13T07:46:59Z"
     }
   ]
