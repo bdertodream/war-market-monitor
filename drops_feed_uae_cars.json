@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2045,
+  "total_tracked": 2047,
   "total_drops": 10,
-  "total_new": 2045,
-  "last_updated": "2026-03-15T18:35:20Z",
+  "total_new": 2047,
+  "last_updated": "2026-03-15T19:30:51Z",
   "drops": [
     {
       "id": "16770596",
@@ -146,6 +146,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775964",
+      "title": "Dodge RAM REBEL 2019 Special Edition GCC First Owner Original paint full option super clean car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/ram/2026/3/15/dodge-ram-rebel-2019-special-edition-gcc-f-2-637---5608e296cb2442778f5a0467de26868b/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Ram",
+      "year": "2019",
+      "mileage": "178000",
+      "price": 89000,
+      "first_seen": "2026-03-15T19:30:51Z"
+    },
+    {
+      "id": "16775916",
+      "title": "Rare - GCC 500E - 1992 - Excellent Condition - Quick Sale!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/3/15/rare-gcc-500e-1992-excellent-condition-qui-2-523---fb88102fb2e04bdda12cf1f28b4c093b/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "1992",
+      "mileage": "86000",
+      "price": 149000,
+      "first_seen": "2026-03-15T19:30:51Z"
+    },
     {
       "id": "16742210",
       "title": "2025 Mercedes-Benz G700 Brabus | Original | Brand New 0km | Coming with a Brabus Bike",
@@ -6121,30 +6145,6 @@
       "mileage": "4889",
       "price": 999000,
       "first_seen": "2026-03-13T10:35:30Z"
-    },
-    {
-      "id": "16603957",
-      "title": "DODGE CHALLENGER R/T 5.7L V8",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2025/10/19/dodge-challenger-rt-57l-v8-2-041---a4d72bb422e14f7589bb2c143332e92a/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2022",
-      "mileage": "69000",
-      "price": 99000,
-      "first_seen": "2026-03-13T09:40:20Z"
-    },
-    {
-      "id": "16585197",
-      "title": "[OFFER PRICE] [FREE PASSING/TRANSFER] [LEATHER SEATS] 0%DP",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2025/10/5/dodge-charger-gt-2022-2-364---693e83713f8b47779cc53b8f048056d5/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Charger",
-      "year": "2022",
-      "mileage": "41321",
-      "price": 69000,
-      "first_seen": "2026-03-13T09:40:20Z"
     }
   ]
 }
