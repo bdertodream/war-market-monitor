@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T08:34:54.413118",
-  "total_tracked": 3176,
-  "total_drops": 157,
-  "total_new": 3176,
+  "generated_at": "2026-03-15T09:32:57.513767",
+  "total_tracked": 3185,
+  "total_drops": 159,
+  "total_new": 3185,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -297,6 +297,35 @@
         {
           "price": 5500,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116820701",
+      "title": "هيونداي أكسنت 1996",
+      "url": "https://www.olx.com.lb/ad/هيونداي-أكسنت-1996-ID116820701.html",
+      "make": "Hyundai",
+      "model": "Accent",
+      "body_type": "Small city car",
+      "year": 1996,
+      "mileage": 120000,
+      "transmission": "Manual",
+      "location": "Al Bahsas, Tripoli",
+      "original_price": 1400,
+      "current_price": 1200,
+      "drop_usd": 200,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 1400,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 1200,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -2122,6 +2151,39 @@
       ]
     },
     {
+      "id": "116664846",
+      "title": "2015  Audi A6  4cyld TFSi   3.5 شبه جديدة مصدر الشركة لبنان",
+      "url": "https://www.olx.com.lb/ad/2014-audi-a6-4cyld-35-شبه-جديدة-مصدر-الشركة-لبنان-ID116664846.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 12400,
+      "current_price": 11900,
+      "drop_usd": 500,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 11900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
       "id": "116794076",
       "title": "Volkswagen Touareg 2012",
       "url": "https://www.olx.com.lb/ad/volkswagen-touareg-2012-ID116794076.html",
@@ -2445,35 +2507,6 @@
         {
           "price": 14500,
           "date": "2026-03-08"
-        }
-      ]
-    },
-    {
-      "id": "116664846",
-      "title": "2015  Audi A6  4cyld TFSi   3.5 شبه جديدة مصدر الشركة لبنان",
-      "url": "https://www.olx.com.lb/ad/2014-audi-a6-4cyld-35-شبه-جديدة-مصدر-الشركة-لبنان-ID116664846.html",
-      "make": "Audi",
-      "model": "A6",
-      "body_type": "Sedan",
-      "year": 2015,
-      "mileage": 100000,
-      "transmission": "Automatic",
-      "location": "Sin El Fil, Metn",
-      "original_price": 12400,
-      "current_price": 12000,
-      "drop_usd": 400,
-      "drop_pct": 3.2,
-      "last_drop_date": "2026-03-14",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 12400,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 12000,
-          "date": "2026-03-14"
         }
       ]
     },
@@ -3388,6 +3421,39 @@
         {
           "price": 9300,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116802166",
+      "title": "Audi A6 2015 4cyld 2.0 مصدر وصيانة الشركة",
+      "url": "https://www.olx.com.lb/ad/audi-a6-2015-4cyld-20-مصدر-وصيانة-الشركة-ID116802166.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 102000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 12250,
+      "current_price": 11999,
+      "drop_usd": 251,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12250,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12300,
+          "date": "2026-03-05"
+        },
+        {
+          "price": 11999,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -5381,6 +5447,204 @@
       "price_history": [
         {
           "price": 14200,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116718541",
+      "title": "Chevrolet Optra 2006 Sedan",
+      "url": "https://www.olx.com.lb/ad/chevrolet-optra-2006-sedan-ID116718541.html",
+      "make": "Chevrolet",
+      "model": "Optra",
+      "body_type": "Hatchback",
+      "year": 2006,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 1900,
+      "current_price": 1900,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 1900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116493393",
+      "title": "Infiniti Qx series 2015",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2015-ID116493393.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 97000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 16300,
+      "current_price": 16300,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16300,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116785230",
+      "title": "Mercedes-Benz C-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-ID116785230.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 81000,
+      "transmission": "Automatic",
+      "location": "Mechref, Chouf",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116069695",
+      "title": "Seat Leon 2017",
+      "url": "https://www.olx.com.lb/ad/seat-leon-2017-ID116069695.html",
+      "make": "Seat",
+      "model": "Leon",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Baouchriye, Metn",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820959",
+      "title": "Toyota FJ Cruiser 2021",
+      "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2021-ID116820959.html",
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 81000,
+      "transmission": "Automatic",
+      "location": "Verdun, Beirut",
+      "original_price": 41000,
+      "current_price": 41000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 41000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116783810",
+      "title": "Jeep Cherokee 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2012-ID116783810.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 88000,
+      "transmission": "Automatic",
+      "location": "Hlaliyeh, Saida",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820955",
+      "title": "Mitsubishi Outlander Sport 2019",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2019-ID116820955.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820950",
+      "title": "E-300 2019 AMG package designo interior leather",
+      "url": "https://www.olx.com.lb/ad/e-300-2019-amg-package-designo-interior-leather-ID116820950.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Steptronic",
+      "location": "Sabtieh, Metn",
+      "original_price": 31500,
+      "current_price": 31500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 31500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820943",
+      "title": "Nissan Sunny 2017 نمرة",
+      "url": "https://www.olx.com.lb/ad/nissan-sunny-2017-نمرة-ID116820943.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Bchamoun, Aley",
+      "original_price": 1500,
+      "current_price": 1500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 1500,
           "date": "2026-03-15"
         }
       ]
@@ -9695,13 +9959,17 @@
       "transmission": "Manual",
       "location": "Al Bahsas, Tripoli",
       "original_price": 1400,
-      "current_price": 1400,
+      "current_price": 1200,
       "first_seen": "2026-03-14",
       "posted_date": "2026-03-14",
       "price_history": [
         {
           "price": 1400,
           "date": "2026-03-14"
+        },
+        {
+          "price": 1200,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -13933,7 +14201,7 @@
     },
     {
       "id": "116819741",
-      "title": "Jeep Grand Cherokee limited plus 2021 بسعر التكلفة",
+      "title": "Jeep Grand Cherokee limited plus 2021",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-limited-plus-2021-ID116819741.html",
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -43605,7 +43873,7 @@
       "transmission": "Automatic",
       "location": "Sin El Fil, Metn",
       "original_price": 12400,
-      "current_price": 12000,
+      "current_price": 11900,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -43616,6 +43884,10 @@
         {
           "price": 12000,
           "date": "2026-03-14"
+        },
+        {
+          "price": 11900,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -48403,7 +48675,7 @@
       "transmission": "Steptronic",
       "location": "Dekwaneh, Metn",
       "original_price": 12250,
-      "current_price": 12300,
+      "current_price": 11999,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -48414,6 +48686,10 @@
         {
           "price": 12300,
           "date": "2026-03-05"
+        },
+        {
+          "price": 11999,
+          "date": "2026-03-15"
         }
       ]
     },
