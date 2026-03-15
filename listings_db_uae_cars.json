@@ -44450,5 +44450,27 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16775701": {
+    "id": "16775701",
+    "title": "Renault Dokker 2018 | Perfect Condition | GCC Specs | Clean  Well Maintained",
+    "price": 21000,
+    "make": "Renault",
+    "model": "Dokker",
+    "year": "2018",
+    "kilometers": "71260",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/dokker/2026/3/15/renault-dokker-2018-perfect-condition-gcc--2-119---de1a8f0face044ef991f8aef4d0646d2/",
+    "first_seen": "2026-03-15T14:30:43Z",
+    "prices": [
+      {
+        "price": 21000,
+        "date": "2026-03-15T14:30:43Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

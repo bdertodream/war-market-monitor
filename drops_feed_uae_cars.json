@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2010,
+  "total_tracked": 2011,
   "total_drops": 7,
-  "total_new": 2010,
-  "last_updated": "2026-03-15T13:49:02Z",
+  "total_new": 2011,
+  "last_updated": "2026-03-15T14:30:43Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16775701",
+      "title": "Renault Dokker 2018 | Perfect Condition | GCC Specs | Clean  Well Maintained",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/dokker/2026/3/15/renault-dokker-2018-perfect-condition-gcc--2-119---de1a8f0face044ef991f8aef4d0646d2/",
+      "category": "Used Cars",
+      "make": "Renault",
+      "model": "Dokker",
+      "year": "2018",
+      "mileage": "71260",
+      "price": 21000,
+      "first_seen": "2026-03-15T14:30:43Z"
+    },
     {
       "id": "16379961",
       "title": "GCC M kit original paint not negotiable",
@@ -6090,18 +6102,6 @@
       "year": "2017",
       "mileage": "63234",
       "price": 47199,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16770489",
-      "title": "1,763 P.M |  218i Gran Coupe | 0% Downpayment | BMW Warranty | Full BMW History!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/3/10/1763-pm-218i-gran-coupe-0-downpayment-bmw--2-736---39db80e69c1d4fc0a7da18f496ce5940/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "2-Series",
-      "year": "2022",
-      "mileage": "56000",
-      "price": 89999,
       "first_seen": "2026-03-13T07:46:59Z"
     }
   ]

@@ -77165,7 +77165,7 @@
     "location": "Amioun, Koura",
     "district": "Koura",
     "original_price": 9500,
-    "current_price": 9300,
+    "current_price": 8900,
     "price_history": [
       {
         "price": 9500,
@@ -77174,15 +77174,19 @@
       {
         "price": 9300,
         "date": "2026-03-14"
+      },
+      {
+        "price": 8900,
+        "date": "2026-03-15"
       }
     ],
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
-    "last_updated": "2026-03-14",
+    "last_updated": "2026-03-15",
     "posted_date": "2026-03-13",
-    "drop_usd": 200,
-    "drop_pct": 2.1,
-    "last_drop_date": "2026-03-14"
+    "drop_usd": 600,
+    "drop_pct": 6.3,
+    "last_drop_date": "2026-03-15"
   },
   "116781755": {
     "id": "116781755",
@@ -91077,6 +91081,62 @@
     "price_history": [
       {
         "price": 21000,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116560665": {
+    "id": "116560665",
+    "title": "Subaru Impreza WRX 2016",
+    "url": "https://www.olx.com.lb/ad/subaru-impreza-wrx-2016-ID116560665.html",
+    "make": "Subaru",
+    "model": "Impreza WRX",
+    "body_type": "Sports / Coupe",
+    "year": 2016,
+    "mileage": 88000,
+    "transmission": "Manual",
+    "location": "Qoub Elias, Zahle",
+    "district": "Zahle",
+    "original_price": 22000,
+    "current_price": 22000,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116821263": {
+    "id": "116821263",
+    "title": "2018 Range Rover Sport V6 HSE DYNAMIC Clean Carfax Like New!",
+    "url": "https://www.olx.com.lb/ad/2018-range-rover-sport-v6-hse-dynamic-clean-carfax-like-new-ID116821263.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 100000,
+    "transmission": "Steptronic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 39500,
+    "current_price": 39500,
+    "price_history": [
+      {
+        "price": 39500,
         "date": "2026-03-15"
       }
     ],
