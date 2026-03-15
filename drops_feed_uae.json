@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3949,
-  "total_drops": 32,
-  "total_new": 3949,
+  "total_tracked": 3959,
+  "total_drops": 34,
+  "total_new": 3959,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -453,6 +453,34 @@
       "bedrooms": "6",
       "date": "2026-03-15",
       "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9798088",
+      "title": "Premium Retail Space with Burj & Lagoon Views | Strong ROI Potential",
+      "old_price": 4845663,
+      "new_price": 4341713,
+      "drop_pct": 10.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/8/premium-retail-space-with-burj-lagoon-v-2-127906/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "988",
+      "bedrooms": "",
+      "date": "2026-03-15",
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9797941",
+      "title": "Investment-Grade Retail with Burj & Lagoon Views | High ROI Potential",
+      "old_price": 5198200,
+      "new_price": 4657567,
+      "drop_pct": 10.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/7/investment-grade-retail-with-burj-lagoo-2-243785/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "1055",
+      "bedrooms": "",
+      "date": "2026-03-15",
+      "first_seen": "2026-03-11"
     }
   ],
   "new_listings": [
@@ -806,6 +834,116 @@
       "size": "1356",
       "bedrooms": "",
       "price": 4100000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17127499",
+      "title": "Huge Plot | Single Row | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/2/24/huge-plot-single-row-prime-location-2-201142/",
+      "area": "DAMAC Islands",
+      "category": "Townhouse",
+      "size": "2457",
+      "bedrooms": "4",
+      "price": 3550000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17189103",
+      "title": "Huge Plot | On Lagoon | Best Prices",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/11/huge-plot-on-lagoon-best-prices-2-149991/",
+      "area": "The Acres",
+      "category": "Villa",
+      "size": "6645",
+      "bedrooms": "5",
+      "price": 14500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17200810",
+      "title": "On Lagoon | Prime Location | Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/14/on-lagoon-prime-location-motivated-sell-2-209695/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "10333",
+      "bedrooms": "5",
+      "price": 17500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17141646",
+      "title": "Huge Plot | G+ 2 | Corner Unit | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/27/huge-plot-g-2-corner-unit-investor-deal-2-277988/",
+      "area": "Nad Al Sheba",
+      "category": "Villa",
+      "size": "7035",
+      "bedrooms": "4",
+      "price": 15450000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17111635",
+      "title": "Lagoon View | Prime Location | Close to Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/20/lagoon-view-prime-location-close-to-poo-2-333437/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "3319",
+      "bedrooms": "4",
+      "price": 4300000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17146373",
+      "title": "Single Row | Lagoon View | Corner",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/28/single-row-lagoon-view-corner-2-348601/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "2977",
+      "bedrooms": "4",
+      "price": 3500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17180388",
+      "title": "On Lagoon | Closed Kitchen | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/9/on-lagoon-closed-kitchen-prime-location-2-959006/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "1960",
+      "bedrooms": "3",
+      "price": 2750000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17196770",
+      "title": "Negotiable | Single Row | Close to Amenities",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/13/single-row-close-to-amenities-investor--2-276368/",
+      "area": "Dubailand",
+      "category": "Villa",
+      "size": "2645",
+      "bedrooms": "4",
+      "price": 4100000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17195162",
+      "title": "Forest Living | High ROI | Negoitable",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/forest-living-high-roi-negoitable-2-227193/",
+      "area": "Ghaf Woods",
+      "category": "Apartment",
+      "size": "695",
+      "bedrooms": "1",
+      "price": 1700000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9745749",
+      "title": "Huge Plot | Ready | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/3/huge-plot-ready-prime-location-2-244378/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "10625",
+      "bedrooms": "",
+      "price": 4037500,
       "first_seen": "2026-03-15"
     },
     {
@@ -5844,116 +5982,6 @@
       "size": "632",
       "bedrooms": "1",
       "price": 1260000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "16954046",
-      "title": "Urgent resale | Keen to sell | Flexible payment plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/17/fully-furnished-1-bedroom-apartment-oas-2-239109/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Apartment",
-      "size": "559",
-      "bedrooms": "1",
-      "price": 999999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17012650",
-      "title": "URGENT SALE | LOWER THAN OP | FLEX STUDIO",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/29/convertible-studio-prime-location-great-2-233757/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Apartment",
-      "size": "385",
-      "bedrooms": "0",
-      "price": 780000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807796",
-      "title": "Direct Burj View , Low Floor , 2 Parkings",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/13/direct-burj-view-low-floor-2-parkings-2-117733/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1389",
-      "bedrooms": "",
-      "price": 3950000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9804465",
-      "title": "Priced to Sell | Vacant Office | JBC 1",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/16/motivated-seller-vacant-office-jbc-1-2-311460/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1027",
-      "bedrooms": "",
-      "price": 3200000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9805654",
-      "title": "Street-facing | Tenanted | Retails for sale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/25/street-facing-tenanted-retails-for-sale-2-801142/",
-      "area": "Al Furjan",
-      "category": "Shop",
-      "size": "1628",
-      "bedrooms": "",
-      "price": 5533500,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9805653",
-      "title": "High-Visibility Retail Shop | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/25/high-visibility-retail-shop-prime-locat-2-253858/",
-      "area": "Sobha Hartland",
-      "category": "Shop",
-      "size": "1923",
-      "bedrooms": "",
-      "price": 11000000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807794",
-      "title": "DIRECT TO MBZ ROAD_EASY ACCESS AND EXIT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/direct-to-mbz-road_easy-access-and-exit-2-421250/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Shop",
-      "size": "1957",
-      "bedrooms": "",
-      "price": 7199000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807793",
-      "title": "DIRECT TO MBZ ROAD_EASY ACCESS AND EXIT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/direct-to-mbz-road_easy-access-and-exit-2-314519/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Shop",
-      "size": "1610",
-      "bedrooms": "",
-      "price": 5099000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807792",
-      "title": "DIRECT TO MBZ ROAD_EASY ACCESS AND EXIT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/direct-to-mbz-road_easy-access-and-exit-2-211840/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Shop",
-      "size": "1051",
-      "bedrooms": "",
-      "price": 4199000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "9807791",
-      "title": "DIRECT TO MBZ ROAD_EASY ACCESS AND EXIT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/direct-to-mbz-road_easy-access-and-exit-2-208346/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Shop",
-      "size": "837",
-      "bedrooms": "",
-      "price": 2999000,
       "first_seen": "2026-03-13"
     }
   ],

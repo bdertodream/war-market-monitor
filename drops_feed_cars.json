@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T07:46:22.063985",
-  "total_tracked": 3171,
+  "generated_at": "2026-03-15T08:34:54.413118",
+  "total_tracked": 3176,
   "total_drops": 157,
-  "total_new": 3171,
+  "total_new": 3176,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5271,6 +5271,116 @@
       "price_history": [
         {
           "price": 48000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116059941",
+      "title": "Ford Ranger 2008 Sport truck",
+      "url": "https://www.olx.com.lb/ad/ford-ranger-2008-sport-ID116059941.html",
+      "make": "Ford",
+      "model": "Ranger",
+      "body_type": "Pickup",
+      "year": 2008,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "114189058",
+      "title": "LR3, 2009 HSE",
+      "url": "https://www.olx.com.lb/ad/lr3-land-rover-2009-ID114189058.html",
+      "make": "Land Rover",
+      "model": "LR3",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Aley",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 9000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820911",
+      "title": "Audi A8 2016",
+      "url": "https://www.olx.com.lb/ad/audi-a8-2016-ID116820911.html",
+      "make": "Audi",
+      "model": "A8",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Verdun, Beirut",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116785091",
+      "title": "Hyundai Kona 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-kona-2018-ID116785091.html",
+      "make": "Hyundai",
+      "model": "Kona",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 200000,
+      "transmission": "Steptronic",
+      "location": "Jiyyeh, Chouf",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116018627",
+      "title": "Toyota Land Cruiser",
+      "url": "https://www.olx.com.lb/ad/toyota-land-cruiser-ID116018627.html",
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "body_type": "SUV",
+      "year": 1992,
+      "mileage": 240000,
+      "transmission": "Manual",
+      "location": "Horsh Tabet, Metn",
+      "original_price": 14200,
+      "current_price": 14200,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 14200,
           "date": "2026-03-15"
         }
       ]

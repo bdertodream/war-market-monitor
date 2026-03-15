@@ -8887,8 +8887,8 @@
   },
   "16759804": {
     "id": "16759804",
-    "title": "1,763 P.M | 0% Downpayment | Excellent Condition!",
-    "price": 89999,
+    "title": "1,665 P.M | 0% Downpayment | Excellent Condition!",
+    "price": 84999,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "{'label': 'Year', 'value': 2019}",
@@ -8903,6 +8903,10 @@
       {
         "price": 89999,
         "date": "2026-03-09T07:52:48Z"
+      },
+      {
+        "price": 84999,
+        "date": "2026-03-15T08:35:43Z"
       }
     ],
     "date": "2026-03-09"
@@ -42925,6 +42929,930 @@
       {
         "price": 12500,
         "date": "2026-03-15T07:47:12Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16694870": {
+    "id": "16694870",
+    "title": "4,407 P.M | 0% Downpayment | C200 PREMIUM PLUS | AGENCY WARRANTY!",
+    "price": 224999,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2026",
+    "kilometers": "900",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/1/5/4603-pm-0-downpayment-c200-premium-plus-ag-2-442---bc387f68da204ff29be3014448de9b5b/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 224999,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16727526": {
+    "id": "16727526",
+    "title": "AED 760 // 20%DP // 2025 Hyundai Elantra 1.5L V4 // Brand New!! // CVT GLX ELITE",
+    "price": 48500,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/31/aed-45000-only-export-price-2025-hyundai-e-2-938---a50d054b3cc1419e89881ad370983d30/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 48500,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16703890": {
+    "id": "16703890",
+    "title": "ISUZU D-MAX 1.9L 4X2 | 2025 MODEL | GCC SPEC | EXPORT ONLY | READY FOR DELIVERY",
+    "price": 60000,
+    "make": "Isuzu",
+    "model": "D-Max",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/d-max/2026/1/12/isuzu-d-max-19l-4x2-2025-model-gcc-spec-ex-2-198---5c748484d9254113a15bb9358fb308e6/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 60000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721267": {
+    "id": "16721267",
+    "title": "TOYOTA RAV4 2.5L AWD 2025 | GCC SPECS | PETROL MODEL | EXPORT READY",
+    "price": 148000,
+    "make": "Toyota",
+    "model": "Rav 4",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/1/26/toyota-rav4-25l-awd-2025-gcc-specs-petrol--2-714---8073109cfb954decb3551ab73b56d775/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 148000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16754330": {
+    "id": "16754330",
+    "title": "NISSAN NAVARA 2.5 L PRO4X A/T MODEL 2025",
+    "price": 99000,
+    "make": "Nissan",
+    "model": "Navara",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/navara/2026/2/23/nissan-navara-25-l-pro4x-at-model-2025-2-243---b23338ee83b344a5b0e5365924632575/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16678629": {
+    "id": "16678629",
+    "title": "Hyundai STARIA 2025 \u2013 Diesel \u2013 Automatic \u2013 3-Seater Van",
+    "price": 89000,
+    "make": "Hyundai",
+    "model": "Staria",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/staria/2025/12/21/hyundai-staria-2025-diesel-automatic-3-sea-2-735---9000f98ba5444a0f9dbed5af9b698287/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16707834": {
+    "id": "16707834",
+    "title": "HYUNDAI STARIA 3.5L V6 VIP ROYAL EDITION | LUXURY VAN | 7 SEATER | 2026",
+    "price": 139000,
+    "make": "Hyundai",
+    "model": "Staria",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/staria/2026/1/15/hyundai-staria-35l-v6-vip-royal-edition-lu-2-158---08bfdd7d75024e6197c0145a4c6f3e1a/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 139000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16707751": {
+    "id": "16707751",
+    "title": "GENESIS GV80 ROYAL 3.5T  | 48V E-SUPERCHARGED | AWD | 2025",
+    "price": 330000,
+    "make": "Genesis",
+    "model": "GV80",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv80/2026/1/15/genesis-gv80-royal-35t-48v-e-supercharged--2-310---91eb2de1cac54ae48fb46b47b2b100f6/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 330000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16717559": {
+    "id": "16717559",
+    "title": "MITSUBISHI L200 2WD MODEL 2023 NEW CAR DIESEL WITH ALLOY WHEELS ( LIMITED QUANTITY )",
+    "price": 55000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2023",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/1/23/mitsubishi-l200-2wd-model-2023-new-car-die-2-670---f576195bb56543efa221040f723a03fc/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16678786": {
+    "id": "16678786",
+    "title": "Kia Seltos 2026 \u2013 Advanced Specification \u2013 China Version",
+    "price": 60000,
+    "make": "Kia",
+    "model": "Seltos",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2025/12/21/kia-seltos-2026-advanced-specification-chi-2-740---01c4fd33fa834dc8a3093e382f8c921b/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 60000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16720861": {
+    "id": "16720861",
+    "title": "HYUNDAI ELANTRA 1.5 CHINESE SPECS 2025 MODEL FULL OPTION",
+    "price": 50000,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/26/hyundai-elantra-15-chinese-specs-2025-mode-2-273---219df12dc2b247dbbae2422554886bb1/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 50000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16720842": {
+    "id": "16720842",
+    "title": "HYUNDAI STARIA DIESEL COMFORT 2.2 MODEL 11 SEATER 2026 MANUAL GCC",
+    "price": 99000,
+    "make": "Hyundai",
+    "model": "Staria",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/staria/2026/1/26/hyundai-staria-diesel-comfort-22-model-11--2-958---4d05a1b5eec14c16a31632d78b7be1bb/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16705800": {
+    "id": "16705800",
+    "title": "SUBARU CROSSTREK 2.0I-S EYESIGHT AWD 2025 | JAPANESE QUALITY | BRAND NEW",
+    "price": 118000,
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/subaru/crosstrek/2026/1/14/subaru-crosstrek-20i-s-eyesight-awd-2025-j-2-518---8cbc3933c6e04724914a052a960eb703/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 118000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680752": {
+    "id": "16680752",
+    "title": "NISSAN MAGNITE ACENTA + 1.0L TURBO CVT MODEL 2025",
+    "price": 52000,
+    "make": "Nissan",
+    "model": "Magnite",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/magnite/2025/12/23/nissan-magnite-acenta-10l-turbo-cvt-model--2-743---0b14ee65821a4120a4c9e51bd0c3db2c/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 52000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721046": {
+    "id": "16721046",
+    "title": "ISUZU D-MAX GT 2026 GCC 3.0 AUTOMATIC ( TWO UNIT AVAILABLE )",
+    "price": 118000,
+    "make": "Isuzu",
+    "model": "D-Max",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/d-max/2026/1/26/isuzu-d-max-gt-2026-gcc-30-automatic-two-u-2-280---25e2f9c5623f43119ecabf7a3bdff6c7/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 118000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680746": {
+    "id": "16680746",
+    "title": "NISSAN MAGNITE ACENTA + 1.0L TURBO CVT MODEL 2025",
+    "price": 52000,
+    "make": "Nissan",
+    "model": "Magnite",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/magnite/2025/12/23/nissan-magnite-acenta-10l-turbo-cvt-model--2-338---7052bd62bac94e069b32079e5294e4eb/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 52000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16720710": {
+    "id": "16720710",
+    "title": "SUBARU BRZ 2025 AUTOMATIC | RWD | 237HP | EYESIGHT | PURE SPORTS CAR",
+    "price": 130000,
+    "make": "Subaru",
+    "model": "BRZ",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/subaru/brz/2026/1/26/subaru-brz-2025-automatic-rwd-237hp-eyesig-2-031---e806bbe2a9974596887c875792aef886/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 130000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16678601": {
+    "id": "16678601",
+    "title": "ISUZU D-MAX GT 2026 GCC 3.0 AUTOMATIC ( TWO UNIT AVAILABLE )",
+    "price": 118000,
+    "make": "Isuzu",
+    "model": "D-Max",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/d-max/2025/12/21/isuzu-d-max-gt-2026-gcc-30-automatic-two-u-2-443---205459306046460bb78024c2f17adaee/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 118000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680766": {
+    "id": "16680766",
+    "title": "NISSAN MAGNITE ACENTA + 1.0L TURBO CVT MODEL 2025",
+    "price": 52000,
+    "make": "Nissan",
+    "model": "Magnite",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/magnite/2025/12/23/nissan-magnite-acenta-10l-turbo-cvt-model--2-398---663491840aaf43df8f26077ac0fa0e2d/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 52000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721029": {
+    "id": "16721029",
+    "title": "SUBARU CROSSTREK 2.0I-S EYESIGHT AWD 2025 | JAPANESE QUALITY | BRAND NEW",
+    "price": 118000,
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/subaru/crosstrek/2026/1/26/subaru-crosstrek-20i-s-eyesight-awd-2025-j-2-100---485a1c5279194894b5642bededeb2fc8/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 118000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721282": {
+    "id": "16721282",
+    "title": "TOYOTA RAIZE G 1.0L TURBO 2025 | BRAND NEW | GCC SPECS",
+    "price": 57000,
+    "make": "Toyota",
+    "model": "Raize",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/raize/2026/1/26/toyota-raize-g-10l-turbo-2025-brand-new-gc-2-644---3923f591b4c94e3089f6727525322ea9/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 57000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16695147": {
+    "id": "16695147",
+    "title": "TOYOTA RAV4 2.5L AWD 2025 | GCC SPECS | PETROL MODEL |  EXPORT READY",
+    "price": 148000,
+    "make": "Toyota",
+    "model": "Rav 4",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/1/5/toyota-rav4-25l-awd-2025-gcc-specs-export--2-924---76d74539f1a7435c896f454ee7f5cfa4/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 148000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16732176": {
+    "id": "16732176",
+    "title": "LEXUS LX600 SIGNATURE 2025 | 3.5L | ZERO KM | GCC | FULL OPTIONS",
+    "price": 495000,
+    "make": "Lexus",
+    "model": "LX-Series",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/2/4/lexus-lx600-signature-2025-35l-zero-km-gcc-2-591---5dd108a8481a48c2ba37436b83276923/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 495000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680780": {
+    "id": "16680780",
+    "title": "HYUNDAI PALISADE CALLIGRAPHY 2.5L TURBO 2026 MODEL GCC SPECS",
+    "price": 194000,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/palisade/2025/12/23/hyundai-palisade-calligraphy-25l-turbo-202-2-807---400c87b7ed3441daa15e0ed0c943a5b4/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 194000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16679850": {
+    "id": "16679850",
+    "title": "Kia Sportage 2026 | GCC Specs | 1.6 Turbo | Top Grade",
+    "price": 96000,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2025/12/22/kia-sportage-2026-gcc-specs-16-turbo-top-g-2-828---e5282f46f79548b29a0909417d38c586/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 96000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16681125": {
+    "id": "16681125",
+    "title": "Kia Picanto 1.2L 2026\u2013 GCC Specs \u2013 EURO 4 \u2013 Export Ready",
+    "price": 44000,
+    "make": "Kia",
+    "model": "Picanto",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2025/12/23/kia-picanto-12l-2026-gcc-specs-euro-4-expo-2-735---f9dba4a0b559464f94770b218c44ceb2/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 44000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680806": {
+    "id": "16680806",
+    "title": "HYUNDAI ACCENT LUXURY 1.5L | GCC | SUNROOF | 2025 MODEL",
+    "price": 60000,
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2025/12/23/hyundai-accent-luxury-15-cc-gcc-sunroof-20-2-776---4e11df438e584a32a9bc4087772412d0/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 60000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16679858": {
+    "id": "16679858",
+    "title": "Kia Sportage 2026 | GCC Specs | 1.6 Turbo | Top Grade",
+    "price": 96000,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2025/12/22/kia-sportage-2026-gcc-specs-16-turbo-top-g-2-240---e5c6e35824b94ab49a065e99f6fc8274/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 96000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680045": {
+    "id": "16680045",
+    "title": "MITSUBISHI XPANDER 1.5 CC PREMIUM 2024 MODEL",
+    "price": 53000,
+    "make": "Mitsubishi",
+    "model": "Xpander",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/xpander/2025/12/22/mitsubishi-xpander-15-cc-premium-2024-mode-2-672---dabeaa23793145e8802cf1fe72f80734/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680838": {
+    "id": "16680838",
+    "title": "TOYOTA\tRAV4 2.5L HYBRID 2025 MODEL GCC SPECS",
+    "price": 116000,
+    "make": "Toyota",
+    "model": "Rav 4",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2025/12/23/toyota-rav4-25l-hybrid-2025-model-gcc-spec-2-599---9eaebcb2e1e34332be93be1a5c1dec3c/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 116000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16679468": {
+    "id": "16679468",
+    "title": "SUZUKI DZIRE 1.2 GLX PETROL 2025 MODEL",
+    "price": 40000,
+    "make": "Suzuki",
+    "model": "Dzire",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/dzire/2025/12/22/suzuki-dzire-12-glx-petrol-2025-model-2-199---759abdcb5a594052a6d3257ae436ef00/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 40000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16679876": {
+    "id": "16679876",
+    "title": "KIA CARENS 1.5 CC MODEL 2025 GCC",
+    "price": 75000,
+    "make": "Kia",
+    "model": "Carens",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carens/2025/12/22/kia-carens-15-cc-model-2025-gcc-2-106---6ccea82d8e944c619df660a484d61279/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16720850": {
+    "id": "16720850",
+    "title": "HYUNDAI SANTA FE 2.0T GDi 8A/T EXPLORER PRO 2025 MODEL CHINESE SPECS",
+    "price": 122000,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/1/26/hyundai-santa-fe-20t-gdi-8at-explorer-pro--2-902---4d32b6d31d74406daa6bdec93f97a7db/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 122000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680012": {
+    "id": "16680012",
+    "title": "MITSUBISHI L200 SPORTERO 2.4 L 4x4 2026 MODEL",
+    "price": 106000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2025/12/22/mitsubishi-l200-sportero-24-l-4x4-2026-mod-2-984---603646cdbc59412a878723db958859de/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 106000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680704": {
+    "id": "16680704",
+    "title": "HONDA ZRV LX MODEL 2025 GCC",
+    "price": 108000,
+    "make": "Honda",
+    "model": "ZR-V",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/zr-v/2025/12/23/honda-zrv-lx-model-2025-gcc-2-406---8e4ff5c3f46f474b9a2e7c59a960bda1/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 108000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16679868": {
+    "id": "16679868",
+    "title": "KIA\tCARENS 1.5 CC MODEL 2025 GCC",
+    "price": 75000,
+    "make": "Kia",
+    "model": "Carens",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carens/2025/12/22/kia-carens-15-cc-model-2025-gcc-2-615---641ea22a2f444697bf4eb1005fd46c6c/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680042": {
+    "id": "16680042",
+    "title": "MITSUBISHI XPANDER 1.5 CC PREMIUM 2024 MODEL",
+    "price": 53000,
+    "make": "Mitsubishi",
+    "model": "Xpander",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/xpander/2025/12/22/mitsubishi-xpander-15-cc-premium-2024-mode-2-755---fd53babd4b0e4a68a5ce988d1a6bc8ae/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721363": {
+    "id": "16721363",
+    "title": "MITSUBISHI L200 2WD MODEL 2023 NEW CAR DIESEL WITH ALLOY WHEELS ( LIMITED QUANTITY )",
+    "price": 53000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2023",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/1/26/mitsubishi-l200-2wd-model-2023-new-car-die-2-736---b517f3dab8584435b1692ff634c07649/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16680844": {
+    "id": "16680844",
+    "title": "TOYOTA\tRAV4 HYBRID 2024 MID OPTION GCC",
+    "price": 108000,
+    "make": "Toyota",
+    "model": "Rav 4",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2025/12/23/toyota-rav4-hybrid-2024-mid-option-gcc-2-487---d3715b8c1e114721805de315ac8a229b/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 108000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721323": {
+    "id": "16721323",
+    "title": "MITSUBISHI L200 SPORTERO 2.4L 4X4 2026 | BED LINER",
+    "price": 107000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/1/26/mitsubishi-l200-sportero-24l-4x4-2026-bed--2-786---1092f006a7af4dd09f95ed35f1b19206/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 107000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721004": {
+    "id": "16721004",
+    "title": "SUBARU FORESTER 2.5L SPORT 2026 MODEL GCC SPECS",
+    "price": 125000,
+    "make": "Subaru",
+    "model": "Forester",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/subaru/forester/2026/1/26/subaru-forester-25l-sport-2026-model-gcc-s-2-754---0463ebbbe6974f09bc115d6f39ca88ac/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-03-15T08:35:43Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16721314": {
+    "id": "16721314",
+    "title": "MITSUBISHI L200 SPORTERO 2.4 L 4x4 2026 MODEL",
+    "price": 106000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/1/26/mitsubishi-l200-sportero-24-l-4x4-2026-mod-2-324---c8a41202d47f4b91a0fad5ca1ed88833/",
+    "first_seen": "2026-03-15T08:35:43Z",
+    "prices": [
+      {
+        "price": 106000,
+        "date": "2026-03-15T08:35:43Z"
       }
     ],
     "date": "2026-03-15"
