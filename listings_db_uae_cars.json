@@ -45288,5 +45288,49 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16545660": {
+    "id": "16545660",
+    "title": "MERCEDES-BENZ  AMG E53",
+    "price": 229000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2023",
+    "kilometers": "9000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2025/9/3/mercedes-benz-amg-e53-2-616---22feb91c7e6c47f99c03f7b28a890514/",
+    "first_seen": "2026-03-15T20:26:58Z",
+    "prices": [
+      {
+        "price": 229000,
+        "date": "2026-03-15T20:26:58Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16775974": {
+    "id": "16775974",
+    "title": "Toyota FJ Cruiser 2020 GCC First owner Original Paint no accident super clean car",
+    "price": 93000,
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "year": "2020",
+    "kilometers": "131000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar Front",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fj-cruiser/2026/3/15/toyota-fj-cruiser-2020-gcc-first-owner-ori-2-480---4961b18e74124bc6ab6ed0b7a6a93fa0/",
+    "first_seen": "2026-03-15T20:26:58Z",
+    "prices": [
+      {
+        "price": 93000,
+        "date": "2026-03-15T20:26:58Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

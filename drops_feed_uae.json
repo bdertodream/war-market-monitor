@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4067,
+  "total_tracked": 4068,
   "total_drops": 34,
-  "total_new": 4067,
+  "total_new": 4068,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2132,6 +2132,17 @@
       "size": "607",
       "bedrooms": "",
       "price": 2210000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "16941860",
+      "title": "A Villa Where Family Life Meets Refined Luxury",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/14/a-villa-where-family-life-meets-refined-2-115037/",
+      "area": "Sobha Hartland",
+      "category": "Villa",
+      "size": "8406",
+      "bedrooms": "5",
+      "price": 22500000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5971,17 +5982,6 @@
       "size": "1350",
       "bedrooms": "3",
       "price": 2100000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17187451",
-      "title": "Prime Location | Single Row | Exclusive",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/11/prime-location-single-row-exclusive-2-106753/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3397",
-      "bedrooms": "5",
-      "price": 3325000,
       "first_seen": "2026-03-13"
     }
   ],

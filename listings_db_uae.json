@@ -2389,7 +2389,7 @@
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/25/vacant-fitted-furnished-community-exper-2-215032/",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-11"
+    "last_seen": "2026-03-15"
   },
   "9797705": {
     "title": "VACANT | EXCLUSIVE | DMCC | FULLY FURNISHED",
@@ -36748,7 +36748,7 @@
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/7/big-premium-retail-shop-investment-oppo-2-182577/",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11"
+    "last_seen": "2026-03-15"
   },
   "9806446": {
     "title": "Road Facing Shop |Retail Shop |Binghatti Hillside",
@@ -36761,7 +36761,7 @@
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/3/road-facing-shop-retail-shop-binghatti--2-936166/",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11"
+    "last_seen": "2026-03-15"
   },
   "9786681": {
     "title": "Direct On Main Rd||Chris.Offer||450/SQFT!||Need Dis?",
@@ -52867,6 +52867,19 @@
     "city": "Dubai",
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/10/23/direct-on-main-rd-diwali-offer-450sqft--2-386349/",
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "16941860": {
+    "title": "A Villa Where Family Life Meets Refined Luxury",
+    "price": 22500000,
+    "size": "8406",
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "area": "Sobha Hartland",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/14/a-villa-where-family-life-meets-refined-2-115037/",
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   }

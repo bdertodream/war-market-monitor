@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T19:29:51.786107",
-  "total_tracked": 3282,
+  "generated_at": "2026-03-15T20:26:08.889418",
+  "total_tracked": 3291,
   "total_drops": 168,
-  "total_new": 3282,
+  "total_new": 3291,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8072,6 +8072,204 @@
       "price_history": [
         {
           "price": 10600,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821602",
+      "title": "Toyota 4Runner 1994",
+      "url": "https://www.olx.com.lb/ad/toyota-4runner-1994-ID116821602.html",
+      "make": "Toyota",
+      "model": "4Runner",
+      "body_type": "SUV",
+      "year": 1994,
+      "mileage": 250000,
+      "transmission": "Automatic",
+      "location": "Faitroun, Keserouan",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821596",
+      "title": "Jeep Grand Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116821596.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 17600,
+      "current_price": 17600,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 17600,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821590",
+      "title": "Honda CR-V 2006",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2006-ID116821590.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "Other",
+      "year": 2006,
+      "mileage": 190000,
+      "transmission": "Automatic",
+      "location": "Elkaa, Baalbeck",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821589",
+      "title": "Honda CR-V 2013 EXL",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2013-exl-ID116821589.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 152,
+      "transmission": "Automatic",
+      "location": "Other in Akkar, Akkar",
+      "original_price": 14000,
+      "current_price": 14000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116658890",
+      "title": "BMW M3 2016",
+      "url": "https://www.olx.com.lb/ad/bmw-m3-2016-ID116658890.html",
+      "make": "BMW",
+      "model": "M3",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Aamchit, Jbeil",
+      "original_price": 51000,
+      "current_price": 51000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 51000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116777211",
+      "title": "Infiniti Q series 2017",
+      "url": "https://www.olx.com.lb/ad/infiniti-q-series-2017-ID116777211.html",
+      "make": "Infiniti",
+      "model": "Q series",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Downtown, Beirut",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821578",
+      "title": "Honda CR-V 2012",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2012-ID116821578.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Aicha Bakkar, Beirut",
+      "original_price": 12800,
+      "current_price": 12800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 12800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821571",
+      "title": "Nissan Altima 2015",
+      "url": "https://www.olx.com.lb/ad/nissan-altima-2015-ID116821571.html",
+      "make": "Nissan",
+      "model": "Altima",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Btouratij, Koura",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821569",
+      "title": "Chevrolet Malibu 2016",
+      "url": "https://www.olx.com.lb/ad/chevrolet-malibu-2016-ID116821569.html",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 170000,
+      "transmission": "Automatic",
+      "location": "Other in Tripoli, Tripoli",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 8500,
           "date": "2026-03-15"
         }
       ]

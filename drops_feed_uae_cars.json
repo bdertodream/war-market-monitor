@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2047,
+  "total_tracked": 2049,
   "total_drops": 10,
-  "total_new": 2047,
-  "last_updated": "2026-03-15T19:30:51Z",
+  "total_new": 2049,
+  "last_updated": "2026-03-15T20:26:58Z",
   "drops": [
     {
       "id": "16770596",
@@ -146,6 +146,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16545660",
+      "title": "MERCEDES-BENZ  AMG E53",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2025/9/3/mercedes-benz-amg-e53-2-616---22feb91c7e6c47f99c03f7b28a890514/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2023",
+      "mileage": "9000",
+      "price": 229000,
+      "first_seen": "2026-03-15T20:26:58Z"
+    },
+    {
+      "id": "16775974",
+      "title": "Toyota FJ Cruiser 2020 GCC First owner Original Paint no accident super clean car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fj-cruiser/2026/3/15/toyota-fj-cruiser-2020-gcc-first-owner-ori-2-480---4961b18e74124bc6ab6ed0b7a6a93fa0/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "year": "2020",
+      "mileage": "131000",
+      "price": 93000,
+      "first_seen": "2026-03-15T20:26:58Z"
+    },
     {
       "id": "16775964",
       "title": "Dodge RAM REBEL 2019 Special Edition GCC First Owner Original paint full option super clean car",
@@ -6120,30 +6144,6 @@
       "year": "2017",
       "mileage": "112000",
       "price": 28000,
-      "first_seen": "2026-03-13T10:35:30Z"
-    },
-    {
-      "id": "16709683",
-      "title": "[DODGE CHALLENGER GT 3.6L V6] [LAST CALL SERIES]",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/1/17/dodge-challenger-gt-36l-v6-last-call-serie-2-846---4e435181d0254efd9ee3a970317d55b6/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2023",
-      "mileage": "64000",
-      "price": 86000,
-      "first_seen": "2026-03-13T10:35:30Z"
-    },
-    {
-      "id": "15917975",
-      "title": "2015 | Aston Martin | Vengeance By KAHN",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/db9/2024/5/6/2015-aston-martin-vengeance-by-kahn-gcc-sp-2-857---3d4bf6d2bd194a6d9df836bd66c4d702/",
-      "category": "Used Cars",
-      "make": "Aston Martin",
-      "model": "DB9",
-      "year": "2015",
-      "mileage": "4889",
-      "price": 999000,
       "first_seen": "2026-03-13T10:35:30Z"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T19:30:11.837934",
+  "generated_at": "2026-03-15T20:26:26.585427",
   "total_tracked": 249,
   "total_drops": 9,
   "total_new": 249,
@@ -1553,13 +1553,17 @@
       "plate_type": "Standard",
       "location": "Ras Al Nabaa, Beirut",
       "original_price": 2000,
-      "current_price": 2000,
+      "current_price": 2500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 2000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 2500,
+          "date": "2026-03-15"
         }
       ]
     },
