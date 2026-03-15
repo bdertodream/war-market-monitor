@@ -1,8 +1,8 @@
 {
-  "total_tracked": 1940,
+  "total_tracked": 1941,
   "total_drops": 6,
-  "total_new": 1940,
-  "last_updated": "2026-03-15T06:09:06Z",
+  "total_new": 1941,
+  "last_updated": "2026-03-15T07:47:12Z",
   "drops": [
     {
       "id": "16770596",
@@ -90,6 +90,18 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16743854",
+      "title": "2013 Nissan Micra SL Number1-hatchback-GCC-smooth driving-low kms-petrol saver-Excellent condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/micra/2026/2/5/2013-nissan-micra-hatchback-gcc-smooth-dri-2-541---939b412ca13545a3a181c34a4b3fd730/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Micra",
+      "year": "2013",
+      "mileage": "149000",
+      "price": 12500,
+      "first_seen": "2026-03-15T07:47:12Z"
+    },
     {
       "id": "16708320",
       "title": "BRAND NEW**904 HP**JETOUR G700 - 5 / 6 SEATER OPTION II 1000 KMS FUEL RANGE II 3 YEARS FREE SERVICE",
@@ -6076,18 +6088,6 @@
       "year": "2022",
       "mileage": "68589",
       "price": 164950,
-      "first_seen": "2026-03-13T05:50:25Z"
-    },
-    {
-      "id": "16537460",
-      "title": "AED 1,865 pm \u2022 0% Downpayment \u2022 Expedition XLT \u2022 Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/expedition/2025/8/28/2011-pm-0-downpayment-expedition-xlt-1-yea-2-907---75d3888300bd48b39b5f6c492269153c/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Expedition",
-      "year": "2018",
-      "mileage": "109453",
-      "price": 79950,
       "first_seen": "2026-03-13T05:50:25Z"
     }
   ]

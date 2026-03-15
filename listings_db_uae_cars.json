@@ -42906,5 +42906,27 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16743854": {
+    "id": "16743854",
+    "title": "2013 Nissan Micra SL Number1-hatchback-GCC-smooth driving-low kms-petrol saver-Excellent condition",
+    "price": 12500,
+    "make": "Nissan",
+    "model": "Micra",
+    "year": "2013",
+    "kilometers": "149000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/micra/2026/2/5/2013-nissan-micra-hatchback-gcc-smooth-dri-2-541---939b412ca13545a3a181c34a4b3fd730/",
+    "first_seen": "2026-03-15T07:47:12Z",
+    "prices": [
+      {
+        "price": 12500,
+        "date": "2026-03-15T07:47:12Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

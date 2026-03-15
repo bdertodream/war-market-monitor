@@ -2033,8 +2033,8 @@
   },
   "116668811": {
     "id": "116668811",
-    "title": "مطلوب لوحة ز كود",
-    "url": "https://www.olx.com.lb/ad/مطلوب-لوحة-ز-كود-ID116668811.html",
+    "title": "مطلوب لوحة ز كود  بسعر معقول - ١٠٠٠ دولار",
+    "url": "https://www.olx.com.lb/ad/مطلوب-لوحة-ز-كود-بسعر-معقول-١٠٠٠-دولار-ID116668811.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Zahle Town, Zahle",
@@ -5995,6 +5995,30 @@
     "last_seen": "2026-03-15",
     "last_updated": "2026-03-14",
     "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116287526": {
+    "id": "116287526",
+    "title": "796 / B رقم ثلاثة آحرف سوبر مميز صك جاهز",
+    "url": "https://www.olx.com.lb/ad/رقم-ثلاثة-آحرف-سوبر-مميز-صك-جاهز-7-9-6-b-ID116287526.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 29500,
+    "current_price": 29500,
+    "price_history": [
+      {
+        "price": 29500,
+        "date": "2026-03-15"
+      }
+    ],
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "posted_date": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null

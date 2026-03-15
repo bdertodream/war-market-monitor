@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3943,
+  "total_tracked": 3949,
   "total_drops": 32,
-  "total_new": 3943,
+  "total_new": 3949,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -740,6 +740,72 @@
       "size": "315",
       "bedrooms": "",
       "price": 3000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "16829749",
+      "title": "Effortless Coastal Living | Fully Furnished |",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/22/effortless-coastal-living-fully-furnish-2-325073/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1189",
+      "bedrooms": "2",
+      "price": 3083117,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806984",
+      "title": "Investor Deal | 40% capital appreciation | 8% ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/7/investor-deal-40-capital-appreciation-8-2-167927/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "679",
+      "bedrooms": "",
+      "price": 2000508,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806983",
+      "title": "New Office| JVC | ROI 10%| Investor Deal| Bulk deal| Vastu",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/7/new-office-jvc-roi-10-investor-deal-bul-2-162871/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "1362",
+      "bedrooms": "",
+      "price": 3149423,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9805262",
+      "title": "Distress Deal High Floor | With Good ROI | Fully Fitted Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/23/distress-deal-high-floor-with-good-roi--2-903017/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1108",
+      "bedrooms": "",
+      "price": 1700000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806980",
+      "title": "Exclusive High Floor Fitted Office Courtyard View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/7/exclusive-high-floor-fitted-office-cour-2-690979/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "439",
+      "bedrooms": "",
+      "price": 1050000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9807942",
+      "title": "Large Vacant Space | Community View | DMCC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/15/large-vacant-space-community-view-dmcc-2-111911/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1356",
+      "bedrooms": "",
+      "price": 4100000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5888,72 +5954,6 @@
       "size": "837",
       "bedrooms": "",
       "price": 2999000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17110642",
-      "title": "Exclusive | Luxury Upgrade | Corner Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/20/exclusive-luxury-upgrade-corner-unit-2-254098/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "6210",
-      "bedrooms": "5",
-      "price": 13495000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17103001",
-      "title": "Immaculately Maintained with Elevated Earth Course View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/18/immaculately-maintained-with-elevated-e-2-191814/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "3842",
-      "bedrooms": "4",
-      "price": 14500000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17092429",
-      "title": "Close to the Bay | Ready Now | 4 Bedroom",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/16/close-to-the-bay-ready-now-4-bedroom-2-184662/",
-      "area": "Al Barari",
-      "category": "Villa",
-      "size": "4940",
-      "bedrooms": "4",
-      "price": 8500000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17066347",
-      "title": "Exclusive Listing - Earth Course View - Immaculate",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/10/exclusive-listing-earth-course-view-imm-2-198358/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "7146",
-      "bedrooms": "5",
-      "price": 33500000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "16970613",
-      "title": "Front Row | Corner Plot | Best Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/1/21/front-row-corner-plot-best-location-2-100677/",
-      "area": "Al Barari",
-      "category": "Townhouse",
-      "size": "4940",
-      "bedrooms": "4",
-      "price": 10750000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17002268",
-      "title": "Exclusive Mansion with Wide Rear Plot and Golf View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/28/exclusive-mansion-with-wide-rear-plot-a-2-109591/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "12912",
-      "bedrooms": "5",
-      "price": 55000000,
       "first_seen": "2026-03-13"
     }
   ],

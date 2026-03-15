@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T06:08:40.069848",
-  "total_tracked": 246,
+  "generated_at": "2026-03-15T07:46:40.878337",
+  "total_tracked": 247,
   "total_drops": 8,
-  "total_new": 246,
+  "total_new": 247,
   "avg_drop_pct": 23.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -244,6 +244,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116287526",
+      "title": "796 / B رقم ثلاثة آحرف سوبر مميز صك جاهز",
+      "url": "https://www.olx.com.lb/ad/رقم-ثلاثة-آحرف-سوبر-مميز-صك-جاهز-7-9-6-b-ID116287526.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 29500,
+      "current_price": 29500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 29500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
     {
       "id": "116820055",
       "title": "LUXURY PLATE NUMBER     21 78 ( G )",
@@ -2528,8 +2546,8 @@
     },
     {
       "id": "116668811",
-      "title": "مطلوب لوحة ز كود",
-      "url": "https://www.olx.com.lb/ad/مطلوب-لوحة-ز-كود-ID116668811.html",
+      "title": "مطلوب لوحة ز كود  بسعر معقول - ١٠٠٠ دولار",
+      "url": "https://www.olx.com.lb/ad/مطلوب-لوحة-ز-كود-بسعر-معقول-١٠٠٠-دولار-ID116668811.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Zahle Town, Zahle",
