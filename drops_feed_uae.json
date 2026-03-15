@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3973,
+  "total_tracked": 3975,
   "total_drops": 34,
-  "total_new": 3973,
+  "total_new": 3975,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1098,6 +1098,28 @@
       "size": "9999",
       "bedrooms": "",
       "price": 3890000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "17188601",
+      "title": "Resale Premium Finish | High ROI | Cash offer only",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/11/resale-premium-finish-high-roi-cash-off-2-191824/",
+      "area": "Dubai Production City (IMPZ)",
+      "category": "Apartment",
+      "size": "375",
+      "bedrooms": "0",
+      "price": 570000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9807548",
+      "title": "High ROI I Premium Retail Shop | Luxury Building",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/11/high-roi-i-premium-retail-shop-luxury-b-2-452790/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "856",
+      "bedrooms": "",
+      "price": 2114000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5960,28 +5982,6 @@
       "size": "699",
       "bedrooms": "1",
       "price": 1463579,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197678",
-      "title": "Waterfront Living | Luxury Property | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/waterfront-living-luxury-property-high--2-337643/",
-      "area": "Al Jaddaf",
-      "category": "Apartment",
-      "size": "873",
-      "bedrooms": "1",
-      "price": 1475999,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197788",
-      "title": "Al Jaddaf | Prime Location Property | Binghatti",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/al-jaddaf-prime-location-property-bingh-2-144130/",
-      "area": "Al Jaddaf",
-      "category": "Apartment",
-      "size": "754",
-      "bedrooms": "1",
-      "price": 1439999,
       "first_seen": "2026-03-13"
     }
   ],

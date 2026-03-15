@@ -44230,5 +44230,71 @@
       }
     ],
     "date": "2026-03-15"
+  },
+  "16742146": {
+    "id": "16742146",
+    "title": "AED 5,925/MONTH | MODIFIED TOYOTA LAND CRUISER 76",
+    "price": 395000,
+    "make": "Toyota",
+    "model": "Land Cruiser 76",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser-76/2026/2/12/5925-aedmonth-toyota-lan-cruiser-76-2-783---51edd3fdf04348dd807bcb32ee244920/",
+    "first_seen": "2026-03-15T10:28:46Z",
+    "prices": [
+      {
+        "price": 395000,
+        "date": "2026-03-15T10:28:46Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16738908": {
+    "id": "16738908",
+    "title": "BESTUNE 2024 Very nice clean car",
+    "price": 45000,
+    "make": "Bestune",
+    "model": "T77",
+    "year": "2024",
+    "kilometers": "40700",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bestune/t77/2026/2/10/bestune-2024-very-nice-clean-car-2-386---72c230cfbdab423caf633da57133c0ec/",
+    "first_seen": "2026-03-15T10:28:46Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-03-15T10:28:46Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16738718": {
+    "id": "16738718",
+    "title": "Tesla model 3 performance 2023 GCC",
+    "price": 77000,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2023",
+    "kilometers": "59500",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/10/tesla-model-3-performance-2023-gcc-2-987---f2c9242774d1458789e5ea8b5cba77ca/",
+    "first_seen": "2026-03-15T10:28:46Z",
+    "prices": [
+      {
+        "price": 77000,
+        "date": "2026-03-15T10:28:46Z"
+      }
+    ],
+    "date": "2026-03-15"
   }
 }

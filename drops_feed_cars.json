@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T09:32:57.513767",
-  "total_tracked": 3185,
+  "generated_at": "2026-03-15T10:27:49.753649",
+  "total_tracked": 3193,
   "total_drops": 159,
-  "total_new": 3185,
+  "total_new": 3193,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5133,12 +5133,16 @@
       "transmission": "Automatic",
       "location": "Barsa, Koura",
       "original_price": 4800,
-      "current_price": 4800,
+      "current_price": 5000,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 4800,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 5000,
           "date": "2026-03-15"
         }
       ]
@@ -5645,6 +5649,182 @@
       "price_history": [
         {
           "price": 1500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821027",
+      "title": "Mitsubishi Outlander – New Shape – Like New – Low Mileage",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-new-shape-like-new-low-mileage-ID116821027.html",
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "body_type": "SUV",
+      "year": 2023,
+      "mileage": 33000,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 36500,
+      "current_price": 36500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116678572",
+      "title": "BMW 4-Series 2014",
+      "url": "https://www.olx.com.lb/ad/bmw-4-series-2014-ID116678572.html",
+      "make": "BMW",
+      "model": "4-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2014,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Airport, Beirut",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821043",
+      "title": "Toyota Prado 2005",
+      "url": "https://www.olx.com.lb/ad/toyota-prado-2005-ID116821043.html",
+      "make": "Toyota",
+      "model": "Prado",
+      "body_type": "SUV",
+      "year": 2005,
+      "mileage": 138000,
+      "transmission": "Automatic",
+      "location": "Fanar, Metn",
+      "original_price": 14999,
+      "current_price": 14999,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 14999,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821026",
+      "title": "Hyundai I10 2016",
+      "url": "https://www.olx.com.lb/ad/hyundai-i10-2016-ID116821026.html",
+      "make": "Hyundai",
+      "model": "I10",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 86000,
+      "transmission": "Steptronic",
+      "location": "Fanar, Metn",
+      "original_price": 7800,
+      "current_price": 7800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 7800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116686143",
+      "title": "Range Rover Sport 2018 V6 Supercharged Clean Carfax",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-2018-v6-supercharged-clean-carfax-ID116686143.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 95000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 36500,
+      "current_price": 36500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116581989",
+      "title": "Kia Sportage 2020 4WD 64000 Miles Only(Car Loan Available)",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2020-4wd-63000-miles-only-ID116581989.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 64000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 16800,
+      "current_price": 16800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116785314",
+      "title": "Ford Escape 2018",
+      "url": "https://www.olx.com.lb/ad/ford-escape-2018-ID116785314.html",
+      "make": "Ford",
+      "model": "Escape",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Salhiyet Saida, Saida",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820995",
+      "title": "Hyundai I10 2014",
+      "url": "https://www.olx.com.lb/ad/hyundai-i10-2014-ID116820995.html",
+      "make": "Hyundai",
+      "model": "I10",
+      "body_type": "Hatchback",
+      "year": 2014,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Mansourieh, Metn",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-03-15"
         }
       ]
@@ -7289,13 +7469,17 @@
       "transmission": "Automatic",
       "location": "Unesco, Beirut",
       "original_price": 35000,
-      "current_price": 35000,
+      "current_price": 36000,
       "first_seen": "2026-03-14",
       "posted_date": "2026-03-14",
       "price_history": [
         {
           "price": 35000,
           "date": "2026-03-14"
+        },
+        {
+          "price": 36000,
+          "date": "2026-03-15"
         }
       ]
     },
@@ -73555,13 +73739,17 @@
       "transmission": "Steptronic",
       "location": "Antelias, Metn",
       "original_price": 25400,
-      "current_price": 25400,
+      "current_price": 25500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 25400,
           "date": "2026-03-01"
+        },
+        {
+          "price": 25500,
+          "date": "2026-03-15"
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T09:33:16.004135",
-  "total_tracked": 247,
+  "generated_at": "2026-03-15T10:28:09.065257",
+  "total_tracked": 248,
   "total_drops": 8,
-  "total_new": 247,
+  "total_new": 248,
   "avg_drop_pct": 23.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -258,6 +258,24 @@
       "price_history": [
         {
           "price": 29500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821021",
+      "title": "1 1 4 1 1 1",
+      "url": "https://www.olx.com.lb/ad/1-1-4-1-1-1-ID116821021.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 5900,
+      "current_price": 5900,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 5900,
           "date": "2026-03-15"
         }
       ]

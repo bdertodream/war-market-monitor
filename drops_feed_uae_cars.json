@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2000,
+  "total_tracked": 2003,
   "total_drops": 7,
-  "total_new": 2000,
-  "last_updated": "2026-03-15T09:33:51Z",
+  "total_new": 2003,
+  "last_updated": "2026-03-15T10:28:46Z",
   "drops": [
     {
       "id": "16770596",
@@ -104,6 +104,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16742146",
+      "title": "AED 5,925/MONTH | MODIFIED TOYOTA LAND CRUISER 76",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser-76/2026/2/12/5925-aedmonth-toyota-lan-cruiser-76-2-783---51edd3fdf04348dd807bcb32ee244920/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Land Cruiser 76",
+      "year": "2025",
+      "mileage": "0",
+      "price": 395000,
+      "first_seen": "2026-03-15T10:28:46Z"
+    },
+    {
+      "id": "16738908",
+      "title": "BESTUNE 2024 Very nice clean car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bestune/t77/2026/2/10/bestune-2024-very-nice-clean-car-2-386---72c230cfbdab423caf633da57133c0ec/",
+      "category": "Used Cars",
+      "make": "Bestune",
+      "model": "T77",
+      "year": "2024",
+      "mileage": "40700",
+      "price": 45000,
+      "first_seen": "2026-03-15T10:28:46Z"
+    },
+    {
+      "id": "16738718",
+      "title": "Tesla model 3 performance 2023 GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/10/tesla-model-3-performance-2023-gcc-2-987---f2c9242774d1458789e5ea8b5cba77ca/",
+      "category": "Used Cars",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": "2023",
+      "mileage": "59500",
+      "price": 77000,
+      "first_seen": "2026-03-15T10:28:46Z"
+    },
     {
       "id": "16203828",
       "title": "520/-EMI KIA RIO 2021 || GCC Specs || Rear Camera || Available On Zero % DP 1 Year Warranty",
@@ -6066,42 +6102,6 @@
       "year": "2024",
       "mileage": "19",
       "price": 177999,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16691276",
-      "title": "AED 1,363/month | 0 Downpayment | Free 1 Year Warranty | 30 Day Return | VOLKSWAGEN TIGUAN 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/1/2/aed-1489month-0-downpayment-free-1-year-wa-2-821---8693e10ce6f34ec4b2f979ca42cae3c8/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "year": "2024",
-      "mileage": "16167",
-      "price": 86999,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16770488",
-      "title": "AED 1,739/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | TOYOTA FORTUNER 2023",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fortuner/2026/3/10/aed-1796m-0-dp-free-3-months-warranty-serv-2-376---351aadff25874629ae2146e7b4bcef46/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Fortuner",
-      "year": "2023",
-      "mileage": "89987",
-      "price": 114399,
-      "first_seen": "2026-03-13T07:46:59Z"
-    },
-    {
-      "id": "16773393",
-      "title": "Range Rover sport GCC spec",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/3/13/range-rover-sport-gcc-spec-2-236---0eb2dba68a074b2f8b8d2224858064f7/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2015",
-      "mileage": "183000",
-      "price": 68500,
       "first_seen": "2026-03-13T07:46:59Z"
     }
   ]
