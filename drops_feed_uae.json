@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4062,
+  "total_tracked": 4067,
   "total_drops": 34,
-  "total_new": 4062,
+  "total_new": 4067,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2077,6 +2077,61 @@
       "size": "1426",
       "bedrooms": "2",
       "price": 8801000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9807064",
+      "title": "High Demand Retail Shop Opportunity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/7/high-demand-retail-shop-opportunity-2-113698/",
+      "area": "Al Satwa",
+      "category": "Shop",
+      "size": "1531",
+      "bedrooms": "",
+      "price": 6100000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9790038",
+      "title": "High Footfall Location | Retail Shop | No Commission l High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/11/15/high-footfall-location-retail-shop-no-c-2-113583/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "1357",
+      "bedrooms": "",
+      "price": 2680000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9790893",
+      "title": "Invest W/SHARUKHAN-1%ONLY!-Direct ON SZR-Grade A++",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/22/invest-wsharukhan-1-only-direct-on-szr--2-243727/",
+      "area": "Al Sufouh",
+      "category": "Office",
+      "size": "475",
+      "bedrooms": "",
+      "price": 3400000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9806044",
+      "title": "Best Investment \\ 20/80pp \\ 10%ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/other/2026/2/27/best-investment-2080pp-10roi-2-265497/",
+      "area": "Liwan",
+      "category": "Other",
+      "size": "4592",
+      "bedrooms": "",
+      "price": 11500000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9786682",
+      "title": "Direct On Main Rd||50%Mortgage||Ramadan Offer||DM",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/10/23/direct-on-main-rd-diwali-offer-450sqft--2-386349/",
+      "area": "Arjan",
+      "category": "Shop",
+      "size": "607",
+      "bedrooms": "",
+      "price": 2210000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5927,61 +5982,6 @@
       "size": "3397",
       "bedrooms": "5",
       "price": 3325000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17182362",
-      "title": "Smart Investment | Emaar |Premium Location for ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/smart-investment-emaar-premium-location-2-105285/",
-      "area": "Za'abeel",
-      "category": "Apartment",
-      "size": "767",
-      "bedrooms": "1",
-      "price": 2400000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196811",
-      "title": "COMMUNITY VIEW | HANDOVER Q3 2028 | SELLING AT OP",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/13/community-view-handover-q3-2028-selling-2-283645/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "3581",
-      "bedrooms": "4",
-      "price": 4439290,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196600",
-      "title": "Ready Soon | Best Layout | Sea and Ain Dubai View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/ready-soon-best-layout-sea-and-ain-duba-2-295138/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "2108",
-      "bedrooms": "3",
-      "price": 9390000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196603",
-      "title": "Full Sea View | High Floor | Handover Soon",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/full-sea-view-high-floor-handover-soon-2-185215/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "988",
-      "bedrooms": "1",
-      "price": 3850000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17196679",
-      "title": "Full Palm and Sea View | High Floor | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/full-palm-and-sea-view-high-floor-furni-2-322259/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1595",
-      "bedrooms": "3",
-      "price": 7299999,
       "first_seen": "2026-03-13"
     }
   ],

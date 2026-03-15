@@ -37396,7 +37396,7 @@
   "16473422": {
     "id": "16473422",
     "title": "2022 Rolls Royce Cullinan Black.P | Keyvany | 1 of 1 | Payment plan | Crypto Friendly",
-    "price": 1750000,
+    "price": 1650000,
     "make": "Rolls-Royce",
     "model": "Cullinan",
     "year": "2022",
@@ -37411,6 +37411,10 @@
       {
         "price": 1750000,
         "date": "2026-03-14T07:38:16Z"
+      },
+      {
+        "price": 1650000,
+        "date": "2026-03-15T18:35:20Z"
       }
     ],
     "date": "2026-03-14"
@@ -37440,7 +37444,7 @@
   "16580692": {
     "id": "16580692",
     "title": "2024 Lincoln Navigator Presidential, Lincoln Warranty + Service Pack, Low Kms, 7-Seater, GCC",
-    "price": 349000,
+    "price": 310000,
     "make": "Lincoln",
     "model": "Navigator",
     "year": "2024",
@@ -37455,6 +37459,10 @@
       {
         "price": 349000,
         "date": "2026-03-14T07:38:16Z"
+      },
+      {
+        "price": 310000,
+        "date": "2026-03-15T18:35:20Z"
       }
     ],
     "date": "2026-03-14"
@@ -37484,7 +37492,7 @@
   "16659011": {
     "id": "16659011",
     "title": "2021 Bentley Continental GTC W12 | Limited Edition KEYVANY | 1 of 20 | Low Mileage | Crypto Friendly",
-    "price": 949000,
+    "price": 899000,
     "make": "Bentley",
     "model": "Continental",
     "year": "2021",
@@ -37499,6 +37507,10 @@
       {
         "price": 949000,
         "date": "2026-03-14T07:38:16Z"
+      },
+      {
+        "price": 899000,
+        "date": "2026-03-15T18:35:20Z"
       }
     ],
     "date": "2026-03-14"
@@ -44704,7 +44716,7 @@
   "16747718": {
     "id": "16747718",
     "title": "C43 AMG With Service History and Warranty.",
-    "price": 112000,
+    "price": 129000,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2020",
@@ -44719,6 +44731,10 @@
       {
         "price": 112000,
         "date": "2026-03-15T17:29:16Z"
+      },
+      {
+        "price": 129000,
+        "date": "2026-03-15T18:35:20Z"
       }
     ],
     "date": "2026-03-15"
@@ -44961,6 +44977,270 @@
       {
         "price": 87000,
         "date": "2026-03-15T17:29:16Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16742210": {
+    "id": "16742210",
+    "title": "2025 Mercedes-Benz G700 Brabus | Original | Brand New 0km | Coming with a Brabus Bike",
+    "price": 1780000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class Brabus",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class-brabus/2026/2/12/2025-mercedes-benz-g700-brabus-original-br-2-278---79ea32c9c5914884b7c75c8e98d86cfc/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 1780000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16442148": {
+    "id": "16442148",
+    "title": "GCC xDrive40i M Sport",
+    "price": 125000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2020",
+    "kilometers": "140000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2025/6/11/gcc-xdrive40i-m-sport-2-661---824b77f5cd604958aa78074fc9d906cb/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16700132": {
+    "id": "16700132",
+    "title": "AMG",
+    "price": 49000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2015",
+    "kilometers": "67000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/1/9/amg-2-914---ff177de1936c45449c01cb7587a836cc/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16593747": {
+    "id": "16593747",
+    "title": "Porsche Cayenne GTS,Warranty,GCC",
+    "price": 375000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2022",
+    "kilometers": "17000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2025/10/11/porsche-cayenne-gtswarrantygcc-2-674---a2704d299dd742e2943309301e7635b8/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 375000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16741067": {
+    "id": "16741067",
+    "title": "GGC like NEW !",
+    "price": 98000,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2023",
+    "kilometers": "19000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/11/ggc-like-new-2-303---8eac1a2ae0784af29bc9f88627cbbc6c/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 98000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16741094": {
+    "id": "16741094",
+    "title": "like New",
+    "price": 119000,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2023",
+    "kilometers": "3000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/2/11/like-new-2-659---74d9fb14f1d74f9c93eee1921cd1783c/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 119000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "15966223": {
+    "id": "15966223",
+    "title": "GCC 4-matic",
+    "price": 139000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2021",
+    "kilometers": "32000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2024/6/12/gcc-4-matic-2-102---9d7c7c6e9ea54ee28a9f3dbd72312a7e/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 139000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774865": {
+    "id": "16774865",
+    "title": "Monthly 1400/- | 0% DP | Sunroof | Park Assist | Rear View Camera | # 49395",
+    "price": 89000,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "2023",
+    "kilometers": "28700",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/3/14/monthly-1400-0-dp-sunroof-park-assist-rear-2-291---064977dbe7a248448c55a4f0d7538f87/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774879": {
+    "id": "16774879",
+    "title": "Monthly 2000/- | 0% DP | Heated Wheels | Carbon Fiber Interior | Fog Lights | # 37189",
+    "price": 123500,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "2022",
+    "kilometers": "74800",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/3/14/monthly-2000-0-dp-heated-wheels-carbon-fib-2-916---b7ccb4d3d38442d59fce4548ea68f6e6/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 123500,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774884": {
+    "id": "16774884",
+    "title": "Monthly 910/- | 0% DP | Touch Screen | Rear View Camera | Cruise Control | # 48448",
+    "price": 61500,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "2021",
+    "kilometers": "65600",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/3/14/monthly-910-0-dp-touch-screen-rear-view-ca-2-791---6c3d9ce71dff4bf9a9007b0edb3139f3/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 61500,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774855": {
+    "id": "16774855",
+    "title": "Monthly 1270/- | 0% DP | Fabric Seats | Cruise Control | Rear View Camera | # 26871",
+    "price": 79000,
+    "make": "Dodge",
+    "model": "Challenger",
+    "year": "2023",
+    "kilometers": "86000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/3/14/monthly-1270-0-dp-fabric-seats-cruise-cont-2-896---5edfc07b86e641a2aafaa828b2e82f86/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-03-15T18:35:20Z"
+      }
+    ],
+    "date": "2026-03-15"
+  },
+  "16774859": {
+    "id": "16774859",
+    "title": "Monthly 1250/- | 0% DP | Fog Lights | Paddle Shifters | Sport Mode | # 93872",
+    "price": 79900,
+    "make": "Dodge",
+    "model": "Challenger",
+    "year": "2021",
+    "kilometers": "160000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/3/14/monthly-1250-0-dp-fog-lights-paddle-shifte-2-229---868b21623d1346c0bb44a1788996fa1f/",
+    "first_seen": "2026-03-15T18:35:20Z",
+    "prices": [
+      {
+        "price": 79900,
+        "date": "2026-03-15T18:35:20Z"
       }
     ],
     "date": "2026-03-15"
