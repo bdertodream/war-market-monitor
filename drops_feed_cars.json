@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T01:31:00.188970",
-  "total_tracked": 3155,
+  "generated_at": "2026-03-15T04:32:58.177659",
+  "total_tracked": 3161,
   "total_drops": 156,
-  "total_new": 3155,
+  "total_new": 3161,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4890,6 +4890,138 @@
       "price_history": [
         {
           "price": 45000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116782174",
+      "title": "بي ام دبليو أخرى 1998",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-أخرى-1998-ID116782174.html",
+      "make": "BMW",
+      "model": "Other",
+      "body_type": "Sedan",
+      "year": 1998,
+      "mileage": 1000000,
+      "transmission": "Automatic",
+      "location": "Borj el Barajneh, Beirut",
+      "original_price": 2800,
+      "current_price": 2800,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 2800,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116820849",
+      "title": "BMW 3-Series 2008",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2008-ID116820849.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Convertible",
+      "year": 2008,
+      "mileage": 166000,
+      "transmission": "Steptronic",
+      "location": "Mansourieh, Metn",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 7000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116780293",
+      "title": "Land Rover Vogue 2018 V8",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-2018-v8-ID116780293.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 58000,
+      "transmission": "Automatic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 50000,
+      "current_price": 50000,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 50000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116784760",
+      "title": "Mazda CX-9 2021 AWD Grand Touring",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-9-2021-awd-grand-touring-ID116784760.html",
+      "make": "Mazda",
+      "model": "CX-9",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Al Zarif, Beirut",
+      "original_price": 32500,
+      "current_price": 32500,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 32500,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116755740",
+      "title": "Land Rover Evoque 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2019-ID116755740.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Ras Maska, Koura",
+      "original_price": 21900,
+      "current_price": 21900,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 21900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116796367",
+      "title": "Nissan Rogue 2018",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-ID116796367.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 170000,
+      "transmission": "Automatic",
+      "location": "Chtoura, Zahle",
+      "original_price": 14900,
+      "current_price": 14900,
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 14900,
           "date": "2026-03-15"
         }
       ]

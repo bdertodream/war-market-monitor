@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3924,
+  "total_tracked": 3926,
   "total_drops": 31,
-  "total_new": 3924,
+  "total_new": 3926,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -517,6 +517,28 @@
       "size": "259",
       "bedrooms": "",
       "price": 1999000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9783371",
+      "title": "Premium | High Floor | Corner Lot | Burj View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/9/29/premium-high-floor-corner-lot-burj-view-2-167478/",
+      "area": "DIFC",
+      "category": "Office",
+      "size": "1800",
+      "bedrooms": "",
+      "price": 11000000,
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9781511",
+      "title": "Guaranteed Investment \u2013 Strategic Location \u2013 Strong Returns",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/9/15/guaranteed-investment-strategic-locatio-2-829687/",
+      "area": "International City",
+      "category": "Office",
+      "size": "1184",
+      "bedrooms": "",
+      "price": 1700000,
       "first_seen": "2026-03-15"
     },
     {
@@ -5918,28 +5940,6 @@
       "size": "812",
       "bedrooms": "0",
       "price": 882406,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17190445",
-      "title": "Balcony & Pool View | Best Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/11/balcony-pool-view-best-deal-2-732929/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Apartment",
-      "size": "972",
-      "bedrooms": "2",
-      "price": 713000,
-      "first_seen": "2026-03-13"
-    },
-    {
-      "id": "17197303",
-      "title": "Great ROI | Handover Q4 2026 | Genuine Resale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/great-roi-handover-q4-2026-genuine-resa-2-284450/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "339",
-      "bedrooms": "0",
-      "price": 750000,
       "first_seen": "2026-03-13"
     }
   ],
