@@ -274843,7 +274843,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/23/fully-furnished-studio-premium-amenitie-2-125933/",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-31"
+    "last_seen": "2026-09-09"
   },
   "17738603": {
     "title": "Spacious Studio | Vacant | Prime Location",
@@ -330079,6 +330079,19 @@
     "city": "Dubai",
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/8/fitted-spacious-community-expert-2-304467/",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09"
+  },
+  "9833899": {
+    "title": "High ROI l Next To Metro | Near To 311 | Freehold",
+    "price": 680000,
+    "size": "430",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "International City Phase 2 (Warsan 4)",
+    "city": "Dubai",
+    "category": "Office",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/7/furnished-office-tomorrow-commercial-to-2-309983/",
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09"
   }

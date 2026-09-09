@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25391,
+  "total_tracked": 25392,
   "total_drops": 500,
-  "total_new": 25391,
+  "total_new": 25392,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7614,6 +7614,17 @@
       "first_seen": "2026-09-09"
     },
     {
+      "id": "9833899",
+      "title": "High ROI l Next To Metro | Near To 311 | Freehold",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/7/furnished-office-tomorrow-commercial-to-2-309983/",
+      "area": "International City Phase 2 (Warsan 4)",
+      "category": "Office",
+      "size": "430",
+      "bedrooms": "",
+      "price": 680000,
+      "first_seen": "2026-09-09"
+    },
+    {
       "id": "17759365",
       "title": "Vacant Now | Strong Investment | Community View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/tenanted-strong-investment-community-vi-2-114449/",
@@ -12495,17 +12506,6 @@
       "size": "2282",
       "bedrooms": "4",
       "price": 2740000,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17928231",
-      "title": "Vacant | Largest Layout | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/29/vacant-largest-layout-motivated-seller-2-256259/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1070",
-      "bedrooms": "1",
-      "price": 1890000,
       "first_seen": "2026-09-01"
     }
   ],
