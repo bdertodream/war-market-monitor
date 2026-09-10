@@ -526148,5 +526148,71 @@
       }
     ],
     "date": "2026-09-09"
+  },
+  "16971512": {
+    "id": "16971512",
+    "title": "2024 Land Rover Range Rover Autobiography | GCC Specs | Like New",
+    "price": 525000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2024",
+    "kilometers": "48000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/10/2024-land-rover-range-rover-autobiography--2-297---52ea7d284f564112a9054692b902e08e/",
+    "first_seen": "2026-09-10T03:20:42Z",
+    "prices": [
+      {
+        "price": 525000,
+        "date": "2026-09-10T03:20:42Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16971503": {
+    "id": "16971503",
+    "title": "Mercedes S580 2021 | BRABUS KIT | IN AMAZING CONDITION",
+    "price": 210000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2021",
+    "kilometers": "51800",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/10/mercedes-s580-2021-brabus-kit-in-amazing-c-2-456---4b937cc438c0411c811650208e85b9f3/",
+    "first_seen": "2026-09-10T03:20:42Z",
+    "prices": [
+      {
+        "price": 210000,
+        "date": "2026-09-10T03:20:42Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16455063": {
+    "id": "16455063",
+    "title": "SUPERCHARGED RANGE ROVER SPORT || GCC II FULLY LOADED || AUTO FOOTSTEPS || GIVEN WARRANTY",
+    "price": 109000,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2016",
+    "kilometers": "108000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2025/06/21/supercharged-range-rover-sport-gcc-ii-full-2-114---0f6a0ac03ee94f0aaf395afe8edf8885/",
+    "first_seen": "2026-09-10T03:20:42Z",
+    "prices": [
+      {
+        "price": 109000,
+        "date": "2026-09-10T03:20:42Z"
+      }
+    ],
+    "date": "2026-09-09"
   }
 }

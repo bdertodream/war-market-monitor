@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22015,
-  "total_drops": 507,
-  "total_new": 22015,
-  "last_updated": "2026-09-09T22:18:17Z",
+  "total_tracked": 22018,
+  "total_drops": 500,
+  "total_new": 22018,
+  "last_updated": "2026-09-10T03:20:42Z",
   "drops": [
     {
       "id": "16901015",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "16971512",
+      "title": "2024 Land Rover Range Rover Autobiography | GCC Specs | Like New",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/10/2024-land-rover-range-rover-autobiography--2-297---52ea7d284f564112a9054692b902e08e/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2024",
+      "mileage": "48000",
+      "price": 525000,
+      "first_seen": "2026-09-10T03:20:42Z"
+    },
+    {
+      "id": "16971503",
+      "title": "Mercedes S580 2021 | BRABUS KIT | IN AMAZING CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/10/mercedes-s580-2021-brabus-kit-in-amazing-c-2-456---4b937cc438c0411c811650208e85b9f3/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2021",
+      "mileage": "51800",
+      "price": 210000,
+      "first_seen": "2026-09-10T03:20:42Z"
+    },
+    {
+      "id": "16455063",
+      "title": "SUPERCHARGED RANGE ROVER SPORT || GCC II FULLY LOADED || AUTO FOOTSTEPS || GIVEN WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2025/06/21/supercharged-range-rover-sport-gcc-ii-full-2-114---0f6a0ac03ee94f0aaf395afe8edf8885/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2016",
+      "mileage": "108000",
+      "price": 109000,
+      "first_seen": "2026-09-10T03:20:42Z"
+    },
+    {
       "id": "16971470",
       "title": "2,759 AED PM | UNDER WARRANTY | NO ACCIDENTS | EXCELLENT CONDITION",
       "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/09/09/2759-aed-pm-under-warranty-no-accidents-ex-2-268---b14b632cfa964455804fa948472eba5c/",
@@ -12968,42 +13004,6 @@
       "year": "2025",
       "mileage": "0",
       "price": 99000,
-      "first_seen": "2026-09-03T22:20:41Z"
-    },
-    {
-      "id": "16964316",
-      "title": "Brand New 2026 Toyota Corolla GLI - GCC Specs - Premium Trim",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/09/03/brand-new-2026-toyota-corolla-gli-gcc-spec-2-331---4682cd33b33f498da76313641ac9139e/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "2026",
-      "mileage": "0",
-      "price": 81000,
-      "first_seen": "2026-09-03T22:20:41Z"
-    },
-    {
-      "id": "16964313",
-      "title": "TOYOTA COROLLA 1.6 GCC MODEL 2026 XLI",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/09/03/toyota-corolla-16-gcc-model-2026-xli-2-504---a2eeb5b5e4884f9db83bda43b79fa2e4/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "2026",
-      "mileage": "0",
-      "price": 67000,
-      "first_seen": "2026-09-03T22:20:41Z"
-    },
-    {
-      "id": "16964149",
-      "title": "BMW 640i Gran Coupe 2015, GCC, BRILLIANT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/6-series/2026/09/03/bmw-640i-gran-coupe-2015-gcc-brilliant-con-2-687---01d3babc87b54391b4574ada68a45c60/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "6-Series",
-      "year": "2015",
-      "mileage": "135000",
-      "price": 39500,
       "first_seen": "2026-09-03T22:20:41Z"
     }
   ]
