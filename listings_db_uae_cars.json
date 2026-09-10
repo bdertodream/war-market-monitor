@@ -494306,7 +494306,7 @@
   "16951095": {
     "id": "16951095",
     "title": "UNLIMITED MILEAGE WARRANTY /NAVIGATION + CAMERA + PUSH START + CRUISE CONTROL / IN HOUSE FINANCE",
-    "price": 31500,
+    "price": 33950,
     "make": "Ford",
     "model": "Escape",
     "year": "2020",
@@ -494321,6 +494321,10 @@
       {
         "price": 31500,
         "date": "2026-08-22T16:24:48Z"
+      },
+      {
+        "price": 33950,
+        "date": "2026-09-10T18:59:12Z"
       }
     ],
     "date": "2026-08-22"
@@ -527967,6 +527971,182 @@
       {
         "price": 755000,
         "date": "2026-09-10T15:55:03Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16965770": {
+    "id": "16965770",
+    "title": "Mitsubishi Attrage 2021 gcc",
+    "price": 16500,
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "year": "2021",
+    "kilometers": "79852",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/09/05/mitsubishi-attrage-2021-gcc-2-476---ad9473ab681642908752e717884da204/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972573": {
+    "id": "16972573",
+    "title": "First Owner Service History Volkswagen Golf MK7 GTI 2014",
+    "price": 25000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2014",
+    "kilometers": "173000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/10/first-owner-service-history-volkswagen-gol-2-394---781a5e365d2748c6bce88fda9a27bdb5/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 25000,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972558": {
+    "id": "16972558",
+    "title": "2014 Honda CR-V DX | GCC Specs | Well Maintained",
+    "price": 22000,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2014",
+    "kilometers": "275000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Kasco Residence 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/cr-v/2026/09/10/2014-honda-cr-v-dx-gcc-specs-well-maintain-2-674---a2748c542d3c4595a9a9d57298c72502/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972524": {
+    "id": "16972524",
+    "title": "Mercedes-Benz G63 AMG",
+    "price": 535000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "32000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/10/mercedes-benz-g63-amg-2-282---41bf3501de49417db5dd73563d668080/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 535000,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972505": {
+    "id": "16972505",
+    "title": "Porsche Cayenne Coupe GCC |  Under Porsche Al nabooda warranty | No Paint | No Accident",
+    "price": 186510,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2020",
+    "kilometers": "165000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Azizi Riviera",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/10/porsche-cayenne-coupe-gcc-under-porsche-al-2-023---e38b20268484460394bd32a321ee30cc/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 186510,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972490": {
+    "id": "16972490",
+    "title": "Convertible | GCC Specs | First Owner | Original Paint | Don\u2019t Miss Out",
+    "price": 67000,
+    "make": "BMW",
+    "model": "4-Series",
+    "year": "2016",
+    "kilometers": "125000",
+    "body_type": "Hard Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Airport Road Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/09/10/convertible-gcc-specs-first-owner-original-2-316---73e8de39277649edb9ccfb7cfeb7ccd0/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 67000,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972002": {
+    "id": "16972002",
+    "title": "2026 Nissan Patrol Nismo",
+    "price": 490000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/10/2026-nissan-patrol-nismo-2-607---10967a258d2a4f22aacda22832cdc37f/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 490000,
+        "date": "2026-09-10T18:59:12Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16971933": {
+    "id": "16971933",
+    "title": "FORD EXPLORER XLT WHITE 2017 4WD V6 3.05L - GCC SPECIFICATION",
+    "price": 49500,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2017",
+    "kilometers": "76000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/09/10/ford-explorer-xlt-white-2017-4wd-v6-305l-g-2-742---cb1379f238844155a5749d47ae4adbed/",
+    "first_seen": "2026-09-10T18:59:12Z",
+    "prices": [
+      {
+        "price": 49500,
+        "date": "2026-09-10T18:59:12Z"
       }
     ],
     "date": "2026-09-10"
