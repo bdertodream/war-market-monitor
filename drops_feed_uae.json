@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25392,
+  "total_tracked": 25397,
   "total_drops": 500,
-  "total_new": 25392,
+  "total_new": 25397,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9802137",
-      "title": "Metro Easy Access | Fantastic View | Corner Office",
-      "old_price": 2500000,
-      "new_price": 2300000,
-      "drop_pct": 8.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/2/metro-link-easy-access-fully-fitted-hig-2-509947/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1636",
-      "bedrooms": "",
-      "date": "2026-05-12",
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9785356",
-      "title": "Standalone Warehouse | Corner | Great Visibility",
-      "old_price": 27000000,
-      "new_price": 25000000,
-      "drop_pct": 7.4,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2025/10/14/standalone-warehouse-corner-great-visib-2-566027/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Warehouse",
-      "size": "46101",
-      "bedrooms": "",
-      "date": "2026-05-12",
-      "first_seen": "2026-03-23"
-    },
     {
       "id": "17390293",
       "title": "Mortgageable | Luxury 4BR Townhouse | Prime Deal",
@@ -7005,9 +6977,92 @@
       "bedrooms": "",
       "date": "2026-09-09",
       "first_seen": "2026-09-01"
+    },
+    {
+      "id": "17758859",
+      "title": "Tenanted | Strong Investment | Large Layout",
+      "old_price": 1250000,
+      "new_price": 1175000,
+      "drop_pct": 6.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/tenanted-strong-investment-large-layout-2-893509/",
+      "area": "The Greens",
+      "category": "Apartment",
+      "size": "765",
+      "bedrooms": "1",
+      "date": "2026-09-10",
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "17939894",
+      "title": "Furnished 1BR | Premium Upgrades | Marina & City Views",
+      "old_price": 1850000,
+      "new_price": 1750000,
+      "drop_pct": 5.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/1/furnished-1br-premium-upgrades-marina-c-2-277727/",
+      "area": "Jumeirah Beach Residence (JBR)",
+      "category": "Apartment",
+      "size": "1198",
+      "bedrooms": "1",
+      "date": "2026-09-10",
+      "first_seen": "2026-09-09"
     }
   ],
   "new_listings": [
+    {
+      "id": "17985061",
+      "title": "READY TO MOVE | BRAND NEW | SINGLE ROW",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/ready-to-move-brand-new-single-row-2-145524/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "2914",
+      "bedrooms": "3",
+      "price": 4369000,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "17976331",
+      "title": "Tenanted Investment | Prime Location | Big Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/8/tenanted-investment-prime-location-big--2-109402/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "847",
+      "bedrooms": "1",
+      "price": 2100000,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "17983928",
+      "title": "Corner Unit | Amazing Location | Garden Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/investors-deal-lagoon-garden-views-2-305975/",
+      "area": "Tilal Al Ghaf",
+      "category": "Villa",
+      "size": "6063",
+      "bedrooms": "5",
+      "price": 13500000,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "9833544",
+      "title": "Full Commercial Building for Sale | Dubai Investment Park 1",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/commercial-building/2026/9/4/full-commercial-building-for-sale-dubai-2-279685/",
+      "area": "Dubai Investments Park (DIP)",
+      "category": "Commercial Building",
+      "size": "52000",
+      "bedrooms": "",
+      "price": 100000000,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "9798733",
+      "title": "Build Your Dream Mansion | Luxury Corner Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/10/build-your-dream-mansion-luxury-corner--2-155650/",
+      "area": "Palm Jumeirah",
+      "category": "Land",
+      "size": "16438",
+      "bedrooms": "",
+      "price": 90000000,
+      "first_seen": "2026-09-10"
+    },
     {
       "id": "17766188",
       "title": "3BR Type A | Large Plot | Multiple Options",
@@ -7148,7 +7203,7 @@
       "category": "Apartment",
       "size": "1198",
       "bedrooms": "1",
-      "price": 1850000,
+      "price": 1750000,
       "first_seen": "2026-09-09"
     },
     {
@@ -7615,7 +7670,7 @@
     },
     {
       "id": "9833899",
-      "title": "High ROI l Next To Metro | Near To 311 | Freehold",
+      "title": "12% Cash Discount l Next To Metro | Near To 311 | Freehold",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/7/furnished-office-tomorrow-commercial-to-2-309983/",
       "area": "International City Phase 2 (Warsan 4)",
       "category": "Office",
@@ -12451,61 +12506,6 @@
       "size": "2200",
       "bedrooms": "2",
       "price": 9500000,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17765221",
-      "title": "Investment | Prime Location | Lake & Partial Golf",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/23/investment-prime-location-lake-partial--2-128697/",
-      "area": "Emirates Hills",
-      "category": "Villa",
-      "size": "12000",
-      "bedrooms": "7",
-      "price": 55000000,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17916291",
-      "title": "Open to Offers | Motivated Seller | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/26/best-price-motivated-seller-prime-locat-2-235714/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "2753",
-      "bedrooms": "4",
-      "price": 3471888,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17920878",
-      "title": "Modern Layout | High Floor with City View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/27/modern-layout-high-floor-with-city-view-2-182675/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "781",
-      "bedrooms": "1",
-      "price": 1425000,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17923410",
-      "title": "Brand New Renovation | Large layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/27/brand-new-renovation-large-layout-2-255828/",
-      "area": "Jumeirah Beach Residence (JBR)",
-      "category": "Apartment",
-      "size": "1990",
-      "bedrooms": "3",
-      "price": 3000000,
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "17917017",
-      "title": "Luxrious 4 Bedrooms Townhouse Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/26/spacious-single-row-4-bedrooms-townhous-2-292191/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2282",
-      "bedrooms": "4",
-      "price": 2740000,
       "first_seen": "2026-09-01"
     }
   ],
