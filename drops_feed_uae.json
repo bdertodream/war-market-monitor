@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25493,
+  "total_tracked": 25494,
   "total_drops": 500,
-  "total_new": 25493,
+  "total_new": 25494,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17984976",
+      "title": "Large Plot | Huge Potential | 3Bed+Maid",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/large-plot-huge-potential-3bedmaid-2-292535/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "3164",
+      "bedrooms": "3",
+      "price": 6199999,
+      "first_seen": "2026-09-11"
+    },
+    {
       "id": "17985061",
       "title": "READY TO MOVE | BRAND NEW | SINGLE ROW",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/ready-to-move-brand-new-single-row-2-145524/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "3",
       "price": 8750000,
       "first_seen": "2026-09-03"
-    },
-    {
-      "id": "17944065",
-      "title": "Roof Terrace | Corner Plot On River Wadi | Triplex",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/1/roof-terrace-corner-plot-on-river-wadi--2-568986/",
-      "area": "Arabian Ranches 3",
-      "category": "Villa",
-      "size": "3099",
-      "bedrooms": "4",
-      "price": 5040000,
-      "first_seen": "2026-09-03"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-10"
+  "last_updated": "2026-09-11"
 }

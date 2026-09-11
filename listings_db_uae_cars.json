@@ -360848,7 +360848,7 @@
   "16870034": {
     "id": "16870034",
     "title": "BMW XM Label 2024 1/500 GCC Specs - Limited Edition Performance",
-    "price": 475000,
+    "price": 470000,
     "make": "BMW",
     "model": "XM",
     "year": "2024",
@@ -360857,7 +360857,7 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "The Hills",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/xm/2026/06/12/bmw-xm-label-2024-1500-gcc-specs-limited-e-2-122---d072e084f795454ab260dbc3660fd0fb/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/xm/2026/06/12/bmw-xm-label-2024-1500-gcc-specs-limited-e-2-812---d072e084f795454ab260dbc3660fd0fb/",
     "first_seen": "2026-06-28T13:46:50Z",
     "prices": [
       {
@@ -360871,6 +360871,10 @@
       {
         "price": 475000,
         "date": "2026-08-28T19:56:14Z"
+      },
+      {
+        "price": 470000,
+        "date": "2026-09-11T03:16:35Z"
       }
     ],
     "date": "2026-06-28"
@@ -528491,6 +528495,94 @@
       {
         "price": 219000,
         "date": "2026-09-10T22:18:07Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972777": {
+    "id": "16972777",
+    "title": "2013 Chrysler 300 SRT GCC Specs - RTA Passed Luxury Car",
+    "price": 12900,
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2013",
+    "kilometers": "150000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/09/11/2013-chrysler-300-srt-gcc-specs-rta-passed-2-446---6b0ed772e2a44724a0f3106023b073db/",
+    "first_seen": "2026-09-11T03:16:35Z",
+    "prices": [
+      {
+        "price": 12900,
+        "date": "2026-09-11T03:16:35Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16972756": {
+    "id": "16972756",
+    "title": "2015 BMW 7-Series 750i - Japanese Specs - Excellent Condition",
+    "price": 33000,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2015",
+    "kilometers": "160000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/10/2015-bmw-7-series-750i-japanese-specs-exce-2-162---b5ffe788fc084560bac162b2f90d8d07/",
+    "first_seen": "2026-09-11T03:16:35Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-09-11T03:16:35Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16972752": {
+    "id": "16972752",
+    "title": "2018 Audi S3 2.0 TFSI quattro | GCC Specs | Performance & Luxury",
+    "price": 69000,
+    "make": "Audi",
+    "model": "S3",
+    "year": "2018",
+    "kilometers": "90000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/09/10/2018-audi-s3-20-tfsi-quattro-gcc-specs-per-2-051---0d2a97b3886a4830b4236901589b1caf/",
+    "first_seen": "2026-09-11T03:16:35Z",
+    "prices": [
+      {
+        "price": 69000,
+        "date": "2026-09-11T03:16:35Z"
+      }
+    ],
+    "date": "2026-09-10"
+  },
+  "16971176": {
+    "id": "16971176",
+    "title": "Premium Full options ...5 cameras...power tailgate...adaptive cruise control",
+    "price": 80000,
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "year": "2023",
+    "kilometers": "65000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Badia Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/montero-sport/2026/09/09/premium-full-options-5-cameraspower-tailga-2-753---e982cf33a5d94b1390e2841db59dedf0/",
+    "first_seen": "2026-09-11T03:16:35Z",
+    "prices": [
+      {
+        "price": 80000,
+        "date": "2026-09-11T03:16:35Z"
       }
     ],
     "date": "2026-09-10"

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22114,
-  "total_drops": 508,
-  "total_new": 22114,
-  "last_updated": "2026-09-10T22:18:07Z",
+  "total_tracked": 22118,
+  "total_drops": 500,
+  "total_new": 22118,
+  "last_updated": "2026-09-11T03:16:35Z",
   "drops": [
     {
       "id": "16816565",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "16972777",
+      "title": "2013 Chrysler 300 SRT GCC Specs - RTA Passed Luxury Car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/09/11/2013-chrysler-300-srt-gcc-specs-rta-passed-2-446---6b0ed772e2a44724a0f3106023b073db/",
+      "category": "Used Cars",
+      "make": "Chrysler",
+      "model": "300",
+      "year": "2013",
+      "mileage": "150000",
+      "price": 12900,
+      "first_seen": "2026-09-11T03:16:35Z"
+    },
+    {
+      "id": "16972756",
+      "title": "2015 BMW 7-Series 750i - Japanese Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/10/2015-bmw-7-series-750i-japanese-specs-exce-2-162---b5ffe788fc084560bac162b2f90d8d07/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2015",
+      "mileage": "160000",
+      "price": 33000,
+      "first_seen": "2026-09-11T03:16:35Z"
+    },
+    {
+      "id": "16972752",
+      "title": "2018 Audi S3 2.0 TFSI quattro | GCC Specs | Performance & Luxury",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/09/10/2018-audi-s3-20-tfsi-quattro-gcc-specs-per-2-051---0d2a97b3886a4830b4236901589b1caf/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "S3",
+      "year": "2018",
+      "mileage": "90000",
+      "price": 69000,
+      "first_seen": "2026-09-11T03:16:35Z"
+    },
+    {
+      "id": "16971176",
+      "title": "Premium Full options ...5 cameras...power tailgate...adaptive cruise control",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/montero-sport/2026/09/09/premium-full-options-5-cameraspower-tailga-2-753---e982cf33a5d94b1390e2841db59dedf0/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "Montero Sport",
+      "year": "2023",
+      "mileage": "65000",
+      "price": 80000,
+      "first_seen": "2026-09-11T03:16:35Z"
+    },
+    {
       "id": "16972738",
       "title": "2016 Peugeot 308 CC Sport | GCC Specs | Well Maintained",
       "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/308/2026/09/10/2016-peugeot-308-cc-sport-gcc-specs-well-m-2-181---94c58fb57f0f4cc1a4fddafc3200f114/",
@@ -12957,54 +13005,6 @@
       "mileage": "25000",
       "price": 154999,
       "first_seen": "2026-09-04T22:09:59Z"
-    },
-    {
-      "id": "16828410",
-      "title": "Ferrari 488 GTB 2016 GCC Specs - Pristine Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-gtb/2026/05/05/ferrari-488-gtb-2016-gcc-specs-pristine-co-2-306---e9bee1f8f74044b292b7b968f0d24815/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "488 GTB",
-      "year": "2016",
-      "mileage": "23000",
-      "price": 649999,
-      "first_seen": "2026-09-04T22:09:59Z"
-    },
-    {
-      "id": "16965408",
-      "title": "MERCEDES-A200 PREMIUM + AMG HATCHBACK | GCC SPECS | MERCEDES WARRANTY & SERVICE CONTRACT UNTILL 2029",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/04/mercedes-a200-premium-amg-hatchback-gcc-sp-2-840---5c2066027eb64e2eb1e7f775d167a316/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "A-Class",
-      "year": "2024",
-      "mileage": "36000",
-      "price": 104900,
-      "first_seen": "2026-09-04T18:50:56Z"
-    },
-    {
-      "id": "16934499",
-      "title": "2016 E 400 - very well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/06/2016-e-400-very-well-maintained-2-706---232c44f161b54973b29a13b645868240/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2016",
-      "mileage": "100000",
-      "price": 62000,
-      "first_seen": "2026-09-04T18:50:56Z"
-    },
-    {
-      "id": "16965286",
-      "title": "BMW iX3 | Full Service History | Warranty Until 2027 | 286 HP | Electric | Premium Spec",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/09/04/bmw-ix3-full-service-history-warranty-unti-2-939---d0ce5c412c3947219392923242175b6a/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X3",
-      "year": "2022",
-      "mileage": "67878",
-      "price": 149000,
-      "first_seen": "2026-09-04T18:50:56Z"
     }
   ]
 }
