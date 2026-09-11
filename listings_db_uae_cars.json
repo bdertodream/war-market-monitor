@@ -473460,7 +473460,7 @@
   "16941162": {
     "id": "16941162",
     "title": "2021 Mercedes-Benz S-Class S 500 AMG | 4Matic | 22,000KM | Pristine Condition",
-    "price": 285000,
+    "price": 280000,
     "make": "Mercedes-Benz",
     "model": "S-Class",
     "year": "2021",
@@ -473469,12 +473469,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/8/13/2021-mercedes-benz-s-class-s-500-amg-4mati-2-338---0daed70df0b14308b7c777fe9bfdac25/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/08/13/2021-mercedes-benz-s-class-s-500-amg-4mati-2-003---0daed70df0b14308b7c777fe9bfdac25/",
     "first_seen": "2026-08-13T09:12:19Z",
     "prices": [
       {
         "price": 285000,
         "date": "2026-08-13T09:12:19Z"
+      },
+      {
+        "price": 280000,
+        "date": "2026-09-11T22:18:05Z"
       }
     ],
     "date": "2026-08-13"
@@ -530909,6 +530913,72 @@
       {
         "price": 159990,
         "date": "2026-09-11T19:03:33Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973845": {
+    "id": "16973845",
+    "title": "2025 MINI Cooper John Cooper Works | GCC Specs | Brand New",
+    "price": 137000,
+    "make": "MINI",
+    "model": "Cooper",
+    "year": "2025",
+    "kilometers": "32000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/09/11/2025-mini-cooper-john-cooper-works-gcc-spe-2-744---bf6eb36d5c6c4e0bb1a5ca166230bbf8/",
+    "first_seen": "2026-09-11T22:18:05Z",
+    "prices": [
+      {
+        "price": 137000,
+        "date": "2026-09-11T22:18:05Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973835": {
+    "id": "16973835",
+    "title": "2016 Dodge Charger SRT 392 GCC Specs",
+    "price": 36000,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "2016",
+    "kilometers": "216000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/09/11/2016-dodge-charger-srt-392-gcc-specs-2-868---6a0c679730f6478a96cacfc05dccfe3d/",
+    "first_seen": "2026-09-11T22:18:05Z",
+    "prices": [
+      {
+        "price": 36000,
+        "date": "2026-09-11T22:18:05Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973791": {
+    "id": "16973791",
+    "title": "UNDER WARRANTY | 429 AED PER MONTH | GCC | EXCELLENT CONDITION",
+    "price": 27999,
+    "make": "JAC",
+    "model": "J7",
+    "year": "2023",
+    "kilometers": "87000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Ameri Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/j7/2026/09/11/under-warranty-429-aed-per-month-gcc-excel-2-436---1e85ce90638b4f478ca5da00f2e783e8/",
+    "first_seen": "2026-09-11T22:18:05Z",
+    "prices": [
+      {
+        "price": 27999,
+        "date": "2026-09-11T22:18:05Z"
       }
     ],
     "date": "2026-09-11"

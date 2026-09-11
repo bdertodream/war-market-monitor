@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22211,
-  "total_drops": 508,
-  "total_new": 22211,
-  "last_updated": "2026-09-11T19:03:33Z",
+  "total_tracked": 22214,
+  "total_drops": 500,
+  "total_new": 22214,
+  "last_updated": "2026-09-11T22:18:05Z",
   "drops": [
     {
       "id": "16860727",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "16973845",
+      "title": "2025 MINI Cooper John Cooper Works | GCC Specs | Brand New",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/09/11/2025-mini-cooper-john-cooper-works-gcc-spe-2-744---bf6eb36d5c6c4e0bb1a5ca166230bbf8/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2025",
+      "mileage": "32000",
+      "price": 137000,
+      "first_seen": "2026-09-11T22:18:05Z"
+    },
+    {
+      "id": "16973835",
+      "title": "2016 Dodge Charger SRT 392 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/09/11/2016-dodge-charger-srt-392-gcc-specs-2-868---6a0c679730f6478a96cacfc05dccfe3d/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": "2016",
+      "mileage": "216000",
+      "price": 36000,
+      "first_seen": "2026-09-11T22:18:05Z"
+    },
+    {
+      "id": "16973791",
+      "title": "UNDER WARRANTY | 429 AED PER MONTH | GCC | EXCELLENT CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jac/j7/2026/09/11/under-warranty-429-aed-per-month-gcc-excel-2-436---1e85ce90638b4f478ca5da00f2e783e8/",
+      "category": "Used Cars",
+      "make": "JAC",
+      "model": "J7",
+      "year": "2023",
+      "mileage": "87000",
+      "price": 27999,
+      "first_seen": "2026-09-11T22:18:05Z"
+    },
+    {
       "id": "16964371",
       "title": "Nissan Navara PRO-4X 2025 - Brand New - Off-Road Ready",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/navara/2026/09/03/nissan-navara-pro-4x-2025-brand-new-off-ro-2-018---7064fca787c84a8ba9d2f67670973cd0/",
@@ -12968,42 +13004,6 @@
       "year": "2026",
       "mileage": "7618",
       "price": 350000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16940784",
-      "title": "Polestar 2 2023 Long Range Dual Motor | GCC Specs | Low Mileage",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/08/12/polestar-2-2023-long-range-dual-motor-gcc--2-222---b80c3762e58a4d738f901ea465468d6a/",
-      "category": "Used Cars",
-      "make": "Polestar",
-      "model": "2",
-      "year": "2023",
-      "mileage": "56000",
-      "price": 76000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16796495",
-      "title": "2013 Chevrolet Traverse LT - GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/traverse/2026/04/08/2013-chevrolet-traverse-lt-gcc-specs-2-520---4e793c64e02b4307999de86e221b266b/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "year": "2013",
-      "mileage": "155000",
-      "price": 16000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16966787",
-      "title": "Pristine Polestar 2 2023 Long Range Single Motor | GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/09/06/pristine-polestar-2-2023-long-range-single-2-031---ee00cad8644c4262a96999a574beed1d/",
-      "category": "Used Cars",
-      "make": "Polestar",
-      "model": "2",
-      "year": "2023",
-      "mileage": "2800",
-      "price": 83000,
       "first_seen": "2026-09-06T08:24:43Z"
     }
   ]

@@ -280264,7 +280264,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/27/valencia-5-bedstudy-private-pool-huge-p-2-262084/",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-07-30"
+    "last_seen": "2026-09-11"
   },
   "17772985": {
     "title": "NO Commission | Bright Studio | Balcony",
@@ -304808,7 +304808,7 @@
     "category": "Townhouse",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/10/vacant-now-lake-view-type-3m-2-248128/",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-09-10"
+    "last_seen": "2026-09-11"
   },
   "17851878": {
     "title": "Exclusive | Fully Upgraded | End Unit",
@@ -305549,7 +305549,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/10/renovated-e1-4-bedstudymaids-room-exclu-2-961163/",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-09-11"
   },
   "17368822": {
     "title": "Fully Renovated 5 Bed | Single Row | Private Pool",
@@ -305562,7 +305562,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/24/fully-renovated-5-bed-single-row-privat-2-117585/",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-09-11"
   },
   "17849050": {
     "title": "0% Commission | 15% Discount | Handover Soon",
@@ -318471,7 +318471,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/26/fully-upgraded-backing-green-belt-priva-2-947457/",
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-10"
+    "last_seen": "2026-09-11"
   },
   "17925363": {
     "title": "Exclusive Lifestyle | Private Beachfront Villa",
@@ -321149,7 +321149,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/25/large-corner-plot-close-to-lake-vacant-2-127586/",
     "first_seen": "2026-08-30",
-    "last_seen": "2026-08-30"
+    "last_seen": "2026-09-11"
   },
   "17926207": {
     "title": "EXCLUSIVE BOUTIQUE WATERFRONT HOMES | EXCEPTIONAL VALUE IN PRICE PSF",
@@ -332172,6 +332172,175 @@
     "city": "Dubai",
     "category": "Land",
     "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/9/very-high-number-build-own-mansion-huge-2-157938/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17336354": {
+    "title": "BIGGER SIZE | AMENITIES VIEW | PRIME LOCATION",
+    "price": 699000,
+    "size": "630",
+    "bedrooms": "0",
+    "bathrooms": "1",
+    "area": "Dubai Science Park",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/16/bigger-size-amenities-view-prime-locati-2-154171/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17990686": {
+    "title": "Private Garden | Type 2M | Park Backing",
+    "price": 4950000,
+    "size": "2557",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/11/private-garden-type-2m-park-backing-2-824240/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17990691": {
+    "title": "Exclusive | Fully Upgraded | Large Plot",
+    "price": 6950000,
+    "size": "2411",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/exclusive-fully-upgraded-large-plot-2-277974/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17990731": {
+    "title": "Upgraded | Park Backing | Exclusive",
+    "price": 5900000,
+    "size": "2518",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/11/upgraded-park-backing-exclusive-2-308380/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17993009": {
+    "title": "Park Backing | Vacant | Private Pool",
+    "price": 5050000,
+    "size": "3497",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/park-backing-vacant-private-pool-2-442964/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17994200": {
+    "title": "Fully Upgraded | Vacant | Corner Plot",
+    "price": 14495000,
+    "size": "5800",
+    "bedrooms": "6",
+    "bathrooms": "7",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/fully-upgraded-vacant-corner-plot-2-455626/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17987068": {
+    "title": "Type 3M | Private Pool | Turn Key",
+    "price": 5250000,
+    "size": "2460",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/type-3m-private-pool-turn-key-2-300406/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17987505": {
+    "title": "Exclusive | Fully Upgraded | Vacant on Transfer",
+    "price": 4150000,
+    "size": "1647",
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/exclusive-fully-upgraded-vacant-on-tran-2-298433/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17993839": {
+    "title": "Fully Upgraded | Turn Key | Single Row",
+    "price": 6100000,
+    "size": "2475",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "area": "Arabian Ranches",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/11/fully-upgraded-turn-key-single-row-2-781704/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17986960": {
+    "title": "Opposite Lake and Pool | Fully Renovated | Type 2E",
+    "price": 7000000,
+    "size": "2685",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "area": "The Springs",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/opposite-lake-and-pool-fully-renovated--2-319067/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17993303": {
+    "title": "Lake View | Extended | Vacant on Transfer",
+    "price": 5890000,
+    "size": "2217",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "area": "The Springs",
+    "city": "Dubai",
+    "category": "Townhouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/11/lake-view-extended-vacant-on-transfer-2-127395/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "17244316": {
+    "title": "Ultra Luxury 6BR Mansion | Private Pool | Basement | Lift | Rooftop | The Villa",
+    "price": 17500000,
+    "size": "11253",
+    "bedrooms": "6",
+    "bathrooms": "7",
+    "area": "The Villa",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/26/ultra-luxury-6br-mansion-private-pool-b-2-212982/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11"
+  },
+  "9834696": {
+    "title": "NEW LAUNCH | NEXT METRO | OPEN HOUSE DIS | DM 4MORE",
+    "price": 640000,
+    "size": "430",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "International City Phase 2 (Warsan 4)",
+    "city": "Dubai",
+    "category": "Office",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/11/new-launch-next-metro-open-house-dis-dm-2-196979/",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11"
   }
