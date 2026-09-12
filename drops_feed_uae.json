@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25624,
+  "total_tracked": 25627,
   "total_drops": 500,
-  "total_new": 25624,
+  "total_new": 25627,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7658,6 +7658,39 @@
       "first_seen": "2026-09-12"
     },
     {
+      "id": "15995697",
+      "title": "VACANT IN AUGUST + CANAL VIEW",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/8/28/fully-furnished-canal-view-ready-to-mov-2-182355/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "431",
+      "bedrooms": "0",
+      "price": 940000,
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "17997960",
+      "title": "20/80 Payment Plan | Fully Furnished | Top Developer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/12/2080-payment-plan-fully-furnished-top-d-2-134099/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "1176",
+      "bedrooms": "2",
+      "price": 1615000,
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "17997967",
+      "title": "High-Floor Studio | JVT District 4 | Multiple Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/12/high-floor-studio-jvt-district-4-multip-2-183886/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "337",
+      "bedrooms": "0",
+      "price": 650000,
+      "first_seen": "2026-09-12"
+    },
+    {
       "id": "17984976",
       "title": "Large Plot | Huge Potential | 3Bed+Maid",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/large-plot-huge-potential-3bedmaid-2-292535/",
@@ -12473,39 +12506,6 @@
       "size": "2272",
       "bedrooms": "4",
       "price": 6399000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17964130",
-      "title": "Near Metro | 10% ROI | 20/80 Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/5/near-metro-10-roi-2080-payment-plan-2-159255/",
-      "area": "Downtown Jebel Ali",
-      "category": "Apartment",
-      "size": "859",
-      "bedrooms": "1",
-      "price": 830000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17946853",
-      "title": "Exclusive | Upgraded 2BR | Designed To Surprise",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/2/exclusive-upgraded-2br-designed-to-surp-2-244389/",
-      "area": "Jumeirah Beach Residence (JBR)",
-      "category": "Apartment",
-      "size": "1447",
-      "bedrooms": "2",
-      "price": 3550000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17922683",
-      "title": "Spacious 1 BR Corner Unit Burj Khalifa View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/27/spacious-1-br-corner-unit-burj-khalifa--2-254035/",
-      "area": "Nad Al Sheba",
-      "category": "Apartment",
-      "size": "1005",
-      "bedrooms": "1",
-      "price": 1750000,
       "first_seen": "2026-09-05"
     }
   ],

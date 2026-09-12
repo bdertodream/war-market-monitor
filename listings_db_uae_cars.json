@@ -123070,7 +123070,7 @@
   "16761084": {
     "id": "16761084",
     "title": "FERRARI SF90 ASSETO FIORANO BRAND NEW",
-    "price": 1555000,
+    "price": 1395000,
     "make": "Ferrari",
     "model": "SF90 Stradale",
     "year": "2021",
@@ -123079,12 +123079,16 @@
     "fuel_type": "Petrol",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-stradale/2026/2/28/ferrari-sf90-asseto-fiorano-brand-new-2-765---1445115c1c6c4c898393ca13304281d0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-stradale/2026/02/28/ferrari-sf90-asseto-fiorano-brand-new-2-371---1445115c1c6c4c898393ca13304281d0/",
     "first_seen": "2026-04-09T09:18:09Z",
     "prices": [
       {
         "price": 1555000,
         "date": "2026-04-09T09:18:09Z"
+      },
+      {
+        "price": 1395000,
+        "date": "2026-09-12T18:09:07Z"
       }
     ],
     "date": "2026-04-09"
@@ -516746,7 +516750,7 @@
   "16964466": {
     "id": "16964466",
     "title": "Nissan Patrol SE Platinum 2021 GCC Specs - Excellent Condition",
-    "price": 146000,
+    "price": 142000,
     "make": "Nissan",
     "model": "Patrol",
     "year": "2021",
@@ -516755,12 +516759,16 @@
     "fuel_type": "Petrol",
     "area": "Al Badia Building 8",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/04/nissan-patrol-se-platinum-2021-gcc-specs-e-2-213---258da5c2cfb14344b174482658385b18/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/04/nissan-patrol-se-platinum-2021-gcc-specs-e-2-533---258da5c2cfb14344b174482658385b18/",
     "first_seen": "2026-09-04T08:31:18Z",
     "prices": [
       {
         "price": 146000,
         "date": "2026-09-04T08:31:18Z"
+      },
+      {
+        "price": 142000,
+        "date": "2026-09-12T18:09:07Z"
       }
     ],
     "date": "2026-09-04"
@@ -532585,6 +532593,116 @@
       {
         "price": 34500,
         "date": "2026-09-12T15:05:57Z"
+      }
+    ],
+    "date": "2026-09-12"
+  },
+  "16974890": {
+    "id": "16974890",
+    "title": "2023 Kia Picanto | GCC Specs | Full History, Under Warranty",
+    "price": 29000,
+    "make": "Kia",
+    "model": "Picanto",
+    "year": "2023",
+    "kilometers": "53000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Ameri Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2026/09/12/2023-kia-picanto-gcc-specs-full-history-un-2-162---4d4a7eb664f94434a105256319253fd7/",
+    "first_seen": "2026-09-12T18:09:07Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-09-12T18:09:07Z"
+      }
+    ],
+    "date": "2026-09-12"
+  },
+  "16974794": {
+    "id": "16974794",
+    "title": "2015 Jeep Grand Cherokee Summit 5.7 V8 HEMI | GCC | No Accidents",
+    "price": 26900,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2015",
+    "kilometers": "285000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/09/12/2015-jeep-grand-cherokee-summit-57-v8-hemi-2-352---36ffb2c7e6fe4bc486707b8b88b9fac6/",
+    "first_seen": "2026-09-12T18:09:07Z",
+    "prices": [
+      {
+        "price": 26900,
+        "date": "2026-09-12T18:09:07Z"
+      }
+    ],
+    "date": "2026-09-12"
+  },
+  "16974792": {
+    "id": "16974792",
+    "title": "Brand New 2026 Mercedes-Benz E-Class E 300 | GCC Specs",
+    "price": 329000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/12/brand-new-2026-mercedes-benz-e-class-e-300-2-651---a1565f76b8664751a758f31499b72e18/",
+    "first_seen": "2026-09-12T18:09:07Z",
+    "prices": [
+      {
+        "price": 329000,
+        "date": "2026-09-12T18:09:07Z"
+      }
+    ],
+    "date": "2026-09-12"
+  },
+  "16974791": {
+    "id": "16974791",
+    "title": "Mercedes-Benz GLE 450 4MATIC 2020 | GCC Specs | Excellent Condition",
+    "price": 169000,
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "year": "2020",
+    "kilometers": "89000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/12/mercedes-benz-gle-450-4matic-2020-gcc-spec-2-320---88cce33eb03645abadb874adcc9898a1/",
+    "first_seen": "2026-09-12T18:09:07Z",
+    "prices": [
+      {
+        "price": 169000,
+        "date": "2026-09-12T18:09:07Z"
+      }
+    ],
+    "date": "2026-09-12"
+  },
+  "16974758": {
+    "id": "16974758",
+    "title": "Toyota Innova 2015 GL GCC Specs Reliable Family MPV",
+    "price": 21500,
+    "make": "Toyota",
+    "model": "Innova",
+    "year": "2015",
+    "kilometers": "186000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Bur Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/innova/2026/09/12/toyota-innova-2015-gl-gcc-specs-reliable-f-2-787---8e86559eda0149119361b289ddbb4bcc/",
+    "first_seen": "2026-09-12T18:09:07Z",
+    "prices": [
+      {
+        "price": 21500,
+        "date": "2026-09-12T18:09:07Z"
       }
     ],
     "date": "2026-09-12"

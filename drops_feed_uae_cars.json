@@ -1,23 +1,9 @@
 {
-  "total_tracked": 22281,
-  "total_drops": 506,
-  "total_new": 22281,
-  "last_updated": "2026-09-12T15:05:57Z",
+  "total_tracked": 22286,
+  "total_drops": 501,
+  "total_new": 22286,
+  "last_updated": "2026-09-12T18:09:07Z",
   "drops": [
-    {
-      "id": "16930175",
-      "title": "Low Mileage / 2 Keys | Chevrolet Trax LS 2018 GCC Specifications ( Single Owner - 98,000 Kms Only )",
-      "old_price": 18500,
-      "new_price": 17000,
-      "drop_pct": 8.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2026/8/3/low-mileage-2-keys-chevrolet-trax-ls-2018--2-573---ea728216c1654547a2c32dec3a62622e/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Trax",
-      "year": "2018",
-      "mileage": "98000",
-      "date": "2026-08-17T20:27:12Z"
-    },
     {
       "id": "16911379",
       "title": "GAC GS3 2024 GCC Specs | Pristine Condition",
@@ -7003,9 +6989,83 @@
       "year": "2015",
       "mileage": "213061",
       "date": "2026-09-12T15:05:57Z"
+    },
+    {
+      "id": "16761084",
+      "title": "FERRARI SF90 ASSETO FIORANO BRAND NEW",
+      "old_price": 1555000,
+      "new_price": 1395000,
+      "drop_pct": 10.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/sf90-stradale/2026/02/28/ferrari-sf90-asseto-fiorano-brand-new-2-371---1445115c1c6c4c898393ca13304281d0/",
+      "category": "Used Cars",
+      "make": "Ferrari",
+      "model": "SF90 Stradale",
+      "year": "2021",
+      "mileage": "950",
+      "date": "2026-09-12T18:09:07Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16974890",
+      "title": "2023 Kia Picanto | GCC Specs | Full History, Under Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2026/09/12/2023-kia-picanto-gcc-specs-full-history-un-2-162---4d4a7eb664f94434a105256319253fd7/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Picanto",
+      "year": "2023",
+      "mileage": "53000",
+      "price": 29000,
+      "first_seen": "2026-09-12T18:09:07Z"
+    },
+    {
+      "id": "16974794",
+      "title": "2015 Jeep Grand Cherokee Summit 5.7 V8 HEMI | GCC | No Accidents",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/09/12/2015-jeep-grand-cherokee-summit-57-v8-hemi-2-352---36ffb2c7e6fe4bc486707b8b88b9fac6/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2015",
+      "mileage": "285000",
+      "price": 26900,
+      "first_seen": "2026-09-12T18:09:07Z"
+    },
+    {
+      "id": "16974792",
+      "title": "Brand New 2026 Mercedes-Benz E-Class E 300 | GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/12/brand-new-2026-mercedes-benz-e-class-e-300-2-651---a1565f76b8664751a758f31499b72e18/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2026",
+      "mileage": "0",
+      "price": 329000,
+      "first_seen": "2026-09-12T18:09:07Z"
+    },
+    {
+      "id": "16974791",
+      "title": "Mercedes-Benz GLE 450 4MATIC 2020 | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/12/mercedes-benz-gle-450-4matic-2020-gcc-spec-2-320---88cce33eb03645abadb874adcc9898a1/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "year": "2020",
+      "mileage": "89000",
+      "price": 169000,
+      "first_seen": "2026-09-12T18:09:07Z"
+    },
+    {
+      "id": "16974758",
+      "title": "Toyota Innova 2015 GL GCC Specs Reliable Family MPV",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/innova/2026/09/12/toyota-innova-2015-gl-gcc-specs-reliable-f-2-787---8e86559eda0149119361b289ddbb4bcc/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Innova",
+      "year": "2015",
+      "mileage": "186000",
+      "price": 21500,
+      "first_seen": "2026-09-12T18:09:07Z"
+    },
     {
       "id": "16974707",
       "title": "0% DP* -- 2,922AED PM -- 3.6 V6 RUBICON -- JEEP AGENCY WARRANTY & SERVICE CONTRACT",
@@ -12945,66 +13005,6 @@
       "mileage": "77000",
       "price": 164999,
       "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16964694",
-      "title": "5,288 P.M |  F150 Raptor | 0% Downpayment | RAPTOR FORD WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/09/04/5288-pm-f150-raptor-0-downpayment-raptor-f-2-426---1fd2ad1ab3e94fc0b41b48529caf22b9/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-150",
-      "year": "2023",
-      "mileage": "69000",
-      "price": 269999,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16962581",
-      "title": "4,896 P.M |  Cayenne Coupe | 0% Downpayment | UNDER WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/02/4896-pm-cayenne-coupe-0-downpayment-under--2-073---f6aa6e9c67f64fd9940addf44a6541aa/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2022",
-      "mileage": "64000",
-      "price": 249999,
-      "first_seen": "2026-09-07T08:59:08Z"
-    },
-    {
-      "id": "16942518",
-      "title": "2,057 P.M | Highline Plus | Full VW History | 0% Downpayment | Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/08/14/2057-pm-highline-plus-full-vw-history-0-do-2-205---055ef7daf62f470481eb28f73efd84a8/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "year": "2020",
-      "mileage": "90000",
-      "price": 104999,
-      "first_seen": "2026-09-07T08:59:08Z"
-    },
-    {
-      "id": "16920052",
-      "title": "2,135 P.M |  Teramont Comfortline V6 | 0% Downpayment | WARRANTY!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/07/24/2135-pm-teramont-comfortline-v6-0-downpaym-2-282---5625ea1163ef41d1b2dfbfd4a05f8cb4/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Teramont",
-      "year": "2023",
-      "mileage": "57000",
-      "price": 108999,
-      "first_seen": "2026-09-07T08:59:08Z"
-    },
-    {
-      "id": "16968167",
-      "title": "Audi S3 2.0 TFSI Quattro Sportback | GCC Specs | 2029 Dealer Warranty and Service",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/09/07/audi-s3-20-tfsi-quattro-sportback-gcc-spec-2-513---d4bba2404dfe40678ef7c948ef6b3c59/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S3",
-      "year": "2024",
-      "mileage": "22000",
-      "price": 179000,
-      "first_seen": "2026-09-07T08:59:08Z"
     }
   ]
 }
