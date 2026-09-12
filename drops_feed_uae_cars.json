@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22286,
-  "total_drops": 501,
-  "total_new": 22286,
-  "last_updated": "2026-09-12T18:09:07Z",
+  "total_tracked": 22291,
+  "total_drops": 500,
+  "total_new": 22291,
+  "last_updated": "2026-09-12T21:58:11Z",
   "drops": [
     {
       "id": "16911379",
@@ -7007,6 +7007,66 @@
   ],
   "new_listings": [
     {
+      "id": "16954246",
+      "title": "GCC specs | 2024 Xterra",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/08/25/gcc-specs-2024-xterra-2-300---302017e833544a7b853b75f23ffbfb5c/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Xterra",
+      "year": "2024",
+      "mileage": "84118",
+      "price": 72500,
+      "first_seen": "2026-09-12T21:58:11Z"
+    },
+    {
+      "id": "16974984",
+      "title": "2023 Mercedes-Benz G-Class G 63 AMG | GCC Specs |Gargash Warranty| Low Mileage | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/12/2023-mercedes-benz-g-class-g-63-amg-gcc-sp-2-975---3e382b8b2d2a41a996d0d81267423808/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2023",
+      "mileage": "73700",
+      "price": 669500,
+      "first_seen": "2026-09-12T21:58:11Z"
+    },
+    {
+      "id": "16974939",
+      "title": "2017 Peugeot 208 GT Line GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/208/2026/09/12/2017-peugeot-208-gt-line-gcc-specs-2-743---7e3af03f2d4a4f488f2f0c4877388230/",
+      "category": "Used Cars",
+      "make": "Peugeot",
+      "model": "208",
+      "year": "2017",
+      "mileage": "110000",
+      "price": 14000,
+      "first_seen": "2026-09-12T21:58:11Z"
+    },
+    {
+      "id": "16974937",
+      "title": "2016 MINI Cooper - Iconic Style and Performance",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/09/12/2016-mini-cooper-iconic-style-and-performa-2-631---4dccbb53dfa54ca688a5e90767f4e713/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2016",
+      "mileage": "116000",
+      "price": 12000,
+      "first_seen": "2026-09-12T21:58:11Z"
+    },
+    {
+      "id": "16974929",
+      "title": "2025 Toyota Corolla Cross GLI Hybrid | Brand New | Efficient SUV",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla-cross/2026/09/12/2025-toyota-corolla-cross-gli-hybrid-brand-2-125---d4ddc2c706aa42aa80a634f511918411/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "year": "2025",
+      "mileage": "35000",
+      "price": 58000,
+      "first_seen": "2026-09-12T21:58:11Z"
+    },
+    {
       "id": "16974890",
       "title": "2023 Kia Picanto | GCC Specs | Full History, Under Warranty",
       "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2026/09/12/2023-kia-picanto-gcc-specs-full-history-un-2-162---4d4a7eb664f94434a105256319253fd7/",
@@ -12944,66 +13004,6 @@
       "year": "2015",
       "mileage": "181000",
       "price": 49000,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16961676",
-      "title": "Nissan Murano SV 2015 | GCC Specs | Well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/murano/2026/09/01/nissan-murano-sv-2015-gcc-specs-well-maint-2-638---809fd76469874efdbd5dcc7087ee2952/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Murano",
-      "year": "2015",
-      "mileage": "160000",
-      "price": 15000,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16968215",
-      "title": "Nissan Pathfinder SV 2023 GCC Specs ( Full option ) .",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/09/07/nissan-pathfinder-sv-2023-gcc-specs-full-o-2-423---4767a568482b40be8db46d222adabc18/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "year": "2023",
-      "mileage": "94000",
-      "price": 89000,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16949793",
-      "title": "2,546 P.M | Genesis Warranty + S/Contract | 0% Downpayment",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv70/2026/08/21/2546-pm-genesis-warranty-scontract-0-downp-2-054---acd49d5605504f68a7242429534bc3ee/",
-      "category": "Used Cars",
-      "make": "Genesis",
-      "model": "GV70",
-      "year": "2022",
-      "mileage": "74000",
-      "price": 129999,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16968205",
-      "title": "2016 RENAULT FLUENCE FULL OPTION | ONLY AED 10,999",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/fluence/2026/09/07/2016-renault-fluence-full-option-only-aed--2-228---e119cf23a046493ab7801d8cb0797135/",
-      "category": "Used Cars",
-      "make": "Renault",
-      "model": "Fluence",
-      "year": "2016",
-      "mileage": "156000",
-      "price": 10999,
-      "first_seen": "2026-09-07T17:21:24Z"
-    },
-    {
-      "id": "16937715",
-      "title": "3,232 P.M |  QX80 LUXE | 0% Downpayment | Infiniti Warranty til Jul 2028!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/08/10/3232-pm-qx80-luxe-0-downpayment-infiniti-w-2-260---f011290b27814cbbb764ea5bff03a48b/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX80",
-      "year": "2023",
-      "mileage": "77000",
-      "price": 164999,
       "first_seen": "2026-09-07T17:21:24Z"
     }
   ]
