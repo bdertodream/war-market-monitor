@@ -480296,7 +480296,7 @@
   "16942772": {
     "id": "16942772",
     "title": "Polestar 2 2023 Long Range Dual Motor Performance Pack GCC Specs",
-    "price": 89000,
+    "price": 86000,
     "make": "Polestar",
     "model": "2",
     "year": "2023",
@@ -480305,12 +480305,16 @@
     "fuel_type": "Electric",
     "area": "Dubai Festival City",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/8/14/polestar-2-2023-long-range-dual-motor-perf-2-980---0100839f1c80401ebbc42fe6c8dfcbd1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/08/14/polestar-2-2023-long-range-dual-motor-perf-2-953---0100839f1c80401ebbc42fe6c8dfcbd1/",
     "first_seen": "2026-08-16T04:36:34Z",
     "prices": [
       {
         "price": 89000,
         "date": "2026-08-16T04:36:34Z"
+      },
+      {
+        "price": 86000,
+        "date": "2026-09-12T03:22:02Z"
       }
     ],
     "date": "2026-08-16"
@@ -530979,6 +530983,116 @@
       {
         "price": 27999,
         "date": "2026-09-11T22:18:05Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973492": {
+    "id": "16973492",
+    "title": "Alfa Romeo Giulietta Veloce 2021 | GCC Specs | Great Condition",
+    "price": 36000,
+    "make": "Alfa Romeo",
+    "model": "GIULIETTA",
+    "year": "2021",
+    "kilometers": "60000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "International City Phase 2 (Warsan 4)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/09/11/alfa-romeo-giulietta-veloce-2021-gcc-specs-2-982---1451f26fd4ce481f9ffb9b0e7b98014f/",
+    "first_seen": "2026-09-12T03:22:02Z",
+    "prices": [
+      {
+        "price": 36000,
+        "date": "2026-09-12T03:22:02Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973363": {
+    "id": "16973363",
+    "title": "2022 Mercedes-Benz C200 Avantgarde | GCC Specs | Low Mileage",
+    "price": 99000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2022",
+    "kilometers": "102000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/11/2022-mercedes-benz-c200-avantgarde-gcc-spe-2-651---4d026d48fdb84c58923be4edfec7cea0/",
+    "first_seen": "2026-09-12T03:22:02Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-09-12T03:22:02Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973333": {
+    "id": "16973333",
+    "title": "Renault Koleos 2018 SE 4X4 - GCC Specs - Excellent Condition",
+    "price": 26500,
+    "make": "Renault",
+    "model": "Koleos",
+    "year": "2018",
+    "kilometers": "136000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/koleos/2026/09/11/renault-koleos-2018-se-4x4-gcc-specs-excel-2-162---3712821999d1425caac3ecca1ce599c5/",
+    "first_seen": "2026-09-12T03:22:02Z",
+    "prices": [
+      {
+        "price": 26500,
+        "date": "2026-09-12T03:22:02Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973256": {
+    "id": "16973256",
+    "title": "2015 Mercedes-Benz SLK 200 BlueEFFICIENCY | GCC Specs | Low Mileage",
+    "price": 26500,
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "year": "2015",
+    "kilometers": "103000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slk-class/2026/09/11/2015-mercedes-benz-slk-200-blueefficiency--2-510---0bec7f4f11a443eb9723b068f8126e16/",
+    "first_seen": "2026-09-12T03:22:02Z",
+    "prices": [
+      {
+        "price": 26500,
+        "date": "2026-09-12T03:22:02Z"
+      }
+    ],
+    "date": "2026-09-11"
+  },
+  "16973226": {
+    "id": "16973226",
+    "title": "Audi Q3 2016 40 TFSI quattro Design GCC Specs",
+    "price": 21500,
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2016",
+    "kilometers": "133000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q3/2026/09/11/audi-q3-2016-40-tfsi-quattro-design-gcc-sp-2-791---9bfe5f609c5c4729b410886b0b90017d/",
+    "first_seen": "2026-09-12T03:22:02Z",
+    "prices": [
+      {
+        "price": 21500,
+        "date": "2026-09-12T03:22:02Z"
       }
     ],
     "date": "2026-09-11"

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22214,
+  "total_tracked": 22219,
   "total_drops": 500,
-  "total_new": 22214,
-  "last_updated": "2026-09-11T22:18:05Z",
+  "total_new": 22219,
+  "last_updated": "2026-09-12T03:22:02Z",
   "drops": [
     {
       "id": "16860727",
@@ -7007,6 +7007,66 @@
   ],
   "new_listings": [
     {
+      "id": "16973492",
+      "title": "Alfa Romeo Giulietta Veloce 2021 | GCC Specs | Great Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/09/11/alfa-romeo-giulietta-veloce-2021-gcc-specs-2-982---1451f26fd4ce481f9ffb9b0e7b98014f/",
+      "category": "Used Cars",
+      "make": "Alfa Romeo",
+      "model": "GIULIETTA",
+      "year": "2021",
+      "mileage": "60000",
+      "price": 36000,
+      "first_seen": "2026-09-12T03:22:02Z"
+    },
+    {
+      "id": "16973363",
+      "title": "2022 Mercedes-Benz C200 Avantgarde | GCC Specs | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/11/2022-mercedes-benz-c200-avantgarde-gcc-spe-2-651---4d026d48fdb84c58923be4edfec7cea0/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2022",
+      "mileage": "102000",
+      "price": 99000,
+      "first_seen": "2026-09-12T03:22:02Z"
+    },
+    {
+      "id": "16973333",
+      "title": "Renault Koleos 2018 SE 4X4 - GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/koleos/2026/09/11/renault-koleos-2018-se-4x4-gcc-specs-excel-2-162---3712821999d1425caac3ecca1ce599c5/",
+      "category": "Used Cars",
+      "make": "Renault",
+      "model": "Koleos",
+      "year": "2018",
+      "mileage": "136000",
+      "price": 26500,
+      "first_seen": "2026-09-12T03:22:02Z"
+    },
+    {
+      "id": "16973256",
+      "title": "2015 Mercedes-Benz SLK 200 BlueEFFICIENCY | GCC Specs | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slk-class/2026/09/11/2015-mercedes-benz-slk-200-blueefficiency--2-510---0bec7f4f11a443eb9723b068f8126e16/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "SLK-Class",
+      "year": "2015",
+      "mileage": "103000",
+      "price": 26500,
+      "first_seen": "2026-09-12T03:22:02Z"
+    },
+    {
+      "id": "16973226",
+      "title": "Audi Q3 2016 40 TFSI quattro Design GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q3/2026/09/11/audi-q3-2016-40-tfsi-quattro-design-gcc-sp-2-791---9bfe5f609c5c4729b410886b0b90017d/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q3",
+      "year": "2016",
+      "mileage": "133000",
+      "price": 21500,
+      "first_seen": "2026-09-12T03:22:02Z"
+    },
+    {
       "id": "16973845",
       "title": "2025 MINI Cooper John Cooper Works | GCC Specs | Brand New",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/09/11/2025-mini-cooper-john-cooper-works-gcc-spe-2-744---bf6eb36d5c6c4e0bb1a5ca166230bbf8/",
@@ -12944,66 +13004,6 @@
       "year": "2018",
       "mileage": "150000",
       "price": 22500,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16942363",
-      "title": "BUY NOW, PAY 2027 | THE BLACKLINE STANDARD | March 2027 Porsche Warranty, GCC, Low KMs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/08/14/buy-now-pay-2027-the-blackline-standard-ma-2-882---ce920a9ad2e041c09b2c1ca582a6938b/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "911",
-      "year": "2025",
-      "mileage": "12706",
-      "price": 709000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16956620",
-      "title": "Jeep compass 4X4 Limited option 2018 Year 2.4L Gcc specifications, accident condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/compass/2026/08/27/jeep-compass-4x4-limited-option-2018-year--2-143---0d137b2ef2de4d1a8cc0a7ac49dfa94c/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Compass",
-      "year": "2018",
-      "mileage": "63000",
-      "price": 30000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16966821",
-      "title": "Kia Picanto 2020 EX GCC Spec - Compact & Fuel Efficient City Car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/picanto/2026/09/06/kia-picanto-2020-ex-gcc-spec-compact-fuel--2-820---e828fc58f2574ec5b05353088d22c7fe/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Picanto",
-      "year": "2020",
-      "mileage": "105000",
-      "price": 22000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16831387",
-      "title": "AED 12142/month | 2016 Porsche Carrera / 911  | GCC Specs | Ref#460592",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/05/08/aed-12142month-2016-porsche-carrera-911-gc-2-135---fdd25e88d4d242fbbef5d87a99e3b874/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "911",
-      "year": "2016",
-      "mileage": "64981",
-      "price": 345000,
-      "first_seen": "2026-09-06T08:24:43Z"
-    },
-    {
-      "id": "16936906",
-      "title": "AED 5318/month | 2026 BMW X5  | GCC Specs | Ref#503954",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/08/09/aed-5318month-2026-bmw-x5-gcc-specs-ref503-2-924---59ee22d6803e453bb4c5f3137f02b030/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2026",
-      "mileage": "7618",
-      "price": 350000,
       "first_seen": "2026-09-06T08:24:43Z"
     }
   ]

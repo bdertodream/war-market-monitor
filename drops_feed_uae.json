@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "9802227",
-      "title": "Spacious Free Hold Corner Shop",
-      "old_price": 3500000,
-      "new_price": 3307200,
-      "drop_pct": 5.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/3/spacious-free-hold-corner-shop-2-521015/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Shop",
-      "size": "2066",
-      "bedrooms": "",
-      "date": "2026-05-12",
-      "first_seen": "2026-05-12"
-    },
-    {
       "id": "9797931",
       "title": "Best Deal I Prime Location I High ROI I Vacant I Lagoon View I Price Negiotiable",
       "old_price": 4349676,
@@ -7005,6 +6991,20 @@
       "bedrooms": "2",
       "date": "2026-09-10",
       "first_seen": "2026-09-01"
+    },
+    {
+      "id": "9764953",
+      "title": "Premium Plot/G+2+B/Front Facing/",
+      "old_price": 9500000,
+      "new_price": 8500000,
+      "drop_pct": 10.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/19/premium-plotg2bfront-facing-2-103437/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "5169",
+      "bedrooms": "",
+      "date": "2026-09-12",
+      "first_seen": "2026-08-08"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-11"
+  "last_updated": "2026-09-12"
 }
