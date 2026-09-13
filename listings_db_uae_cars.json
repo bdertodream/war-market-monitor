@@ -449440,7 +449440,7 @@
   "16929906": {
     "id": "16929906",
     "title": "Brand New Chery HIMLA DIESEL A/T 2026 | GCC Specs",
-    "price": 85000,
+    "price": 91000,
     "make": "Chery",
     "model": "RELY",
     "year": "2026",
@@ -449455,6 +449455,10 @@
       {
         "price": 85000,
         "date": "2026-08-02T17:01:05Z"
+      },
+      {
+        "price": 91000,
+        "date": "2026-09-13T18:34:34Z"
       }
     ],
     "date": "2026-08-02"
@@ -478308,7 +478312,7 @@
   "16925438": {
     "id": "16925438",
     "title": "2017 Mercedes-Benz GLS 450 4MATIC | Luxury 7-Seater | American Specs",
-    "price": 59000,
+    "price": 55000,
     "make": "Mercedes-Benz",
     "model": "GLS-Class",
     "year": "2017",
@@ -478317,7 +478321,7 @@
     "fuel_type": "Petrol",
     "area": "JVC District 10",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/07/29/2017-mercedes-benz-gls-450-4matic-luxury-7-2-891---2d8effc1531240109af9fdf77d059bc2/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/07/29/2017-mercedes-benz-gls-450-4matic-luxury-7-2-155---2d8effc1531240109af9fdf77d059bc2/",
     "first_seen": "2026-08-15T08:28:54Z",
     "prices": [
       {
@@ -478339,6 +478343,10 @@
       {
         "price": 59000,
         "date": "2026-09-13T15:42:46Z"
+      },
+      {
+        "price": 55000,
+        "date": "2026-09-13T18:34:34Z"
       }
     ],
     "date": "2026-08-15"
@@ -519472,7 +519480,7 @@
   "16966037": {
     "id": "16966037",
     "title": "(BIG ENGINE) Nissan Patrol 2017 LE Titanium | GCC Specs | Well Maintained",
-    "price": 69000,
+    "price": 65000,
     "make": "Nissan",
     "model": "Patrol",
     "year": "2017",
@@ -519481,7 +519489,7 @@
     "fuel_type": "Petrol",
     "area": "Hanover Square",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/05/big-engine-nissan-patrol-2017-le-titanium--2-107---de97ab0fb6484672923afb63bcd04389/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/05/big-engine-nissan-patrol-2017-le-titanium--2-167---de97ab0fb6484672923afb63bcd04389/",
     "first_seen": "2026-09-05T14:41:32Z",
     "prices": [
       {
@@ -519491,6 +519499,10 @@
       {
         "price": 69000,
         "date": "2026-09-11T08:38:08Z"
+      },
+      {
+        "price": 65000,
+        "date": "2026-09-13T18:34:34Z"
       }
     ],
     "date": "2026-09-05"
@@ -524232,7 +524244,7 @@
   "16969834": {
     "id": "16969834",
     "title": "Changan UNI-K AWD Limited 2023 GCC Specs| under warranty",
-    "price": 65000,
+    "price": 58000,
     "make": "Changan",
     "model": "UNI-K",
     "year": "2023",
@@ -524241,12 +524253,16 @@
     "fuel_type": "Petrol",
     "area": "Hanover Square",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-k/2026/09/08/changan-uni-k-awd-limited-2023-gcc-specs-u-2-334---f311f4ad1d504e2c9d9c1e1c304a3a54/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-k/2026/09/08/changan-uni-k-awd-limited-2023-gcc-specs-u-2-601---f311f4ad1d504e2c9d9c1e1c304a3a54/",
     "first_seen": "2026-09-08T16:05:27Z",
     "prices": [
       {
         "price": 65000,
         "date": "2026-09-08T16:05:27Z"
+      },
+      {
+        "price": 58000,
+        "date": "2026-09-13T18:34:34Z"
       }
     ],
     "date": "2026-09-08"
@@ -533963,6 +533979,182 @@
       {
         "price": 59000,
         "date": "2026-09-13T15:42:46Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16975927": {
+    "id": "16975927",
+    "title": "2025 Skywell ET5 | GCC Specs | Brand New Electric SUV",
+    "price": 96500,
+    "make": "Skywell",
+    "model": "ET5",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/skywell/et5/2026/09/13/2025-skywell-et5-gcc-specs-brand-new-elect-2-119---4fcb4dafccc9419594f9cb5e8cf290de/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 96500,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16975908": {
+    "id": "16975908",
+    "title": "2019 Rolls-Royce Cullinan Black Badge | European Specs | Pristine Condition",
+    "price": 1050000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2019",
+    "kilometers": "28000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/09/13/2019-rolls-royce-cullinan-black-badge-euro-2-966---72c8b8d3b62240b8807e3a7457e54c84/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 1050000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16909072": {
+    "id": "16909072",
+    "title": "Brabus 900 Rocket Edition 4\u00d74\u00b2 2020 - Japanese Specs",
+    "price": 820000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2020",
+    "kilometers": "29000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/07/14/brabus-900-rocket-edition-442-2020-japanes-2-224---25a763318c65448d8f7b4f9c0436c952/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 820000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16975885": {
+    "id": "16975885",
+    "title": "2027 BAW 212 T01 Adventurer GCC Specs - Brand New",
+    "price": 105000,
+    "make": "212",
+    "model": "T01",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/09/13/2027-baw-212-t01-adventurer-gcc-specs-bran-2-509---e79fc008f7e44a13945b376ffaf0153b/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16975872": {
+    "id": "16975872",
+    "title": "Dodge Durango GT 2020 \u2013 Black Edition GCC Specs",
+    "price": 53000,
+    "make": "Dodge",
+    "model": "Durango",
+    "year": "2020",
+    "kilometers": "129000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/09/13/dodge-durango-gt-2020-black-edition-gcc-sp-2-175---a9f7fd060308415e8d47ab98dafb5188/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16975860": {
+    "id": "16975860",
+    "title": "2026 Chery Himla Luxury GCC Specs - Brand New DIESEL AT 2026",
+    "price": 91000,
+    "make": "Chery",
+    "model": "Himla",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/himla/2026/09/13/2026-chery-himla-luxury-gcc-specs-brand-ne-2-261---e2c5330659cb4b2284ed7398f9f3b832/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 91000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16967017": {
+    "id": "16967017",
+    "title": "GCC SPECS WARRANTY - 2025 PORSCHE 911 CARRERA - SPORTS CHRONO - MATRIX LED - SPORTS EXHAUST",
+    "price": 549000,
+    "make": "Porsche",
+    "model": "911",
+    "year": "2025",
+    "kilometers": "13000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/09/06/gcc-specs-warranty-2025-porsche-911-carrer-2-019---cc369a7886db4801bae8bceb497f10f8/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 549000,
+        "date": "2026-09-13T18:34:34Z"
+      }
+    ],
+    "date": "2026-09-13"
+  },
+  "16964367": {
+    "id": "16964367",
+    "title": "Peugeot 3008 Allure 2026 GCC Specs - Brand New Condition",
+    "price": 85000,
+    "make": "Peugeot",
+    "model": "3008",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/3008/2026/09/03/peugeot-3008-allure-2026-gcc-specs-brand-n-2-987---f4dc97e1e1f24255917c98ea45406abb/",
+    "first_seen": "2026-09-13T18:34:34Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-09-13T18:34:34Z"
       }
     ],
     "date": "2026-09-13"
