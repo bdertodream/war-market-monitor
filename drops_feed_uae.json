@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25641,
+  "total_tracked": 25644,
   "total_drops": 500,
-  "total_new": 25641,
+  "total_new": 25644,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,39 @@
   ],
   "new_listings": [
     {
+      "id": "17996693",
+      "title": "Below Original Price | Corner Unit | Spacious",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/12/below-original-price-corner-unit-spacio-2-277740/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "1171",
+      "bedrooms": "2",
+      "price": 2000000,
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "17985135",
+      "title": "Exclusive | Large Family Home | Upgraded",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/exclusive-large-family-home-upgraded-2-303592/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "3800",
+      "bedrooms": "4",
+      "price": 5250000,
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "9834950",
+      "title": "Future of Dubai | Strategic Airport Location | Exclusive Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/13/future-of-dubai-strategic-airport-locat-2-235986/",
+      "area": "Dubai Industrial City",
+      "category": "Office",
+      "size": "761",
+      "bedrooms": "",
+      "price": 688000,
+      "first_seen": "2026-09-13"
+    },
+    {
       "id": "17986908",
       "title": "D8 I Vacant On Transfer I Internal I Back To Back",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/d8-i-vacant-on-transfer-i-internal-i-ba-2-285590/",
@@ -12473,39 +12506,6 @@
       "size": "823",
       "bedrooms": "1",
       "price": 1169000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17834177",
-      "title": "Brand New | Close to Circle Mall | Community View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/7/vacant-brand-new-close-to-circle-mall-2-106873/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "1268",
-      "bedrooms": "2",
-      "price": 1725000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17947988",
-      "title": "1-BHK APARTMENT | FURNISHED | EXCLUSIVE | HOT DEAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/2/1-bhk-premium-apartment-fully-furnished-2-322102/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "581",
-      "bedrooms": "1",
-      "price": 869000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17853548",
-      "title": "Modern 1BR | Investor Deal | Dubai South",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/11/modern-1br-investor-deal-dubai-south-2-196123/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "730",
-      "bedrooms": "1",
-      "price": 1160000,
       "first_seen": "2026-09-05"
     }
   ],
