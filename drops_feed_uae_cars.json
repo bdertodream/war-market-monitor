@@ -1,23 +1,9 @@
 {
   "total_tracked": 22291,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 22291,
-  "last_updated": "2026-09-12T21:58:11Z",
+  "last_updated": "2026-09-13T03:27:31Z",
   "drops": [
-    {
-      "id": "16911379",
-      "title": "GAC GS3 2024 GCC Specs | Pristine Condition",
-      "old_price": 32000,
-      "new_price": 29000,
-      "drop_pct": 9.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs3/2026/7/16/gac-gs3-2024-gcc-specs-pristine-condition-2-524---29687001adde4426bebe71759a40a548/",
-      "category": "Used Cars",
-      "make": "GAC",
-      "model": "GS3",
-      "year": "2024",
-      "mileage": "48000",
-      "date": "2026-08-17T20:27:12Z"
-    },
     {
       "id": "16932528",
       "title": "AED 893/m | 0 DP | Free 3 Months Warranty | Service History | 30D Return | TOYOTA COROLLA CROSS 2023",
@@ -7003,6 +6989,20 @@
       "year": "2021",
       "mileage": "950",
       "date": "2026-09-12T18:09:07Z"
+    },
+    {
+      "id": "16839525",
+      "title": "AMG MERCEDES GL500 V8 \u2014 FULLY LOADED \u2014 GCC \u2014 PERFECT CONDITION",
+      "old_price": 88000,
+      "new_price": 79000,
+      "drop_pct": 10.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gl-class/2026/05/14/amg-mercedes-gl500-v8-fully-loaded-gcc-per-2-855---9a602a9fb10148c39c04453ab2af70ce/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GL-Class",
+      "year": "2016",
+      "mileage": "100000",
+      "date": "2026-09-13T03:27:31Z"
     }
   ],
   "new_listings": [
@@ -7141,13 +7141,13 @@
     {
       "id": "16974678",
       "title": "MG ZS 2026 Standard GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2026-standard-gcc-specs-2-423---50b1a5ffe0ea4ccbadc660111ef6a2fc/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2026-standard-gcc-specs-2-704---50b1a5ffe0ea4ccbadc660111ef6a2fc/",
       "category": "Used Cars",
       "make": "MG",
       "model": "ZS",
       "year": "2026",
       "mileage": "0",
-      "price": 43999,
+      "price": 42999,
       "first_seen": "2026-09-12T15:05:57Z"
     },
     {
@@ -7189,13 +7189,13 @@
     {
       "id": "16974655",
       "title": "Brand New 2026 MG ZS Standard - GCC Specs - Full Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/brand-new-2026-mg-zs-standard-gcc-specs-fu-2-764---119f83bda368426d8f59b7d5dcfd10c3/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/brand-new-2026-mg-zs-standard-gcc-specs-fu-2-234---119f83bda368426d8f59b7d5dcfd10c3/",
       "category": "Used Cars",
       "make": "MG",
       "model": "ZS",
       "year": "2026",
       "mileage": "0",
-      "price": 43999,
+      "price": 42999,
       "first_seen": "2026-09-12T15:05:57Z"
     },
     {

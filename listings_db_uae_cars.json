@@ -28202,7 +28202,7 @@
   "16652132": {
     "id": "16652132",
     "title": "MG ZS 2026",
-    "price": 43999,
+    "price": 42999,
     "make": "MG",
     "model": "ZS",
     "year": "2026",
@@ -28211,7 +28211,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2025/11/27/mg-zs-2026-2-288---88cafc95bc5d49b2bee4bd073de8af08/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2025/11/27/mg-zs-2026-2-554---88cafc95bc5d49b2bee4bd073de8af08/",
     "first_seen": "2026-03-11T19:45:18Z",
     "prices": [
       {
@@ -28249,6 +28249,10 @@
       {
         "price": 43999,
         "date": "2026-09-12T15:05:57Z"
+      },
+      {
+        "price": 42999,
+        "date": "2026-09-13T03:27:31Z"
       }
     ],
     "date": "2026-03-11"
@@ -248633,8 +248637,8 @@
   },
   "16839525": {
     "id": "16839525",
-    "title": "Mercedes-Benz GL 500 4matic 2016 | GCC Specs | Full Option",
-    "price": 88000,
+    "title": "AMG MERCEDES GL500 V8 \u2014 FULLY LOADED \u2014 GCC \u2014 PERFECT CONDITION",
+    "price": 79000,
     "make": "Mercedes-Benz",
     "model": "GL-Class",
     "year": "2016",
@@ -248643,7 +248647,7 @@
     "fuel_type": "Petrol",
     "area": "Za'abeel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gl-class/2026/5/14/mercedes-benz-gl-500-4matic-2016-gcc-specs-2-506---9a602a9fb10148c39c04453ab2af70ce/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gl-class/2026/05/14/amg-mercedes-gl500-v8-fully-loaded-gcc-per-2-855---9a602a9fb10148c39c04453ab2af70ce/",
     "first_seen": "2026-05-15T03:40:11Z",
     "prices": [
       {
@@ -248653,6 +248657,10 @@
       {
         "price": 88000,
         "date": "2026-05-17T03:28:58Z"
+      },
+      {
+        "price": 79000,
+        "date": "2026-09-13T03:27:31Z"
       }
     ],
     "date": "2026-05-14"
@@ -531852,7 +531860,7 @@
   "16974678": {
     "id": "16974678",
     "title": "MG ZS 2026 Standard GCC Specs",
-    "price": 43999,
+    "price": 42999,
     "make": "MG",
     "model": "ZS",
     "year": "2026",
@@ -531861,12 +531869,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2026-standard-gcc-specs-2-423---50b1a5ffe0ea4ccbadc660111ef6a2fc/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2026-standard-gcc-specs-2-704---50b1a5ffe0ea4ccbadc660111ef6a2fc/",
     "first_seen": "2026-09-12T15:05:57Z",
     "prices": [
       {
         "price": 43999,
         "date": "2026-09-12T15:05:57Z"
+      },
+      {
+        "price": 42999,
+        "date": "2026-09-13T03:27:31Z"
       }
     ],
     "date": "2026-09-12"
@@ -531940,7 +531952,7 @@
   "16974655": {
     "id": "16974655",
     "title": "Brand New 2026 MG ZS Standard - GCC Specs - Full Warranty",
-    "price": 43999,
+    "price": 42999,
     "make": "MG",
     "model": "ZS",
     "year": "2026",
@@ -531949,12 +531961,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/brand-new-2026-mg-zs-standard-gcc-specs-fu-2-764---119f83bda368426d8f59b7d5dcfd10c3/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/brand-new-2026-mg-zs-standard-gcc-specs-fu-2-234---119f83bda368426d8f59b7d5dcfd10c3/",
     "first_seen": "2026-09-12T15:05:57Z",
     "prices": [
       {
         "price": 43999,
         "date": "2026-09-12T15:05:57Z"
+      },
+      {
+        "price": 42999,
+        "date": "2026-09-13T03:27:31Z"
       }
     ],
     "date": "2026-09-12"
