@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25675,
+  "total_tracked": 25677,
   "total_drops": 500,
-  "total_new": 25675,
+  "total_new": 25677,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "17864834",
+      "title": "Full Marina View | Fully Upgraded | Corner Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/14/full-marina-view-fully-upgraded-corner--2-204143/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "746",
+      "bedrooms": "1",
+      "price": 1390000,
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "17748176",
+      "title": "Fully Upgraded | High Floor | View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/20/fully-upgraded-high-floor-view-2-269366/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "660",
+      "bedrooms": "1",
+      "price": 1099990,
+      "first_seen": "2026-09-14"
+    },
+    {
       "id": "17996693",
       "title": "Below Original Price | Corner Unit | Spacious",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/12/below-original-price-corner-unit-spacio-2-277740/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "1",
       "price": 1975000,
       "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17821828",
-      "title": "Downtown Dubai Investor Deal | W Hotel Residence",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/downtown-dubai-investor-deal-w-hotel-re-2-322022/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1182",
-      "bedrooms": "2",
-      "price": 4214000,
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "17930233",
-      "title": "1BR Apartment | Portside by Samana | Downtown City View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/29/1br-apartment-portside-by-samana-downto-2-123193/",
-      "area": "Downtown Jebel Ali",
-      "category": "Apartment",
-      "size": "624",
-      "bedrooms": "1",
-      "price": 1100000,
-      "first_seen": "2026-09-05"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-13"
+  "last_updated": "2026-09-14"
 }

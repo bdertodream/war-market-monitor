@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22352,
+  "total_tracked": 22355,
   "total_drops": 500,
-  "total_new": 22352,
-  "last_updated": "2026-09-13T22:09:36Z",
+  "total_new": 22355,
+  "last_updated": "2026-09-14T03:38:06Z",
   "drops": [
     {
       "id": "16862819",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "16976070",
+      "title": "Audi S7 2014 | 4.0 TFSI Quattro | GCC Specs | Performance Luxury",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s7/2026/09/14/audi-s7-2014-40-tfsi-quattro-gcc-specs-per-2-687---17ecaea87dbd4539bfe7dd45938051c1/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "S7",
+      "year": "2014",
+      "mileage": "152000",
+      "price": 46000,
+      "first_seen": "2026-09-14T03:38:06Z"
+    },
+    {
+      "id": "16967551",
+      "title": "!! 2025 !! Cadillac | Escalade | ESV Platinum | GCC | Under Warranty and Service Contract",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/09/06/2025-cadillac-escalade-esv-platinum-gcc-un-2-225---15f26d593b414683a64fd9bae5fdb5ae/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year": "2025",
+      "mileage": "100",
+      "price": 529000,
+      "first_seen": "2026-09-14T03:38:06Z"
+    },
+    {
+      "id": "16976041",
+      "title": "2020 BMW M5 Competition GCC Specs the cleanest is gcc",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m5/2026/09/13/2020-bmw-m5-competition-gcc-specs-the-clea-2-980---cd46e642d70b4ecca0572117e03ff87a/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "M5",
+      "year": "2020",
+      "mileage": "77000",
+      "price": 269999,
+      "first_seen": "2026-09-14T03:38:06Z"
+    },
+    {
       "id": "16976025",
       "title": "Audi A4 2.0 TFSI 2014 GCC Specs in Excellent Condition",
       "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2026/09/13/audi-a4-20-tfsi-2014-gcc-specs-in-excellen-2-499---991488c2232249e4808eae9a37db1909/",
@@ -12969,42 +13005,6 @@
       "mileage": "171000",
       "price": 36000,
       "first_seen": "2026-09-08T03:18:43Z"
-    },
-    {
-      "id": "16968876",
-      "title": "Lincoln MKX Ultimate 2016 | GCC Specs | Full Option",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkx/2026/09/07/lincoln-mkx-ultimate-2016-gcc-specs-full-o-2-068---1dac1f4f43914b71ad72f1fc921142a1/",
-      "category": "Used Cars",
-      "make": "Lincoln",
-      "model": "MKX",
-      "year": "2016",
-      "mileage": "134000",
-      "price": 18500,
-      "first_seen": "2026-09-08T03:18:43Z"
-    },
-    {
-      "id": "16968865",
-      "title": "2011 Jeep Grand Cherokee Laredo | GCC Specs | Well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/09/07/2011-jeep-grand-cherokee-laredo-gcc-specs--2-795---05f76c90694c405e89f8d45386cb18e0/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "2011",
-      "mileage": "166000",
-      "price": 15500,
-      "first_seen": "2026-09-08T03:18:43Z"
-    },
-    {
-      "id": "16957050",
-      "title": "ELITE RANGE ROVER SPORT || SUPERCHARGED || TOP RANGE || REAR SCREENS || VERY NEAT || PANORAMIC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/08/27/elite-range-rover-sport-supercharged-top-r-2-166---eca25824bebc462db74436912616aabd/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2020",
-      "mileage": "115000",
-      "price": 169000,
-      "first_seen": "2026-09-07T22:33:01Z"
     }
   ]
 }

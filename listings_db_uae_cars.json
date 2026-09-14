@@ -534246,5 +534246,71 @@
       }
     ],
     "date": "2026-09-13"
+  },
+  "16976070": {
+    "id": "16976070",
+    "title": "Audi S7 2014 | 4.0 TFSI Quattro | GCC Specs | Performance Luxury",
+    "price": 46000,
+    "make": "Audi",
+    "model": "S7",
+    "year": "2014",
+    "kilometers": "152000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Beach Residence (JBR)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s7/2026/09/14/audi-s7-2014-40-tfsi-quattro-gcc-specs-per-2-687---17ecaea87dbd4539bfe7dd45938051c1/",
+    "first_seen": "2026-09-14T03:38:06Z",
+    "prices": [
+      {
+        "price": 46000,
+        "date": "2026-09-14T03:38:06Z"
+      }
+    ],
+    "date": "2026-09-14"
+  },
+  "16967551": {
+    "id": "16967551",
+    "title": "!! 2025 !! Cadillac | Escalade | ESV Platinum | GCC | Under Warranty and Service Contract",
+    "price": 529000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": "2025",
+    "kilometers": "100",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/09/06/2025-cadillac-escalade-esv-platinum-gcc-un-2-225---15f26d593b414683a64fd9bae5fdb5ae/",
+    "first_seen": "2026-09-14T03:38:06Z",
+    "prices": [
+      {
+        "price": 529000,
+        "date": "2026-09-14T03:38:06Z"
+      }
+    ],
+    "date": "2026-09-14"
+  },
+  "16976041": {
+    "id": "16976041",
+    "title": "2020 BMW M5 Competition GCC Specs the cleanest is gcc",
+    "price": 269999,
+    "make": "BMW",
+    "model": "M5",
+    "year": "2020",
+    "kilometers": "77000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sama Townhouses",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m5/2026/09/13/2020-bmw-m5-competition-gcc-specs-the-clea-2-980---cd46e642d70b4ecca0572117e03ff87a/",
+    "first_seen": "2026-09-14T03:38:06Z",
+    "prices": [
+      {
+        "price": 269999,
+        "date": "2026-09-14T03:38:06Z"
+      }
+    ],
+    "date": "2026-09-13"
   }
 }
