@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22434,
-  "total_drops": 506,
-  "total_new": 22434,
-  "last_updated": "2026-09-14T22:59:14Z",
+  "total_tracked": 22440,
+  "total_drops": 500,
+  "total_new": 22440,
+  "last_updated": "2026-09-15T03:39:19Z",
   "drops": [
     {
       "id": "16903867",
@@ -7007,6 +7007,78 @@
   ],
   "new_listings": [
     {
+      "id": "16975453",
+      "title": "Kia Sorento 2013 -GCC Specs Office used",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sorento/2026/09/13/kia-sorento-2013-gcc-specs-office-used-2-296---40b340eacde047d6a85c3023a77816a6/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Sorento",
+      "year": "2013",
+      "mileage": "220000",
+      "price": 26000,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
+      "id": "16965382",
+      "title": "Mercedes A 200 PREMIUM + AMG PACK - GCC SPECS - MERCEDES WARRANTY & SERVICE PACK -WELL MAINTAINED",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/04/mercedes-a-200-premium-amg-pack-gcc-specs--2-040---aa52473cec1848869a32f61b929cfc23/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "year": "2024",
+      "mileage": "59000",
+      "price": 109900,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
+      "id": "16966888",
+      "title": "Mazda CX-5 Trend Plus 2024 GCC Specs - Brand New Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-5/2026/09/06/mazda-cx-5-trend-plus-2024-gcc-specs-brand-2-707---c8eb635dde48403e9d39e666d81d0ee6/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": "2024",
+      "mileage": "10300",
+      "price": 95000,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
+      "id": "16977236",
+      "title": "Chevrolet Spark LS 2018 GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/spark/2026/09/15/chevrolet-spark-ls-2018-gcc-specs-excellen-2-235---54962625cfd54af2a2f44b227241e822/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Spark",
+      "year": "2018",
+      "mileage": "140000",
+      "price": 9900,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
+      "id": "16977212",
+      "title": "2016 C43 AMG 4MATIC | 4.5 Japan Grade \ud83c\uddef\ud83c\uddf5 | 78K KM | Full Original Paint | Loaded Spec",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/14/2016-c43-amg-4matic-45-japan-grade-78k-km--2-772---49c11853fada4bc48354c12c28bd340d/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2016",
+      "mileage": "78000",
+      "price": 99990,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
+      "id": "16977012",
+      "title": "Land Cruiser GXR | GCC Specs | REF #T50776",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/09/14/land-cruiser-gxr-gcc-specs-ref-t50776-2-152---890ea037807a46afb20a9ae9a056f6ab/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2017",
+      "mileage": "202370",
+      "price": 125000,
+      "first_seen": "2026-09-15T03:39:19Z"
+    },
+    {
       "id": "16977205",
       "title": "MITSUBISHI MONTERO SPORT 2021 GLS TOP LINE 4WD KM 43125 PRICE 69000",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/montero-sport/2026/09/14/mitsubishi-montero-sport-2021-gls-top-line-2-887---5578b536cc5a4593a6fdbf3e2060fe8c/",
@@ -12912,14 +12984,14 @@
     },
     {
       "id": "16941205",
-      "title": "AED 5090/month | 2025 Nissan Patrol LE Platinum City | GCC Specs | Ref#506617",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/08/13/aed-5090month-2025-nissan-patrol-le-platin-2-801---553d023393a74bec91564f209d54748d/",
+      "title": "AED 5045/month | 2025 Nissan Patrol LE Platinum City | GCC Specs | Ref#506617",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/08/13/aed-5045month-2025-nissan-patrol-le-platin-2-456---553d023393a74bec91564f209d54748d/",
       "category": "Used Cars",
       "make": "Nissan",
       "model": "Patrol",
       "year": "2025",
       "mileage": "36012",
-      "price": 335000,
+      "price": 332000,
       "first_seen": "2026-09-09T08:41:52Z"
     },
     {
@@ -12932,78 +13004,6 @@
       "year": "2023",
       "mileage": "109198",
       "price": 339999,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16850236",
-      "title": "AED 5166/month | 2025 BMW X6  | GCC Specs | Ref#466968",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/05/24/aed-5166month-2025-bmw-x6-gcc-specs-ref466-2-579---6a47d8af4ada441f948ebed43c8820ee/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X6",
-      "year": "2025",
-      "mileage": "57754",
-      "price": 340000,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16869591",
-      "title": "AED 5166/month | 2024 Porsche Cayenne  | GCC Specs | Ref#477955",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/06/11/aed-5166month-2024-porsche-cayenne-gcc-spe-2-032---eba66568443849b3a3d57d04d6364064/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2024",
-      "mileage": "42593",
-      "price": 340000,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16883960",
-      "title": "AED 5241/month | 2023 Porsche Cayenne  | GCC Specs | Ref#484794",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/06/23/aed-5241month-2023-porsche-cayenne-gcc-spe-2-617---60b5415d4cbd4b5ebd5e8978a8daf9bf/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2023",
-      "mileage": "26891",
-      "price": 344900,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16882159",
-      "title": "AED 5242/month | 2025 BMW M2  | GCC Specs | Ref#485740",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m2/2026/06/22/aed-5242month-2025-bmw-m2-gcc-specs-ref485-2-420---bead2cf658b2466989dc45c6dda32e91/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "M2",
-      "year": "2025",
-      "mileage": "7680",
-      "price": 344995,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16967473",
-      "title": "AED 5318/month | 2025 RAM 1500 RHO | GCC Specs | Ref#515715",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/09/06/aed-5318month-2025-ram-1500-rho-gcc-specs--2-334---19a3d01d5c8a4e05bb98dc34c1798256/",
-      "category": "Used Cars",
-      "make": "RAM",
-      "model": "1500",
-      "year": "2025",
-      "mileage": "6516",
-      "price": 350000,
-      "first_seen": "2026-09-09T08:41:52Z"
-    },
-    {
-      "id": "16970398",
-      "title": "MINI Service History | Mini Cooper S JCW 2020 GCC Specifications (Single Owner / 2 Keys)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/09/09/mini-service-history-mini-cooper-s-jcw-202-2-018---c664d415be37489d9b3da3dba9ecaa3e/",
-      "category": "Used Cars",
-      "make": "MINI",
-      "model": "Cooper",
-      "year": "2020",
-      "mileage": "119000",
-      "price": 46000,
       "first_seen": "2026-09-09T08:41:52Z"
     }
   ]
