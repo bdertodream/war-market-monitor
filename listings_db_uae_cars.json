@@ -452984,7 +452984,7 @@
   "16931297": {
     "id": "16931297",
     "title": "MERCEDES G63 EDITION ONE | IN SUPER AMAZING COMMON | NEVER HAD ACCIDENT OR PAINT",
-    "price": 154000,
+    "price": 162000,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2016",
@@ -452999,6 +452999,10 @@
       {
         "price": 154000,
         "date": "2026-08-04T02:30:27Z"
+      },
+      {
+        "price": 162000,
+        "date": "2026-09-15T22:44:39Z"
       }
     ],
     "date": "2026-08-03"
@@ -508944,7 +508948,7 @@
   "16957777": {
     "id": "16957777",
     "title": "2019 Peugeot 208 Gcc Specs",
-    "price": 19995,
+    "price": 16900,
     "make": "Peugeot",
     "model": "208",
     "year": "2019",
@@ -508953,12 +508957,16 @@
     "fuel_type": "Petrol",
     "area": "DAMAC Hills",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/208/2026/08/28/2019-peugeot-208-gcc-specs-2-739---7e85af0a77e04105bba3a386c9946a37/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/208/2026/08/28/2019-peugeot-208-gcc-specs-2-484---7e85af0a77e04105bba3a386c9946a37/",
     "first_seen": "2026-08-31T18:51:18Z",
     "prices": [
       {
         "price": 19995,
         "date": "2026-08-31T18:51:18Z"
+      },
+      {
+        "price": 16900,
+        "date": "2026-09-15T22:44:39Z"
       }
     ],
     "date": "2026-08-31"
@@ -538297,6 +538305,402 @@
       {
         "price": 134000,
         "date": "2026-09-15T16:23:38Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978334": {
+    "id": "16978334",
+    "title": "2014 Mercedes-Benz S-Class S 550 - Japanese Specs - 72000 AED ONLY",
+    "price": 72000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2014",
+    "kilometers": "88422",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/15/2014-mercedes-benz-s-class-s-550-japanese--2-157---c446b2a1ca1241358c8cfb159458cb7a/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 72000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16970253": {
+    "id": "16970253",
+    "title": "Nissan Pathfinder S 2014 | GCC Specs | Reliable Family SUV",
+    "price": 14500,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "2014",
+    "kilometers": "161744",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Commer City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/09/08/nissan-pathfinder-s-2014-gcc-specs-reliabl-2-994---0639cb74914042c49015dcd157cb357a/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 14500,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978455": {
+    "id": "16978455",
+    "title": "Nissan Kicks SV 2022 LOW MILEAGE",
+    "price": 35000,
+    "make": "Nissan",
+    "model": "Kicks",
+    "year": "2022",
+    "kilometers": "48000",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/kicks/2026/09/15/nissan-kicks-sv-2022-low-mileage-2-522---4139ce0cb3704a24beb3a171bd546330/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 35000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978435": {
+    "id": "16978435",
+    "title": "2023 Kia Seltos GT-Line GCC Specs in Excellent Condition",
+    "price": 52000,
+    "make": "Kia",
+    "model": "Seltos",
+    "year": "2023",
+    "kilometers": "94000",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2026/09/15/2023-kia-seltos-gt-line-gcc-specs-in-excel-2-804---431fd3a223e944789b4ef7e591a4fd72/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 52000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978418": {
+    "id": "16978418",
+    "title": "2024 Infiniti QX60 Sensory |  Immaculate Condition",
+    "price": 110000,
+    "make": "Infiniti",
+    "model": "QX60",
+    "year": "2024",
+    "kilometers": "14000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx60/2026/09/15/2024-infiniti-qx60-sensory-immaculate-cond-2-685---71bf20d7f2ac4ee8b9b7399fb2d1ec25/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 110000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978413": {
+    "id": "16978413",
+    "title": "2015 Nissan Patrol LE Platinum City GCC Specs",
+    "price": 48000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2015",
+    "kilometers": "215000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/15/2015-nissan-patrol-le-platinum-city-gcc-sp-2-805---c1176220504d44869d6b4ba8157b71db/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 48000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978412": {
+    "id": "16978412",
+    "title": "2022 BMW 2-Series 228i xDrive | American Specs | Excellent Condition",
+    "price": 55000,
+    "make": "BMW",
+    "model": "2-Series",
+    "year": "2022",
+    "kilometers": "115000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/09/15/2022-bmw-2-series-228i-xdrive-american-spe-2-324---848868f216b34b0999cd7045342acd52/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978381": {
+    "id": "16978381",
+    "title": "Mercedes-Benz C-Class C300 4MATIC 2019",
+    "price": 48000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2019",
+    "kilometers": "117000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/15/mercedes-benz-c-class-c300-4matic-2019-2-025---0ba3e070b381421a8fee47391a2b1797/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 48000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978368": {
+    "id": "16978368",
+    "title": "2021 Lexus GX 460 Luxury - American Specs",
+    "price": 120000,
+    "make": "Lexus",
+    "model": "GX-Series",
+    "year": "2021",
+    "kilometers": "86000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gx-series/2026/09/15/2021-lexus-gx-460-luxury-american-specs-2-327---c18335a8ed514be4a0f82d3dfc2b3dab/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 120000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978352": {
+    "id": "16978352",
+    "title": "2016 Lincoln MKZ  | GCC Specs | 4-Cyl 2.0L engine",
+    "price": 17000,
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": "2016",
+    "kilometers": "179000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkz/2026/09/15/2016-lincoln-mkz-gcc-specs-4-cyl-20l-engin-2-503---55d78d212b64463bbfee3d7b91a92afc/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 17000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978351": {
+    "id": "16978351",
+    "title": "2015 Model | Toyota Yaris | GCC Specs | 4-Cyl 1.5L engine",
+    "price": 19000,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2015",
+    "kilometers": "189000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/09/15/2015-model-toyota-yaris-gcc-specs-4-cyl-15-2-932---179480c245ee4639beca3efcbf1fc8fd/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 19000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16977919": {
+    "id": "16977919",
+    "title": "2020 Mercedes-Benz A-Class USA Spec",
+    "price": 59000,
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": "2020",
+    "kilometers": "40000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/15/2020-mercedes-benz-a-class-usa-spec-2-484---97dad2e2842b4972b55afa45c9235843/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 59000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16953237": {
+    "id": "16953237",
+    "title": "Ford Escape Limited 2012 | GCC Specs | Well Maintained",
+    "price": 6500,
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2012",
+    "kilometers": "220000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "DAMAC Hills",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/escape/2026/08/24/ford-escape-limited-2012-gcc-specs-well-ma-2-243---b5f61c4473e04fd5b50267dd34c235d6/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 6500,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16952430": {
+    "id": "16952430",
+    "title": "2015 Porsche Macan S GCC Specs",
+    "price": 54900,
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2015",
+    "kilometers": "110000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "DAMAC Hills",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/08/24/2015-porsche-macan-s-gcc-specs-2-095---20234cba6bd94b51b2a0fd63619d8b4d/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 54900,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978321": {
+    "id": "16978321",
+    "title": "2026 Rox 01 VIP BRAND NEW",
+    "price": 197000,
+    "make": "Rox",
+    "model": "01",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/09/15/2026-rox-01-vip-brand-new-2-510---d3d8a012aed34c438724dd27a0e5c6bf/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 197000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16973009": {
+    "id": "16973009",
+    "title": "Nissan Urvan 13 Seater Manual 2023 Model GCC Specs With Full Service History In Perfect Condition",
+    "price": 74500,
+    "make": "Nissan",
+    "model": "Urvan",
+    "year": "2023",
+    "kilometers": "127000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "The Binary",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/urvan/2026/09/11/nissan-urvan-13-seater-manual-2023-model-g-2-845---ce1d1b5d917c421d9d18e2facc650bf1/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 74500,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978305": {
+    "id": "16978305",
+    "title": "Volkswagen Touareg 2019 Highline Plus | GCC Specs | Low Mileage",
+    "price": 79000,
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "year": "2019",
+    "kilometers": "116000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/09/15/volkswagen-touareg-2019-highline-plus-gcc--2-230---cd93bfbb830446c1a2bf94b4858509d1/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-09-15T22:44:39Z"
+      }
+    ],
+    "date": "2026-09-15"
+  },
+  "16978030": {
+    "id": "16978030",
+    "title": "0% Downpayment Finance available - Agency Warranty 2026 Jetour X70",
+    "price": 79999,
+    "make": "Jetour",
+    "model": "X70",
+    "year": "2026",
+    "kilometers": "16786",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/x70/2026/09/15/0-downpayment-finance-available-agency-war-2-441---79d51496845c4fedb4e5df76eb9fc52e/",
+    "first_seen": "2026-09-15T22:44:39Z",
+    "prices": [
+      {
+        "price": 79999,
+        "date": "2026-09-15T22:44:39Z"
       }
     ],
     "date": "2026-09-15"
