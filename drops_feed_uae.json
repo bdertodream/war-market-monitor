@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25895,
+  "total_tracked": 25897,
   "total_drops": 500,
-  "total_new": 25895,
+  "total_new": 25897,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "18008289",
+      "title": "Upgraded 4 Bedroom | Must See | Priced to Sell",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/upgraded-4-bedroom-must-see-priced-to-s-2-201318/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3380",
+      "bedrooms": "4",
+      "price": 8499000,
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "17977820",
+      "title": "2 Years Post Handover ! 40% now ! Pool View_ Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/8/2-years-post-handover-40-now-pool-view_-2-201174/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "347",
+      "bedrooms": "0",
+      "price": 749888,
+      "first_seen": "2026-09-16"
+    },
+    {
       "id": "17991913",
       "title": "Park and Pool Backing | Big Plot | 4 Bedroom",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/park-pool-backing-big-plot-2-139093/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "2",
       "price": 4700000,
       "first_seen": "2026-09-10"
-    },
-    {
-      "id": "17914640",
-      "title": "Panoramic Creek Views | High Floor | Luxury Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/26/high-floorluxury-living-panoramic-creek-2-151541/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1342",
-      "bedrooms": "2",
-      "price": 3350000,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "9828918",
-      "title": "Skyline Office Space | Prime Location | Rented",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/1/skyline-office-space-prime-location-ren-2-110031/",
-      "area": "Barsha Heights (Tecom)",
-      "category": "Office",
-      "size": "1657",
-      "bedrooms": "",
-      "price": 4000000,
-      "first_seen": "2026-09-10"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16"
 }

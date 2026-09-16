@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22539,
-  "total_drops": 501,
-  "total_new": 22539,
-  "last_updated": "2026-09-15T22:44:39Z",
+  "total_tracked": 22542,
+  "total_drops": 500,
+  "total_new": 22542,
+  "last_updated": "2026-09-16T03:35:35Z",
   "drops": [
     {
       "id": "16882361",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "16970899",
+      "title": "2022 toyota Rush Delivery",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rush/2026/09/09/2022-toyota-rush-delivery-2-525---5146d917689542ddab0ef832979734af/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Rush",
+      "year": "2022",
+      "mileage": "139558",
+      "price": 32500,
+      "first_seen": "2026-09-16T03:35:35Z"
+    },
+    {
+      "id": "16978531",
+      "title": "2026 Mercedes-Benz G-Class G 63 AMG Japanese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/2026-mercedes-benz-g-class-g-63-amg-japane-2-461---5bf9e26cfbdb4a48bf7b42be42b44f04/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2026",
+      "mileage": "0",
+      "price": 950000,
+      "first_seen": "2026-09-16T03:35:35Z"
+    },
+    {
+      "id": "16978523",
+      "title": "2024 Chevrolet Silverado 1500 Custom - Like New - American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/silverado-1500/2026/09/16/2024-chevrolet-silverado-1500-custom-like--2-755---bac8edd41baf4a4f833186a8a385d9ad/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "year": "2024",
+      "mileage": "42000",
+      "price": 95000,
+      "first_seen": "2026-09-16T03:35:35Z"
+    },
+    {
       "id": "16978334",
       "title": "2014 Mercedes-Benz S-Class S 550 - Japanese Specs - 72000 AED ONLY",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/15/2014-mercedes-benz-s-class-s-550-japanese--2-157---c446b2a1ca1241358c8cfb159458cb7a/",
@@ -12968,42 +13004,6 @@
       "year": "2024",
       "mileage": "7000",
       "price": 758000,
-      "first_seen": "2026-09-10T15:55:03Z"
-    },
-    {
-      "id": "16971965",
-      "title": "FROM 1219 PM. MANUFACTURER WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gwm/poer/2026/09/10/from-1219-pm-manufacturer-warranty-2-602---d177330681014106848c953220fa8567/",
-      "category": "Used Cars",
-      "make": "GWM",
-      "model": "Poer",
-      "year": "2024",
-      "mileage": "1121",
-      "price": 79900,
-      "first_seen": "2026-09-10T15:55:03Z"
-    },
-    {
-      "id": "16971946",
-      "title": "RARE FULL CARBON SPEC | GCC CAR | V12 ENGINE | 2014",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/vanquish/2026/09/10/rare-full-carbon-spec-gcc-car-v12-engine-2-2-155---32016e5a7b054bfc98f7e92823065d42/",
-      "category": "Used Cars",
-      "make": "Aston Martin",
-      "model": "Vanquish",
-      "year": "2014",
-      "mileage": "30734",
-      "price": 389900,
-      "first_seen": "2026-09-10T15:55:03Z"
-    },
-    {
-      "id": "16969690",
-      "title": "2025 Mercedes-Benz GLC 300 Coupe Full serves histore - Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/09/08/2025-mercedes-benz-glc-300-coupe-full-serv-2-638---187276b8101146f79200f60000b206ed/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLC Coupe",
-      "year": "2025",
-      "mileage": "24000",
-      "price": 239000,
       "first_seen": "2026-09-10T15:55:03Z"
     }
   ]

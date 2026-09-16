@@ -538704,5 +538704,71 @@
       }
     ],
     "date": "2026-09-15"
+  },
+  "16970899": {
+    "id": "16970899",
+    "title": "2022 toyota Rush Delivery",
+    "price": 32500,
+    "make": "Toyota",
+    "model": "Rush",
+    "year": "2022",
+    "kilometers": "139558",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rush/2026/09/09/2022-toyota-rush-delivery-2-525---5146d917689542ddab0ef832979734af/",
+    "first_seen": "2026-09-16T03:35:35Z",
+    "prices": [
+      {
+        "price": 32500,
+        "date": "2026-09-16T03:35:35Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "16978531": {
+    "id": "16978531",
+    "title": "2026 Mercedes-Benz G-Class G 63 AMG Japanese Specs",
+    "price": 950000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/2026-mercedes-benz-g-class-g-63-amg-japane-2-461---5bf9e26cfbdb4a48bf7b42be42b44f04/",
+    "first_seen": "2026-09-16T03:35:35Z",
+    "prices": [
+      {
+        "price": 950000,
+        "date": "2026-09-16T03:35:35Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "16978523": {
+    "id": "16978523",
+    "title": "2024 Chevrolet Silverado 1500 Custom - Like New - American Specs",
+    "price": 95000,
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": "2024",
+    "kilometers": "42000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Village Circle (JVC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/silverado-1500/2026/09/16/2024-chevrolet-silverado-1500-custom-like--2-755---bac8edd41baf4a4f833186a8a385d9ad/",
+    "first_seen": "2026-09-16T03:35:35Z",
+    "prices": [
+      {
+        "price": 95000,
+        "date": "2026-09-16T03:35:35Z"
+      }
+    ],
+    "date": "2026-09-16"
   }
 }
