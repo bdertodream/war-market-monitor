@@ -540152,7 +540152,7 @@
   "16808982": {
     "id": "16808982",
     "title": "2024 BMW 3-Series 320i M-Kit - Perfect Condition - 2 Years Full Warranty",
-    "price": 163000,
+    "price": 155000,
     "make": "BMW",
     "model": "3-Series",
     "year": "2024",
@@ -540161,12 +540161,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/04/18/2024-bmw-3-series-320i-m-kit-perfect-condi-2-457---d06bf7bd65ec48f9a775cc2725ba3f9d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/04/18/2024-bmw-3-series-320i-m-kit-perfect-condi-2-078---d06bf7bd65ec48f9a775cc2725ba3f9d/",
     "first_seen": "2026-09-16T16:15:20Z",
     "prices": [
       {
         "price": 163000,
         "date": "2026-09-16T16:15:20Z"
+      },
+      {
+        "price": 155000,
+        "date": "2026-09-16T22:40:49Z"
       }
     ],
     "date": "2026-09-16"
@@ -540387,6 +540391,138 @@
       {
         "price": 164999,
         "date": "2026-09-16T16:15:20Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100264776": {
+    "id": "100264776",
+    "title": "Ford Figo 2016 SE GCC Specs",
+    "price": 8900,
+    "make": "Ford",
+    "model": "Figo",
+    "year": "2016",
+    "kilometers": "125000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/09/16/ford-figo-2016-se-gcc-specs-2-059---2a674169fc1f4edea867d912214b3121/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 8900,
+        "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100256639": {
+    "id": "100256639",
+    "title": "Mercedes-Benz G-Class G 63 2022 | 22,000KM | CARBON FIBER | UNDER WARRANTY",
+    "price": 660000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "22000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/mercedes-benz-g-class-g-63-2022-22000km-ca-2-063---a6cb866092f64f719b8b4792e6c9c7e0/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 660000,
+        "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100264163": {
+    "id": "100264163",
+    "title": "Mercedes-Benz G-Class G 63 AMG",
+    "price": 1224999,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/mercedes-benz-g-class-g-63-amg-2-571---8df92f0a7ff143b8bf29da8fdcb767fd/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 1224999,
+        "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100263311": {
+    "id": "100263311",
+    "title": "Ford Edge 2013 Limited GCC Spec Full Option With Remote Start Panoramic Sunroof Well Maintained",
+    "price": 11900,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2013",
+    "kilometers": "190000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/09/16/ford-edge-2013-limited-gcc-spec-full-optio-2-343---a1951bacd27342e89c1b25be50ff6ad0/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 11900,
+        "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100263037": {
+    "id": "100263037",
+    "title": "Toyota Prius hybrid 2013, super clean car, family use, very economical car",
+    "price": 17500,
+    "make": "Toyota",
+    "model": "Prius",
+    "year": "2013",
+    "kilometers": "179000",
+    "body_type": "Hatchback",
+    "fuel_type": "Hybrid",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prius/2026/09/16/toyota-prius-hybrid-2013-super-clean-car-f-2-568---c94a321a6dc54cafa1660b90c0dffefc/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 17500,
+        "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "100262798": {
+    "id": "100262798",
+    "title": "Mercedes-Benz GLA 250 AMG -",
+    "price": 113000,
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "year": "2025",
+    "kilometers": "13200",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/09/16/mercedes-benz-gla-250-amg-2-313---6eaf9ae8ea644c4395940324ce2c7d03/",
+    "first_seen": "2026-09-16T22:40:49Z",
+    "prices": [
+      {
+        "price": 113000,
+        "date": "2026-09-16T22:40:49Z"
       }
     ],
     "date": "2026-09-16"

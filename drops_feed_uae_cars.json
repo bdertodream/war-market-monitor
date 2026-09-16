@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22612,
-  "total_drops": 504,
-  "total_new": 22612,
-  "last_updated": "2026-09-16T16:15:20Z",
+  "total_tracked": 22618,
+  "total_drops": 500,
+  "total_new": 22618,
+  "last_updated": "2026-09-16T22:40:49Z",
   "drops": [
     {
       "id": "16888080",
@@ -7007,6 +7007,78 @@
   ],
   "new_listings": [
     {
+      "id": "100264776",
+      "title": "Ford Figo 2016 SE GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/09/16/ford-figo-2016-se-gcc-specs-2-059---2a674169fc1f4edea867d912214b3121/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Figo",
+      "year": "2016",
+      "mileage": "125000",
+      "price": 8900,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
+      "id": "100256639",
+      "title": "Mercedes-Benz G-Class G 63 2022 | 22,000KM | CARBON FIBER | UNDER WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/mercedes-benz-g-class-g-63-2022-22000km-ca-2-063---a6cb866092f64f719b8b4792e6c9c7e0/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2022",
+      "mileage": "22000",
+      "price": 660000,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
+      "id": "100264163",
+      "title": "Mercedes-Benz G-Class G 63 AMG",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/mercedes-benz-g-class-g-63-amg-2-571---8df92f0a7ff143b8bf29da8fdcb767fd/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2026",
+      "mileage": "0",
+      "price": 1224999,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
+      "id": "100263311",
+      "title": "Ford Edge 2013 Limited GCC Spec Full Option With Remote Start Panoramic Sunroof Well Maintained",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/09/16/ford-edge-2013-limited-gcc-spec-full-optio-2-343---a1951bacd27342e89c1b25be50ff6ad0/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Edge",
+      "year": "2013",
+      "mileage": "190000",
+      "price": 11900,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
+      "id": "100263037",
+      "title": "Toyota Prius hybrid 2013, super clean car, family use, very economical car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prius/2026/09/16/toyota-prius-hybrid-2013-super-clean-car-f-2-568---c94a321a6dc54cafa1660b90c0dffefc/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Prius",
+      "year": "2013",
+      "mileage": "179000",
+      "price": 17500,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
+      "id": "100262798",
+      "title": "Mercedes-Benz GLA 250 AMG -",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/09/16/mercedes-benz-gla-250-amg-2-313---6eaf9ae8ea644c4395940324ce2c7d03/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "year": "2025",
+      "mileage": "13200",
+      "price": 113000,
+      "first_seen": "2026-09-16T22:40:49Z"
+    },
+    {
       "id": "100262068",
       "title": "AED 1,560 Monthly | 2022 Model | GCC Specs | Audi A3 35 TFSI | 1.4-liter turbo-charged",
       "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a3/2026/09/16/aed-1560-monthly-2022-model-gcc-specs-audi-2-242---31b828b8e6834f57ac0b6c12f582dcae/",
@@ -7393,13 +7465,13 @@
     {
       "id": "16808982",
       "title": "2024 BMW 3-Series 320i M-Kit - Perfect Condition - 2 Years Full Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/04/18/2024-bmw-3-series-320i-m-kit-perfect-condi-2-457---d06bf7bd65ec48f9a775cc2725ba3f9d/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/04/18/2024-bmw-3-series-320i-m-kit-perfect-condi-2-078---d06bf7bd65ec48f9a775cc2725ba3f9d/",
       "category": "Used Cars",
       "make": "BMW",
       "model": "3-Series",
       "year": "2024",
       "mileage": "15000",
-      "price": 163000,
+      "price": 155000,
       "first_seen": "2026-09-16T16:15:20Z"
     },
     {
@@ -12933,78 +13005,6 @@
       "mileage": "139000",
       "price": 39999,
       "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16972777",
-      "title": "2013 Chrysler 300 SRT GCC Specs - RTA Passed Luxury Car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/09/11/2013-chrysler-300-srt-gcc-specs-rta-passed-2-446---6b0ed772e2a44724a0f3106023b073db/",
-      "category": "Used Cars",
-      "make": "Chrysler",
-      "model": "300",
-      "year": "2013",
-      "mileage": "150000",
-      "price": 12900,
-      "first_seen": "2026-09-11T03:16:35Z"
-    },
-    {
-      "id": "16972756",
-      "title": "2015 BMW 7-Series 750i - Japanese Specs - Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/10/2015-bmw-7-series-750i-japanese-specs-exce-2-162---b5ffe788fc084560bac162b2f90d8d07/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2015",
-      "mileage": "160000",
-      "price": 33000,
-      "first_seen": "2026-09-11T03:16:35Z"
-    },
-    {
-      "id": "16972752",
-      "title": "2018 Audi S3 2.0 TFSI quattro | GCC Specs | Performance & Luxury",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/09/10/2018-audi-s3-20-tfsi-quattro-gcc-specs-per-2-051---0d2a97b3886a4830b4236901589b1caf/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S3",
-      "year": "2018",
-      "mileage": "90000",
-      "price": 69000,
-      "first_seen": "2026-09-11T03:16:35Z"
-    },
-    {
-      "id": "16971176",
-      "title": "Premium Full options ...5 cameras...power tailgate...adaptive cruise control",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/montero-sport/2026/09/09/premium-full-options-5-cameraspower-tailga-2-753---e982cf33a5d94b1390e2841db59dedf0/",
-      "category": "Used Cars",
-      "make": "Mitsubishi",
-      "model": "Montero Sport",
-      "year": "2023",
-      "mileage": "65000",
-      "price": 80000,
-      "first_seen": "2026-09-11T03:16:35Z"
-    },
-    {
-      "id": "16972738",
-      "title": "2016 Peugeot 308 CC Sport | GCC Specs | Well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/308/2026/09/10/2016-peugeot-308-cc-sport-gcc-specs-well-m-2-181---94c58fb57f0f4cc1a4fddafc3200f114/",
-      "category": "Used Cars",
-      "make": "Peugeot",
-      "model": "308",
-      "year": "2016",
-      "mileage": "141000",
-      "price": 16500,
-      "first_seen": "2026-09-10T22:18:07Z"
-    },
-    {
-      "id": "16972735",
-      "title": "2022 Changan CS95 Platinum | GCC Specs | Top Option",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/cs95/2026/09/10/2022-changan-cs95-platinum-gcc-specs-top-o-2-179---1dff4018583846cc9041c55f07b56215/",
-      "category": "Used Cars",
-      "make": "Changan",
-      "model": "CS95",
-      "year": "2022",
-      "mileage": "39000",
-      "price": 43000,
-      "first_seen": "2026-09-10T22:18:07Z"
     }
   ]
 }
