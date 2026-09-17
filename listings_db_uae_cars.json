@@ -439704,7 +439704,7 @@
   "16924686": {
     "id": "16924686",
     "title": "2015 model year offers long-wheelbase XJL All New Tyers  New Battery in immaculate condition.",
-    "price": 39000,
+    "price": 36000,
     "make": "Jaguar",
     "model": "XJ",
     "year": "2015",
@@ -439713,12 +439713,16 @@
     "fuel_type": "Petrol",
     "area": "Dubai Festival City",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/7/28/2015-model-year-offers-long-wheelbase-xjl--2-819---286c988525d54ff18dcc9d975d3a1572/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/07/28/2015-model-year-offers-long-wheelbase-xjl--2-579---286c988525d54ff18dcc9d975d3a1572/",
     "first_seen": "2026-07-29T06:31:36Z",
     "prices": [
       {
         "price": 39000,
         "date": "2026-07-29T06:31:36Z"
+      },
+      {
+        "price": 36000,
+        "date": "2026-09-17T03:40:57Z"
       }
     ],
     "date": "2026-07-28"
@@ -540523,6 +540527,138 @@
       {
         "price": 113000,
         "date": "2026-09-16T22:40:49Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "16963338": {
+    "id": "16963338",
+    "title": "AED 3000/month | 2022 BMW X5  | GCC Specs | Ref#516204",
+    "price": 197400,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2022",
+    "kilometers": "79150",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/09/03/aed-3000month-2022-bmw-x5-gcc-specs-ref516-2-747---51db782fa127418e9d479bb89ae92dac/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 197400,
+        "date": "2026-09-17T03:40:57Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "16977854": {
+    "id": "16977854",
+    "title": "2024 Lamborghini Urus S | 6,064 KM | FULL PPF | Warranty Included",
+    "price": 1065000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2024",
+    "kilometers": "6064",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/15/2024-lamborghini-urus-s-6064-km-full-ppf-w-2-779---cdae437f82254595b276aaee0eb3b7e9/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 1065000,
+        "date": "2026-09-17T03:40:57Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "16946758": {
+    "id": "16946758",
+    "title": "2020 Toyota Prado TXL  | GCC Specs Interior and Exterior Excellent Condition",
+    "price": 123000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2020",
+    "kilometers": "46000",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/08/18/2020-toyota-prado-txl-gcc-specs-interior-a-2-255---aeed3c08e8a64909b568d82beb975307/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 123000,
+        "date": "2026-09-17T03:40:57Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "16947034": {
+    "id": "16947034",
+    "title": "Toyota C-HR Hybrid GX 2020 GCC Specs - Interior and Exterior Excellent Condition Experience the",
+    "price": 43000,
+    "make": "Toyota",
+    "model": "C-HR",
+    "year": "2020",
+    "kilometers": "81000",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/c-hr/2026/08/18/toyota-c-hr-hybrid-gx-2020-gcc-specs-inter-2-687---cb04849d3c6d49b6a77d77649cf9efe1/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 43000,
+        "date": "2026-09-17T03:40:57Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "16946664": {
+    "id": "16946664",
+    "title": "Toyota Hilux 2021 Facelifted 2027 Travo Edition Interior and Exterior Excellent Condition",
+    "price": 113000,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": "2021",
+    "kilometers": "31000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/08/18/toyota-hilux-2021-facelifted-2027-travo-ed-2-722---bd1a1d1f8dcf43c8b042824a64649e31/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 113000,
+        "date": "2026-09-17T03:40:57Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "16772524": {
+    "id": "16772524",
+    "title": "2001 | Mercedes Benz | G320 coupe (2001 V6 G320 face-lifted to 2012",
+    "price": 255000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2001",
+    "kilometers": "171902",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/03/12/2001-mercedes-benz-g320-coupe-2001-v6-g320-2-895---5c661e6250da49ae971ed635a3c2678f/",
+    "first_seen": "2026-09-17T03:40:57Z",
+    "prices": [
+      {
+        "price": 255000,
+        "date": "2026-09-17T03:40:57Z"
       }
     ],
     "date": "2026-09-16"

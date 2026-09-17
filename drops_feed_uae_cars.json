@@ -1,23 +1,9 @@
 {
-  "total_tracked": 22618,
-  "total_drops": 500,
-  "total_new": 22618,
-  "last_updated": "2026-09-16T22:40:49Z",
+  "total_tracked": 22624,
+  "total_drops": 501,
+  "total_new": 22624,
+  "last_updated": "2026-09-17T03:40:57Z",
   "drops": [
-    {
-      "id": "16888080",
-      "title": "\ud83c\udfc1 BYPASS AGENCY QUEUES | MAZDA CX-30 ELITE | THE AUGUST RESET | WARRANTY + SERVICE",
-      "old_price": 79990,
-      "new_price": 74990,
-      "drop_pct": 6.3,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-30/2026/6/26/0-down-payment-fast-track-financing-mazda--2-566---f7d4cc421b4f4b11b29173c5844892d4/",
-      "category": "Used Cars",
-      "make": "Mazda",
-      "model": "CX-30",
-      "year": "2025",
-      "mileage": "23199",
-      "date": "2026-08-20T01:12:10Z"
-    },
     {
       "id": "16823811",
       "title": "\ud83c\udfc1 BYPASS AGENCY QUEUES | T-ROC R-LINE | IMMEDIATE OWNERSHIP | THE AUGUST RESET | WARRANTY",
@@ -7003,9 +6989,95 @@
       "year": "2021",
       "mileage": "74597",
       "date": "2026-09-16T16:15:20Z"
+    },
+    {
+      "id": "16924686",
+      "title": "2015 model year offers long-wheelbase XJL All New Tyers  New Battery in immaculate condition.",
+      "old_price": 39000,
+      "new_price": 36000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/07/28/2015-model-year-offers-long-wheelbase-xjl--2-579---286c988525d54ff18dcc9d975d3a1572/",
+      "category": "Used Cars",
+      "make": "Jaguar",
+      "model": "XJ",
+      "year": "2015",
+      "mileage": "103000",
+      "date": "2026-09-17T03:40:57Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16963338",
+      "title": "AED 3000/month | 2022 BMW X5  | GCC Specs | Ref#516204",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/09/03/aed-3000month-2022-bmw-x5-gcc-specs-ref516-2-747---51db782fa127418e9d479bb89ae92dac/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2022",
+      "mileage": "79150",
+      "price": 197400,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
+    {
+      "id": "16977854",
+      "title": "2024 Lamborghini Urus S | 6,064 KM | FULL PPF | Warranty Included",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/15/2024-lamborghini-urus-s-6064-km-full-ppf-w-2-779---cdae437f82254595b276aaee0eb3b7e9/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "year": "2024",
+      "mileage": "6064",
+      "price": 1065000,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
+    {
+      "id": "16946758",
+      "title": "2020 Toyota Prado TXL  | GCC Specs Interior and Exterior Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/08/18/2020-toyota-prado-txl-gcc-specs-interior-a-2-255---aeed3c08e8a64909b568d82beb975307/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Prado",
+      "year": "2020",
+      "mileage": "46000",
+      "price": 123000,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
+    {
+      "id": "16947034",
+      "title": "Toyota C-HR Hybrid GX 2020 GCC Specs - Interior and Exterior Excellent Condition Experience the",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/c-hr/2026/08/18/toyota-c-hr-hybrid-gx-2020-gcc-specs-inter-2-687---cb04849d3c6d49b6a77d77649cf9efe1/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "C-HR",
+      "year": "2020",
+      "mileage": "81000",
+      "price": 43000,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
+    {
+      "id": "16946664",
+      "title": "Toyota Hilux 2021 Facelifted 2027 Travo Edition Interior and Exterior Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/08/18/toyota-hilux-2021-facelifted-2027-travo-ed-2-722---bd1a1d1f8dcf43c8b042824a64649e31/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": "2021",
+      "mileage": "31000",
+      "price": 113000,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
+    {
+      "id": "16772524",
+      "title": "2001 | Mercedes Benz | G320 coupe (2001 V6 G320 face-lifted to 2012",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/03/12/2001-mercedes-benz-g320-coupe-2001-v6-g320-2-895---5c661e6250da49ae971ed635a3c2678f/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2001",
+      "mileage": "171902",
+      "price": 255000,
+      "first_seen": "2026-09-17T03:40:57Z"
+    },
     {
       "id": "100264776",
       "title": "Ford Figo 2016 SE GCC Specs",
@@ -12932,78 +13004,6 @@
       "year": "2015",
       "mileage": "186200",
       "price": 55000,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16939438",
-      "title": "WELL MAINTAINED BMW 740LI GCC!!!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/08/11/well-maintained-bmw-740li-gcc-2-068---49db9b6897244f539e0538676d7f673c/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2010",
-      "mileage": "286000",
-      "price": 19900,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16939435",
-      "title": "BEST!!! AGENCY HISTORY, ACCIDENT FREE EDGE SEL AWD!!!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/08/11/best-agency-history-accident-free-edge-sel-2-232---36e466e0ddaf4604bd403c104f30c57a/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Edge",
-      "year": "2017",
-      "mileage": "102000",
-      "price": 38500,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16939427",
-      "title": "BEST!!!  CHEVROLET TRAVESE LS GCC IN MINT CONDITION !!!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/traverse/2026/08/11/best-chevrolet-travese-ls-gcc-in-mint-cond-2-128---12925392d6ef4ee2a0eefe66f38b4513/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "year": "2015",
-      "mileage": "121220",
-      "price": 26000,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16939420",
-      "title": "BEST EXAMPLE!!! 2015 JAGUAR XF GCC, AGENCY HISTORY !!!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xf/2026/08/11/best-example-2015-jaguar-xf-gcc-agency-his-2-654---8af429ac8b1045bb80dca8f353d41161/",
-      "category": "Used Cars",
-      "make": "Jaguar",
-      "model": "XF",
-      "year": "2015",
-      "mileage": "159200",
-      "price": 26000,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16972789",
-      "title": "2025 Toyota Fortuner V6 4.0L VXR FULL OPTION / GCC Specs - Brand New Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fortuner/2026/09/11/2025-toyota-fortuner-v6-40l-vxr-full-optio-2-359---61605b26a3cb4f859185d0c93c82b1b8/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Fortuner",
-      "year": "2025",
-      "mileage": "16000",
-      "price": 154999,
-      "first_seen": "2026-09-11T08:38:08Z"
-    },
-    {
-      "id": "16972784",
-      "title": "2015 Land Rover Range Rover Sport HSE GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/09/11/2015-land-rover-range-rover-sport-hse-gcc--2-421---b1474615a79c43ffb3beb2f1876b23b4/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2015",
-      "mileage": "139000",
-      "price": 39999,
       "first_seen": "2026-09-11T08:38:08Z"
     }
   ]
