@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26017,
+  "total_tracked": 26022,
   "total_drops": 500,
-  "total_new": 26017,
+  "total_new": 26022,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7405,6 +7405,61 @@
       "first_seen": "2026-09-17"
     },
     {
+      "id": "18022845",
+      "title": "Dubai Skyline Address | Stylish Studio | Resale Opportunity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/17/dubai-skyline-address-stylish-studio-re-2-298672/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "422",
+      "bedrooms": "0",
+      "price": 1100000,
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "17693243",
+      "title": "HOT DEAL | BEST OP DEAL | LOW FLOOR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/hot-deal-best-op-deal-low-floor-2-199045/",
+      "area": "Bluewaters Island",
+      "category": "Apartment",
+      "size": "800",
+      "bedrooms": "1",
+      "price": 2767000,
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "17913415",
+      "title": "Distress Deal in a High-Yield Area | Premium Quality & Hotel-Style Amenities",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/25/distress-deal-in-a-high-yield-area-prem-2-131876/",
+      "area": "Downtown Jebel Ali",
+      "category": "Apartment",
+      "size": "440",
+      "bedrooms": "0",
+      "price": 525000,
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "18018143",
+      "title": "One of a Kind | Turn Key | Extended & Renovated",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/17/one-of-a-kind-turn-key-extended-renovat-2-268638/",
+      "area": "Dubai Hills Estate",
+      "category": "Villa",
+      "size": "3300",
+      "bedrooms": "4",
+      "price": 11500000,
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "17984910",
+      "title": "Best Priced 5 Bed | Park Facing | Large Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/best-priced-5-bed-park-facing-large-plo-2-324971/",
+      "area": "Dubai Hills Estate",
+      "category": "Villa",
+      "size": "3750",
+      "bedrooms": "5",
+      "price": 11250000,
+      "first_seen": "2026-09-17"
+    },
+    {
       "id": "18008289",
       "title": "Upgraded 4 Bedroom | Must See | Priced to Sell",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/upgraded-4-bedroom-must-see-priced-to-s-2-201318/",
@@ -12451,61 +12506,6 @@
       "size": "8630",
       "bedrooms": "4",
       "price": 7999999,
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "16907302",
-      "title": "Exclusive | Best Price | Multiple Options",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/7/exclusive-best-price-multiple-options-2-102816/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "2107",
-      "bedrooms": "3",
-      "price": 2750000,
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "17984412",
-      "title": "Modern | Spacious | Close to Golden Beach",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/10/modern-spacious-close-to-golden-beach-2-125415/",
-      "area": "The Valley by Emaar",
-      "category": "Townhouse",
-      "size": "2779",
-      "bedrooms": "4",
-      "price": 3999999,
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "17994286",
-      "title": "Special Offer | High Roi | Prime Location | Flexible Payment Plan Options",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/binghatti-luxuria-luxrious-1-br-high-ro-2-668082/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "742",
-      "bedrooms": "1",
-      "price": 949000,
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "17994226",
-      "title": "Below OP | Distress Sale | Corner Unit | Park View | Huge Plot | No Agents",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/below-op-distress-sale-corner-unit-park-2-191068/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "3750",
-      "bedrooms": "4",
-      "price": 3300000,
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "17994123",
-      "title": "Private Beach Access | Sea View | Trophy Asset | UHNI Address",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/private-beach-access-sea-view-trophy-as-2-267802/",
-      "area": "Palm Jebel Ali",
-      "category": "Apartment",
-      "size": "2028",
-      "bedrooms": "3",
-      "price": 7707000,
       "first_seen": "2026-09-11"
     }
   ],
