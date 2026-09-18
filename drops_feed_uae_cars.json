@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22781,
+  "total_tracked": 22785,
   "total_drops": 500,
-  "total_new": 22781,
-  "last_updated": "2026-09-18T18:55:06Z",
+  "total_new": 22785,
+  "last_updated": "2026-09-18T22:20:54Z",
   "drops": [
     {
       "id": "16934112",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "16971493",
+      "title": "Mercedes-Benz C300 2023 \u2013 GCC Specifications",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/09/mercedes-benz-c300-2023-gcc-specifications-2-818---e79f8a17890449c7a2a800195ad1b0bc/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2023",
+      "mileage": "86000",
+      "price": 153000,
+      "first_seen": "2026-09-18T22:20:54Z"
+    },
+    {
+      "id": "16921973",
+      "title": "2015 Mercedes-Benz C200 Avantgarde | GCC Specs | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/07/26/2015-mercedes-benz-c200-avantgarde-gcc-spe-2-298---9212fa752c174bffa87b9047a4b4dead/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2015",
+      "mileage": "116250",
+      "price": 43000,
+      "first_seen": "2026-09-18T22:20:54Z"
+    },
+    {
+      "id": "16977263",
+      "title": "2026 GAC GS8 Traveller GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/09/15/2026-gac-gs8-traveller-gcc-specs-2-745---f117360027584352b856676c47e951e2/",
+      "category": "Used Cars",
+      "make": "GAC",
+      "model": "GS8",
+      "year": "2026",
+      "mileage": "47800",
+      "price": 135000,
+      "first_seen": "2026-09-18T22:20:54Z"
+    },
+    {
+      "id": "100287093",
+      "title": "Alfa Romeo Giulietta Veloce 2020 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/09/18/alfa-romeo-giulietta-veloce-2020-gcc-specs-2-027---04d5730268a84cc685cf235de7f45ff3/",
+      "category": "Used Cars",
+      "make": "Alfa Romeo",
+      "model": "GIULIETTA",
+      "year": "2020",
+      "mileage": "58000",
+      "price": 35000,
+      "first_seen": "2026-09-18T22:20:54Z"
+    },
+    {
       "id": "100289900",
       "title": "2025 Changan UNI-Z New Blue Whale 125KM Super-Performance Edition - Chinese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-z/2026/09/18/2025-changan-uni-z-new-blue-whale-125km-su-2-783---4c71a4f6b33240bc8cdf2e20e3a8aad1/",
@@ -12956,54 +13004,6 @@
       "year": "2023",
       "mileage": "53000",
       "price": 29000,
-      "first_seen": "2026-09-12T18:09:07Z"
-    },
-    {
-      "id": "16974794",
-      "title": "2015 Jeep Grand Cherokee Summit 5.7 V8 HEMI | GCC | No Accidents",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/09/12/2015-jeep-grand-cherokee-summit-57-v8-hemi-2-352---36ffb2c7e6fe4bc486707b8b88b9fac6/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "2015",
-      "mileage": "285000",
-      "price": 26900,
-      "first_seen": "2026-09-12T18:09:07Z"
-    },
-    {
-      "id": "16974792",
-      "title": "Brand New 2026 Mercedes-Benz E-Class E 300 | GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/12/brand-new-2026-mercedes-benz-e-class-e-300-2-651---a1565f76b8664751a758f31499b72e18/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2026",
-      "mileage": "0",
-      "price": 329000,
-      "first_seen": "2026-09-12T18:09:07Z"
-    },
-    {
-      "id": "16974791",
-      "title": "Mercedes-Benz GLE 450 4MATIC 2020 | GCC Specs | Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/12/mercedes-benz-gle-450-4matic-2020-gcc-spec-2-320---88cce33eb03645abadb874adcc9898a1/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLE-Class",
-      "year": "2020",
-      "mileage": "89000",
-      "price": 169000,
-      "first_seen": "2026-09-12T18:09:07Z"
-    },
-    {
-      "id": "16974758",
-      "title": "Toyota Innova 2015 GL GCC Specs Reliable Family MPV",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/innova/2026/09/12/toyota-innova-2015-gl-gcc-specs-reliable-f-2-787---8e86559eda0149119361b289ddbb4bcc/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Innova",
-      "year": "2015",
-      "mileage": "186000",
-      "price": 21500,
       "first_seen": "2026-09-12T18:09:07Z"
     }
   ]

@@ -544388,5 +544388,93 @@
       }
     ],
     "date": "2026-09-18"
+  },
+  "16971493": {
+    "id": "16971493",
+    "title": "Mercedes-Benz C300 2023 \u2013 GCC Specifications",
+    "price": 153000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2023",
+    "kilometers": "86000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/09/mercedes-benz-c300-2023-gcc-specifications-2-818---e79f8a17890449c7a2a800195ad1b0bc/",
+    "first_seen": "2026-09-18T22:20:54Z",
+    "prices": [
+      {
+        "price": 153000,
+        "date": "2026-09-18T22:20:54Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "16921973": {
+    "id": "16921973",
+    "title": "2015 Mercedes-Benz C200 Avantgarde | GCC Specs | Low Mileage",
+    "price": 43000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2015",
+    "kilometers": "116250",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/07/26/2015-mercedes-benz-c200-avantgarde-gcc-spe-2-298---9212fa752c174bffa87b9047a4b4dead/",
+    "first_seen": "2026-09-18T22:20:54Z",
+    "prices": [
+      {
+        "price": 43000,
+        "date": "2026-09-18T22:20:54Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "16977263": {
+    "id": "16977263",
+    "title": "2026 GAC GS8 Traveller GCC Specs",
+    "price": 135000,
+    "make": "GAC",
+    "model": "GS8",
+    "year": "2026",
+    "kilometers": "47800",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/09/15/2026-gac-gs8-traveller-gcc-specs-2-745---f117360027584352b856676c47e951e2/",
+    "first_seen": "2026-09-18T22:20:54Z",
+    "prices": [
+      {
+        "price": 135000,
+        "date": "2026-09-18T22:20:54Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "100287093": {
+    "id": "100287093",
+    "title": "Alfa Romeo Giulietta Veloce 2020 GCC Specs",
+    "price": 35000,
+    "make": "Alfa Romeo",
+    "model": "GIULIETTA",
+    "year": "2020",
+    "kilometers": "58000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Hanover Square",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/09/18/alfa-romeo-giulietta-veloce-2020-gcc-specs-2-027---04d5730268a84cc685cf235de7f45ff3/",
+    "first_seen": "2026-09-18T22:20:54Z",
+    "prices": [
+      {
+        "price": 35000,
+        "date": "2026-09-18T22:20:54Z"
+      }
+    ],
+    "date": "2026-09-18"
   }
 }
