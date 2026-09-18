@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26101,
+  "total_tracked": 26106,
   "total_drops": 500,
-  "total_new": 26101,
+  "total_new": 26106,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7878,6 +7878,61 @@
       "first_seen": "2026-09-18"
     },
     {
+      "id": "18027079",
+      "title": "Vacating Soon | Spacious Studio with Balcony",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/vacating-soon-spacious-studio-with-balc-2-294480/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "562",
+      "bedrooms": "0",
+      "price": 550000,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "17959727",
+      "title": "Golf & Park View | 1BR Apartment | Carson Tower C",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/4/golf-park-view-1br-apartment-carson-tow-2-212580/",
+      "area": "DAMAC Hills",
+      "category": "Apartment",
+      "size": "805",
+      "bedrooms": "1",
+      "price": 1050000,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "18026890",
+      "title": "4% DLD Waiver | 4% Discount | 0.25% Monthly | Water View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/4-dld-waiver-4-discount-025-monthly-wat-2-155970/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "399",
+      "bedrooms": "0",
+      "price": 659000,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "18026818",
+      "title": "Below OP | Standalone Villa | Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/below-op-standalone-villa-motivated-sel-2-261254/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "9909",
+      "bedrooms": "5",
+      "price": 8250000,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "9800902",
+      "title": "Large Plot | Invest and Build Your Own",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/18/large-plot-invest-and-build-your-own-2-286320/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "13182",
+      "bedrooms": "",
+      "price": 20500000,
+      "first_seen": "2026-09-18"
+    },
+    {
       "id": "17600351",
       "title": "Rare Waterfront Villa | Massive Plot | High Growth Investment",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/17/rare-waterfront-villa-massive-plot-high-2-314457/",
@@ -12451,61 +12506,6 @@
       "size": "1742",
       "bedrooms": "4",
       "price": 3500000,
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "17850143",
-      "title": "Designer Furnished | Community View | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/11/designer-furnished-community-view-vacan-2-736417/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "647",
-      "bedrooms": "1",
-      "price": 1680000,
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "17904633",
-      "title": "Lagoon and Skyline View | Beach Access | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/24/lagoon-and-skyline-view-beach-access-va-2-635935/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "1156",
-      "bedrooms": "1",
-      "price": 2437000,
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "17738582",
-      "title": "5BR Villa | Full Beach View | Private Beach Access | For Sale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/17/5br-villa-full-beach-view-private-beach-2-519070/",
-      "area": "Palm Jumeirah",
-      "category": "Villa",
-      "size": "3731",
-      "bedrooms": "5",
-      "price": 24000000,
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "17854909",
-      "title": "Close to OP |City View |Multiple Units|Q2 2027 |Resale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/12/close-to-op-city-view-multiple-unitsq2--2-188752/",
-      "area": "Dubai Design District (D3)",
-      "category": "Apartment",
-      "size": "822",
-      "bedrooms": "1",
-      "price": 2047730,
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "17701782",
-      "title": "Jumeira Islands View | High Floor | Motivated",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/9/jumeira-islands-view-high-floor-motivat-2-137139/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "1272",
-      "bedrooms": "2",
-      "price": 2750000,
       "first_seen": "2026-09-12"
     }
   ],

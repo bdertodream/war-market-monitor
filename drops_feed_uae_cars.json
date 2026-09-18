@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22777,
-  "total_drops": 503,
-  "total_new": 22777,
-  "last_updated": "2026-09-18T15:56:01Z",
+  "total_tracked": 22781,
+  "total_drops": 500,
+  "total_new": 22781,
+  "last_updated": "2026-09-18T18:55:06Z",
   "drops": [
     {
       "id": "16934112",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "100289900",
+      "title": "2025 Changan UNI-Z New Blue Whale 125KM Super-Performance Edition - Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-z/2026/09/18/2025-changan-uni-z-new-blue-whale-125km-su-2-783---4c71a4f6b33240bc8cdf2e20e3a8aad1/",
+      "category": "Used Cars",
+      "make": "Changan",
+      "model": "UNI-Z",
+      "year": "2025",
+      "mileage": "0",
+      "price": 75000,
+      "first_seen": "2026-09-18T18:55:06Z"
+    },
+    {
+      "id": "100289774",
+      "title": "2016 Mercedes-Benz C-Class C200 Full Option With Adaptive Cruise Control",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/18/2016-mercedes-benz-c-class-c200-full-optio-2-143---78d73938b92a4619b2777c53e1c0e24e/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2016",
+      "mileage": "98000",
+      "price": 49000,
+      "first_seen": "2026-09-18T18:55:06Z"
+    },
+    {
+      "id": "100288746",
+      "title": "2025 Porsche 718 Boxster Style Edition | GCC Specs | Brand New. 1st owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718/2026/09/18/2025-porsche-718-boxster-style-edition-gcc-2-046---cc3ad93dd5244b87b80ec69cf435014c/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "718",
+      "year": "2025",
+      "mileage": "22000",
+      "price": 300000,
+      "first_seen": "2026-09-18T18:55:06Z"
+    },
+    {
+      "id": "16814442",
+      "title": "2024 Porsche Cayenne S V8 Coupe - GCC Specs - Brand New",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/04/23/2024-porsche-cayenne-s-v8-coupe-gcc-specs--2-148---cc56b8fd10d847bf902d2b09a3e9bd2c/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2024",
+      "mileage": "50000",
+      "price": 398000,
+      "first_seen": "2026-09-18T18:55:06Z"
+    },
+    {
       "id": "100288326",
       "title": "2016 Mercedes-Benz S-Class S 550 4MATIC Canadian Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/18/2016-mercedes-benz-s-class-s-550-4matic-ca-2-524---ef8bb8c6e3cf4de4acb72cb59f1c092d/",
@@ -12957,54 +13005,6 @@
       "mileage": "186000",
       "price": 21500,
       "first_seen": "2026-09-12T18:09:07Z"
-    },
-    {
-      "id": "16974707",
-      "title": "0% DP* -- 2,922AED PM -- 3.6 V6 RUBICON -- JEEP AGENCY WARRANTY & SERVICE CONTRACT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/09/12/0-dp-2922aed-pm-36-v6-rubicon-jeep-agency--2-723---b8b4a42d0f794505ac71a596800227bb/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler",
-      "year": "2024",
-      "mileage": "19000",
-      "price": 189000,
-      "first_seen": "2026-09-12T15:05:57Z"
-    },
-    {
-      "id": "16974678",
-      "title": "MG ZS 2026 Standard GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2026-standard-gcc-specs-2-704---50b1a5ffe0ea4ccbadc660111ef6a2fc/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "ZS",
-      "year": "2026",
-      "mileage": "0",
-      "price": 42999,
-      "first_seen": "2026-09-12T15:05:57Z"
-    },
-    {
-      "id": "16974667",
-      "title": "UNLIMITED MILEAGE WARRANTY / GCC SPECS + HATCHBACK + BLUETOOTH + USB + POWER LOCKS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/09/12/unlimited-mileage-warranty-gcc-specs-hatch-2-180---33a913e176984e2b81e8d15bf81480f4/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Figo",
-      "year": "2019",
-      "mileage": "157766",
-      "price": 12490,
-      "first_seen": "2026-09-12T15:05:57Z"
-    },
-    {
-      "id": "16974659",
-      "title": "Range Rover VELAR R-Dynamic P250 HSE 2018, GCC Al-Tayer, Perfect Condition, No Accident, 2 Keys",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/09/12/range-rover-velar-r-dynamic-p250-hse-2018--2-541---b352b8e9770b429e932dbf79bcbf43bd/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Velar",
-      "year": "2018",
-      "mileage": "96000",
-      "price": 95000,
-      "first_seen": "2026-09-12T15:05:57Z"
     }
   ]
 }

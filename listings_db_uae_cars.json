@@ -501854,7 +501854,7 @@
   "16953160": {
     "id": "16953160",
     "title": "911 Carrera Cabriolet | 3,468 KM | 2-Year Porsche Agency Warranty | 1-Year Service Package",
-    "price": 599990,
+    "price": 659990,
     "make": "Porsche",
     "model": "911",
     "year": "2025",
@@ -501869,6 +501869,10 @@
       {
         "price": 599990,
         "date": "2026-08-25T12:46:12Z"
+      },
+      {
+        "price": 659990,
+        "date": "2026-09-18T18:55:06Z"
       }
     ],
     "date": "2026-08-25"
@@ -544293,6 +544297,94 @@
       {
         "price": 2130000,
         "date": "2026-09-18T15:56:01Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "100289900": {
+    "id": "100289900",
+    "title": "2025 Changan UNI-Z New Blue Whale 125KM Super-Performance Edition - Chinese Specs",
+    "price": 75000,
+    "make": "Changan",
+    "model": "UNI-Z",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Jafza One",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-z/2026/09/18/2025-changan-uni-z-new-blue-whale-125km-su-2-783---4c71a4f6b33240bc8cdf2e20e3a8aad1/",
+    "first_seen": "2026-09-18T18:55:06Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-09-18T18:55:06Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "100289774": {
+    "id": "100289774",
+    "title": "2016 Mercedes-Benz C-Class C200 Full Option With Adaptive Cruise Control",
+    "price": 49000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2016",
+    "kilometers": "98000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Platinum One",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/18/2016-mercedes-benz-c-class-c200-full-optio-2-143---78d73938b92a4619b2777c53e1c0e24e/",
+    "first_seen": "2026-09-18T18:55:06Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-09-18T18:55:06Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "100288746": {
+    "id": "100288746",
+    "title": "2025 Porsche 718 Boxster Style Edition | GCC Specs | Brand New. 1st owner",
+    "price": 300000,
+    "make": "Porsche",
+    "model": "718",
+    "year": "2025",
+    "kilometers": "22000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Luma Park Views",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718/2026/09/18/2025-porsche-718-boxster-style-edition-gcc-2-046---cc3ad93dd5244b87b80ec69cf435014c/",
+    "first_seen": "2026-09-18T18:55:06Z",
+    "prices": [
+      {
+        "price": 300000,
+        "date": "2026-09-18T18:55:06Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "16814442": {
+    "id": "16814442",
+    "title": "2024 Porsche Cayenne S V8 Coupe - GCC Specs - Brand New",
+    "price": 398000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2024",
+    "kilometers": "50000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/04/23/2024-porsche-cayenne-s-v8-coupe-gcc-specs--2-148---cc56b8fd10d847bf902d2b09a3e9bd2c/",
+    "first_seen": "2026-09-18T18:55:06Z",
+    "prices": [
+      {
+        "price": 398000,
+        "date": "2026-09-18T18:55:06Z"
       }
     ],
     "date": "2026-09-18"
