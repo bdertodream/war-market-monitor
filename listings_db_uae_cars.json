@@ -101462,7 +101462,7 @@
   "16731373": {
     "id": "16731373",
     "title": "C63S AMG | Coupe Convertible Special Order | Never had accident | In perfect condition | Low mileage",
-    "price": 139500,
+    "price": 119500,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2017",
@@ -101471,7 +101471,7 @@
     "fuel_type": "Petrol",
     "area": "Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/2/3/c63s-amg-coupe-convertible-special-order-n-2-097---ec7092f9ef0446fbae16254246a3a549/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/02/03/c63s-amg-coupe-convertible-special-order-n-2-810---ec7092f9ef0446fbae16254246a3a549/",
     "first_seen": "2026-04-03T04:31:57Z",
     "prices": [
       {
@@ -101485,6 +101485,10 @@
       {
         "price": 139500,
         "date": "2026-05-08T13:58:53Z"
+      },
+      {
+        "price": 119500,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-04-03"
@@ -164698,7 +164702,7 @@
   "16625749": {
     "id": "16625749",
     "title": "Audi RS4 V8 4.2L GCC, Perfect condition, fully loaded, recently service done",
-    "price": 69500,
+    "price": 64000,
     "make": "Audi",
     "model": "S4/RS4",
     "year": "2016",
@@ -164707,12 +164711,16 @@
     "fuel_type": "Petrol",
     "area": "Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s4rs4/2025/11/6/audi-rs4-gcc-perfect-condition-fully-loade-2-842---4a210ba445a645c38d1f8e484bf4fece/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs4/2025/11/06/audi-rs4-v8-42l-gcc-perfect-condition-full-2-510---4a210ba445a645c38d1f8e484bf4fece/",
     "first_seen": "2026-04-20T10:07:52Z",
     "prices": [
       {
         "price": 69500,
         "date": "2026-04-20T10:07:52Z"
+      },
+      {
+        "price": 64000,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-04-20"
@@ -219070,7 +219078,7 @@
   "16829340": {
     "id": "16829340",
     "title": "Ford F-Series Pickup Shelby ||| SHELBY CERTIFICATE AVAILABLE ||| Literally Iike brand new |",
-    "price": 284000,
+    "price": 286000,
     "make": "Ford",
     "model": "F-Series Pickup",
     "year": "2022",
@@ -219105,6 +219113,10 @@
       {
         "price": 284000,
         "date": "2026-07-26T02:46:18Z"
+      },
+      {
+        "price": 286000,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-05-06"
@@ -371388,7 +371400,7 @@
   "16894430": {
     "id": "16894430",
     "title": "Stunning 2022 BMW M3 Competition | American Specs | Low Mileage",
-    "price": 189000,
+    "price": 209000,
     "make": "BMW",
     "model": "M3",
     "year": "2022",
@@ -371419,6 +371431,10 @@
       {
         "price": 189000,
         "date": "2026-08-19T04:36:50Z"
+      },
+      {
+        "price": 209000,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-07-01"
@@ -507086,7 +507102,7 @@
   "16958804": {
     "id": "16958804",
     "title": "2017 Ford Mustang EcoBoost Premium Convertible",
-    "price": 29999,
+    "price": 28999,
     "make": "Ford",
     "model": "Mustang",
     "year": "2017",
@@ -507095,7 +507111,7 @@
     "fuel_type": "Petrol",
     "area": "Al Ameri Tower",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/08/29/2017-ford-mustang-ecoboost-premium-convert-2-838---d2062a28dc53496f88762a5630a9710b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/08/29/2017-ford-mustang-ecoboost-premium-convert-2-357---d2062a28dc53496f88762a5630a9710b/",
     "first_seen": "2026-08-29T22:25:10Z",
     "prices": [
       {
@@ -507105,6 +507121,10 @@
       {
         "price": 29999,
         "date": "2026-09-09T22:18:17Z"
+      },
+      {
+        "price": 28999,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-08-29"
@@ -542425,6 +542445,94 @@
       {
         "price": 79999,
         "date": "2026-09-17T22:42:47Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "100277858": {
+    "id": "100277858",
+    "title": "Nissan X-Terra Titanium 7 Seats 4WD 2024 | Only 18,500 km | Under Warranty",
+    "price": 92000,
+    "make": "Nissan",
+    "model": "Xterra",
+    "year": "2024",
+    "kilometers": "18500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Azizi Riviera 6",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/09/18/nissan-x-terra-titanium-7-seats-4wd-2024-o-2-645---9655876678d94da1b1afc1ffec9e9c8f/",
+    "first_seen": "2026-09-18T03:27:18Z",
+    "prices": [
+      {
+        "price": 92000,
+        "date": "2026-09-18T03:27:18Z"
+      }
+    ],
+    "date": "2026-09-18"
+  },
+  "100277480": {
+    "id": "100277480",
+    "title": "2020 Mercedes-Benz C200 L GCC Specs - Excellent Condition",
+    "price": 109000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2020",
+    "kilometers": "27000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/17/2020-mercedes-benz-c200-l-gcc-specs-excell-2-770---126930a31e2e4c2d9f3adde3e6b101f9/",
+    "first_seen": "2026-09-18T03:27:18Z",
+    "prices": [
+      {
+        "price": 109000,
+        "date": "2026-09-18T03:27:18Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "100277463": {
+    "id": "100277463",
+    "title": "Ford Edge Sport 2016 | GCC Specs | Well Maintained",
+    "price": 27500,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2016",
+    "kilometers": "160000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/09/17/ford-edge-sport-2016-gcc-specs-well-mainta-2-864---2f32ae609b7c4a17bb72141b6f46b768/",
+    "first_seen": "2026-09-18T03:27:18Z",
+    "prices": [
+      {
+        "price": 27500,
+        "date": "2026-09-18T03:27:18Z"
+      }
+    ],
+    "date": "2026-09-17"
+  },
+  "100275359": {
+    "id": "100275359",
+    "title": "2024 Ford Mustang Ecoboost Premium American Specs",
+    "price": 89500,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2024",
+    "kilometers": "12140",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/09/17/2024-ford-mustang-ecoboost-premium-america-2-152---22224063e25440109e58d03ccb02ed68/",
+    "first_seen": "2026-09-18T03:27:18Z",
+    "prices": [
+      {
+        "price": 89500,
+        "date": "2026-09-18T03:27:18Z"
       }
     ],
     "date": "2026-09-17"
