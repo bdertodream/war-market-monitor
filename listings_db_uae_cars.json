@@ -544476,5 +544476,49 @@
       }
     ],
     "date": "2026-09-18"
+  },
+  "100291661": {
+    "id": "100291661",
+    "title": "NISSAN ALTIMA SV 2.5 MODEL 2017 GCC SPECS",
+    "price": 20500,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2017",
+    "kilometers": "129374",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/09/18/nissan-altima-sv-25-model-2017-gcc-specs-2-724---247944e606be4c0dbef4271ef2b94f77/",
+    "first_seen": "2026-09-19T03:23:38Z",
+    "prices": [
+      {
+        "price": 20500,
+        "date": "2026-09-19T03:23:38Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100291509": {
+    "id": "100291509",
+    "title": "ORIGINAL PAINT MITSUBISHI PAJERO 2015 GCC SPECS FULL OPTION",
+    "price": 29000,
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": "2015",
+    "kilometers": "118256",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/09/18/original-paint-mitsubishi-pajero-2015-gcc--2-622---520d0a2379714fea9ba3ed3d51127c46/",
+    "first_seen": "2026-09-19T03:23:38Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-09-19T03:23:38Z"
+      }
+    ],
+    "date": "2026-09-19"
   }
 }
