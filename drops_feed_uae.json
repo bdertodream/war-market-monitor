@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26164,
+  "total_tracked": 26165,
   "total_drops": 500,
-  "total_new": 26164,
+  "total_new": 26165,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7647,6 +7647,17 @@
       "first_seen": "2026-09-19"
     },
     {
+      "id": "17562593",
+      "title": "Apartment for sale in Empire Living, Dubai Science Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/8/apartment-for-sale-in-empire-living-dub-2-119124/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "348",
+      "bedrooms": "0",
+      "price": 840000,
+      "first_seen": "2026-09-19"
+    },
+    {
       "id": "18024456",
       "title": "Spacious Luxury Apartment | Fully Furnished | High Floor | No Commission | Cash Discount |",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/spacious-luxury-apartment-fully-furnish-2-106760/",
@@ -12158,13 +12169,13 @@
     },
     {
       "id": "18005886",
-      "title": "45% Cash Discount | Fully Furnished Studio | Prime Location | High ROI Opportunity",
+      "title": "35% Cash Discount | Fully Furnished Studio | Prime Location | High ROI Opportunity",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/35-cash-discount-fully-furnished-studio-2-183882/",
       "area": "Jumeirah Village Circle (JVC)",
       "category": "Apartment",
       "size": "371",
       "bedrooms": "0",
-      "price": 503067,
+      "price": 564530,
       "first_seen": "2026-09-14"
     },
     {
@@ -12495,17 +12506,6 @@
       "size": "951",
       "bedrooms": "2",
       "price": 2450000,
-      "first_seen": "2026-09-13"
-    },
-    {
-      "id": "17565949",
-      "title": "Cheapest 1BR | Close to OP | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/cheapest-1br-close-to-op-motivated-sell-2-313456/",
-      "area": "Bluewaters Island",
-      "category": "Apartment",
-      "size": "918",
-      "bedrooms": "1",
-      "price": 3098000,
       "first_seen": "2026-09-13"
     }
   ],

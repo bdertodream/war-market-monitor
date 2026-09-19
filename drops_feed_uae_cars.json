@@ -1,23 +1,9 @@
 {
-  "total_tracked": 22854,
-  "total_drops": 506,
-  "total_new": 22854,
-  "last_updated": "2026-09-19T18:27:09Z",
+  "total_tracked": 22861,
+  "total_drops": 501,
+  "total_new": 22861,
+  "last_updated": "2026-09-19T22:09:32Z",
   "drops": [
-    {
-      "id": "16916114",
-      "title": "Land Rover Service History | Land Rover Discovery HSE Si6 2017 GCC Specifications (Single Owner)",
-      "old_price": 66000,
-      "new_price": 62000,
-      "drop_pct": 6.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery/2026/7/21/land-rover-service-history-land-rover-disc-2-920---bbd592e0d9894a50844fb286e8b6071b/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Discovery",
-      "year": "2017",
-      "mileage": "119000",
-      "date": "2026-08-21T08:40:45Z"
-    },
     {
       "id": "16189988",
       "title": "2025 | Lucid | Air Pure | GCC Spec | With Warranty and Service Contract",
@@ -7003,9 +6989,107 @@
       "year": "2013",
       "mileage": "114223",
       "date": "2026-09-19T18:27:09Z"
+    },
+    {
+      "id": "16973191",
+      "title": "LOVELY MERCEDES A250 SPORT \u2014 HIGH OPTIONS \u2014 GCC\u2014 LOW MILEAGE \u2014 LIKE NEW",
+      "old_price": 59000,
+      "new_price": 49000,
+      "drop_pct": 16.9,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/11/lovely-mercedes-a250-sport-high-options-gc-2-689---871148f99af54f07aff424aaf9b360cc/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "year": "2017",
+      "mileage": "95000",
+      "date": "2026-09-19T22:09:32Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100302994",
+      "title": "2024 Mazda 6 GL - GCC Specs - Brand New Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/19/2024-mazda-6-gl-gcc-specs-brand-new-condit-2-080---cb8588bb86c7442bae2b079b78e0de33/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "6",
+      "year": "2024",
+      "mileage": "62000",
+      "price": 59900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "100302894",
+      "title": "2023 Suzuki Ciaz GL GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/ciaz/2026/09/19/2023-suzuki-ciaz-gl-gcc-specs-excellent-co-2-501---161edd4185ab4e82b444a1e447d2b0ad/",
+      "category": "Used Cars",
+      "make": "Suzuki",
+      "model": "Ciaz",
+      "year": "2023",
+      "mileage": "57000",
+      "price": 25900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "100302856",
+      "title": "Toyota Yaris 2022 E GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/09/19/toyota-yaris-2022-e-gcc-specs-2-704---210d1caec3944ec589471b5dcbd211e1/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": "2022",
+      "mileage": "74000",
+      "price": 34900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "100302815",
+      "title": "Brand New 2024 Mazda 6 GL - GCC Specs - Full Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/19/brand-new-2024-mazda-6-gl-gcc-specs-full-w-2-299---e7c303706d7a45d49e3ae59aa2e2fa52/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "6",
+      "year": "2024",
+      "mileage": "57000",
+      "price": 59900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "100302796",
+      "title": "Nissan Xterra SE 2022 GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/09/19/nissan-xterra-se-2022-gcc-specs-excellent--2-463---9ae8145d6d3d4abf9ed5f31ea0cf1d38/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Xterra",
+      "year": "2022",
+      "mileage": "107000",
+      "price": 64900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "100302749",
+      "title": "2024 Suzuki Baleno GL | GCC Specs | Brand New Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/baleno/2026/09/19/2024-suzuki-baleno-gl-gcc-specs-brand-new--2-716---57ad917428774cb5bd6926fda91c32c2/",
+      "category": "Used Cars",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": "2024",
+      "mileage": "79000",
+      "price": 29900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
+    {
+      "id": "16948277",
+      "title": "Pristine 2019 Toyota Yaris SE | GCC Specs | Reliable & Efficient",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/08/19/pristine-2019-toyota-yaris-se-gcc-specs-re-2-201---ba786abcc86c4bce87c43e503cb61f07/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": "2019",
+      "mileage": "132000",
+      "price": 24900,
+      "first_seen": "2026-09-19T22:09:32Z"
+    },
     {
       "id": "100302634",
       "title": "2011 Audi Q7 panoramic roof. 3.0 TFSI quattro leather electric seats. GCC Specs. 7 Seater.",
@@ -7429,13 +7513,13 @@
     {
       "id": "16973191",
       "title": "LOVELY MERCEDES A250 SPORT \u2014 HIGH OPTIONS \u2014 GCC\u2014 LOW MILEAGE \u2014 LIKE NEW",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/11/lovely-mercedes-a250-sport-high-options-gc-2-232---871148f99af54f07aff424aaf9b360cc/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/11/lovely-mercedes-a250-sport-high-options-gc-2-689---871148f99af54f07aff424aaf9b360cc/",
       "category": "Used Cars",
       "make": "Mercedes-Benz",
       "model": "A-Class",
       "year": "2017",
       "mileage": "100000",
-      "price": 59000,
+      "price": 49000,
       "first_seen": "2026-09-19T15:27:53Z"
     },
     {
@@ -12921,90 +13005,6 @@
       "mileage": "128000",
       "price": 190000,
       "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16953307",
-      "title": "MG RX5 2023 Comfort Model \u2013 GCC Specs | 53,000 KM | Showroom Service Only",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx5/2026/08/24/mg-rx5-2023-comfort-model-gcc-specs-53000--2-885---24a9402643414753b0e810c14f14ad77/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "RX5",
-      "year": "2023",
-      "mileage": "52000",
-      "price": 50000,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16976135",
-      "title": "2019 Jeep Wrangler Unlimited Sport | GCC Specs | Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/09/14/2019-jeep-wrangler-unlimited-sport-gcc-spe-2-334---234ec98dcac0400d8a426c71b5cbf8b1/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler",
-      "year": "2019",
-      "mileage": "82373",
-      "price": 90000,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16968294",
-      "title": "3,623pm Zero Down Available Nissan Patrol LE Platinum City 2023 | GCC Specs | Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/07/3623pm-zero-down-available-nissan-patrol-l-2-650---9d7eb23db8804fdabccf3aadf86cf60c/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2023",
-      "mileage": "21316",
-      "price": 229999,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16947396",
-      "title": "SUPERCHARGED RANGE ROVER SPORT * FULL OPTIONS * GCC SPEC * PANORAMIC * WELL_MAINTAINED",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/08/19/supercharged-range-rover-sport-full-option-2-396---909a3617cee84d88bb1b66c16b3b9ef4/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2017",
-      "mileage": "98000",
-      "price": 99000,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16976113",
-      "title": "Toyota Corolla 1999 Limited GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/09/14/toyota-corolla-1999-limited-gcc-specs-2-935---eca092eaa0ee469294db0c5a6f906194/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "1999",
-      "mileage": "58000",
-      "price": 5900,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16935940",
-      "title": "AED 5014/month | 2023 BMW X7 xDrive40i | GCC Specs | Ref#503994",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/08/08/aed-5014month-2023-bmw-x7-xdrive40i-gcc-sp-2-662---9e151f5cbba34f04a7b1ae3617a8f3e8/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X7",
-      "year": "2023",
-      "mileage": "20106",
-      "price": 330000,
-      "first_seen": "2026-09-14T09:37:18Z"
-    },
-    {
-      "id": "16976070",
-      "title": "Audi S7 2014 | 4.0 TFSI Quattro | GCC Specs | Performance Luxury",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s7/2026/09/14/audi-s7-2014-40-tfsi-quattro-gcc-specs-per-2-687---17ecaea87dbd4539bfe7dd45938051c1/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S7",
-      "year": "2014",
-      "mileage": "152000",
-      "price": 46000,
-      "first_seen": "2026-09-14T03:38:06Z"
     }
   ]
 }

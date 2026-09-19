@@ -275220,7 +275220,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/20/downtown-view-studio-essenl1fe-residenc-2-222710/",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-19"
   },
   "17750467": {
     "title": "Corner Plot | Prime Location | Fully Detached G+2",
@@ -335504,8 +335504,8 @@
     "last_seen": "2026-09-19"
   },
   "18005886": {
-    "title": "45% Cash Discount | Fully Furnished Studio | Prime Location | High ROI Opportunity",
-    "price": 503067,
+    "title": "35% Cash Discount | Fully Furnished Studio | Prime Location | High ROI Opportunity",
+    "price": 564530,
     "size": "371",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -340128,6 +340128,19 @@
     "city": "Dubai",
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/8/oceana-1-bed-large-terrace-vacant-best--2-472776/",
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19"
+  },
+  "17562593": {
+    "title": "Apartment for sale in Empire Living, Dubai Science Park",
+    "price": 840000,
+    "size": "348",
+    "bedrooms": "0",
+    "bathrooms": "1",
+    "area": "Dubai Science Park",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/8/apartment-for-sale-in-empire-living-dub-2-119124/",
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19"
   }

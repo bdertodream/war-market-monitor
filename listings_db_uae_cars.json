@@ -321604,7 +321604,7 @@
   "16871789": {
     "id": "16871789",
     "title": "2024 Rolls-Royce Spectre Standard GCC Specs - Brand New Electric Luxury",
-    "price": 1300000,
+    "price": 1250000,
     "make": "Rolls-Royce",
     "model": "Spectre",
     "year": "2024",
@@ -321613,7 +321613,7 @@
     "fuel_type": "Electric",
     "area": "Jumeirah Beach Residence (JBR)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/6/13/2024-rolls-royce-spectre-standard-gcc-spec-2-173---8e0379c7535a47aaa5241fd285bc4d11/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/06/13/2024-rolls-royce-spectre-standard-gcc-spec-2-973---8e0379c7535a47aaa5241fd285bc4d11/",
     "first_seen": "2026-06-13T17:23:31Z",
     "prices": [
       {
@@ -321623,6 +321623,10 @@
       {
         "price": 1300000,
         "date": "2026-07-01T08:14:37Z"
+      },
+      {
+        "price": 1250000,
+        "date": "2026-09-19T22:09:32Z"
       }
     ],
     "date": "2026-06-13"
@@ -545756,7 +545760,7 @@
   "16973191": {
     "id": "16973191",
     "title": "LOVELY MERCEDES A250 SPORT \u2014 HIGH OPTIONS \u2014 GCC\u2014 LOW MILEAGE \u2014 LIKE NEW",
-    "price": 59000,
+    "price": 49000,
     "make": "Mercedes-Benz",
     "model": "A-Class",
     "year": "2017",
@@ -545765,7 +545769,7 @@
     "fuel_type": "Petrol",
     "area": "Business Bay",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/11/lovely-mercedes-a250-sport-high-options-gc-2-232---871148f99af54f07aff424aaf9b360cc/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/11/lovely-mercedes-a250-sport-high-options-gc-2-689---871148f99af54f07aff424aaf9b360cc/",
     "first_seen": "2026-09-19T15:27:53Z",
     "prices": [
       {
@@ -545775,6 +545779,10 @@
       {
         "price": 59000,
         "date": "2026-09-19T18:27:09Z"
+      },
+      {
+        "price": 49000,
+        "date": "2026-09-19T22:09:32Z"
       }
     ],
     "date": "2026-09-19"
@@ -546127,6 +546135,160 @@
       {
         "price": 144950,
         "date": "2026-09-19T18:27:09Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302994": {
+    "id": "100302994",
+    "title": "2024 Mazda 6 GL - GCC Specs - Brand New Condition",
+    "price": 59900,
+    "make": "Mazda",
+    "model": "6",
+    "year": "2024",
+    "kilometers": "62000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/19/2024-mazda-6-gl-gcc-specs-brand-new-condit-2-080---cb8588bb86c7442bae2b079b78e0de33/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 59900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302894": {
+    "id": "100302894",
+    "title": "2023 Suzuki Ciaz GL GCC Specs - Excellent Condition",
+    "price": 25900,
+    "make": "Suzuki",
+    "model": "Ciaz",
+    "year": "2023",
+    "kilometers": "57000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/ciaz/2026/09/19/2023-suzuki-ciaz-gl-gcc-specs-excellent-co-2-501---161edd4185ab4e82b444a1e447d2b0ad/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 25900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302856": {
+    "id": "100302856",
+    "title": "Toyota Yaris 2022 E GCC Specs",
+    "price": 34900,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2022",
+    "kilometers": "74000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/09/19/toyota-yaris-2022-e-gcc-specs-2-704---210d1caec3944ec589471b5dcbd211e1/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 34900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302815": {
+    "id": "100302815",
+    "title": "Brand New 2024 Mazda 6 GL - GCC Specs - Full Warranty",
+    "price": 59900,
+    "make": "Mazda",
+    "model": "6",
+    "year": "2024",
+    "kilometers": "57000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/19/brand-new-2024-mazda-6-gl-gcc-specs-full-w-2-299---e7c303706d7a45d49e3ae59aa2e2fa52/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 59900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302796": {
+    "id": "100302796",
+    "title": "Nissan Xterra SE 2022 GCC Specs - Excellent Condition",
+    "price": 64900,
+    "make": "Nissan",
+    "model": "Xterra",
+    "year": "2022",
+    "kilometers": "107000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/09/19/nissan-xterra-se-2022-gcc-specs-excellent--2-463---9ae8145d6d3d4abf9ed5f31ea0cf1d38/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 64900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "100302749": {
+    "id": "100302749",
+    "title": "2024 Suzuki Baleno GL | GCC Specs | Brand New Condition",
+    "price": 29900,
+    "make": "Suzuki",
+    "model": "Baleno",
+    "year": "2024",
+    "kilometers": "79000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/baleno/2026/09/19/2024-suzuki-baleno-gl-gcc-specs-brand-new--2-716---57ad917428774cb5bd6926fda91c32c2/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 29900,
+        "date": "2026-09-19T22:09:32Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "16948277": {
+    "id": "16948277",
+    "title": "Pristine 2019 Toyota Yaris SE | GCC Specs | Reliable & Efficient",
+    "price": 24900,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2019",
+    "kilometers": "132000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/08/19/pristine-2019-toyota-yaris-se-gcc-specs-re-2-201---ba786abcc86c4bce87c43e503cb61f07/",
+    "first_seen": "2026-09-19T22:09:32Z",
+    "prices": [
+      {
+        "price": 24900,
+        "date": "2026-09-19T22:09:32Z"
       }
     ],
     "date": "2026-09-19"
