@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17296094",
-      "title": "Perfect location | Stunning Plot | Park Backing",
-      "old_price": 12850000,
-      "new_price": 11950000,
-      "drop_pct": 7.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/7/perfect-location-stunning-plot-park-bac-2-190821/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "4909",
-      "bedrooms": "5",
-      "date": "2026-05-15",
-      "first_seen": "2026-04-28"
-    },
-    {
       "id": "9803787",
       "title": "INVESTOR DEAL | UNFURNISHED | LOWEST PRICE",
       "old_price": 1200000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "5",
       "date": "2026-09-19",
       "first_seen": "2026-09-05"
+    },
+    {
+      "id": "18005886",
+      "title": "35% Cash Discount | Fully Furnished Studio | Prime Location | High ROI Opportunity",
+      "old_price": 564530,
+      "new_price": 503067,
+      "drop_pct": 10.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/35-cash-discount-fully-furnished-studio-2-183882/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "371",
+      "bedrooms": "0",
+      "date": "2026-09-20",
+      "first_seen": "2026-09-14"
     }
   ],
   "new_listings": [
@@ -12384,7 +12384,7 @@
       "category": "Apartment",
       "size": "371",
       "bedrooms": "0",
-      "price": 564530,
+      "price": 503067,
       "first_seen": "2026-09-14"
     },
     {

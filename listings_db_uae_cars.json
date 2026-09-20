@@ -547746,5 +547746,71 @@
       }
     ],
     "date": "2026-09-20"
+  },
+  "100316974": {
+    "id": "100316974",
+    "title": "Kia Pegas 2023 GCC Specs under warranty 34000 km",
+    "price": 25900,
+    "make": "Kia",
+    "model": "Pegas",
+    "year": "2023",
+    "kilometers": "34000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Ameri Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/pegas/2026/09/20/kia-pegas-2023-gcc-specs-under-warranty-34-2-081---529968986b0e4586b2e9493329ed42bd/",
+    "first_seen": "2026-09-20T22:13:49Z",
+    "prices": [
+      {
+        "price": 25900,
+        "date": "2026-09-20T22:13:49Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100316736": {
+    "id": "100316736",
+    "title": "G63 AMG 2017 GCC 1/100 Brabus 800 2026",
+    "price": 245000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2017",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "La Mer",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/20/g63-amg-2017-gcc-1100-brabus-800-2026-2-635---3cb801808ca14d049e20e12d51c2c062/",
+    "first_seen": "2026-09-20T22:13:49Z",
+    "prices": [
+      {
+        "price": 245000,
+        "date": "2026-09-20T22:13:49Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "16947584": {
+    "id": "16947584",
+    "title": "2023 Land Rover Range Rover HSE P530 V8, Warranty, Service Package, Excellent Condition,  GCC",
+    "price": 443000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "65666",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/19/2023-land-rover-range-rover-hse-p530-v8-wa-2-735---8543928b6bee4d90ad19a87e4c1e6e21/",
+    "first_seen": "2026-09-20T22:13:49Z",
+    "prices": [
+      {
+        "price": 443000,
+        "date": "2026-09-20T22:13:49Z"
+      }
+    ],
+    "date": "2026-09-20"
   }
 }

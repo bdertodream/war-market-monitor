@@ -1,8 +1,8 @@
 {
-  "total_tracked": 22924,
-  "total_drops": 501,
-  "total_new": 22924,
-  "last_updated": "2026-09-20T18:31:07Z",
+  "total_tracked": 22927,
+  "total_drops": 500,
+  "total_new": 22927,
+  "last_updated": "2026-09-20T22:13:49Z",
   "drops": [
     {
       "id": "16807501",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100316974",
+      "title": "Kia Pegas 2023 GCC Specs under warranty 34000 km",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/pegas/2026/09/20/kia-pegas-2023-gcc-specs-under-warranty-34-2-081---529968986b0e4586b2e9493329ed42bd/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Pegas",
+      "year": "2023",
+      "mileage": "34000",
+      "price": 25900,
+      "first_seen": "2026-09-20T22:13:49Z"
+    },
+    {
+      "id": "100316736",
+      "title": "G63 AMG 2017 GCC 1/100 Brabus 800 2026",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/20/g63-amg-2017-gcc-1100-brabus-800-2026-2-635---3cb801808ca14d049e20e12d51c2c062/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2017",
+      "mileage": "170000",
+      "price": 245000,
+      "first_seen": "2026-09-20T22:13:49Z"
+    },
+    {
+      "id": "16947584",
+      "title": "2023 Land Rover Range Rover HSE P530 V8, Warranty, Service Package, Excellent Condition,  GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/19/2023-land-rover-range-rover-hse-p530-v8-wa-2-735---8543928b6bee4d90ad19a87e4c1e6e21/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2023",
+      "mileage": "65666",
+      "price": 443000,
+      "first_seen": "2026-09-20T22:13:49Z"
+    },
+    {
       "id": "100314567",
       "title": "GCC   Mansory Kit, 2 original keys, 1-year warranty.Full option",
       "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/gcc-mansory-kit-2-original-keys-1-year-war-2-486---848e84f9e1f3499baa9f8afc19bb0c25/",
@@ -12968,42 +13004,6 @@
       "year": "2013",
       "mileage": "134000",
       "price": 24000,
-      "first_seen": "2026-09-14T22:59:14Z"
-    },
-    {
-      "id": "16977119",
-      "title": "Toyota Corolla 2020 Hybrid GCC Specs - Reliable and Fuel Efficient",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/09/14/toyota-corolla-2020-hybrid-gcc-specs-relia-2-720---d47e7201d51f4ff98e123e7003e5a1a2/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "2020",
-      "mileage": "140000",
-      "price": 41500,
-      "first_seen": "2026-09-14T22:59:14Z"
-    },
-    {
-      "id": "16943993",
-      "title": "2017 Jeep Wrangler \u2013 American Specification | 97,000 KM Interior and Exterior Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/08/15/2017-jeep-wrangler-american-specification--2-080---219c765f581f41a1b8f8c9de35b85d53/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler",
-      "year": "2017",
-      "mileage": "97000",
-      "price": 43000,
-      "first_seen": "2026-09-14T22:59:14Z"
-    },
-    {
-      "id": "16976774",
-      "title": "\ud83d\udd25 GCC 2015 Audi A5 S Line | 1.8L 4CYL | Premium Sport Coupe \ud83d\udd25",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/09/14/gcc-2015-audi-a5-s-line-18l-4cyl-premium-s-2-199---567c1ed5d98b49a192b65752b72ea654/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A5",
-      "year": "2015",
-      "mileage": "160917",
-      "price": 27000,
       "first_seen": "2026-09-14T22:59:14Z"
     }
   ]
