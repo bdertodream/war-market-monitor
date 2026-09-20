@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26182,
+  "total_tracked": 26184,
   "total_drops": 500,
-  "total_new": 26182,
+  "total_new": 26184,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7196,6 +7196,28 @@
       "first_seen": "2026-09-20"
     },
     {
+      "id": "18033419",
+      "title": "Your Green Escape in TAG | premium Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/20/your-green-escape-in-tag-premium-locati-2-132304/",
+      "area": "Tilal Al Ghaf",
+      "category": "Villa",
+      "size": "5096",
+      "bedrooms": "4",
+      "price": 8400000,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "18033314",
+      "title": "Corner Unit | Close to the Beach | Genuine Resale",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/20/corner-unit-close-to-the-beach-genuine--2-900588/",
+      "area": "Dubai Islands",
+      "category": "Villa",
+      "size": "5885",
+      "bedrooms": "4",
+      "price": 11500000,
+      "first_seen": "2026-09-20"
+    },
+    {
       "id": "18025389",
       "title": "Fully Extended | Renovated | Vacant | Elevator",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/fully-extended-renovated-vacant-elevato-2-982689/",
@@ -12484,28 +12506,6 @@
       "size": "1240",
       "bedrooms": "2",
       "price": 1250000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17990064",
-      "title": "Marina Vista Tower 2 | Marina Vista",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/marina-vista-tower-2-marina-vista-2-339925/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1112",
-      "bedrooms": "2",
-      "price": 3800000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17984349",
-      "title": "Heart Of Business Bay | High ROI | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/10/heart-of-business-bay-high-roi-vacant-2-268901/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "1069",
-      "bedrooms": "1",
-      "price": 1270000,
       "first_seen": "2026-09-14"
     }
   ],

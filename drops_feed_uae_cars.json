@@ -1,23 +1,9 @@
 {
-  "total_tracked": 22918,
-  "total_drops": 500,
-  "total_new": 22918,
-  "last_updated": "2026-09-20T15:33:01Z",
+  "total_tracked": 22924,
+  "total_drops": 501,
+  "total_new": 22924,
+  "last_updated": "2026-09-20T18:31:07Z",
   "drops": [
-    {
-      "id": "16868003",
-      "title": "AED 973/month | 0 Downpayment | Free 1 Month Warranty | 30 Day Return | TOYOTA CAMRY 2023",
-      "old_price": 67499,
-      "new_price": 63999,
-      "drop_pct": 5.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/camry/2026/6/10/aed-1064month-0-downpayment-free-1-month-w-2-279---346b7f26618e44a1bbc6ad250858e6f6/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Camry",
-      "year": "2023",
-      "mileage": "92100",
-      "date": "2026-08-21T12:45:44Z"
-    },
     {
       "id": "16807501",
       "title": "[OFFER PRICE] [DODGE CHALLENGER GT PLUS 3.6L V6]",
@@ -7003,9 +6989,95 @@
       "year": "2019",
       "mileage": "119000",
       "date": "2026-09-20T09:06:59Z"
+    },
+    {
+      "id": "16807362",
+      "title": "Excellent BMW 730Li 2015 GCC Specs - NO ACCIDENTS HISTORY, ORIGINAL MILEAGE, EXCELLENT CONDITION",
+      "old_price": 41900,
+      "new_price": 39500,
+      "drop_pct": 5.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/04/17/excellent-bmw-730li-2015-gcc-specs-no-acci-2-943---4005318fb6ab42e5ab0e68ffa90972d9/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2015",
+      "mileage": "115338",
+      "date": "2026-09-20T18:31:07Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100314567",
+      "title": "GCC   Mansory Kit, 2 original keys, 1-year warranty.Full option",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/gcc-mansory-kit-2-original-keys-1-year-war-2-486---848e84f9e1f3499baa9f8afc19bb0c25/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2016",
+      "mileage": "80000",
+      "price": 69000,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
+    {
+      "id": "100314477",
+      "title": "Maybach kit  Clean title, 2 keys, dealer car, 1-year warranty.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/09/20/maybach-kit-clean-title-2-keys-dealer-car--2-927---5247c4d20f264a19837065be7608cfd4/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLS-Class",
+      "year": "2020",
+      "mileage": "139000",
+      "price": 139000,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
+    {
+      "id": "100314304",
+      "title": "Mercedes-Benz E 350 -AMG Line",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/20/mercedes-benz-e-350-amg-line-2-032---e49dd98f7f39481ebeac1fa97fb36baa/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2021",
+      "mileage": "36000",
+      "price": 129000,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
+    {
+      "id": "100314203",
+      "title": "Mercedes-Benz C 300 AMG - night package",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/20/mercedes-benz-c-300-amg-night-package-2-963---0f239760ffe84cd280bb012518beec6d/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2024",
+      "mileage": "22200",
+      "price": 144000,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
+    {
+      "id": "100314063",
+      "title": "2015 BMW 7-Series 740Li GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/2015-bmw-7-series-740li-gcc-specs-2-989---eac4e08920cf41cfb55d086234cdfdb1/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2015",
+      "mileage": "220000",
+      "price": 35500,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
+    {
+      "id": "100312673",
+      "title": "Pristine BMW 750Li Exclusive 2016 - GCC Specs - Full Service History",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/pristine-bmw-750li-exclusive-2016-gcc-spec-2-095---105d62c5343f4a9282eeaa730cce6972/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2016",
+      "mileage": "34876",
+      "price": 98500,
+      "first_seen": "2026-09-20T18:31:07Z"
+    },
     {
       "id": "16974545",
       "title": "Mercedes-Benz G-Class G 63 AMG 2027 GCC Specs",
@@ -12933,78 +13005,6 @@
       "mileage": "160917",
       "price": 27000,
       "first_seen": "2026-09-14T22:59:14Z"
-    },
-    {
-      "id": "16976962",
-      "title": "Cadillac XT4 2023 AWD Imported full option panoramic sunroof super clean car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/xt4/2026/09/14/cadillac-xt4-2023-awd-imported-full-option-2-771---ab7fa903e3a44553b3d0e10fd7b0eb9e/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "XT4",
-      "year": "2023",
-      "mileage": "78000",
-      "price": 52000,
-      "first_seen": "2026-09-14T17:49:09Z"
-    },
-    {
-      "id": "16976943",
-      "title": "Dodge Challenger 2017  5.7L V8 imported full SRT kit super clean car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/09/14/dodge-challenger-2017-57l-v8-imported-full-2-578---9aa4a6e1dc9540e192c5d5582535a101/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2017",
-      "mileage": "157000",
-      "price": 32000,
-      "first_seen": "2026-09-14T17:49:09Z"
-    },
-    {
-      "id": "16922826",
-      "title": "Lamborghini Urus Performante 2024 | 0,0km | Carbon Fiber Package | Under Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/07/27/lamborghini-urus-performante-2024-00km-car-2-818---cadeef610fd141aabc06ceceb7b1c85e/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Urus",
-      "year": "2024",
-      "mileage": "0",
-      "price": 1150000,
-      "first_seen": "2026-09-14T17:49:09Z"
-    },
-    {
-      "id": "16976922",
-      "title": "Mercedes-Benz E-Class E 53 AMG",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/14/mercedes-benz-e-class-e-53-amg-2-961---e8f581405b5f41fe908e7b0668943661/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2022",
-      "mileage": "15900",
-      "price": 205000,
-      "first_seen": "2026-09-14T17:49:09Z"
-    },
-    {
-      "id": "16964711",
-      "title": "Brand New 2026 Mercedes-Benz E 200 | GCC Specs | Luxury Sedan",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/04/brand-new-2026-mercedes-benz-e-200-gcc-spe-2-188---cfb3e90ab6424045b3264d9fdb7d67cc/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2026",
-      "mileage": "0",
-      "price": 299000,
-      "first_seen": "2026-09-14T17:49:09Z"
-    },
-    {
-      "id": "16951013",
-      "title": "Mercedes-Benz A-Class A 45 S+ AMG 2021 | Korean Specs | Performance Hatchback",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/08/22/mercedes-benz-a-class-a-45-s-amg-2021-kore-2-114---ac0df37b468f4757aebf3a7c36ccf0a1/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "A-Class",
-      "year": "2021",
-      "mileage": "82500",
-      "price": 104000,
-      "first_seen": "2026-09-14T17:49:09Z"
     }
   ]
 }

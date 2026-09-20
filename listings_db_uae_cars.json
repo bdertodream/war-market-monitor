@@ -531696,7 +531696,7 @@
   "16807362": {
     "id": "16807362",
     "title": "Excellent BMW 730Li 2015 GCC Specs - NO ACCIDENTS HISTORY, ORIGINAL MILEAGE, EXCELLENT CONDITION",
-    "price": 41900,
+    "price": 39500,
     "make": "BMW",
     "model": "7-Series",
     "year": "2015",
@@ -531705,12 +531705,16 @@
     "fuel_type": "Petrol",
     "area": "Meydan",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/04/17/excellent-bmw-730li-2015-gcc-specs-no-acci-2-371---4005318fb6ab42e5ab0e68ffa90972d9/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/04/17/excellent-bmw-730li-2015-gcc-specs-no-acci-2-943---4005318fb6ab42e5ab0e68ffa90972d9/",
     "first_seen": "2026-09-11T15:57:53Z",
     "prices": [
       {
         "price": 41900,
         "date": "2026-09-11T15:57:53Z"
+      },
+      {
+        "price": 39500,
+        "date": "2026-09-20T18:31:07Z"
       }
     ],
     "date": "2026-09-11"
@@ -547607,6 +547611,138 @@
       {
         "price": 35000,
         "date": "2026-09-20T15:33:01Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100314567": {
+    "id": "100314567",
+    "title": "GCC   Mansory Kit, 2 original keys, 1-year warranty.Full option",
+    "price": 69000,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2016",
+    "kilometers": "80000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/gcc-mansory-kit-2-original-keys-1-year-war-2-486---848e84f9e1f3499baa9f8afc19bb0c25/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 69000,
+        "date": "2026-09-20T18:31:07Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100314477": {
+    "id": "100314477",
+    "title": "Maybach kit  Clean title, 2 keys, dealer car, 1-year warranty.",
+    "price": 139000,
+    "make": "Mercedes-Benz",
+    "model": "GLS-Class",
+    "year": "2020",
+    "kilometers": "139000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/09/20/maybach-kit-clean-title-2-keys-dealer-car--2-927---5247c4d20f264a19837065be7608cfd4/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 139000,
+        "date": "2026-09-20T18:31:07Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100314304": {
+    "id": "100314304",
+    "title": "Mercedes-Benz E 350 -AMG Line",
+    "price": 129000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2021",
+    "kilometers": "36000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/20/mercedes-benz-e-350-amg-line-2-032---e49dd98f7f39481ebeac1fa97fb36baa/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 129000,
+        "date": "2026-09-20T18:31:07Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100314203": {
+    "id": "100314203",
+    "title": "Mercedes-Benz C 300 AMG - night package",
+    "price": 144000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2024",
+    "kilometers": "22200",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/20/mercedes-benz-c-300-amg-night-package-2-963---0f239760ffe84cd280bb012518beec6d/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 144000,
+        "date": "2026-09-20T18:31:07Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100314063": {
+    "id": "100314063",
+    "title": "2015 BMW 7-Series 740Li GCC Specs",
+    "price": 35500,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2015",
+    "kilometers": "220000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/2015-bmw-7-series-740li-gcc-specs-2-989---eac4e08920cf41cfb55d086234cdfdb1/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 35500,
+        "date": "2026-09-20T18:31:07Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100312673": {
+    "id": "100312673",
+    "title": "Pristine BMW 750Li Exclusive 2016 - GCC Specs - Full Service History",
+    "price": 98500,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2016",
+    "kilometers": "34876",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Naseem Townhouses",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/pristine-bmw-750li-exclusive-2016-gcc-spec-2-095---105d62c5343f4a9282eeaa730cce6972/",
+    "first_seen": "2026-09-20T18:31:07Z",
+    "prices": [
+      {
+        "price": 98500,
+        "date": "2026-09-20T18:31:07Z"
       }
     ],
     "date": "2026-09-20"
