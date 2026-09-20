@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26178,
+  "total_tracked": 26182,
   "total_drops": 500,
-  "total_new": 26178,
+  "total_new": 26182,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7152,6 +7152,50 @@
       "first_seen": "2026-09-20"
     },
     {
+      "id": "17937010",
+      "title": "Extended Bungalow | Vacant Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/31/extended-4br-bungalow-renovated-through-2-116462/",
+      "area": "Green Community",
+      "category": "Villa",
+      "size": "4326",
+      "bedrooms": "4",
+      "price": 7500000,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "17928024",
+      "title": "Waterfront View | Investor Deal l Luxury Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/29/waterfront-view-investor-deal-l-luxury--2-201722/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1055",
+      "bedrooms": "2",
+      "price": 2700000,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "18026320",
+      "title": "Loft 2BR | Prime Location | Marina View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/loft-2br-prime-location-marina-view-2-607089/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "1512",
+      "bedrooms": "2",
+      "price": 5900000,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "17868987",
+      "title": "Motivated Seller | Exclusive 3BR Duplex | Direct Canal & Waterfront Views | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/15/luxury-3-bedroom-duplex-continental-tow-2-214911/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "2512",
+      "bedrooms": "3",
+      "price": 5999000,
+      "first_seen": "2026-09-20"
+    },
+    {
       "id": "18025389",
       "title": "Fully Extended | Renovated | Vacant | Elevator",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/fully-extended-renovated-vacant-elevato-2-982689/",
@@ -7417,7 +7461,7 @@
     },
     {
       "id": "18025747",
-      "title": "Mid Floor | Investor Deal | Near Completion",
+      "title": "Original price | Investor Deal | Near Completion",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/mid-floor-investor-deal-near-completion-2-149036/",
       "area": "Dubai Science Park",
       "category": "Apartment",
@@ -9463,7 +9507,7 @@
     },
     {
       "id": "18016291",
-      "title": "Big Layout | 9% ROI | Investor's Choice | Fully Furnished Smart Home",
+      "title": "9% ROI | Investor's Choice | Fully Furnished Smart Home | Amenities View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/big-layout-9-roi-investors-choice-fully-2-193078/",
       "area": "Jumeirah Village Circle (JVC)",
       "category": "Apartment",
@@ -9474,7 +9518,7 @@
     },
     {
       "id": "18016319",
-      "title": "2BR+Maids | Fully Furnished | Pool and Amenities View | High Appreciation | Smart Home | Last Units",
+      "title": "2BR+Maids | Fully Furnished |Amenities View | Spacious | Smart Home | Last Units",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/2brmaids-fully-furnished-perfect-for-en-2-694826/",
       "area": "Jumeirah Village Circle (JVC)",
       "category": "Apartment",
@@ -12462,50 +12506,6 @@
       "size": "1069",
       "bedrooms": "1",
       "price": 1270000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17993291",
-      "title": "Luxurious villa | No Commission | Spacious Size",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/luxurious-villa-with-landscaped-gardens-2-217602/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Villa",
-      "size": "4048",
-      "bedrooms": "4",
-      "price": 3500000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17883532",
-      "title": "Upgraded 1BR Apartment | Fully Furnished | JLT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/19/upgraded-1br-apartment-fully-furnished--2-100860/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "729",
-      "bedrooms": "1",
-      "price": 1250000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17729167",
-      "title": "Best Deal | Studio | MBR View | Exclusive",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/15/exclusive-i-high-roi-city-views-2-812079/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "445",
-      "bedrooms": "0",
-      "price": 920000,
-      "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17988546",
-      "title": "Prime Location | Gated Community | Ready To Move",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/prime-location-gated-community-ready-to-2-216794/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Villa",
-      "size": "2799",
-      "bedrooms": "4",
-      "price": 4100000,
       "first_seen": "2026-09-14"
     }
   ],
