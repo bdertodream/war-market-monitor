@@ -547067,8 +547067,8 @@
   },
   "16952942": {
     "id": "16952942",
-    "title": "3,124 P.M |  Teramont R-Line | 0% Downpayment | Volkswagen WARRANTY+SERVICE",
-    "price": 159499,
+    "title": "3,114 P.M |  Teramont R-Line | 0% Downpayment | Volkswagen WARRANTY+SERVICE",
+    "price": 158999,
     "make": "Volkswagen",
     "model": "Teramont",
     "year": "2024",
@@ -547077,12 +547077,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/08/24/3124-pm-teramont-r-line-0-downpayment-volk-2-518---25a7ff9af4744238ba1f9c9951557a87/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/08/24/3114-pm-teramont-r-line-0-downpayment-volk-2-618---25a7ff9af4744238ba1f9c9951557a87/",
     "first_seen": "2026-09-20T15:33:01Z",
     "prices": [
       {
         "price": 159499,
         "date": "2026-09-20T15:33:01Z"
+      },
+      {
+        "price": 158999,
+        "date": "2026-09-21T03:35:29Z"
       }
     ],
     "date": "2026-09-20"
@@ -547809,6 +547813,116 @@
       {
         "price": 443000,
         "date": "2026-09-20T22:13:49Z"
+      }
+    ],
+    "date": "2026-09-20"
+  },
+  "100317629": {
+    "id": "100317629",
+    "title": "2014 Mazda 2 S Grade GCC Specs. 1.2. 4 cylinder.  Reliable & Fuel Efficient Hatchback",
+    "price": 9500,
+    "make": "Mazda",
+    "model": "2",
+    "year": "2014",
+    "kilometers": "146000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/2/2026/09/21/2014-mazda-2-s-grade-gcc-specs-12-4-cylind-2-638---4ba96138f30d46c7b3038fed07a57995/",
+    "first_seen": "2026-09-21T03:35:29Z",
+    "prices": [
+      {
+        "price": 9500,
+        "date": "2026-09-21T03:35:29Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "16911162": {
+    "id": "16911162",
+    "title": "Jeep Wrangler Sahara 2007 GCC Specs",
+    "price": 26500,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2007",
+    "kilometers": "125000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ali Rashid Building",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/07/16/jeep-wrangler-sahara-2007-gcc-specs-2-065---e4eca64fae884e87b43c9c9dd99c0b52/",
+    "first_seen": "2026-09-21T03:35:29Z",
+    "prices": [
+      {
+        "price": 26500,
+        "date": "2026-09-21T03:35:29Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "16880652": {
+    "id": "16880652",
+    "title": "Ford F-150 2012 GCC Specs",
+    "price": 36500,
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2012",
+    "kilometers": "225000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/06/20/ford-f-150-2012-gcc-specs-2-033---93edde6bc3634b65a27ae6f8922b74dd/",
+    "first_seen": "2026-09-21T03:35:29Z",
+    "prices": [
+      {
+        "price": 36500,
+        "date": "2026-09-21T03:35:29Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "100305514": {
+    "id": "100305514",
+    "title": "2008 Dodge Nitro SLT GCC Specs - Almost 15 Years With Me",
+    "price": 8000,
+    "make": "Dodge",
+    "model": "Nitro",
+    "year": "2008",
+    "kilometers": "250150",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Lake Towers (JLT)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/nitro/2026/09/20/2008-dodge-nitro-slt-gcc-specs-almost-15-y-2-329---766688c7ca8a4264ae3d4fffa3ccef51/",
+    "first_seen": "2026-09-21T03:35:29Z",
+    "prices": [
+      {
+        "price": 8000,
+        "date": "2026-09-21T03:35:29Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "100315961": {
+    "id": "100315961",
+    "title": "2024 Polestar 3 GCC  Long range Dual motor with Performance",
+    "price": 175000,
+    "make": "Polestar",
+    "model": "3",
+    "year": "2024",
+    "kilometers": "2100",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Arabian Ranches 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/3/2026/09/20/2024-polestar-3-gcc-long-range-dual-motor--2-779---5e7b1c98d5f7402a86c5429094331267/",
+    "first_seen": "2026-09-21T03:35:29Z",
+    "prices": [
+      {
+        "price": 175000,
+        "date": "2026-09-21T03:35:29Z"
       }
     ],
     "date": "2026-09-20"
