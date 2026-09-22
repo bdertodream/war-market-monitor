@@ -538326,7 +538326,7 @@
   "16977249": {
     "id": "16977249",
     "title": "2021 GMC Yukon Denali | Luxury SUV | American Specs",
-    "price": 115000,
+    "price": 110000,
     "make": "GMC",
     "model": "Yukon",
     "year": "2021",
@@ -538335,12 +538335,16 @@
     "fuel_type": "Petrol",
     "area": "Al Barsha",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/09/15/2021-gmc-yukon-denali-luxury-suv-american--2-504---c7698755c686491086bf4df5ad888f98/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/09/15/2021-gmc-yukon-denali-luxury-suv-american--2-279---c7698755c686491086bf4df5ad888f98/",
     "first_seen": "2026-09-15T09:14:38Z",
     "prices": [
       {
         "price": 115000,
         "date": "2026-09-15T09:14:38Z"
+      },
+      {
+        "price": 110000,
+        "date": "2026-09-22T22:45:59Z"
       }
     ],
     "date": "2026-09-15"
@@ -551887,6 +551891,248 @@
       {
         "price": 18000,
         "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100341952": {
+    "id": "100341952",
+    "title": "Almost brand new very clean",
+    "price": 23500,
+    "make": "MG",
+    "model": "MG5",
+    "year": "2023",
+    "kilometers": "58000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/09/22/almost-brand-new-very-clean-2-034---22a99e2bfb6248e8958ee99f98194de0/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 23500,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100341927": {
+    "id": "100341927",
+    "title": "Chevrolet Captiva LS 2023 GCC Specs",
+    "price": 29999,
+    "make": "Chevrolet",
+    "model": "Captiva",
+    "year": "2023",
+    "kilometers": "81000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/09/22/chevrolet-captiva-ls-2023-gcc-specs-2-586---eab6110fbb5d4f158f4b16312275a4db/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 29999,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16949435": {
+    "id": "16949435",
+    "title": "1450 aed monthly | Geely Preface 2025 GF | 2.0T | GCC Specs | Full Option | Ref # 12470",
+    "price": 94000,
+    "make": "Geely",
+    "model": "Preface",
+    "year": "2025",
+    "kilometers": "15407",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/preface/2026/08/21/1450-aed-monthly-geely-preface-2025-gf-20t-2-439---1ec73fd149b24a9ea50026809f4e615e/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 94000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100341268": {
+    "id": "100341268",
+    "title": "2023 Mercedes-Maybach GLS-600 TWO TONE COLOUR JUST 575000 AED",
+    "price": 575000,
+    "make": "Mercedes-Maybach",
+    "model": "GLS-Class",
+    "year": "2023",
+    "kilometers": "18000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/gls-class/2026/09/22/2023-mercedes-maybach-gls-600-two-tone-col-2-538---ed572c53949d4418af57bffd67bd01ea/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 575000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100341284": {
+    "id": "100341284",
+    "title": "2020 Land Rover Range Rover Sport HST American Specs",
+    "price": 110000,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2020",
+    "kilometers": "81000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/09/22/2020-land-rover-range-rover-sport-hst-amer-2-452---07f3dedb96e9486c9a7e90f2fa6a61b0/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 110000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100341158": {
+    "id": "100341158",
+    "title": "AED 1050 / month | Geely CITYRAY 1.5TD GC 2026 | GCC Specs | Ref# 17002",
+    "price": 71500,
+    "make": "Geely",
+    "model": "CityRay",
+    "year": "2026",
+    "kilometers": "24821",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/cityray/2026/09/22/aed-1050-month-geely-cityray-15td-gc-2026--2-304---6102622cf14642e398b7b05eece0a28b/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 71500,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100340856": {
+    "id": "100340856",
+    "title": "2024 Kaiyi X3 Pro Flagship GCC Specs",
+    "price": 25000,
+    "make": "Kaiyi",
+    "model": "X3 Pro",
+    "year": "2024",
+    "kilometers": "49000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Rasis Business Centre",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kaiyi/x3-pro/2026/09/22/2024-kaiyi-x3-pro-flagship-gcc-specs-2-641---19f416c8719848c580a87e7283a9429f/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 25000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100340848": {
+    "id": "100340848",
+    "title": "Volkswagen Passat Comfortline 2020 GCC Specs",
+    "price": 49000,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2020",
+    "kilometers": "90000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "JVC District 12",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/09/22/volkswagen-passat-comfortline-2020-gcc-spe-2-945---847f25f648664b4eb6b9160cefe3626a/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16950914": {
+    "id": "16950914",
+    "title": "Land Rover Range Rover Evoque 2019 GCC specs",
+    "price": 49999,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2019",
+    "kilometers": "102329",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/22/land-rover-range-rover-evoque-2019-gcc-spe-2-113---a92d03cbeca44e64af58595378c72b68/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 49999,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100339943": {
+    "id": "100339943",
+    "title": "2023 Audi RS6 4.0 TFSI quattro - European Specs",
+    "price": 399000,
+    "make": "Audi",
+    "model": "RS6",
+    "year": "2023",
+    "kilometers": "39000",
+    "body_type": "Wagon",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs6/2026/09/22/2023-audi-rs6-40-tfsi-quattro-european-spe-2-815---7592ebd5eea84ec7bc113a900a9d9aee/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 399000,
+        "date": "2026-09-22T22:45:59Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100333807": {
+    "id": "100333807",
+    "title": "UNLIMITED MILEAGE WARRANTY / GCC SPECS + SEDAN + BLUETOOTH + USB + POWER LOCKS",
+    "price": 14950,
+    "make": "Ford",
+    "model": "Figo",
+    "year": "2020",
+    "kilometers": "59760",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/09/22/unlimited-mileage-warranty-gcc-specs-sedan-2-024---d6c0006f3486457bbcdb5ae8325b5154/",
+    "first_seen": "2026-09-22T22:45:59Z",
+    "prices": [
+      {
+        "price": 14950,
+        "date": "2026-09-22T22:45:59Z"
       }
     ],
     "date": "2026-09-22"
