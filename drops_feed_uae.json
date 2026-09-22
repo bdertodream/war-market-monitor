@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26282,
+  "total_tracked": 26283,
   "total_drops": 500,
-  "total_new": 26282,
+  "total_new": 26283,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17991579",
+      "title": "High Floor | Premium Furnished | Skyline View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/high-floor-premium-furnished-skyline-vi-2-216925/",
+      "area": "DAMAC Hills",
+      "category": "Apartment",
+      "size": "399",
+      "bedrooms": "0",
+      "price": 600000,
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "17935006",
       "title": "Canal Views | With Balcony | Prime Location",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/canal-views-with-balcony-prime-location-2-155787/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "1",
       "price": 1225000,
       "first_seen": "2026-09-14"
-    },
-    {
-      "id": "17978771",
-      "title": "Single Row | Vacant | Large Terrace",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/9/single-row-vacant-large-terrace-2-403008/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Townhouse",
-      "size": "1425",
-      "bedrooms": "2",
-      "price": 3200000,
-      "first_seen": "2026-09-14"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-21"
+  "last_updated": "2026-09-22"
 }

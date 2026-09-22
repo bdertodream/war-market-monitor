@@ -549826,5 +549826,93 @@
       }
     ],
     "date": "2026-09-21"
+  },
+  "100263032": {
+    "id": "100263032",
+    "title": "Range Rover SV LWB | Low Mileage | Pristine Condition",
+    "price": 925000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2025",
+    "kilometers": "26000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/16/range-rover-sv-lwb-low-mileage-pristine-co-2-856---c3c3f63a8a254439b84c0fe731edab1c/",
+    "first_seen": "2026-09-22T03:34:10Z",
+    "prices": [
+      {
+        "price": 925000,
+        "date": "2026-09-22T03:34:10Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "100300669": {
+    "id": "100300669",
+    "title": "2020 Lamborghini Urus Mansory Edition | European Specs",
+    "price": 825000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2020",
+    "kilometers": "52000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/19/2020-lamborghini-urus-mansory-edition-euro-2-129---3d3807d2e1a642ed905319d32fd2fcd3/",
+    "first_seen": "2026-09-22T03:34:10Z",
+    "prices": [
+      {
+        "price": 825000,
+        "date": "2026-09-22T03:34:10Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "100301026": {
+    "id": "100301026",
+    "title": "2025 Hurtan Grand Albayc\u00edn | Mazda MX-5 Based | Brand New Condition",
+    "price": 525000,
+    "make": "Mazda",
+    "model": "MX-5",
+    "year": "2025",
+    "kilometers": "146",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/mx5/2026/09/19/2025-hurtan-grand-albaycin-mazda-mx-5-base-2-954---2ef7582625864f96986137a21486e32e/",
+    "first_seen": "2026-09-22T03:34:10Z",
+    "prices": [
+      {
+        "price": 525000,
+        "date": "2026-09-22T03:34:10Z"
+      }
+    ],
+    "date": "2026-09-21"
+  },
+  "100321585": {
+    "id": "100321585",
+    "title": "2009 Bentley Brooklands | GCC Specs | Prestine Condition",
+    "price": 595000,
+    "make": "Bentley",
+    "model": "Brooklands",
+    "year": "2009",
+    "kilometers": "58400",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/brooklands/2026/09/21/2009-bentley-brooklands-gcc-specs-prestine-2-404---1052fd49577c4669956c6b491ca4be70/",
+    "first_seen": "2026-09-22T03:34:10Z",
+    "prices": [
+      {
+        "price": 595000,
+        "date": "2026-09-22T03:34:10Z"
+      }
+    ],
+    "date": "2026-09-21"
   }
 }
