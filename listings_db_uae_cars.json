@@ -13303,8 +13303,8 @@
   },
   "16654456": {
     "id": "16654456",
-    "title": "7,050 P.M | 0% Downpayment | BMW M4 Competition Convertible!",
-    "price": 359999,
+    "title": "6,855 P.M | 0% Downpayment | BMW M4 Competition Convertible!",
+    "price": 349999,
     "make": "BMW",
     "model": "M4",
     "year": "{'label': 'Year', 'value': 2025}",
@@ -13313,7 +13313,7 @@
     "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m4/2025/11/29/7834-pm-0-downpayment-bmw-m4-competition-c-2-954---c1bec87c4fa6401c841612aacb9baf46/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m4/2025/11/29/6855-pm-0-downpayment-bmw-m4-competition-c-2-207---c1bec87c4fa6401c841612aacb9baf46/",
     "first_seen": "2026-03-09T12:46:57Z",
     "prices": [
       {
@@ -13323,6 +13323,10 @@
       {
         "price": 359999,
         "date": "2026-06-17T12:17:25Z"
+      },
+      {
+        "price": 349999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-03-09"
@@ -32673,8 +32677,8 @@
   },
   "16753427": {
     "id": "16753427",
-    "title": "2,037 P.M | 0% Downpayment | FULLY LOADED | IMMACULATE!",
-    "price": 103999,
+    "title": "1,929 P.M | 0% Downpayment | FULLY LOADED | IMMACULATE!",
+    "price": 98499,
     "make": "Jaguar",
     "model": "F-Pace",
     "year": "2021",
@@ -32683,7 +32687,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-pace/2026/2/22/4309-pm-0-downpayment-fully-loaded-immacul-2-453---c2705339ef574368a77717d4e02cde5b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-pace/2026/02/22/1929-pm-0-downpayment-fully-loaded-immacul-2-272---c2705339ef574368a77717d4e02cde5b/",
     "first_seen": "2026-03-12T12:45:29Z",
     "prices": [
       {
@@ -32697,6 +32701,10 @@
       {
         "price": 103999,
         "date": "2026-07-21T17:20:13Z"
+      },
+      {
+        "price": 98499,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-03-12"
@@ -127704,7 +127712,7 @@
   "16799770": {
     "id": "16799770",
     "title": "BRAND NEW ZERO MILEAGE JAECOO J8 LUXURY|2026|  AED 1380| WARRANTY  SERVICE GCC",
-    "price": 89999,
+    "price": 90500,
     "make": "JAECOO",
     "model": "J8",
     "year": "2026",
@@ -127747,6 +127755,10 @@
       {
         "price": 89999,
         "date": "2026-09-10T08:41:38Z"
+      },
+      {
+        "price": 90500,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-04-10"
@@ -177460,7 +177472,7 @@
   "16808721": {
     "id": "16808721",
     "title": "Cadillac Escalade Luxury 2021 GCC Specs - Excellent Condition",
-    "price": 199000,
+    "price": 179000,
     "make": "Cadillac",
     "model": "Escalade",
     "year": "2021",
@@ -177469,12 +177481,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/4/18/cadillac-escalade-luxury-2021-gcc-specs-ex-2-616---5cd32bba022746118aab8a4f9e808f72/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/04/18/cadillac-escalade-luxury-2021-gcc-specs-ex-2-388---5cd32bba022746118aab8a4f9e808f72/",
     "first_seen": "2026-04-23T17:29:35Z",
     "prices": [
       {
         "price": 199000,
         "date": "2026-04-23T17:29:35Z"
+      },
+      {
+        "price": 179000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-04-23"
@@ -181278,7 +181294,7 @@
   "16815512": {
     "id": "16815512",
     "title": "Ford Explorer Active 2014 - GCC Specs - Reliable SUV",
-    "price": 17000,
+    "price": 16000,
     "make": "Ford",
     "model": "Explorer",
     "year": "2014",
@@ -181287,7 +181303,7 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/4/24/ford-explorer-active-2014-gcc-specs-reliab-2-265---0e47112b10634402a3aee03eb7bd4f4d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/04/24/ford-explorer-active-2014-gcc-specs-reliab-2-854---0e47112b10634402a3aee03eb7bd4f4d/",
     "first_seen": "2026-04-24T13:36:11Z",
     "prices": [
       {
@@ -181305,6 +181321,10 @@
       {
         "price": 17000,
         "date": "2026-08-11T08:56:00Z"
+      },
+      {
+        "price": 16000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-04-24"
@@ -188956,7 +188976,7 @@
   "16736068": {
     "id": "16736068",
     "title": "MG RX8 2023 25000 KM 30 TURBO 4X4 FULL OPTION GCC FULL SERVICE+ 5 YEAR WARRANTY +ORGINAL PAINT 100%",
-    "price": 62000,
+    "price": 60000,
     "make": "MG",
     "model": "RX8",
     "year": "2023",
@@ -188965,7 +188985,7 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx8/2026/2/7/mg-rx8-2023-25000-km-30-turbo-4x4-full-opt-2-217---9d2fbefd965046f6abb3dcd109f6a2fc/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx8/2026/02/07/mg-rx8-2023-25000-km-30-turbo-4x4-full-opt-2-756---9d2fbefd965046f6abb3dcd109f6a2fc/",
     "first_seen": "2026-04-27T14:03:43Z",
     "prices": [
       {
@@ -188975,6 +188995,10 @@
       {
         "price": 62000,
         "date": "2026-08-24T08:49:40Z"
+      },
+      {
+        "price": 60000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-04-27"
@@ -270474,7 +270498,7 @@
   "16847241": {
     "id": "16847241",
     "title": "WARRANTY ONE YEAR* Audi A5 40 TFSI S-Line 2018 | GCC Specs | Pristine Condition",
-    "price": 46000,
+    "price": 42000,
     "make": "Audi",
     "model": "A5",
     "year": "2018",
@@ -270483,7 +270507,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/05/21/warranty-one-year-audi-a5-40-tfsi-s-line-2-2-079---accb5cfaeeae47629deb86116b707d28/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/05/21/warranty-one-year-audi-a5-40-tfsi-s-line-2-2-635---accb5cfaeeae47629deb86116b707d28/",
     "first_seen": "2026-05-21T15:27:43Z",
     "prices": [
       {
@@ -270497,6 +270521,10 @@
       {
         "price": 46000,
         "date": "2026-09-08T16:05:27Z"
+      },
+      {
+        "price": 42000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-05-21"
@@ -272688,7 +272716,7 @@
   "16847995": {
     "id": "16847995",
     "title": "2012 VW Touareg Excellent condition",
-    "price": 14000,
+    "price": 13000,
     "make": "Volkswagen",
     "model": "Touareg",
     "year": "2012",
@@ -272697,7 +272725,7 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/5/22/2012-vw-touareg-excellent-condition-2-098---55ad04dc636e45549a497972241578a2/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/05/22/2012-vw-touareg-excellent-condition-2-231---55ad04dc636e45549a497972241578a2/",
     "first_seen": "2026-05-22T10:51:49Z",
     "prices": [
       {
@@ -272715,6 +272743,10 @@
       {
         "price": 14000,
         "date": "2026-07-11T13:19:16Z"
+      },
+      {
+        "price": 13000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-05-22"
@@ -274264,7 +274296,7 @@
   "16848035": {
     "id": "16848035",
     "title": "Ford Explorer XL 2014 GCC Specs - Well Maintained SUV",
-    "price": 15000,
+    "price": 14000,
     "make": "Ford",
     "model": "Explorer",
     "year": "2014",
@@ -274273,7 +274305,7 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/5/22/ford-explorer-xl-2014-gcc-specs-well-maint-2-752---002ee82cc0d345f8be387722039428c1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/05/22/ford-explorer-xl-2014-gcc-specs-well-maint-2-991---002ee82cc0d345f8be387722039428c1/",
     "first_seen": "2026-05-22T14:40:19Z",
     "prices": [
       {
@@ -274287,6 +274319,10 @@
       {
         "price": 15000,
         "date": "2026-07-11T13:19:16Z"
+      },
+      {
+        "price": 14000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-05-22"
@@ -290864,7 +290900,7 @@
   "16701617": {
     "id": "16701617",
     "title": "DURANGO 2024 R/T V8 5.7L\u00a0,GCC FREE SERVICE 100000 KM +5 YEAR WARRANTY TRADING FUTTAIM  - FULL OPTION",
-    "price": 143000,
+    "price": 136000,
     "make": "Dodge",
     "model": "Durango",
     "year": "2024",
@@ -290873,7 +290909,7 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/1/10/durango-2024-rt-v8-57l-gcc-free-service-10-2-606---bf1305b37b4a479487fce8c97db4e4df/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/01/10/durango-2024-rt-v8-57l-gcc-free-service-10-2-241---bf1305b37b4a479487fce8c97db4e4df/",
     "first_seen": "2026-05-31T13:45:50Z",
     "prices": [
       {
@@ -290883,6 +290919,10 @@
       {
         "price": 143000,
         "date": "2026-08-08T08:41:00Z"
+      },
+      {
+        "price": 136000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-05-31"
@@ -320560,7 +320600,7 @@
   "16871488": {
     "id": "16871488",
     "title": "Rox 01 VIP 6 SEATS 2026 | Brand New | Luxury Hybrid SUV",
-    "price": 188000,
+    "price": 185000,
     "make": "Rox",
     "model": "01",
     "year": "2026",
@@ -320569,7 +320609,7 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/6/13/rox-01-vip-6-seats-2026-brand-new-luxury-h-2-601---28b46a7c692343fca9ca3dd84539a75f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/06/13/rox-01-vip-6-seats-2026-brand-new-luxury-h-2-636---28b46a7c692343fca9ca3dd84539a75f/",
     "first_seen": "2026-06-13T14:00:31Z",
     "prices": [
       {
@@ -320587,6 +320627,10 @@
       {
         "price": 188000,
         "date": "2026-07-18T16:58:33Z"
+      },
+      {
+        "price": 185000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-06-13"
@@ -320806,7 +320850,7 @@
   "16871561": {
     "id": "16871561",
     "title": "Rox 01 VIP 6 SEATS 2026 | Brand New | Luxury Hybrid SUV",
-    "price": 199000,
+    "price": 185000,
     "make": "Rox",
     "model": "01",
     "year": "2026",
@@ -320815,7 +320859,7 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/6/13/rox-01-vip-6-seats-2026-brand-new-luxury-h-2-424---4361eb3bb9b1452a80ee47f0353dd8d2/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/06/13/rox-01-vip-6-seats-2026-brand-new-luxury-h-2-766---4361eb3bb9b1452a80ee47f0353dd8d2/",
     "first_seen": "2026-06-13T14:00:31Z",
     "prices": [
       {
@@ -320829,6 +320873,10 @@
       {
         "price": 199000,
         "date": "2026-06-18T15:25:06Z"
+      },
+      {
+        "price": 185000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-06-13"
@@ -327935,8 +327983,8 @@
   },
   "16845626": {
     "id": "16845626",
-    "title": "3,251 P.M |  Porsche Macan | 0% Downpayment | 21 Turbo Design Wheels",
-    "price": 165999,
+    "title": "3,114 P.M |  Porsche Macan | 0% Downpayment | 21 Turbo Design Wheels",
+    "price": 158999,
     "make": "Porsche",
     "model": "Macan",
     "year": "2021",
@@ -327945,7 +327993,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/5/20/3330-pm-macan-base-0-downpayment-perfect-c-2-121---accba1eb77fe470d8ea40a454882bae7/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/05/20/3114-pm-porsche-macan-0-downpayment-21-tur-2-699---accba1eb77fe470d8ea40a454882bae7/",
     "first_seen": "2026-06-17T12:17:25Z",
     "prices": [
       {
@@ -327955,6 +328003,10 @@
       {
         "price": 165999,
         "date": "2026-07-15T21:01:22Z"
+      },
+      {
+        "price": 158999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-06-17"
@@ -363474,7 +363526,7 @@
   "16752829": {
     "id": "16752829",
     "title": "CHARGER 2023 R/T 5.7L V8 GCC FULL SERVICE + WARRANTY AL FUTTAIM + FULL OPTION + ORGINAL PAINT 100%",
-    "price": 134000,
+    "price": 128000,
     "make": "Dodge",
     "model": "Charger",
     "year": "2023",
@@ -363483,12 +363535,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/2/21/charger-2023-rt-57l-v8-gcc-full-service-wa-2-787---b8d779a7efd34fc2bd4577f97c4ea3fb/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/02/21/charger-2023-rt-57l-v8-gcc-full-service-wa-2-848---b8d779a7efd34fc2bd4577f97c4ea3fb/",
     "first_seen": "2026-06-29T15:47:54Z",
     "prices": [
       {
         "price": 134000,
         "date": "2026-06-29T15:47:54Z"
+      },
+      {
+        "price": 128000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-06-29"
@@ -367106,7 +367162,7 @@
   "16893037": {
     "id": "16893037",
     "title": "Volkswagen Touareg Sport 2014 GCC Specs",
-    "price": 22000,
+    "price": 21000,
     "make": "Volkswagen",
     "model": "Touareg",
     "year": "2014",
@@ -367115,7 +367171,7 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/6/30/volkswagen-touareg-sport-2014-gcc-specs-2-649---08a5170750184654be496c333559a155/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/06/30/volkswagen-touareg-sport-2014-gcc-specs-2-882---08a5170750184654be496c333559a155/",
     "first_seen": "2026-06-30T21:29:00Z",
     "prices": [
       {
@@ -367129,6 +367185,10 @@
       {
         "price": 22000,
         "date": "2026-08-05T10:35:26Z"
+      },
+      {
+        "price": 21000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-06-30"
@@ -390792,7 +390852,7 @@
   "16902907": {
     "id": "16902907",
     "title": "Jeep Grand Cherokee Trailhawk 2019 GCC Specs",
-    "price": 42000,
+    "price": 39500,
     "make": "Jeep",
     "model": "Grand Cherokee",
     "year": "2019",
@@ -390801,7 +390861,7 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/7/9/jeep-grand-cherokee-trailhawk-2019-gcc-spe-2-514---118a66b74b7f433fa4a312127e63feda/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/07/09/jeep-grand-cherokee-trailhawk-2019-gcc-spe-2-261---118a66b74b7f433fa4a312127e63feda/",
     "first_seen": "2026-07-09T07:37:37Z",
     "prices": [
       {
@@ -390823,6 +390883,10 @@
       {
         "price": 42000,
         "date": "2026-08-11T08:56:00Z"
+      },
+      {
+        "price": 39500,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-07-09"
@@ -420719,8 +420783,8 @@
   },
   "16915204": {
     "id": "16915204",
-    "title": "JAC S4 2025 | GCC Specs | Excellent Condition",
-    "price": 43999,
+    "title": "JAC JS4 2025 GCC specs",
+    "price": 37999,
     "make": "JAC",
     "model": "JS4",
     "year": "2025",
@@ -420729,12 +420793,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/js4/2026/7/20/jac-s4-2025-gcc-specs-excellent-condition-2-383---bb00ed304ab744759a5f4878ea8bdc6a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/js4/2026/07/20/jac-js4-2025-gcc-specs-2-685---bb00ed304ab744759a5f4878ea8bdc6a/",
     "first_seen": "2026-07-20T18:03:36Z",
     "prices": [
       {
         "price": 43999,
         "date": "2026-07-20T18:03:36Z"
+      },
+      {
+        "price": 37999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-07-20"
@@ -426875,8 +426943,8 @@
   },
   "16914452": {
     "id": "16914452",
-    "title": "2,057 P.M |  Countryman JCW | 0% Downpayment | Mini Warranty!",
-    "price": 104999,
+    "title": "1,959 P.M |  Countryman JCW | 0% Downpayment | Mini Warranty!",
+    "price": 99999,
     "make": "MINI",
     "model": "Countryman",
     "year": "2023",
@@ -426885,7 +426953,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/countryman/2026/07/19/2057-pm-countryman-jcw-0-downpayment-mini--2-190---ad3f10009d9a49a7ba299161e5936560/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/countryman/2026/07/19/1959-pm-countryman-jcw-0-downpayment-mini--2-764---ad3f10009d9a49a7ba299161e5936560/",
     "first_seen": "2026-07-23T13:59:16Z",
     "prices": [
       {
@@ -426899,6 +426967,10 @@
       {
         "price": 104999,
         "date": "2026-09-01T09:13:09Z"
+      },
+      {
+        "price": 99999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-07-23"
@@ -441441,8 +441513,8 @@
   },
   "16925571": {
     "id": "16925571",
-    "title": "BMW X3 xDrive30i | 2021 | GCC Specs | Excellent Condition",
-    "price": 110999,
+    "title": "BMW X3 30 2021 GCC specs",
+    "price": 103999,
     "make": "BMW",
     "model": "X3",
     "year": "2021",
@@ -441451,12 +441523,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/7/29/bmw-x3-xdrive30i-2021-gcc-specs-excellent--2-553---4bcadfdfde024153af9179366c9bdeac/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/07/29/bmw-x3-30-2021-gcc-specs-2-363---4bcadfdfde024153af9179366c9bdeac/",
     "first_seen": "2026-07-29T17:15:36Z",
     "prices": [
       {
         "price": 110999,
         "date": "2026-07-29T17:15:36Z"
+      },
+      {
+        "price": 103999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-07-29"
@@ -452523,8 +452599,8 @@
   },
   "16922071": {
     "id": "16922071",
-    "title": "4,681 P.M |  Range Rover P360 HSE | 0% Downpayment | Perfect Condition!",
-    "price": 238999,
+    "title": "4,485 P.M |  Range Rover P360 HSE | 0% Downpayment | Fixed Side Steps!",
+    "price": 228999,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2022",
@@ -452533,7 +452609,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/7/26/4700-pm-range-rover-p360-hse-0-downpayment-2-706---2a2ec7aef28743eba21ae4567f1766fd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/07/26/4485-pm-range-rover-p360-hse-0-downpayment-2-883---2a2ec7aef28743eba21ae4567f1766fd/",
     "first_seen": "2026-08-03T14:38:31Z",
     "prices": [
       {
@@ -452543,6 +452619,10 @@
       {
         "price": 238999,
         "date": "2026-08-08T12:47:53Z"
+      },
+      {
+        "price": 228999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-03"
@@ -469003,8 +469083,8 @@
   },
   "16918143": {
     "id": "16918143",
-    "title": "6,855 P.M |  X7 xDrive40i M Sport | 0% Downpayment | Agency Warranty",
-    "price": 349999,
+    "title": "6,835 P.M |  X7 xDrive40i M Sport | 0% Downpayment | Agency Warranty",
+    "price": 348999,
     "make": "BMW",
     "model": "X7",
     "year": "2025",
@@ -469013,7 +469093,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/07/22/6855-pm-x7-xdrive40i-m-sport-0-downpayment-2-797---3f2232a779514244a1a62d8a1b19c2d6/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/07/22/6835-pm-x7-xdrive40i-m-sport-0-downpayment-2-205---3f2232a779514244a1a62d8a1b19c2d6/",
     "first_seen": "2026-08-11T08:56:00Z",
     "prices": [
       {
@@ -469023,6 +469103,10 @@
       {
         "price": 349999,
         "date": "2026-09-17T16:21:59Z"
+      },
+      {
+        "price": 348999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-11"
@@ -474684,7 +474768,7 @@
   "16941533": {
     "id": "16941533",
     "title": "2023 Cadillac Escalade-V | GCC Specs | Cadillac Warranty Jan 2027 & Service Jan 2028 |",
-    "price": 379000,
+    "price": 369000,
     "make": "Cadillac",
     "model": "Escalade",
     "year": "2023",
@@ -474693,7 +474777,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/08/13/2023-cadillac-escalade-v-gcc-specs-cadilla-2-061---2ad16f4249ab454dbbe14918d9d59764/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/08/13/2023-cadillac-escalade-v-gcc-specs-cadilla-2-299---2ad16f4249ab454dbbe14918d9d59764/",
     "first_seen": "2026-08-13T13:09:39Z",
     "prices": [
       {
@@ -474703,6 +474787,10 @@
       {
         "price": 379000,
         "date": "2026-09-05T17:57:25Z"
+      },
+      {
+        "price": 369000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-13"
@@ -479930,7 +480018,7 @@
   "16943304": {
     "id": "16943304",
     "title": "Toyota Yaris E 2020 GCC Specs - Reliable & Fuel Efficient",
-    "price": 27000,
+    "price": 26000,
     "make": "Toyota",
     "model": "Yaris",
     "year": "2020",
@@ -479939,12 +480027,16 @@
     "fuel_type": "Petrol",
     "area": "Al Khail Heights",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/8/15/toyota-yaris-e-2020-gcc-specs-reliable-fue-2-932---af94d0f7e76a4ea2ac764a35e1bf6a5a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/08/15/toyota-yaris-e-2020-gcc-specs-reliable-fue-2-084---af94d0f7e76a4ea2ac764a35e1bf6a5a/",
     "first_seen": "2026-08-15T12:37:02Z",
     "prices": [
       {
         "price": 27000,
         "date": "2026-08-15T12:37:02Z"
+      },
+      {
+        "price": 26000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-15"
@@ -488411,8 +488503,8 @@
   },
   "16941192": {
     "id": "16941192",
-    "title": "7,344 P.M |  Range Rover Autobiography | 0% Downpayment | IMMACULATE!",
-    "price": 374999,
+    "title": "7,246 P.M |  Range Rover Autobiography | 0% Downpayment | IMMACULATE!",
+    "price": 369999,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2022",
@@ -488421,7 +488513,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/13/7344-pm-range-rover-autobiography-0-downpa-2-491---51b69cab46cf4e2bb9e7e79d95c7b833/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/13/7246-pm-range-rover-autobiography-0-downpa-2-814---51b69cab46cf4e2bb9e7e79d95c7b833/",
     "first_seen": "2026-08-20T08:38:23Z",
     "prices": [
       {
@@ -488431,6 +488523,10 @@
       {
         "price": 374999,
         "date": "2026-09-02T16:03:37Z"
+      },
+      {
+        "price": 369999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-20"
@@ -495016,7 +495112,7 @@
   "16920151": {
     "id": "16920151",
     "title": "GCC Specs Low Mileage Audi A6 2023 S line",
-    "price": 115000,
+    "price": 99000,
     "make": "Audi",
     "model": "A6",
     "year": "2023",
@@ -495025,12 +495121,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2026/7/24/gcc-specs-low-mileage-audi-a6-2023-s-line-2-360---5caaa2168c0d4fd5af130347a85a46b6/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2026/07/24/gcc-specs-low-mileage-audi-a6-2023-s-line-2-617---5caaa2168c0d4fd5af130347a85a46b6/",
     "first_seen": "2026-08-22T16:24:48Z",
     "prices": [
       {
         "price": 115000,
         "date": "2026-08-22T16:24:48Z"
+      },
+      {
+        "price": 99000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-22"
@@ -497783,8 +497883,8 @@
   },
   "16948892": {
     "id": "16948892",
-    "title": "2,527 P.M |  X-Trail SL | 0% Downpayment | Agency Warranty!",
-    "price": 128999,
+    "title": "2,448 P.M |  X-Trail SL | 0% Downpayment | Agency Warranty!",
+    "price": 124999,
     "make": "Nissan",
     "model": "X-Trail",
     "year": "2025",
@@ -497793,7 +497893,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/x-trail/2026/08/20/2527-pm-x-trail-sl-0-downpayment-agency-wa-2-114---8b33e50569594344876871e3fe045efc/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/x-trail/2026/08/20/2448-pm-x-trail-sl-0-downpayment-agency-wa-2-168---8b33e50569594344876871e3fe045efc/",
     "first_seen": "2026-08-24T08:49:40Z",
     "prices": [
       {
@@ -497803,6 +497903,10 @@
       {
         "price": 128999,
         "date": "2026-09-02T08:26:59Z"
+      },
+      {
+        "price": 124999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-24"
@@ -498583,8 +498687,8 @@
   },
   "16951078": {
     "id": "16951078",
-    "title": "3,525 P.M |  1500 Big Horn Crew Cab | 0% Downpayment | Dodge Warranty",
-    "price": 179999,
+    "title": "3,506 P.M |  1500 Big Horn Crew Cab | 0% Downpayment | Dodge Warranty",
+    "price": 178999,
     "make": "RAM",
     "model": "1500",
     "year": "2025",
@@ -498593,7 +498697,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/08/22/3525-pm-1500-big-horn-crew-cab-0-downpayme-2-125---f9cdf0654a80499a9d8302e9290170fa/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/08/22/3506-pm-1500-big-horn-crew-cab-0-downpayme-2-640---f9cdf0654a80499a9d8302e9290170fa/",
     "first_seen": "2026-08-24T12:49:48Z",
     "prices": [
       {
@@ -498607,6 +498711,10 @@
       {
         "price": 179999,
         "date": "2026-09-09T16:00:58Z"
+      },
+      {
+        "price": 178999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-08-24"
@@ -518304,7 +518412,7 @@
   "16964996": {
     "id": "16964996",
     "title": "Mercedes-Benz GLE Coupe 53 AMG 2026 | GCC Specs | Brand New",
-    "price": 489000,
+    "price": 485000,
     "make": "Mercedes-Benz",
     "model": "GLE Coupe",
     "year": "2026",
@@ -518313,12 +518421,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/09/04/mercedes-benz-gle-coupe-53-amg-2026-gcc-sp-2-516---08b81a55c9384e75b312ec3f444f639d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/09/04/mercedes-benz-gle-coupe-53-amg-2026-gcc-sp-2-931---08b81a55c9384e75b312ec3f444f639d/",
     "first_seen": "2026-09-04T15:51:28Z",
     "prices": [
       {
         "price": 489000,
         "date": "2026-09-04T15:51:28Z"
+      },
+      {
+        "price": 485000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-04"
@@ -527178,7 +527290,7 @@
   "16970966": {
     "id": "16970966",
     "title": "AGENCY WARRANTY*2022 -**Bentley Flying Spur 2020 W12 Spee | GCC Specs | 55,000 KM | 1-Year Warranty",
-    "price": 375000,
+    "price": 355000,
     "make": "Bentley",
     "model": "Flying Spur",
     "year": "2020",
@@ -527187,12 +527299,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/flying-spur/2026/09/09/agency-warranty2022-bentley-flying-spur-20-2-973---14bcc6e59003465695f09e7467e3e5d5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/flying-spur/2026/09/09/agency-warranty2022-bentley-flying-spur-20-2-321---14bcc6e59003465695f09e7467e3e5d5/",
     "first_seen": "2026-09-09T16:00:58Z",
     "prices": [
       {
         "price": 375000,
         "date": "2026-09-09T16:00:58Z"
+      },
+      {
+        "price": 355000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-09"
@@ -528711,8 +528827,8 @@
   },
   "16954516": {
     "id": "16954516",
-    "title": "0% DP | AED 3,594 P/M | Agency Service And Warranty Package",
-    "price": 249999,
+    "title": "0% DP | AED 3,522 P/M | Agency Service And Warranty Package",
+    "price": 244999,
     "make": "Mercedes-Benz",
     "model": "GLC-Class",
     "year": "2026",
@@ -528721,12 +528837,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-class/2026/08/25/0-dp-aed-3594-pm-agency-service-and-warran-2-561---966dbacb05ad4eafb8e7abc586de37b1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-class/2026/08/25/0-dp-aed-3522-pm-agency-service-and-warran-2-265---966dbacb05ad4eafb8e7abc586de37b1/",
     "first_seen": "2026-09-10T15:55:03Z",
     "prices": [
       {
         "price": 249999,
         "date": "2026-09-10T15:55:03Z"
+      },
+      {
+        "price": 244999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-10"
@@ -531824,7 +531944,7 @@
   "16973171": {
     "id": "16973171",
     "title": "AGENCY WARRANTY*2022 BMW X5 50i M Sport 2022 GCC Specs",
-    "price": 210000,
+    "price": 189000,
     "make": "BMW",
     "model": "X5",
     "year": "2022",
@@ -531833,12 +531953,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/09/11/agency-warranty2022-bmw-x5-50i-m-sport-202-2-658---3c8c289157324686a7b904cb0ba1dbab/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/09/11/agency-warranty2022-bmw-x5-50i-m-sport-202-2-683---3c8c289157324686a7b904cb0ba1dbab/",
     "first_seen": "2026-09-11T15:57:53Z",
     "prices": [
       {
         "price": 210000,
         "date": "2026-09-11T15:57:53Z"
+      },
+      {
+        "price": 189000,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-11"
@@ -542127,8 +542251,8 @@
   },
   "16948660": {
     "id": "16948660",
-    "title": "7,344 P.M |  X6 M60i | 0% Downpayment | BMW Warranty/Service!",
-    "price": 374999,
+    "title": "7,148 P.M |  X6 M60i | 0% Downpayment | BMW Warranty/Service!",
+    "price": 364999,
     "make": "BMW",
     "model": "X6",
     "year": "2025",
@@ -542137,7 +542261,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/08/20/7344-pm-x6-m60i-0-downpayment-bmw-warranty-2-611---8daded79570a42d1aa1f67a8acb108d0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/08/20/7148-pm-x6-m60i-0-downpayment-bmw-warranty-2-579---8daded79570a42d1aa1f67a8acb108d0/",
     "first_seen": "2026-09-17T16:21:59Z",
     "prices": [
       {
@@ -542151,6 +542275,10 @@
       {
         "price": 374999,
         "date": "2026-09-21T17:55:56Z"
+      },
+      {
+        "price": 364999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-17"
@@ -547419,8 +547547,8 @@
   },
   "100279892": {
     "id": "100279892",
-    "title": "3,232 P.M | X3 30i M-Kit | BMW WARRANTY / SERVICE | 0% Downpayment",
-    "price": 164999,
+    "title": "3,193 P.M | X3 30i M-Kit | BMW WARRANTY / SERVICE | 0% Downpayment",
+    "price": 162999,
     "make": "BMW",
     "model": "X3",
     "year": "2023",
@@ -547429,12 +547557,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/09/18/3232-pm-x3-30i-m-kit-bmw-warranty-service--2-829---67ff56b597d64b5d8b0491810039bc33/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/09/18/3193-pm-x3-30i-m-kit-bmw-warranty-service--2-314---67ff56b597d64b5d8b0491810039bc33/",
     "first_seen": "2026-09-20T15:33:01Z",
     "prices": [
       {
         "price": 164999,
         "date": "2026-09-20T15:33:01Z"
+      },
+      {
+        "price": 162999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-20"
@@ -549206,7 +549338,7 @@
   "100260709": {
     "id": "100260709",
     "title": "0% DP | AED 3,234 P/M | Agency Service And Warranty Package",
-    "price": 229999,
+    "price": 224999,
     "make": "Mercedes-Benz",
     "model": "GLC Coupe",
     "year": "2024",
@@ -549215,12 +549347,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/09/16/0-dp-aed-3234-pm-agency-service-and-warran-2-680---0a2ea4d3327c4ccc833620014d5e5709/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/09/16/0-dp-aed-3234-pm-agency-service-and-warran-2-775---0a2ea4d3327c4ccc833620014d5e5709/",
     "first_seen": "2026-09-21T17:55:56Z",
     "prices": [
       {
         "price": 229999,
         "date": "2026-09-21T17:55:56Z"
+      },
+      {
+        "price": 224999,
+        "date": "2026-09-22T16:23:31Z"
       }
     ],
     "date": "2026-09-21"
@@ -550830,5 +550966,929 @@
       }
     ],
     "date": "2026-09-21"
+  },
+  "100339401": {
+    "id": "100339401",
+    "title": "2026 Mercedes-Benz GLE Coupe GLE 53 AMG GCC Specs",
+    "price": 485000,
+    "make": "Mercedes-Benz",
+    "model": "GLE Coupe",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/09/22/2026-mercedes-benz-gle-coupe-gle-53-amg-gc-2-705---d2f9d1cfc1954deaa845b091369b60f5/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 485000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100339084": {
+    "id": "100339084",
+    "title": "G63 2015 GCC Gargash Brabus 800 2025",
+    "price": 227000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class Brabus",
+    "year": "2015",
+    "kilometers": "178000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class-brabus/2026/09/22/g63-2015-gcc-gargash-brabus-800-2025-2-567---ca1595b128e34df7b83a23cd9f5cccf4/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 227000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338927": {
+    "id": "100338927",
+    "title": "G63 AMG 2016 GCC M Brabus 800 2026",
+    "price": 255000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2016",
+    "kilometers": "160000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/22/g63-amg-2016-gcc-m-brabus-800-2026-2-136---21441e1ae62946f886daa1b77860e769/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 255000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338752": {
+    "id": "100338752",
+    "title": "2025 Kia Sportage 1.5T (Type 12) GCC | Matt Grey | 10,500 KM | 3 years Al Majid Warranty",
+    "price": 92000,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2025",
+    "kilometers": "10300",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/09/22/2025-kia-sportage-15t-type-12-gcc-matt-gre-2-736---81dbf2499027406fab068663ec102f92/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 92000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338764": {
+    "id": "100338764",
+    "title": "G 63 AMG GCC Up Brabus 800 2026",
+    "price": 199000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2014",
+    "kilometers": "176000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/22/g-63-amg-gcc-up-brabus-800-2026-2-004---9faf8326909a41e89875a04a3bc08c9d/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 199000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338594": {
+    "id": "100338594",
+    "title": "G63 AMG 2016 GCC Up Brabus 800 2016",
+    "price": 235000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class Brabus",
+    "year": "2016",
+    "kilometers": "149000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class-brabus/2026/09/22/g63-amg-2016-gcc-up-brabus-800-2016-2-184---2578d43cbedc47199ac5ddb5cc09eef4/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 235000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338562": {
+    "id": "100338562",
+    "title": "Nissan Altima S 2015 GCC Specs Starting by Remote perfect condition",
+    "price": 10000,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2015",
+    "kilometers": "235000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/09/22/nissan-altima-s-2015-gcc-specs-starting-by-2-623---1392c477661943f888bdbcbe0a0db635/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 10000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338526": {
+    "id": "100338526",
+    "title": "2013 Nissan Sentra SV GCC Specs Perfect condition 4 Cylinder 1.6 No Accident",
+    "price": 10000,
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": "2013",
+    "kilometers": "206000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sentra/2026/09/22/2013-nissan-sentra-sv-gcc-specs-perfect-co-2-332---033b0c6cc2794a4b82477a82b3befd8e/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 10000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16948421": {
+    "id": "16948421",
+    "title": "Mitsubishi Pajero GLX 2018 | GCC Specs | Well Maintained",
+    "price": 45000,
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": "2018",
+    "kilometers": "145000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/08/20/mitsubishi-pajero-glx-2018-gcc-specs-well--2-250---7636ea9bf76c40ff83e5b5accbb25f09/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338441": {
+    "id": "100338441",
+    "title": "2019 Ford Figo Ambiente GCC Specs",
+    "price": 12000,
+    "make": "Ford",
+    "model": "Figo",
+    "year": "2019",
+    "kilometers": "118000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/09/22/2019-ford-figo-ambiente-gcc-specs-2-644---e3041552e43c4c90a903af189d85fde5/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 12000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100338306": {
+    "id": "100338306",
+    "title": "Hyundai Santa Fe Limited 2015 GCC Specs",
+    "price": 29000,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2015",
+    "kilometers": "123000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/09/22/hyundai-santa-fe-limited-2015-gcc-specs-2-286---cb29642870c744bd82c12b965576babb/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16908117": {
+    "id": "16908117",
+    "title": "Geely Preface Sportline Black Edition | 1699 MONTHLY | 0% FINANACE 3 Years |",
+    "price": 115900,
+    "make": "Geely",
+    "model": "Preface",
+    "year": "2026",
+    "kilometers": "16384",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/preface/2026/07/13/geely-preface-sportline-black-edition-1699-2-593---c54407a5a3fb45b1be47f99a3275a6dd/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 115900,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100337706": {
+    "id": "100337706",
+    "title": "2026 Rox 01 Chinese Specs",
+    "price": 199000,
+    "make": "Rox",
+    "model": "01",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/09/22/2026-rox-01-chinese-specs-2-261---5959dc189d6d49d1bc4ecc3697830ea9/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 199000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100337592": {
+    "id": "100337592",
+    "title": "2026 JETOUR DASHING LUXURY | AGENCY WARRANTY | GCC",
+    "price": 99990,
+    "make": "Jetour",
+    "model": "Dashing",
+    "year": "2026",
+    "kilometers": "13375",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/09/22/2026-jetour-dashing-luxury-agency-warranty-2-619---e9e3717d833e4ca991316e00dc642ce0/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 99990,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100337449": {
+    "id": "100337449",
+    "title": "Maxus V80 Bus 18-Seater 2022 GCC Specs",
+    "price": 39000,
+    "make": "Maxus",
+    "model": "V80",
+    "year": "2022",
+    "kilometers": "290000",
+    "body_type": "Van",
+    "fuel_type": "Diesel",
+    "area": "Al Khail Heights",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/maxus/v80/2026/09/22/maxus-v80-bus-18-seater-2022-gcc-specs-2-045---8aa637f95fe4455292cf7df7b2a3ef48/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 39000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100261827": {
+    "id": "100261827",
+    "title": "3,330 P.M |  Mustang GT Premium | 0% Downpayment | Immaculate Condition!",
+    "price": 169999,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2024",
+    "kilometers": "99000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/09/16/3330-pm-mustang-gt-premium-0-downpayment-i-2-151---94e83c497b324bc09efe8951665b3cbe/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 169999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16974024": {
+    "id": "16974024",
+    "title": "2,448 P.M |  Everest XLT | 0% Downpayment | FORD WARRANTY+SERVICE",
+    "price": 124999,
+    "make": "Ford",
+    "model": "Everest",
+    "year": "2024",
+    "kilometers": "11000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/everest/2026/09/12/2448-pm-everest-xlt-0-downpayment-ford-war-2-393---5c9cfe157fb549618386930ace88ec53/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 124999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16964957": {
+    "id": "16964957",
+    "title": "1,959 P.M |  Edge ST | 0% Downpayment | AL TAYER WARRANTY!",
+    "price": 99999,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2022",
+    "kilometers": "48000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/09/04/1959-pm-edge-st-0-downpayment-al-tayer-war-2-124---ddd3fab4e0c843ad94a2773775721842/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 99999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16964848": {
+    "id": "16964848",
+    "title": "4,505 P.M |  F-150 Tremor | 0% Downpayment | Perfect Condition!",
+    "price": 229999,
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2023",
+    "kilometers": "23000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/09/04/4505-pm-f-150-tremor-0-downpayment-perfect-2-922---c28b98ab2c2b4f5eade06470832c89ce/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 229999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16968353": {
+    "id": "16968353",
+    "title": "2,253 P.M |  Model Y Dual Motor | 0% Downpayment | Perfect Condition!",
+    "price": 114999,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2022",
+    "kilometers": "76000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/09/07/2253-pm-model-y-dual-motor-0-downpayment-p-2-917---8af32c3efa40476d88c9162f5e597fd9/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 114999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16970782": {
+    "id": "16970782",
+    "title": "2,057 P.M |  Quattroporte Granlusso | 0% Downpayment | Under Warranty!",
+    "price": 104999,
+    "make": "Maserati",
+    "model": "Quattroporte",
+    "year": "2019",
+    "kilometers": "85000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/maserati/quattroporte/2026/09/09/2057-pm-quattroporte-granlusso-0-downpayme-2-553---d40cf2726489402d898298851ad76c5b/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 104999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100270523": {
+    "id": "100270523",
+    "title": "4,700 P.M | Porsche Taycan | Porsche Warranty! | 0% Downpayment",
+    "price": 239999,
+    "make": "Porsche",
+    "model": "Taycan",
+    "year": "2021",
+    "kilometers": "39000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/taycan/2026/09/17/4700-pm-porsche-taycan-porsche-warranty-0--2-503---165d15aeb7bc4a45a6e8fce169c3315e/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 239999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16977767": {
+    "id": "16977767",
+    "title": "9,792 P.M |  911 Carrera | 0% Downpayment | Porsche Warranty",
+    "price": 499999,
+    "make": "Porsche",
+    "model": "911",
+    "year": "2023",
+    "kilometers": "21000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/09/15/9792-pm-911-carrera-0-downpayment-porsche--2-377---cdd46e60f9724d188c977e3baa2f3529/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 499999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100258944": {
+    "id": "100258944",
+    "title": "7,011 P.M |  Cayenne Coupe | 0% Downpayment | Fantastic Condition!",
+    "price": 357999,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2024",
+    "kilometers": "22000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/16/7011-pm-cayenne-coupe-0-downpayment-fantas-2-574---58d797be34ee49898d1770b0726f9e3d/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 357999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100337244": {
+    "id": "100337244",
+    "title": "2020 BMW X7 xDrive40i M SPORT | 3.0L TURBO INLINE-6 | AWD | GCC",
+    "price": 199990,
+    "make": "BMW",
+    "model": "X7",
+    "year": "2020",
+    "kilometers": "57320",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/09/22/2020-bmw-x7-xdrive40i-m-sport-30l-turbo-in-2-473---49a2e2ac5c914d7f8133f2cf164043ac/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 199990,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16975189": {
+    "id": "16975189",
+    "title": "7,442 P.M |  Defender 110 P400 Stealth Edition | 0% Downpayment | Land Rover Warranty!",
+    "price": 379999,
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": "2025",
+    "kilometers": "53000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/09/13/7442-pm-defender-110-p400-stealth-edition--2-814---472acf80180b452b8c896edcf2c205a8/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 379999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16915399": {
+    "id": "16915399",
+    "title": "2,448 P.M | Mercedes Warranty + S/Contract | 0% Downpayment",
+    "price": 124999,
+    "make": "Mercedes-Benz",
+    "model": "GLB-Class",
+    "year": "2022",
+    "kilometers": "92000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glb-class/2026/07/20/2448-pm-mercedes-warranty-scontract-0-down-2-446---9ad5fd02498f4f208e9f739e00545a0c/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 124999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16974016": {
+    "id": "16974016",
+    "title": "MG ZS 2025 GCC specs",
+    "price": 33999,
+    "make": "MG",
+    "model": "ZS",
+    "year": "2025",
+    "kilometers": "56530",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/09/12/mg-zs-2025-gcc-specs-2-261---b56f340995de4dc888e89347ea170bdc/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 33999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16976500": {
+    "id": "16976500",
+    "title": "4,700 P.M |  M850I V8 | 0% Downpayment | Agency Warranty!",
+    "price": 239999,
+    "make": "BMW",
+    "model": "8-Series",
+    "year": "2022",
+    "kilometers": "69000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/8-series/2026/09/14/4700-pm-m850i-v8-0-downpayment-agency-warr-2-142---607f13cbb65d4dd5b347c365650d1287/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 239999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100268373": {
+    "id": "100268373",
+    "title": "3,428 P.M |  440 M-Kit | 0% Downpayment | BMW Maintained",
+    "price": 174999,
+    "make": "BMW",
+    "model": "4-Series",
+    "year": "2021",
+    "kilometers": "51000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/09/17/3428-pm-440-m-kit-0-downpayment-bmw-mainta-2-977---26237480b621497291a9950a7539faa9/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 174999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16973031": {
+    "id": "16973031",
+    "title": "MG3 2025 | GCC | Excellent Condition",
+    "price": 27999,
+    "make": "MG",
+    "model": "MG3",
+    "year": "2025",
+    "kilometers": "85385",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg3/2026/09/11/mg3-2025-gcc-excellent-condition-2-464---810a7220c6524411abd5ad2321a0618a/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 27999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16959472": {
+    "id": "16959472",
+    "title": "GMC Yukon 2025 GCC specs",
+    "price": 243999,
+    "make": "GMC",
+    "model": "Yukon",
+    "year": "2025",
+    "kilometers": "16130",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/08/30/gmc-yukon-2025-gcc-specs-2-233---9d4fc9bf410d45e3bd5f5086cae5e11f/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 243999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16910185": {
+    "id": "16910185",
+    "title": "5,582 P.M | 0% Downpayment | BMW X5 M-Kit|  BMW Warranty!",
+    "price": 284999,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2025",
+    "kilometers": "5000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/07/15/5582-pm-0-downpayment-bmw-x5-m-kit-bmw-war-2-208---33835123b8554b3990cacff58124a90e/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 284999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16955460": {
+    "id": "16955460",
+    "title": "3,036 P.M |  GLB 200 AMG | 0% Downpayment | 2030 WARRANTY/SERVICE",
+    "price": 154999,
+    "make": "Mercedes-Benz",
+    "model": "GLB-Class",
+    "year": "2025",
+    "kilometers": "29000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glb-class/2026/08/26/3036-pm-glb-200-amg-0-downpayment-2030-war-2-136---2f8e33b3b1ec4d7e9bfab4cf1cee311d/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 154999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16921319": {
+    "id": "16921319",
+    "title": "2,801 P.M |  S3 | 0% Downpayment | Audi Warranty  Service!",
+    "price": 142999,
+    "make": "Audi",
+    "model": "S3",
+    "year": "2023",
+    "kilometers": "61000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/07/25/2801-pm-s3-0-downpayment-audi-warranty-ser-2-134---4742af824e6a497490a28c396d7c209a/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 142999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16921292": {
+    "id": "16921292",
+    "title": "1,861 P.M |  Edge ST | 0% Downpayment | Ford Warranty | Edge ST!",
+    "price": 94999,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2023",
+    "kilometers": "68000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/07/25/1861-pm-edge-st-0-downpayment-ford-warrant-2-092---ff216178e77f4864ab47598508f314bd/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 94999,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100336933": {
+    "id": "100336933",
+    "title": "2017 Jeep Cherokee | Sport 3.2L|  V6 | GCC",
+    "price": 29900,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2017",
+    "kilometers": "167569",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/cherokee/2026/09/22/2017-jeep-cherokee-sport-32l-v6-gcc-2-887---863880538ebe4403a85b177a967dc8fe/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 29900,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100336215": {
+    "id": "100336215",
+    "title": "*One year Warranty**2022 Mercedes-AMG G 63 HG800 by HOFELE | Limited Edition | European Specs |",
+    "price": 755000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "89400",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/22/one-year-warranty2022-mercedes-amg-g-63-hg-2-970---4b717dcb33ba4460990d44d18417ddf8/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 755000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100336028": {
+    "id": "100336028",
+    "title": "2025 BMW X4 M Competition",
+    "price": 289000,
+    "make": "BMW",
+    "model": "X4",
+    "year": "2025",
+    "kilometers": "9000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x4/2026/09/22/2025-bmw-x4-m-competition-2-709---74489b490ffa4366bbb4a968d790cf63/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 289000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100335943": {
+    "id": "100335943",
+    "title": "Peugeot 2008 Active 2023 | 61,500 KM | Warranty Till 2028 | Liquidation AED 38,500",
+    "price": 38500,
+    "make": "Peugeot",
+    "model": "2008",
+    "year": "2023",
+    "kilometers": "61500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/2008/2026/09/22/peugeot-2008-active-2023-61500-km-warranty-2-741---a323cbdb6c3c437e854f45708324d874/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 38500,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "16892636": {
+    "id": "16892636",
+    "title": "2026 MODEL TOYOTA-GRANVIA 3.5L LUXURY VAN",
+    "price": 225000,
+    "make": "Toyota",
+    "model": "Granvia",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/granvia/2026/06/30/2026-model-toyota-granvia-35l-luxury-van-2-494---6c717f007da04144a4deccb3a8f5d88c/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 225000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
+  },
+  "100335757": {
+    "id": "100335757",
+    "title": "Renault Megane 2018 GCC Specs Excellent Condition",
+    "price": 18000,
+    "make": "Renault",
+    "model": "Megane",
+    "year": "2018",
+    "kilometers": "164000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/megane/2026/09/22/renault-megane-2018-gcc-specs-excellent-co-2-039---d1d72ee9c44744879228da6668b2e498/",
+    "first_seen": "2026-09-22T16:23:31Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-09-22T16:23:31Z"
+      }
+    ],
+    "date": "2026-09-22"
   }
 }
