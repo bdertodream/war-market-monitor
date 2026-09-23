@@ -552136,5 +552136,93 @@
       }
     ],
     "date": "2026-09-22"
+  },
+  "100342663": {
+    "id": "100342663",
+    "title": "Volkswagen Service History | Volkswagen Teramont SEL 2019 GCC Specifications (Single Owner / 2 Keys)",
+    "price": 55000,
+    "make": "Volkswagen",
+    "model": "Teramont",
+    "year": "2019",
+    "kilometers": "99000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/09/23/volkswagen-service-history-volkswagen-tera-2-317---d0cda80c0b0a47079234e03914df961c/",
+    "first_seen": "2026-09-23T03:34:30Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-09-23T03:34:30Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100287290": {
+    "id": "100287290",
+    "title": "!! 2022 !! BMW X5 | xDrive40i M Sport | GCC | Full Service History",
+    "price": 129999,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2022",
+    "kilometers": "118000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/09/18/2022-bmw-x5-xdrive40i-m-sport-gcc-full-ser-2-762---9bf7fda51f304b8c8a68990debc9876c/",
+    "first_seen": "2026-09-23T03:34:30Z",
+    "prices": [
+      {
+        "price": 129999,
+        "date": "2026-09-23T03:34:30Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "16943256": {
+    "id": "16943256",
+    "title": "!! 2024!! Chevrolet |  Tahoe LS | GCC Specs | Under Warranty | 52000 Driven Only",
+    "price": 157500,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": "2024",
+    "kilometers": "52000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/08/15/2024-chevrolet-tahoe-ls-gcc-specs-under-wa-2-853---b7bdea01920f420a9ad7addfe72abda2/",
+    "first_seen": "2026-09-23T03:34:30Z",
+    "prices": [
+      {
+        "price": 157500,
+        "date": "2026-09-23T03:34:30Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100342069": {
+    "id": "100342069",
+    "title": "2024 Porsche Panamera Standard GCC Specs",
+    "price": 419999,
+    "make": "Porsche",
+    "model": "Panamera",
+    "year": "2024",
+    "kilometers": "5000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/09/22/2024-porsche-panamera-standard-gcc-specs-2-810---27f899a50834419abea0bb9d87ce9c50/",
+    "first_seen": "2026-09-23T03:34:30Z",
+    "prices": [
+      {
+        "price": 419999,
+        "date": "2026-09-23T03:34:30Z"
+      }
+    ],
+    "date": "2026-09-22"
   }
 }

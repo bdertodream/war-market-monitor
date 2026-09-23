@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26356,
+  "total_tracked": 26357,
   "total_drops": 500,
-  "total_new": 26356,
+  "total_new": 26357,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17988059",
+      "title": "Spacious 1-BR | Bright Layout with Balcony",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/10/spacious-1-br-bright-layout-with-balcon-2-227731/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "635",
+      "bedrooms": "1",
+      "price": 750000,
+      "first_seen": "2026-09-23"
+    },
+    {
       "id": "17991579",
       "title": "High Floor | Premium Furnished | Skyline View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/high-floor-premium-furnished-skyline-vi-2-216925/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "",
       "price": 6498668,
       "first_seen": "2026-09-15"
-    },
-    {
-      "id": "9799998",
-      "title": "Rare Opportunity in Mirdif | FREEHOLD | Single Row Residential",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/15/rare-opportunity-in-mirdif-freehold-sin-2-330267/",
-      "area": "Mirdif",
-      "category": "Land",
-      "size": "10000",
-      "bedrooms": "",
-      "price": 6500624,
-      "first_seen": "2026-09-15"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-23"
 }
