@@ -345304,7 +345304,7 @@
   "16841023": {
     "id": "16841023",
     "title": "BENTAYGA AZURE / 5 YEARS WARRANTY / 10,000 Km / FULL OPTION",
-    "price": 755000,
+    "price": 728000,
     "make": "Bentley",
     "model": "Bentayga",
     "year": "2023",
@@ -345313,7 +345313,7 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2026/5/16/bentayga-azure-5-years-warranty-10000-km-f-2-814---db37558c23d94aa4931e885a6590196c/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2026/05/16/bentayga-azure-5-years-warranty-10000-km-f-2-282---db37558c23d94aa4931e885a6590196c/",
     "first_seen": "2026-06-23T17:56:26Z",
     "prices": [
       {
@@ -345327,6 +345327,10 @@
       {
         "price": 755000,
         "date": "2026-09-17T16:21:59Z"
+      },
+      {
+        "price": 728000,
+        "date": "2026-09-23T22:43:46Z"
       }
     ],
     "date": "2026-06-23"
@@ -497712,7 +497716,7 @@
   "16952221": {
     "id": "16952221",
     "title": "G 63 AMG / 3,600 Km / FULL OPTION / CARBON PACKAGE / 5 YEARS WARRANTY",
-    "price": 887000,
+    "price": 924000,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2025",
@@ -497727,6 +497731,10 @@
       {
         "price": 887000,
         "date": "2026-08-24T01:16:42Z"
+      },
+      {
+        "price": 924000,
+        "date": "2026-09-23T22:43:46Z"
       }
     ],
     "date": "2026-08-23"
@@ -542694,7 +542702,7 @@
   "16972015": {
     "id": "16972015",
     "title": "G 63 AMG / CARBON FIBER EDITION / FULL OPTION / 12,000 Km",
-    "price": 728000,
+    "price": 718000,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2024",
@@ -542703,12 +542711,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/10/g-63-amg-carbon-fiber-edition-full-option--2-545---2131c2d5c59243b8ad0b904e7961061b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/10/g-63-amg-carbon-fiber-edition-full-option--2-984---2131c2d5c59243b8ad0b904e7961061b/",
     "first_seen": "2026-09-17T16:21:59Z",
     "prices": [
       {
         "price": 728000,
         "date": "2026-09-17T16:21:59Z"
+      },
+      {
+        "price": 718000,
+        "date": "2026-09-23T22:43:46Z"
       }
     ],
     "date": "2026-09-17"
@@ -554161,6 +554173,248 @@
       {
         "price": 134999,
         "date": "2026-09-23T16:13:22Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "16958492": {
+    "id": "16958492",
+    "title": "G 63 AMG / 8,000 Km / CARBON FIBER EDITION / FULL OPTION",
+    "price": 914000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2025",
+    "kilometers": "8000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/08/29/g-63-amg-8000-km-carbon-fiber-edition-full-2-870---fde256605d4142868f3f98f9e1f2b4f2/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 914000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100354373": {
+    "id": "100354373",
+    "title": "2019 Mercedes-Benz E-Class E 300 - Korean Specs - Excellent Condition",
+    "price": 82000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2019",
+    "kilometers": "73000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/23/2019-mercedes-benz-e-class-e-300-korean-sp-2-055---595dc16834aa41d386c39a49f98f4cd0/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 82000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100354336": {
+    "id": "100354336",
+    "title": "BYD Leopard 5 Ultra 2026 Chinese Specs",
+    "price": 190000,
+    "make": "BYD",
+    "model": "Leopard 5",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-5/2026/09/23/byd-leopard-5-ultra-2026-chinese-specs-2-454---7e668338c5a641418051b7315efd787a/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 190000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100354010": {
+    "id": "100354010",
+    "title": "2021 Nissan Armada SV Fully Converted into NISMO Full Service History",
+    "price": 73500,
+    "make": "Nissan",
+    "model": "Armada",
+    "year": "2021",
+    "kilometers": "90000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/armada/2026/09/23/2021-nissan-armada-sv-fully-converted-into-2-609---921ffff7a9ab4e8d9e8db80032bc7522/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 73500,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100353326": {
+    "id": "100353326",
+    "title": "Ford Mustang Ecoboost Premium 2022 American Specs",
+    "price": 69500,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2022",
+    "kilometers": "106700",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/09/23/ford-mustang-ecoboost-premium-2022-america-2-883---b89b11aa5e7247a6bb298012fc1b44da/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 69500,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "16975984": {
+    "id": "16975984",
+    "title": "Mercedes GLE 450 4MATIC Exclusive Line 2024 | Premium Plus | Fully Loaded | GCC Specs",
+    "price": 279900,
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "year": "2024",
+    "kilometers": "3000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/13/mercedes-gle-450-4matic-exclusive-line-202-2-039---1f75ee7b198448ae80fff09bcb952d9e/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 279900,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100352548": {
+    "id": "100352548",
+    "title": "AED 502 P.M MG MG5 Standard 2023 GCC Specs",
+    "price": 25000,
+    "make": "MG",
+    "model": "MG5",
+    "year": "2023",
+    "kilometers": "108200",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/09/23/aed-502-pm-mg-mg5-standard-2023-gcc-specs-2-220---1dc5fb0390164b069a76e04c13718f31/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 25000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100352470": {
+    "id": "100352470",
+    "title": "Nissan Patrol LE Platinum City 2024 GCC, Fully Loaded, Warranty till 6 years, 5 Years Service Pakage",
+    "price": 280000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2024",
+    "kilometers": "26000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "JVC District 12",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/23/nissan-patrol-le-platinum-city-2024-gcc-fu-2-513---27bcede6a0cb4f95b34fdee39d76cdd7/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 280000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100352440": {
+    "id": "100352440",
+    "title": "Mitsubishi Montero Sport GLS Premium 2017 | GCC Specs",
+    "price": 41000,
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "year": "2017",
+    "kilometers": "164300",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/montero-sport/2026/09/23/mitsubishi-montero-sport-gls-premium-2017--2-966---f15df1f6488e45979a1b61ede40c7534/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 41000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100352221": {
+    "id": "100352221",
+    "title": "2014 Mercedes-Benz S-Class S 500 GCC Specs",
+    "price": 53000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2014",
+    "kilometers": "220000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/23/2014-mercedes-benz-s-class-s-500-gcc-specs-2-667---6a670a0964b14a75bc1b4ced8403ae2b/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-09-23T22:43:46Z"
+      }
+    ],
+    "date": "2026-09-23"
+  },
+  "100352111": {
+    "id": "100352111",
+    "title": "2015 Nissan Altima SL - American Specs",
+    "price": 20000,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2015",
+    "kilometers": "157000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/09/23/2015-nissan-altima-sl-american-specs-2-021---10cb04b4b5884e9982d0fafbe23676df/",
+    "first_seen": "2026-09-23T22:43:46Z",
+    "prices": [
+      {
+        "price": 20000,
+        "date": "2026-09-23T22:43:46Z"
       }
     ],
     "date": "2026-09-23"
