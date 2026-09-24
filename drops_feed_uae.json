@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26425,
+  "total_tracked": 26426,
   "total_drops": 500,
-  "total_new": 26425,
+  "total_new": 26426,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9810341",
-      "title": "Furnished | High End Fit Out | Vacant Now",
-      "old_price": 4500000,
-      "new_price": 4000000,
-      "drop_pct": 11.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/7/furnished-high-end-fit-out-grade-a-2-300808/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1098",
-      "bedrooms": "",
-      "date": "2026-05-16",
-      "first_seen": "2026-04-11"
-    },
     {
       "id": "9803927",
       "title": "Investor Deal Rented Office On 10th Floor",
@@ -7005,9 +6991,34 @@
       "bedrooms": "",
       "date": "2026-09-23",
       "first_seen": "2026-09-02"
+    },
+    {
+      "id": "17602334",
+      "title": "Stunning Golf View l Brand New 4 BR Townhouse l Vacant",
+      "old_price": 3850000,
+      "new_price": 3600000,
+      "drop_pct": 6.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/6/18/4-br-townhouse-l-single-row-l-golf-faci-2-220496/",
+      "area": "DAMAC Hills",
+      "category": "Townhouse",
+      "size": "1989",
+      "bedrooms": "4",
+      "date": "2026-09-24",
+      "first_seen": "2026-08-29"
     }
   ],
   "new_listings": [
+    {
+      "id": "18017756",
+      "title": "Sky-High Luxury Penthouse | Epic Views of Dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/9/17/sky-high-luxury-penthouse-epic-views-of-2-200928/",
+      "area": "Al Barari",
+      "category": "Penthouse",
+      "size": "8524",
+      "bedrooms": "3",
+      "price": 17995000,
+      "first_seen": "2026-09-24"
+    },
     {
       "id": "17988059",
       "title": "Spacious 1-BR | Bright Layout with Balcony",
@@ -12496,19 +12507,8 @@
       "bedrooms": "2",
       "price": 1349999,
       "first_seen": "2026-09-16"
-    },
-    {
-      "id": "17983061",
-      "title": "Upgraded | Burj Khalifa View | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/9/negotiable-burj-khalifa-view-single-row-2-506958/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Villa",
-      "size": "1811",
-      "bedrooms": "2",
-      "price": 3149999,
-      "first_seen": "2026-09-16"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-23"
+  "last_updated": "2026-09-24"
 }

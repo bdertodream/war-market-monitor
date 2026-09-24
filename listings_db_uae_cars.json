@@ -554418,5 +554418,49 @@
       }
     ],
     "date": "2026-09-23"
+  },
+  "100354958": {
+    "id": "100354958",
+    "title": "CHEVROLET CAPTIVA LS GCC, 950 AED MONTHLY, ZERO DP, UNDER WARRANTY",
+    "price": 49900,
+    "make": "Chevrolet",
+    "model": "Captiva",
+    "year": "2025",
+    "kilometers": "30000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai South",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/09/24/chevrolet-captiva-ls-gcc-950-aed-monthly-z-2-451---55ff4c0f8af348508a87579202bfd4e1/",
+    "first_seen": "2026-09-24T03:24:42Z",
+    "prices": [
+      {
+        "price": 49900,
+        "date": "2026-09-24T03:24:42Z"
+      }
+    ],
+    "date": "2026-09-24"
+  },
+  "100354720": {
+    "id": "100354720",
+    "title": "Limited GCc not negotiable \u0641\u0644 \u0627\u0648\u0628\u0634\u0646 \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646 \u0641\u0642\u0637",
+    "price": 12000,
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2011",
+    "kilometers": "160000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/compass/2026/09/23/limited-gcc-not-negotiable-2-845---3953b9257f4f472498e124f7bdea9f8d/",
+    "first_seen": "2026-09-24T03:24:42Z",
+    "prices": [
+      {
+        "price": 12000,
+        "date": "2026-09-24T03:24:42Z"
+      }
+    ],
+    "date": "2026-09-23"
   }
 }
