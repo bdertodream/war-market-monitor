@@ -2,36 +2,8 @@
   "total_tracked": 23325,
   "total_drops": 502,
   "total_new": 23325,
-  "last_updated": "2026-09-24T23:02:41Z",
+  "last_updated": "2026-09-25T03:41:58Z",
   "drops": [
-    {
-      "id": "16909900",
-      "title": "AED 4208/month | 2024 BMW X5  | GCC Specs | Ref#493896",
-      "old_price": 293100,
-      "new_price": 276900,
-      "drop_pct": 5.5,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/7/15/aed-4710month-2024-bmw-x5-gcc-specs-ref493-2-872---5f65aa79b207419487030a7239222862/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2024",
-      "mileage": "19571",
-      "date": "2026-08-25T04:40:08Z"
-    },
-    {
-      "id": "16910069",
-      "title": "AED 1,025/m | 0 DP | Manufacturer Warranty | Service History | 30 Day Return | VOLKSWAGEN T ROC 2023",
-      "old_price": 71699,
-      "new_price": 65399,
-      "drop_pct": 8.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/t-roc/2026/7/15/aed-1124m-0-dp-manufacturer-warranty-servi-2-965---d95cc9f83cd242b4a57f0e7d0c3af197/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "T-Roc",
-      "year": "2023",
-      "mileage": "50723",
-      "date": "2026-08-25T08:43:24Z"
-    },
     {
       "id": "16851361",
       "title": "AED 1,657/month | 0 DP | Manufacturer Warranty | Service History | 30 Day Return | JETOUR T2 2025",
@@ -7003,6 +6975,34 @@
       "year": "2025",
       "mileage": "32000",
       "date": "2026-09-24T23:02:41Z"
+    },
+    {
+      "id": "16815064",
+      "title": "2019 Dodge Charger 6.4L SRT8 Super Bee - In Amazing Condition",
+      "old_price": 73500,
+      "new_price": 67000,
+      "drop_pct": 8.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/04/23/2019-dodge-charger-64l-srt8-super-bee-in-a-2-528---90f63ea5f33f42a0a6713d78200a09f3/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": "2019",
+      "mileage": "119800",
+      "date": "2026-09-25T03:41:58Z"
+    },
+    {
+      "id": "16528220",
+      "title": "Porches Panamera Turbo Very Low Mileage Literally in Amazing Condition",
+      "old_price": 92000,
+      "new_price": 83000,
+      "drop_pct": 9.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2025/08/20/porches-panamera-turbo-very-low-mileage-li-2-847---ea67d876c3fa451ca2a9fb37938503fa/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Panamera",
+      "year": "2010",
+      "mileage": "74890",
+      "date": "2026-09-25T03:41:58Z"
     }
   ],
   "new_listings": [

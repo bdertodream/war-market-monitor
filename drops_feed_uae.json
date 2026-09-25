@@ -7,34 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "9789386",
-      "title": "JUMEIRAH VIEWS | NEWLY RENOVATED | TRUSTED BROKER",
-      "old_price": 2500000,
-      "new_price": 1900000,
-      "drop_pct": 24.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/11/jumeirah-views-newly-renovated-trusted--2-150046/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "894",
-      "bedrooms": "",
-      "date": "2026-05-17",
-      "first_seen": "2026-03-15"
-    },
-    {
-      "id": "9748470",
-      "title": "Genuine Resale | Best location | Single row",
-      "old_price": 4219840,
-      "new_price": 3999999,
-      "drop_pct": 5.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/16/best-location-motivated-seller-single-r-2-786902/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10549",
-      "bedrooms": "",
-      "date": "2026-05-17",
-      "first_seen": "2026-03-16"
-    },
-    {
       "id": "17472589",
       "title": "Super Distress Deal | 20% Below OP | Corner on the Park | Single Row | Call Now | No Agents",
       "old_price": 3100000,
@@ -7005,6 +6977,34 @@
       "bedrooms": "",
       "date": "2026-09-24",
       "first_seen": "2026-05-14"
+    },
+    {
+      "id": "17654489",
+      "title": "HIGH FLOOR | EXCELLENT LOCATION | AVAILABLE",
+      "old_price": 1900000,
+      "new_price": 1800000,
+      "drop_pct": 5.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/high-floor-excellent-location-available-2-277532/",
+      "area": "DIFC",
+      "category": "Apartment",
+      "size": "847",
+      "bedrooms": "0",
+      "date": "2026-09-25",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "id": "17539678",
+      "title": "PREMIUM LOCATION | HUGE LAYOUT | AMAZING VIEW",
+      "old_price": 2100000,
+      "new_price": 1900000,
+      "drop_pct": 9.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/3/premium-location-huge-layout-amazing-vi-2-199932/",
+      "area": "DIFC",
+      "category": "Apartment",
+      "size": "782",
+      "bedrooms": "1",
+      "date": "2026-09-25",
+      "first_seen": "2026-09-21"
     }
   ],
   "new_listings": [
@@ -10107,7 +10107,7 @@
       "category": "Apartment",
       "size": "847",
       "bedrooms": "0",
-      "price": 1900000,
+      "price": 1800000,
       "first_seen": "2026-09-21"
     },
     {
@@ -10118,7 +10118,7 @@
       "category": "Apartment",
       "size": "782",
       "bedrooms": "1",
-      "price": 2100000,
+      "price": 1900000,
       "first_seen": "2026-09-21"
     },
     {
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-25"
 }
