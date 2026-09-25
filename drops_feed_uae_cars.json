@@ -1,51 +1,9 @@
 {
-  "total_tracked": 23417,
-  "total_drops": 507,
-  "total_new": 23417,
-  "last_updated": "2026-09-25T16:41:21Z",
+  "total_tracked": 23422,
+  "total_drops": 503,
+  "total_new": 23422,
+  "last_updated": "2026-09-25T23:07:30Z",
   "drops": [
-    {
-      "id": "16921541",
-      "title": "2024 Mercedes-Benz AMG GT 43 4MATIC+ Japanese Specs",
-      "old_price": 335000,
-      "new_price": 299000,
-      "drop_pct": 10.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/amg/2026/7/25/2024-mercedes-benz-amg-gt-43-4matic-japane-2-825---b39534de8f224f5183e498ee16dac7fe/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "AMG",
-      "year": "2024",
-      "mileage": "2200",
-      "date": "2026-08-25T16:37:15Z"
-    },
-    {
-      "id": "16952267",
-      "title": "BMW X5 xDrive50i M Sport 2013 GCC Specs",
-      "old_price": 25000,
-      "new_price": 23000,
-      "drop_pct": 8.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/8/23/bmw-x5-xdrive50i-m-sport-2013-gcc-specs-2-954---26403317495841cc9ea228daa6f77aa2/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2013",
-      "mileage": "149000",
-      "date": "2026-08-25T20:28:47Z"
-    },
-    {
-      "id": "16954233",
-      "title": "Price reduce for fast sale  Audi A1 S-Line 2011 model.",
-      "old_price": 9999,
-      "new_price": 9000,
-      "drop_pct": 10.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a1/2026/8/25/fair-price-audi-a1-s-line-2011-model-2-557---58f90dd9d5ab4baeb9227d0601201e60/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A1",
-      "year": "2011",
-      "mileage": "210000",
-      "date": "2026-08-25T20:28:47Z"
-    },
     {
       "id": "16695850",
       "title": "GCC MiD not negotiable \u0644\u0644\u062c\u0627\u062f\u064a\u0646 \u0641\u0642\u0637 \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a",
@@ -7003,9 +6961,111 @@
       "year": "2021",
       "mileage": "86893",
       "date": "2026-09-25T16:41:21Z"
+    },
+    {
+      "id": "16136204",
+      "title": "AUTOBIOGRAPHY SUPERCHARGED RANGE ROVER SPORT II FULLY LOADED  || ACCIDENTS FREE || GCC II PANORAMIC",
+      "old_price": 109000,
+      "new_price": 99000,
+      "drop_pct": 9.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2024/10/24/autobiography-supercharged-range-rover-spo-2-817---ba87e071ce3b4038b121ec4edf55a852/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2017",
+      "mileage": "117000",
+      "date": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "16661464",
+      "title": "SUPERCHARGED 2021 FACELIFT RR VOGUE V8 || GCC || TOP RANGE || PERFECT CONDITION",
+      "old_price": 109000,
+      "new_price": 99000,
+      "drop_pct": 9.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2025/12/06/supercharged-2021-facelift-rr-vogue-v8-gcc-2-805---f77df0b7e00545419a982d32627db876/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2015",
+      "mileage": "101600",
+      "date": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "100342063",
+      "title": "Audi A4 2.0 TFSI 2016 GCC Specs",
+      "old_price": 36000,
+      "new_price": 31500,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2026/09/22/audi-a4-20-tfsi-2016-gcc-specs-2-193---cdb8620ac6de48bbbc5f4865eb638fc4/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A4",
+      "year": "2016",
+      "mileage": "133000",
+      "date": "2026-09-25T23:07:30Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100277102",
+      "title": "2016 Jeep Wrangler Sport | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/09/17/2016-jeep-wrangler-sport-gcc-specs-excelle-2-740---eb311914787c4620bfff5612e3b9d327/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2016",
+      "mileage": "155000",
+      "price": 49000,
+      "first_seen": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "16973847",
+      "title": "2025 Ferrari Roma Spider GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/roma/2026/09/11/2025-ferrari-roma-spider-gcc-specs-2-708---015d21fbbb5b4ff7b3892087855b9ef4/",
+      "category": "Used Cars",
+      "make": "Ferrari",
+      "model": "Roma",
+      "year": "2025",
+      "mileage": "400",
+      "price": 1090000,
+      "first_seen": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "100375473",
+      "title": "2025 Mercedes-Benz GLB 250 4MATIC AMG Premium | 7-Seater | Warranty & Service Package",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glb-class/2026/09/25/2025-mercedes-benz-glb-250-4matic-amg-prem-2-911---0db5693972ac44ba8042c55fbc516515/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLB-Class",
+      "year": "2025",
+      "mileage": "28000",
+      "price": 164900,
+      "first_seen": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "100375462",
+      "title": "MERCEDES-BENZ EQS 450 SUV 4MATIC 7-SEATER | GCC | MERCEDES WARRANTY & SERVICE CONTRACT (GARGASH)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/eqs/2026/09/25/mercedes-benz-eqs-450-suv-4matic-7-seater--2-969---c98cbb6305b042e59ca68ee981ec1879/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "EQS",
+      "year": "2023",
+      "mileage": "19000",
+      "price": 269900,
+      "first_seen": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "100375252",
+      "title": "2019 BMW X6 xDrive50i M Sport - Japanese Specs - Clean Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/09/25/2019-bmw-x6-xdrive50i-m-sport-japanese-spe-2-005---f3235aca454143cda5c48b7dec36bb1a/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X6",
+      "year": "2019",
+      "mileage": "98500",
+      "price": 110000,
+      "first_seen": "2026-09-25T23:07:30Z"
+    },
     {
       "id": "16767875",
       "title": "Audi Q5 Sline Under Warranty  Service Package",
@@ -7309,13 +7369,13 @@
     {
       "id": "100342063",
       "title": "Audi A4 2.0 TFSI 2016 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2026/09/22/audi-a4-20-tfsi-2016-gcc-specs-2-739---cdb8620ac6de48bbbc5f4865eb638fc4/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2026/09/22/audi-a4-20-tfsi-2016-gcc-specs-2-193---cdb8620ac6de48bbbc5f4865eb638fc4/",
       "category": "Used Cars",
       "make": "Audi",
       "model": "A4",
       "year": "2016",
       "mileage": "133000",
-      "price": 36000,
+      "price": 31500,
       "first_seen": "2026-09-25T16:41:21Z"
     },
     {
@@ -12945,66 +13005,6 @@
       "mileage": "139000",
       "price": 139000,
       "first_seen": "2026-09-20T18:31:07Z"
-    },
-    {
-      "id": "100314304",
-      "title": "Mercedes-Benz E 350 -AMG Line",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/20/mercedes-benz-e-350-amg-line-2-032---e49dd98f7f39481ebeac1fa97fb36baa/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2021",
-      "mileage": "36000",
-      "price": 129000,
-      "first_seen": "2026-09-20T18:31:07Z"
-    },
-    {
-      "id": "100314203",
-      "title": "Mercedes-Benz C 300 AMG - night package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/20/mercedes-benz-c-300-amg-night-package-2-963---0f239760ffe84cd280bb012518beec6d/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "year": "2024",
-      "mileage": "22200",
-      "price": 144000,
-      "first_seen": "2026-09-20T18:31:07Z"
-    },
-    {
-      "id": "100314063",
-      "title": "2015 BMW 7-Series 740Li GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/2015-bmw-7-series-740li-gcc-specs-2-989---eac4e08920cf41cfb55d086234cdfdb1/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2015",
-      "mileage": "220000",
-      "price": 35500,
-      "first_seen": "2026-09-20T18:31:07Z"
-    },
-    {
-      "id": "100312673",
-      "title": "Pristine BMW 750Li Exclusive 2016 - GCC Specs - Full Service History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/09/20/pristine-bmw-750li-exclusive-2016-gcc-spec-2-095---105d62c5343f4a9282eeaa730cce6972/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2016",
-      "mileage": "34876",
-      "price": 98500,
-      "first_seen": "2026-09-20T18:31:07Z"
-    },
-    {
-      "id": "16974545",
-      "title": "Mercedes-Benz G-Class G 63 AMG 2027 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/12/mercedes-benz-g-class-g-63-amg-2027-gcc-sp-2-924---2e88a99e3e714e7a969c9cfec57bcfaf/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2027",
-      "mileage": "0",
-      "price": 1200000,
-      "first_seen": "2026-09-20T15:33:01Z"
     }
   ]
 }

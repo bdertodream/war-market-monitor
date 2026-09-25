@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26542,
+  "total_tracked": 26546,
   "total_drops": 500,
-  "total_new": 26542,
+  "total_new": 26546,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7790,6 +7790,50 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "17936193",
+      "title": "Only 2BR Units Left | Open Beachfront | 100% Rising Asset Value",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/premium-2br-resort-style-island-living--2-103103/",
+      "area": "Palm Jebel Ali",
+      "category": "Apartment",
+      "size": "1218",
+      "bedrooms": "2",
+      "price": 4200000,
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "17832345",
+      "title": "Exclusive | Corner Unit | 5Year Phpp | + Maid",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/6/exclusive-ready-soon-5y-phpp-2-261690/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "2009",
+      "bedrooms": "3",
+      "price": 4900000,
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "16742713",
+      "title": "35/65 PAYMENT PLAN I WORLD CLASS AMENITIES I STUDY ROOM",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/4/5050-payment-plan-i-world-class-ameniti-2-396766/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "1058",
+      "bedrooms": "1",
+      "price": 1426000,
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "9802828",
+      "title": "22 Residential Villa Permit | Freehold | Build a Full Community | Mirdif, Dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/25/22-residential-villa-permit-freehold-bu-2-295515/",
+      "area": "Mirdif",
+      "category": "Land",
+      "size": "84888",
+      "bedrooms": "",
+      "price": 42444200,
+      "first_seen": "2026-09-25"
+    },
+    {
       "id": "18017756",
       "title": "Sky-High Luxury Penthouse | Epic Views of Dubai",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/9/17/sky-high-luxury-penthouse-epic-views-of-2-200928/",
@@ -12462,50 +12506,6 @@
       "size": "3298",
       "bedrooms": "4",
       "price": 4600000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18009425",
-      "title": "Single Row | Upgraded | Park Backing",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/single-row-upgraded-park-backing-2-246283/",
-      "area": "Dubai South",
-      "category": "Villa",
-      "size": "3297",
-      "bedrooms": "4",
-      "price": 4900000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18009477",
-      "title": "Next To Lagoon | Vacant | Semi Detached",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/next-to-lagoon-vacant-semi-detached-2-309764/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "3295",
-      "bedrooms": "4",
-      "price": 4450000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18010173",
-      "title": "Large Plot | Landscaped | Unfurnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/large-plot-landscaped-unfurnished-2-285826/",
-      "area": "Dubai South",
-      "category": "Villa",
-      "size": "4203",
-      "bedrooms": "5",
-      "price": 5800000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18010076",
-      "title": "Single Row | Mid Unit | Landscaped",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/single-row-mid-unit-landscaped-2-159200/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "2574",
-      "bedrooms": "3",
-      "price": 3500000,
       "first_seen": "2026-09-18"
     }
   ],
