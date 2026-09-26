@@ -1,23 +1,9 @@
 {
   "total_tracked": 23422,
-  "total_drops": 503,
+  "total_drops": 501,
   "total_new": 23422,
-  "last_updated": "2026-09-25T23:07:30Z",
+  "last_updated": "2026-09-26T03:47:51Z",
   "drops": [
-    {
-      "id": "16695850",
-      "title": "GCC MiD not negotiable \u0644\u0644\u062c\u0627\u062f\u064a\u0646 \u0641\u0642\u0637 \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a",
-      "old_price": 19500,
-      "new_price": 18500,
-      "drop_pct": 5.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/1/6/gcc-mid-not-negotiable-2-679---55817326a1b04fffa9dfb33d38633524/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Charger",
-      "year": "2014",
-      "mileage": "200000",
-      "date": "2026-08-26T01:16:45Z"
-    },
     {
       "id": "16795727",
       "title": "2026 Suzuki Ertiga GLX - GCC Specs - Perfect Family MPV",
@@ -7003,6 +6989,20 @@
       "year": "2016",
       "mileage": "133000",
       "date": "2026-09-25T23:07:30Z"
+    },
+    {
+      "id": "100298871",
+      "title": "MITSUBISH ASX GLX 2.0L GCC CAR FULL OPTION FIRST OWNER CAR RIYAR CAMERA NO ACCIDENT HISTORY CAR",
+      "old_price": 19500,
+      "new_price": 18000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/asx/2026/09/19/mitsubish-asx-glx-20l-gcc-car-full-option--2-276---42366965ba8e421e9d66b00553bd9767/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "ASX",
+      "year": "2013",
+      "mileage": "199000",
+      "date": "2026-09-26T03:47:51Z"
     }
   ],
   "new_listings": [
