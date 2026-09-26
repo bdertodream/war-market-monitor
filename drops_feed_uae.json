@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26548,
+  "total_tracked": 26567,
   "total_drops": 500,
-  "total_new": 26548,
+  "total_new": 26567,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17009279",
-      "title": "LUXURIOUSLY RENOVATED | MODIFIED TO CLOSED KITCHEN",
-      "old_price": 1275000,
-      "new_price": 1175000,
-      "drop_pct": 7.8,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/29/luxuriously-renovated-modified-to-close-2-126871/",
-      "area": "Remraam",
-      "category": "Apartment",
-      "size": "1009",
-      "bedrooms": "2",
-      "date": "2026-05-18",
-      "first_seen": "2026-04-27"
-    },
     {
       "id": "9802117",
       "title": "Tenanted|Burj Khalifa View|Prime Location",
@@ -7005,6 +6991,20 @@
       "bedrooms": "0",
       "date": "2026-09-26",
       "first_seen": "2026-07-23"
+    },
+    {
+      "id": "18017707",
+      "title": "Vacant on Transfer | Marina View | 2 Bedroom",
+      "old_price": 2250000,
+      "new_price": 2100000,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/17/vacant-on-transfer-marina-view-2-bedroo-2-618841/",
+      "area": "Jumeirah Beach Residence (JBR)",
+      "category": "Apartment",
+      "size": "1293",
+      "bedrooms": "2",
+      "date": "2026-09-26",
+      "first_seen": "2026-09-22"
     }
   ],
   "new_listings": [
@@ -7028,6 +7028,215 @@
       "size": "754",
       "bedrooms": "1",
       "price": 1000000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17947307",
+      "title": "Lake View | Furnished | Low Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/2/lake-view-furnished-low-floor-2-338407/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "692",
+      "bedrooms": "1",
+      "price": 1250000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18036271",
+      "title": "Luxury 4BR Townhouse | Premium Family Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/21/luxury-4br-townhouse-premium-family-liv-2-164331/",
+      "area": "Arabian Ranches 3",
+      "category": "Townhouse",
+      "size": "2682",
+      "bedrooms": "4",
+      "price": 4200000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "16264891",
+      "title": "2029 Handover | Investor Special | Best Rate",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/8/22/2029-handover-investor-special-best-rat-2-484374/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "773",
+      "bedrooms": "1",
+      "price": 2100000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18061784",
+      "title": "Flash Offer! Big Discount | 100% Payment | Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/flash-offer-big-discount-100-payment-pa-2-337109/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1000",
+      "bedrooms": "1",
+      "price": 1561561,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18055215",
+      "title": "Luxury Villas | Lagoon Views | Resort-Style",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/24/luxury-villas-lagoon-views-resort-style-2-184437/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "17006",
+      "bedrooms": "6",
+      "price": 22000000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18034834",
+      "title": "Direct Lake Backing | Park Facing | Best Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/21/direct-lake-backing-park-facing-best-lo-2-126937/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "2745",
+      "bedrooms": "3",
+      "price": 4900000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17619662",
+      "title": "Luxury Villas | Lagoon Views | Resort-Style",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/22/luxury-villas-lagoon-views-resort-style-2-305153/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "10112",
+      "bedrooms": "4",
+      "price": 15378888,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18061783",
+      "title": "Flash Offer! Big Discount | 100% Payment | Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/flash-offer-big-discount-100-payment-pa-2-877270/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1340",
+      "bedrooms": "2",
+      "price": 1919775,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18059063",
+      "title": "EXTENDED | FULLY RENOVATED | VACANT SOON",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/25/extended-fully-renovated-vacant-soon-2-335336/",
+      "area": "The Springs",
+      "category": "Townhouse",
+      "size": "2290",
+      "bedrooms": "4",
+      "price": 7500000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18059062",
+      "title": "FULLY UPGRADED | VACANT | CLOSE TO LAKE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/25/fully-upgraded-vacant-close-to-lake-2-285296/",
+      "area": "The Springs",
+      "category": "Townhouse",
+      "size": "1776",
+      "bedrooms": "3",
+      "price": 5350000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17970973",
+      "title": "High Floor | Below OP (Original Price) | Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/hotel-apartment/2026/9/7/high-floor-below-op-original-price-furn-2-119704/",
+      "area": "Business Bay",
+      "category": "Hotel Apartment",
+      "size": "696",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18042785",
+      "title": "Vacant on Transfer | Corner Unit with Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/22/vacant-on-transfer-corner-unit-with-poo-2-381068/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "5800",
+      "bedrooms": "4",
+      "price": 8700000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18040094",
+      "title": "Genuine Resale | Close To Central Hub | Mortgage",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/22/genuine-resale-close-to-central-hub-mor-2-522024/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "1550",
+      "bedrooms": "4",
+      "price": 2995000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17902432",
+      "title": "Green Belt | Park Backing | Largest Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/24/green-belt-park-backing-largest-plot-2-864404/",
+      "area": "Tilal Al Ghaf",
+      "category": "Villa",
+      "size": "3374",
+      "bedrooms": "4",
+      "price": 7500000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17902436",
+      "title": "Single Row | Corner Unit | Landscaped",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/24/single-row-corner-unit-landscaped-2-139724/",
+      "area": "Tilal Al Ghaf",
+      "category": "Townhouse",
+      "size": "2379",
+      "bedrooms": "4",
+      "price": 4400000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18058815",
+      "title": "Exclusive | High Floor | Larger Layout | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/exclusive-high-floor-larger-layout-vaca-2-178413/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1096",
+      "bedrooms": "2",
+      "price": 2749999,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17903319",
+      "title": "Marina View |Prime Location | Large Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/24/marina-view-prime-location-large-layout-2-163010/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "2352",
+      "bedrooms": "2",
+      "price": 4250000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "17706334",
+      "title": "Luxurious | Tenanted | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/luxurious-tenanted-fully-furnished-2-264301/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "514",
+      "bedrooms": "0",
+      "price": 800000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "9836623",
+      "title": "Prime location Covered parking Park facing Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/9/24/prime-location-covered-parking-park-fac-2-153866/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "928",
+      "bedrooms": "",
+      "price": 2799999,
       "first_seen": "2026-09-26"
     },
     {
@@ -7775,7 +7984,7 @@
       "category": "Office",
       "size": "1414",
       "bedrooms": "",
-      "price": 5224888,
+      "price": 4974888,
       "first_seen": "2026-09-25"
     },
     {
@@ -9326,7 +9535,7 @@
       "category": "Apartment",
       "size": "1293",
       "bedrooms": "2",
-      "price": 2250000,
+      "price": 2100000,
       "first_seen": "2026-09-22"
     },
     {
@@ -12297,215 +12506,6 @@
       "size": "4918",
       "bedrooms": "7",
       "price": 20500000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18025592",
-      "title": "Vacant | Extended | Fully Upgraded",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/vacant-extended-fully-upgraded-2-230004/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4200",
-      "bedrooms": "4",
-      "price": 13800000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026043",
-      "title": "Exclusive | Upgraded | Corner Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/exclusive-upgraded-corner-plot-2-451800/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4774",
-      "bedrooms": "4",
-      "price": 14500000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026311",
-      "title": "Extended | Vacant on Transfer | Lake Facing",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/extended-vacant-on-transfer-lake-facing-2-106787/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4500",
-      "bedrooms": "6",
-      "price": 16000000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026316",
-      "title": "Exclusive | Hattan | Largest Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/exclusive-hattan-largest-plot-2-763133/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "5260",
-      "bedrooms": "5",
-      "price": 29950000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026482",
-      "title": "New Launch | Bay Estates | 4BR Corner | Single Row | Beachfront Community",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/18/new-launch-bay-estates-4br-corner-singl-2-129887/",
-      "area": "Dubai Islands",
-      "category": "Townhouse",
-      "size": "4000",
-      "bedrooms": "4",
-      "price": 6700000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026465",
-      "title": "Rare Investor Deal | Under Market Price | Prime Unit | Single Row | On The Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/18/book-from-100k-aed-beachfront-single-ro-2-238124/",
-      "area": "Dubai Islands",
-      "category": "Townhouse",
-      "size": "3400",
-      "bedrooms": "3",
-      "price": 5200000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026524",
-      "title": "Most Elite Island | Island E | Book From 100K AED | Most Elite Island",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/nakheel-bay-estates-island-e-book-from--2-156806/",
-      "area": "Dubai Islands",
-      "category": "Villa",
-      "size": "6000",
-      "bedrooms": "4",
-      "price": 9800000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18026485",
-      "title": "Bay Estates | Book From 100k Aed | 4BR Villa | Flexible Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/bay-estates-book-from-100k-aed-4br-vill-2-175032/",
-      "area": "Dubai Islands",
-      "category": "Villa",
-      "size": "4301",
-      "bedrooms": "4",
-      "price": 7000000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "17791235",
-      "title": "Backing on Park & Pool | Big Plot | Genuine",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/29/single-row-prime-location-mortgage-acce-2-339344/",
-      "area": "Mudon",
-      "category": "Townhouse",
-      "size": "2468",
-      "bedrooms": "4",
-      "price": 4450000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18004216",
-      "title": "High Floor | Furnished | 3-Year Post-Handover",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/high-floor-furnished-3-year-post-handov-2-192032/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "781",
-      "bedrooms": "1",
-      "price": 3400000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "17939900",
-      "title": "Backing Park and Pool | Semi-Upgraded Type 4M",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/1/backing-park-and-pool-semi-upgraded-typ-2-151017/",
-      "area": "The Springs",
-      "category": "Villa",
-      "size": "1656",
-      "bedrooms": "2",
-      "price": 3600000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18005391",
-      "title": "Full Sea View | Below Original Price | Hot Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/full-sea-view-original-price-negotiable-2-185221/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1321",
-      "bedrooms": "2",
-      "price": 3300000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "17905026",
-      "title": "Close To Pool & Park | 4 Bedrooms | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/24/close-to-pool-park-4-bedrooms-prime-loc-2-150551/",
-      "area": "Arabian Ranches 3",
-      "category": "Townhouse",
-      "size": "2358",
-      "bedrooms": "4",
-      "price": 4150000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18010790",
-      "title": "LAGOON-FACING 1BR | SELLING AT OP | INVESTOR DEAL | 15-STOREY TOWER",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/15/lagoon-facing-view-1br-damac-lagoons-pr-2-134478/",
-      "area": "DAMAC Lagoons",
-      "category": "Apartment",
-      "size": "757",
-      "bedrooms": "1",
-      "price": 1295000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18025696",
-      "title": "Vacant | 2 Bedroom | Community Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/vacant-2-bedroom-community-expert-2-201138/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1391",
-      "bedrooms": "2",
-      "price": 3550000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18009376",
-      "title": "Next To Beach | Single Row | Mid Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/next-to-beach-single-row-mid-unit-2-181935/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "2574",
-      "bedrooms": "3",
-      "price": 3500000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18009351",
-      "title": "Corner Unit | Vastu | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/corner-unit-vastu-vacant-2-269386/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "3295",
-      "bedrooms": "4",
-      "price": 4500000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18009248",
-      "title": "Vastu Unit | Next To Beach | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/vastu-unit-next-to-beach-vacant-2-570417/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "3295",
-      "bedrooms": "4",
-      "price": 4300000,
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "18002154",
-      "title": "Brand New | Close to Lagoon | Back to Back",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/14/brand-new-close-to-lagoon-back-to-back-2-266226/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "1550",
-      "bedrooms": "4",
-      "price": 3000000,
       "first_seen": "2026-09-18"
     }
   ],
