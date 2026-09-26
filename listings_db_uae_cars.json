@@ -411854,7 +411854,7 @@
   "16847883": {
     "id": "16847883",
     "title": "0% DP | AED 535 / Month | GAC | GS3 GE 1.3T | 2024 | Gargash Warranty | Service History",
-    "price": 34900,
+    "price": 44900,
     "make": "GAC",
     "model": "GS3",
     "year": "2024",
@@ -411873,6 +411873,10 @@
       {
         "price": 34900,
         "date": "2026-09-10T08:41:38Z"
+      },
+      {
+        "price": 44900,
+        "date": "2026-09-26T19:04:02Z"
       }
     ],
     "date": "2026-07-16"
@@ -561241,6 +561245,248 @@
       {
         "price": 24000,
         "date": "2026-09-26T15:54:14Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100388294": {
+    "id": "100388294",
+    "title": "Mercedes A 200 PREMIUM + AMG PACK - GCC SPECS - MERCEDES WARRANTY & SERVICE PACK -WELL MAINTAINED",
+    "price": 104900,
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": "2024",
+    "kilometers": "59000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/09/26/mercedes-a-200-premium-amg-pack-gcc-specs--2-040---a9ddf261c02b44c8be974abca65e3728/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 104900,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "16978269": {
+    "id": "16978269",
+    "title": "MERCEDES-BENZ GLC 200 2025 | PREMIUM PLUS AMG PACK | MERCEDES WARRANTY & SERVICE UNTILL 2030",
+    "price": 219900,
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "year": "2025",
+    "kilometers": "9000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-class/2026/09/15/mercedes-benz-glc-200-2025-premium-plus-am-2-363---1e98494a884e4ffb92a51d2efa7cc41c/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 219900,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100387958": {
+    "id": "100387958",
+    "title": "Toyota Prado TXL 2013 GCC Specs",
+    "price": 66000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2013",
+    "kilometers": "148000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda (Dubai)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/09/26/toyota-prado-txl-2013-gcc-specs-2-263---488ace9913204792a40b396b246fc11a/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 66000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100387919": {
+    "id": "100387919",
+    "title": "PORSCHE PANAMERA TURBO UNDER WARRANTY FROM DELAR FULL SERVICE HISTORY AMAZING CONDITION GCC",
+    "price": 98000,
+    "make": "Porsche",
+    "model": "Panamera",
+    "year": "2014",
+    "kilometers": "88000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/09/26/porsche-panamera-turbo-under-warranty-from-2-615---517000df95ad4ee8a5134b9fe20e4833/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 98000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100387656": {
+    "id": "100387656",
+    "title": "2017 Mercedes-Benz GLC-Class GLC 300e 4MATIC GCC Specs",
+    "price": 75000,
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "year": "2017",
+    "kilometers": "219000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-class/2026/09/26/2017-mercedes-benz-glc-class-glc-300e-4mat-2-379---7d0dc3896d444f389a3b0a6fc8669e8b/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "16939917": {
+    "id": "16939917",
+    "title": "2021 Mercedes-Benz E-Class E 350 - Pristine Japanese Spec - Low Mileage",
+    "price": 111000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2021",
+    "kilometers": "97000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/12/2021-mercedes-benz-e-class-e-350-pristine--2-203---61feaa52296b48fe87b9d6dc3ec2733b/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 111000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100387669": {
+    "id": "100387669",
+    "title": "2023 Nissan Patrol V8 LE Platinum City GCC Specs",
+    "price": 142000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2023",
+    "kilometers": "190000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Hamar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/26/2023-nissan-patrol-v8-le-platinum-city-gcc-2-761---91700b49d2594d6e857d35e5cb44bad6/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 142000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "16941379": {
+    "id": "16941379",
+    "title": "Nissan Maxima 2013 SV GCC Specs",
+    "price": 11400,
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": "2013",
+    "kilometers": "220000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Shorooq Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/08/13/nissan-maxima-2013-sv-gcc-specs-2-274---fcaa9b2c565f4a0eae6e5079f79e0df9/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 11400,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100387238": {
+    "id": "100387238",
+    "title": "Honda Accord EX 2009 GCC Specs RTA passed",
+    "price": 9900,
+    "make": "Honda",
+    "model": "Accord",
+    "year": "2009",
+    "kilometers": "160000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Hassani Three Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/accord/2026/09/26/honda-accord-ex-2009-gcc-specs-rta-passed-2-155---2cd166121f1d4400a37e087d31d08279/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 9900,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100381117": {
+    "id": "100381117",
+    "title": "2018 Mercedes-Benz S-Class S 560 4MATIC for Sale",
+    "price": 99000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2018",
+    "kilometers": "109000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/26/2018-mercedes-benz-s-class-s-560-4matic-fo-2-309---15820518225e45c2b753d66b4ea2197c/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100380949": {
+    "id": "100380949",
+    "title": "2026 Changan X5 Plus Chinese Specs",
+    "price": 51000,
+    "make": "Changan",
+    "model": "X5 Plus",
+    "year": "2026",
+    "kilometers": "11000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/x5-plus/2026/09/26/2026-changan-x5-plus-chinese-specs-2-455---521a494680794bed8d47da964eea3c1b/",
+    "first_seen": "2026-09-26T19:04:02Z",
+    "prices": [
+      {
+        "price": 51000,
+        "date": "2026-09-26T19:04:02Z"
       }
     ],
     "date": "2026-09-26"
