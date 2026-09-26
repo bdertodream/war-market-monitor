@@ -515090,7 +515090,7 @@
   "16952431": {
     "id": "16952431",
     "title": "2018 Mercedes Benz E200 GCC specs",
-    "price": 59000,
+    "price": 52500,
     "make": "Mercedes-Benz",
     "model": "E-Class",
     "year": "2018",
@@ -515099,12 +515099,16 @@
     "fuel_type": "Petrol",
     "area": "DAMAC Hills",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/24/2018-mercedes-benz-e200-gcc-specs-2-015---413f1a47692f497abbfcc7c9ad648b1e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/24/2018-mercedes-benz-e200-gcc-specs-2-776---413f1a47692f497abbfcc7c9ad648b1e/",
     "first_seen": "2026-09-03T03:11:32Z",
     "prices": [
       {
         "price": 59000,
         "date": "2026-09-03T03:11:32Z"
+      },
+      {
+        "price": 52500,
+        "date": "2026-09-26T22:24:37Z"
       }
     ],
     "date": "2026-09-03"
@@ -540094,7 +540098,7 @@
   "16952430": {
     "id": "16952430",
     "title": "2015 Porsche Macan S GCC Specs",
-    "price": 54900,
+    "price": 59500,
     "make": "Porsche",
     "model": "Macan",
     "year": "2015",
@@ -540109,6 +540113,10 @@
       {
         "price": 54900,
         "date": "2026-09-15T22:44:39Z"
+      },
+      {
+        "price": 59500,
+        "date": "2026-09-26T22:24:37Z"
       }
     ],
     "date": "2026-09-15"
@@ -543300,7 +543308,7 @@
   "100270122": {
     "id": "100270122",
     "title": "Mercedes-Benz E-Class E-43 AMG 4-matic  GCC Specs",
-    "price": 68000,
+    "price": 75500,
     "make": "Mercedes-Benz",
     "model": "E-Class",
     "year": "2017",
@@ -543315,6 +543323,10 @@
       {
         "price": 68000,
         "date": "2026-09-17T16:21:59Z"
+      },
+      {
+        "price": 75500,
+        "date": "2026-09-26T22:24:37Z"
       }
     ],
     "date": "2026-09-17"
@@ -561487,6 +561499,50 @@
       {
         "price": 51000,
         "date": "2026-09-26T19:04:02Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100389812": {
+    "id": "100389812",
+    "title": "Mercedes-Benz C-Class C200 2020 GCC Specs in Pristine Condition",
+    "price": 83500,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2020",
+    "kilometers": "77000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/26/mercedes-benz-c-class-c200-2020-gcc-specs--2-980---006a1b7ebbf54aeab3c5e5aee7c70fa0/",
+    "first_seen": "2026-09-26T22:24:37Z",
+    "prices": [
+      {
+        "price": 83500,
+        "date": "2026-09-26T22:24:37Z"
+      }
+    ],
+    "date": "2026-09-26"
+  },
+  "100276267": {
+    "id": "100276267",
+    "title": "Porsche Cayenne S 2019 GCC Specs",
+    "price": 119000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2019",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/17/porsche-cayenne-s-2019-gcc-specs-2-831---a439d61ca3ef41f899a15757f8045935/",
+    "first_seen": "2026-09-26T22:24:37Z",
+    "prices": [
+      {
+        "price": 119000,
+        "date": "2026-09-26T22:24:37Z"
       }
     ],
     "date": "2026-09-26"

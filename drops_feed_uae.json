@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26618,
+  "total_tracked": 26620,
   "total_drops": 500,
-  "total_new": 26618,
+  "total_new": 26620,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7801,6 +7801,28 @@
       "first_seen": "2026-09-26"
     },
     {
+      "id": "18066309",
+      "title": "Prime Airport Location | Fully Furnished | 100% Upfront | Investor Deal | Great Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/prime-airport-location-fully-furnished--2-284073/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "855",
+      "bedrooms": "2",
+      "price": 1010000,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "18065905",
+      "title": "100% Upfront | Investor Deal | Premium Furnished | Early Handover | High Roi",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/premium-furnished-property-cash-offer-f-2-908625/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "583",
+      "bedrooms": "1",
+      "price": 772000,
+      "first_seen": "2026-09-26"
+    },
+    {
       "id": "17421961",
       "title": "Luxury Studio | Lagoon Views | Exclusive",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/5/luxury-studio-lagoon-views-azizi-venice-2-461965/",
@@ -12484,28 +12506,6 @@
       "size": "4350",
       "bedrooms": "4",
       "price": 8200000,
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "9834626",
-      "title": "PREMIUM OFFICES | FIST COMMERCIAL TOWER | CLOSE TO METRO",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/11/premium-offices-fist-commercial-tower-c-2-928938/",
-      "area": "International City Phase 2 (Warsan 4)",
-      "category": "Office",
-      "size": "411",
-      "bedrooms": "",
-      "price": 708700,
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "9835653",
-      "title": "Hot offer vacant ready Shop for sale France Cluster international city Dubai",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/9/18/street-facing-shop-corner-glass-frontag-2-841926/",
-      "area": "International City",
-      "category": "Shop",
-      "size": "507",
-      "bedrooms": "",
-      "price": 550000,
       "first_seen": "2026-09-19"
     }
   ],

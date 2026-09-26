@@ -1,23 +1,9 @@
 {
-  "total_tracked": 23498,
-  "total_drops": 500,
-  "total_new": 23498,
-  "last_updated": "2026-09-26T19:04:02Z",
+  "total_tracked": 23500,
+  "total_drops": 501,
+  "total_new": 23500,
+  "last_updated": "2026-09-26T22:24:37Z",
   "drops": [
-    {
-      "id": "16929686",
-      "title": "Jaguar XF Luxury 2013 GCC Specs",
-      "old_price": 19000,
-      "new_price": 18000,
-      "drop_pct": 5.3,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xf/2026/08/02/jaguar-xf-luxury-2013-gcc-specs-2-566---8e3db1eec3e946f68093225a07188286/",
-      "category": "Used Cars",
-      "make": "Jaguar",
-      "model": "XF",
-      "year": "2013",
-      "mileage": "140000",
-      "date": "2026-08-27T18:53:37Z"
-    },
     {
       "id": "16890354",
       "title": "BMW 420i Gran Coupe 2019 GCC Specs",
@@ -7003,9 +6989,47 @@
       "year": "2015",
       "mileage": "285000",
       "date": "2026-09-26T15:54:14Z"
+    },
+    {
+      "id": "16952431",
+      "title": "2018 Mercedes Benz E200 GCC specs",
+      "old_price": 59000,
+      "new_price": 52500,
+      "drop_pct": 11.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/24/2018-mercedes-benz-e200-gcc-specs-2-776---413f1a47692f497abbfcc7c9ad648b1e/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2018",
+      "mileage": "130000",
+      "date": "2026-09-26T22:24:37Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100389812",
+      "title": "Mercedes-Benz C-Class C200 2020 GCC Specs in Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/26/mercedes-benz-c-class-c200-2020-gcc-specs--2-980---006a1b7ebbf54aeab3c5e5aee7c70fa0/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2020",
+      "mileage": "77000",
+      "price": 83500,
+      "first_seen": "2026-09-26T22:24:37Z"
+    },
+    {
+      "id": "100276267",
+      "title": "Porsche Cayenne S 2019 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/17/porsche-cayenne-s-2019-gcc-specs-2-831---a439d61ca3ef41f899a15757f8045935/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2019",
+      "mileage": "170000",
+      "price": 119000,
+      "first_seen": "2026-09-26T22:24:37Z"
+    },
     {
       "id": "100388294",
       "title": "Mercedes A 200 PREMIUM + AMG PACK - GCC SPECS - MERCEDES WARRANTY & SERVICE PACK -WELL MAINTAINED",
@@ -12980,30 +13004,6 @@
       "year": "2020",
       "mileage": "88989",
       "price": 114750,
-      "first_seen": "2026-09-21T23:02:44Z"
-    },
-    {
-      "id": "100324416",
-      "title": "Nissan Patrol SE Platinum 2020 GCC | Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/21/nissan-patrol-se-platinum-2020-gcc-warrant-2-445---5aa61a7e39a8489baf1cd05969a238de/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2020",
-      "mileage": "47000",
-      "price": 159750,
-      "first_seen": "2026-09-21T23:02:44Z"
-    },
-    {
-      "id": "100324309",
-      "title": "BMW 420i M-Sport Convertible 2024 GCC | Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/09/21/bmw-420i-m-sport-convertible-2024-gcc-agen-2-774---a4e68e9a62f4408f9b79dacb0ef546e1/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "4-Series",
-      "year": "2024",
-      "mileage": "54000",
-      "price": 179750,
       "first_seen": "2026-09-21T23:02:44Z"
     }
   ]
