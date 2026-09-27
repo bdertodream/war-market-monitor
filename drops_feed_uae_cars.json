@@ -1,37 +1,9 @@
 {
-  "total_tracked": 23540,
-  "total_drops": 503,
-  "total_new": 23540,
-  "last_updated": "2026-09-27T16:30:26Z",
+  "total_tracked": 23543,
+  "total_drops": 502,
+  "total_new": 23543,
+  "last_updated": "2026-09-27T22:51:07Z",
   "drops": [
-    {
-      "id": "16820460",
-      "title": "Ford Focus - Full Option - 2016 - GCC Specs - Excellent Condition",
-      "old_price": 14500,
-      "new_price": 12500,
-      "drop_pct": 13.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/focus/2026/04/28/ford-focus-full-option-2016-gcc-specs-exce-2-398---a67b6cefbb8942c0b8a437ff5c7f5478/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Focus",
-      "year": "2016",
-      "mileage": "137000",
-      "date": "2026-08-28T19:56:14Z"
-    },
-    {
-      "id": "16940477",
-      "title": "Volkswagen Golf GTI 2016 Base GCC Specs Excellent Condition",
-      "old_price": 19500,
-      "new_price": 18500,
-      "drop_pct": 5.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/12/volkswagen-golf-gti-2016-base-gcc-specs-ex-2-460---beae0420afbb40648c88cd28afd16fc8/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "year": "2016",
-      "mileage": "146000",
-      "date": "2026-08-28T19:56:14Z"
-    },
     {
       "id": "16941428",
       "title": "BMW 4-Series 428i Sport Line 2015 GCC Specs",
@@ -7003,9 +6975,73 @@
       "year": "2016",
       "mileage": "100000",
       "date": "2026-09-27T16:30:26Z"
+    },
+    {
+      "id": "16975035",
+      "title": "2019 Land Rover Discovery HSE Si6 GCC Specs - Excellent Condition",
+      "old_price": 73000,
+      "new_price": 65000,
+      "drop_pct": 11.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery/2026/09/12/2019-land-rover-discovery-hse-si6-gcc-spec-2-697---337aee5f1ce3434fa9857e33f1721454/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "year": "2019",
+      "mileage": "139500",
+      "date": "2026-09-27T22:51:07Z"
+    },
+    {
+      "id": "100313323",
+      "title": "2008 HUMMER H3 FULL OPTION LIMITED GCC IN SUPERB CONDITION",
+      "old_price": 17900,
+      "new_price": 13000,
+      "drop_pct": 27.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hummer/h3/2026/09/20/2008-hummer-h3-full-option-limited-gcc-in--2-767---fddec717fb444542bda68c81ff4c2c66/",
+      "category": "Used Cars",
+      "make": "Hummer",
+      "model": "H3",
+      "year": "2008",
+      "mileage": "198000",
+      "date": "2026-09-27T22:51:07Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100401706",
+      "title": "Lexus GX 460 Platinum 2021 GCC Specs / Original paint",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gx-series/2026/09/27/lexus-gx-460-platinum-2021-gcc-specs-origi-2-332---e91452d333894d63b28c4b6331a1b257/",
+      "category": "Used Cars",
+      "make": "Lexus",
+      "model": "GX-Series",
+      "year": "2021",
+      "mileage": "207000",
+      "price": 133000,
+      "first_seen": "2026-09-27T22:51:07Z"
+    },
+    {
+      "id": "100399827",
+      "title": "!! 2021 !! Nissan |  Patrol LE Platinum City | GCC | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/27/2021-nissan-patrol-le-platinum-city-gcc-pr-2-677---a62725be942a4005a8d2641c219f69f2/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Patrol",
+      "year": "2021",
+      "mileage": "204000",
+      "price": 125000,
+      "first_seen": "2026-09-27T22:51:07Z"
+    },
+    {
+      "id": "100397245",
+      "title": "2013 BMW 5-Series 530i Luxury Line GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/27/2013-bmw-5-series-530i-luxury-line-gcc-spe-2-241---b656eb6483654cf5a049e5f3fc190f85/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2013",
+      "mileage": "160000",
+      "price": 23000,
+      "first_seen": "2026-09-27T22:51:07Z"
+    },
     {
       "id": "100399109",
       "title": "Rox 01 VIP 2026 new version with rox logo .",
@@ -12968,42 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 205000,
-      "first_seen": "2026-09-22T09:05:04Z"
-    },
-    {
-      "id": "100332492",
-      "title": "2023 Rolls-Royce Cullinan from Dealer - service contract and warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/09/22/2023-rolls-royce-cullinan-from-dealer-serv-2-239---e8ebb85aaba8419dbce99b0e13564d4c/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2023",
-      "mileage": "11000",
-      "price": 1350000,
-      "first_seen": "2026-09-22T09:05:04Z"
-    },
-    {
-      "id": "16889779",
-      "title": "AED 1368/month | 2019 Mercedes-Benz GLC Coupe GLC 250 | GCC Specs | Ref#484397",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/06/28/aed-1368month-2019-mercedes-benz-glc-coupe-2-423---ed6b8856623f4ff79e0e5d6aca3e4ccf/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLC Coupe",
-      "year": "2019",
-      "mileage": "105257",
-      "price": 90000,
-      "first_seen": "2026-09-22T09:05:04Z"
-    },
-    {
-      "id": "16939910",
-      "title": "BYD Song Plus DM-i Brand New - Hybrid SUV",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/song-plus/2026/08/12/byd-song-plus-dm-i-brand-new-hybrid-suv-2-718---f1d46e7883ef405baca44bea8556a3fb/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "Song Plus",
-      "year": "2025",
-      "mileage": "0",
-      "price": 109999,
       "first_seen": "2026-09-22T09:05:04Z"
     }
   ]

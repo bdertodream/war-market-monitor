@@ -451164,7 +451164,7 @@
   "16922972": {
     "id": "16922972",
     "title": "Bentley Continental GT Millionaire Edition 2024 - European Specs - Brand New",
-    "price": 849000,
+    "price": 810000,
     "make": "Bentley",
     "model": "Continental",
     "year": "2024",
@@ -451173,7 +451173,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/7/27/bentley-continental-gt-millionaire-edition-2-987---14fa4fd01228409fb9538736fb7e53f4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/07/27/bentley-continental-gt-millionaire-edition-2-147---14fa4fd01228409fb9538736fb7e53f4/",
     "first_seen": "2026-08-02T20:56:03Z",
     "prices": [
       {
@@ -451183,6 +451183,10 @@
       {
         "price": 849000,
         "date": "2026-08-13T09:12:19Z"
+      },
+      {
+        "price": 810000,
+        "date": "2026-09-27T22:51:07Z"
       }
     ],
     "date": "2026-08-02"
@@ -535371,8 +535375,8 @@
   },
   "16975035": {
     "id": "16975035",
-    "title": "Lady Driven 2019 Land Rover Discovery HSE Si6 GCC Specs - Excellent Condition",
-    "price": 73000,
+    "title": "2019 Land Rover Discovery HSE Si6 GCC Specs - Excellent Condition",
+    "price": 65000,
     "make": "Land Rover",
     "model": "Discovery",
     "year": "2019",
@@ -535381,12 +535385,16 @@
     "fuel_type": "Petrol",
     "area": "Port Saeed",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery/2026/09/12/lady-driven-2019-land-rover-discovery-hse--2-521---337aee5f1ce3434fa9857e33f1721454/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery/2026/09/12/2019-land-rover-discovery-hse-si6-gcc-spec-2-697---337aee5f1ce3434fa9857e33f1721454/",
     "first_seen": "2026-09-13T15:42:46Z",
     "prices": [
       {
         "price": 73000,
         "date": "2026-09-13T15:42:46Z"
+      },
+      {
+        "price": 65000,
+        "date": "2026-09-27T22:51:07Z"
       }
     ],
     "date": "2026-09-13"
@@ -548065,8 +548073,8 @@
   },
   "100313323": {
     "id": "100313323",
-    "title": "Hummer H3 Limited Edition Full Option2008 GCC Specs",
-    "price": 17900,
+    "title": "2008 HUMMER H3 FULL OPTION LIMITED GCC IN SUPERB CONDITION",
+    "price": 13000,
     "make": "Hummer",
     "model": "H3",
     "year": "2008",
@@ -548075,12 +548083,16 @@
     "fuel_type": "Petrol",
     "area": "Al Qusais 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/hummer/h3/2026/09/20/hummer-h3-limited-edition-full-option2008--2-356---fddec717fb444542bda68c81ff4c2c66/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hummer/h3/2026/09/20/2008-hummer-h3-full-option-limited-gcc-in--2-767---fddec717fb444542bda68c81ff4c2c66/",
     "first_seen": "2026-09-20T15:33:01Z",
     "prices": [
       {
         "price": 17900,
         "date": "2026-09-20T15:33:01Z"
+      },
+      {
+        "price": 13000,
+        "date": "2026-09-27T22:51:07Z"
       }
     ],
     "date": "2026-09-20"
@@ -562483,6 +562495,72 @@
       {
         "price": 59500,
         "date": "2026-09-27T16:30:26Z"
+      }
+    ],
+    "date": "2026-09-27"
+  },
+  "100401706": {
+    "id": "100401706",
+    "title": "Lexus GX 460 Platinum 2021 GCC Specs / Original paint",
+    "price": 133000,
+    "make": "Lexus",
+    "model": "GX-Series",
+    "year": "2021",
+    "kilometers": "207000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gx-series/2026/09/27/lexus-gx-460-platinum-2021-gcc-specs-origi-2-332---e91452d333894d63b28c4b6331a1b257/",
+    "first_seen": "2026-09-27T22:51:07Z",
+    "prices": [
+      {
+        "price": 133000,
+        "date": "2026-09-27T22:51:07Z"
+      }
+    ],
+    "date": "2026-09-27"
+  },
+  "100399827": {
+    "id": "100399827",
+    "title": "!! 2021 !! Nissan |  Patrol LE Platinum City | GCC | Pristine Condition",
+    "price": 125000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2021",
+    "kilometers": "204000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/27/2021-nissan-patrol-le-platinum-city-gcc-pr-2-677---a62725be942a4005a8d2641c219f69f2/",
+    "first_seen": "2026-09-27T22:51:07Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-09-27T22:51:07Z"
+      }
+    ],
+    "date": "2026-09-27"
+  },
+  "100397245": {
+    "id": "100397245",
+    "title": "2013 BMW 5-Series 530i Luxury Line GCC Specs",
+    "price": 23000,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2013",
+    "kilometers": "160000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/27/2013-bmw-5-series-530i-luxury-line-gcc-spe-2-241---b656eb6483654cf5a049e5f3fc190f85/",
+    "first_seen": "2026-09-27T22:51:07Z",
+    "prices": [
+      {
+        "price": 23000,
+        "date": "2026-09-27T22:51:07Z"
       }
     ],
     "date": "2026-09-27"
