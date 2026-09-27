@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26687,
+  "total_tracked": 26688,
   "total_drops": 500,
-  "total_new": 26687,
+  "total_new": 26688,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7746,6 +7746,17 @@
       "first_seen": "2026-09-27"
     },
     {
+      "id": "18066399",
+      "title": "Modern Studio | Balcony View | Kappa Acca 1",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/modern-studio-balcony-view-kappa-acca-1-2-180551/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "415",
+      "bedrooms": "0",
+      "price": 527817,
+      "first_seen": "2026-09-27"
+    },
+    {
       "id": "17861342",
       "title": "Investor Deal | Prime 3BR | High Growth Location",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/13/investor-deal-prime-3br-high-growth-loc-2-135121/",
@@ -8187,7 +8198,7 @@
     },
     {
       "id": "18008351",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Springs 2 | Huge Plot | Park & Pool Backing",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/springs-2-huge-plot-park-pool-backing-2-280333/",
       "area": "The Springs",
       "category": "Villa",
@@ -8220,7 +8231,7 @@
     },
     {
       "id": "17982094",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Brand New | Backs Pool & Park | 3 Bedroom",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/9/brand-new-backs-pool-park-3-bedroom-2-403848/",
       "area": "The Springs",
       "category": "Villa",
@@ -8242,7 +8253,7 @@
     },
     {
       "id": "18005036",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Corner Plot | Best Price | Type A | Vacant | Landscaped",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/14/corner-plot-best-price-type-a-vacant-la-2-204971/",
       "area": "Al Furjan",
       "category": "Villa",
@@ -8253,7 +8264,7 @@
     },
     {
       "id": "17027972",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Private Oasis | Turnkey | Large Bedrooms",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/2/private-oasis-turnkey-large-bedrooms-2-612440/",
       "area": "Al Furjan",
       "category": "Villa",
@@ -8264,7 +8275,7 @@
     },
     {
       "id": "18026407",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Park-view | Type A | Large Corner Plot | Vastu",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/park-view-type-a-large-corner-plot-vast-2-213990/",
       "area": "Al Furjan",
       "category": "Villa",
@@ -9177,7 +9188,7 @@
     },
     {
       "id": "18053340",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Park Backing 4 Bedrooms All ensuite plus Maids",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/24/open-house-sunday-27th-september-2026-2-311859/",
       "area": "Al Furjan",
       "category": "Villa",
@@ -9188,7 +9199,7 @@
     },
     {
       "id": "17975020",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Exclusive | Prime Internal Location | VOT",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/8/exclusive-prime-internal-location-vot-2-337493/",
       "area": "Jumeirah Park",
       "category": "Villa",
@@ -9243,7 +9254,7 @@
     },
     {
       "id": "18009919",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
+      "title": "Simply the Best Home in Emirates Living",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/simply-the-best-home-in-emirates-living-2-277945/",
       "area": "The Lakes",
       "category": "Villa",
@@ -12495,17 +12506,6 @@
       "size": "782",
       "bedrooms": "1",
       "price": 1900000,
-      "first_seen": "2026-09-21"
-    },
-    {
-      "id": "17888169",
-      "title": "Two Bedrooms | Vacant | Sea Views |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/20/two-bedroom-vacant-sea-view-two-baths-2-800117/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1183",
-      "bedrooms": "2",
-      "price": 2600000,
       "first_seen": "2026-09-21"
     }
   ],
