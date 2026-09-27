@@ -561546,5 +561546,49 @@
       }
     ],
     "date": "2026-09-26"
+  },
+  "100390237": {
+    "id": "100390237",
+    "title": "NISSAN PATHFINDER SV 2015 GCC SPECS FULL OPTION",
+    "price": 24500,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "2015",
+    "kilometers": "164708",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/09/27/nissan-pathfinder-sv-2015-gcc-specs-full-o-2-770---c220a4c6607a457ba3f944ccb1bc88ac/",
+    "first_seen": "2026-09-27T03:57:22Z",
+    "prices": [
+      {
+        "price": 24500,
+        "date": "2026-09-27T03:57:22Z"
+      }
+    ],
+    "date": "2026-09-27"
+  },
+  "100384624": {
+    "id": "100384624",
+    "title": "2023 Volkswagen T-Roc",
+    "price": 59999,
+    "make": "Volkswagen",
+    "model": "T-Roc",
+    "year": "2024",
+    "kilometers": "47359",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/t-roc/2026/09/26/2023-volkswagen-t-roc-2-216---c0f20016a7144c8e9cb8f1500d7d828d/",
+    "first_seen": "2026-09-27T03:57:22Z",
+    "prices": [
+      {
+        "price": 59999,
+        "date": "2026-09-27T03:57:22Z"
+      }
+    ],
+    "date": "2026-09-26"
   }
 }
