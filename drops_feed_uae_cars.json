@@ -1,8 +1,8 @@
 {
-  "total_tracked": 23543,
-  "total_drops": 502,
-  "total_new": 23543,
-  "last_updated": "2026-09-27T22:51:07Z",
+  "total_tracked": 23544,
+  "total_drops": 500,
+  "total_new": 23544,
+  "last_updated": "2026-09-28T03:57:03Z",
   "drops": [
     {
       "id": "16941428",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100402842",
+      "title": "Jetour T2 2025 2.0L 4WD GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/09/28/jetour-t2-2025-20l-4wd-gcc-specs-2-872---4a413772094d4c468105c1ed73a53d3b/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "mileage": "28100",
+      "price": 130000,
+      "first_seen": "2026-09-28T03:57:03Z"
+    },
+    {
       "id": "100401706",
       "title": "Lexus GX 460 Platinum 2021 GCC Specs / Original paint",
       "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gx-series/2026/09/27/lexus-gx-460-platinum-2021-gcc-specs-origi-2-332---e91452d333894d63b28c4b6331a1b257/",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 949000,
-      "first_seen": "2026-09-22T09:05:04Z"
-    },
-    {
-      "id": "16965353",
-      "title": "BYD LEOPARD 5 / ULTRA / 210 KM / DOUBLE DIFF LOCK / WARRANTY AND SERVICE EVS 5 YEARS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-5/2026/09/04/byd-leopard-5-ultra-210-km-double-diff-loc-2-783---70170a314c484eb3b29da11bcbb14c2e/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "Leopard 5",
-      "year": "2026",
-      "mileage": "0",
-      "price": 205000,
       "first_seen": "2026-09-22T09:05:04Z"
     }
   ]

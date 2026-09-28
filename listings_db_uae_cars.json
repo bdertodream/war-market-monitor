@@ -562564,5 +562564,27 @@
       }
     ],
     "date": "2026-09-27"
+  },
+  "100402842": {
+    "id": "100402842",
+    "title": "Jetour T2 2025 2.0L 4WD GCC Specs",
+    "price": 130000,
+    "make": "Jetour",
+    "model": "T2",
+    "year": "2025",
+    "kilometers": "28100",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/09/28/jetour-t2-2025-20l-4wd-gcc-specs-2-872---4a413772094d4c468105c1ed73a53d3b/",
+    "first_seen": "2026-09-28T03:57:03Z",
+    "prices": [
+      {
+        "price": 130000,
+        "date": "2026-09-28T03:57:03Z"
+      }
+    ],
+    "date": "2026-09-28"
   }
 }

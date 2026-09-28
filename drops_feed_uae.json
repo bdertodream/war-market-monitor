@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 26719,
+  "total_tracked": 26721,
   "total_drops": 500,
-  "total_new": 26719,
+  "total_new": 26721,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "17905126",
+      "title": "Lake View | Below Original Price| Post Handover PP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/24/lake-view-below-original-price-post-han-2-283668/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "404",
+      "bedrooms": "0",
+      "price": 960000,
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "18010080",
+      "title": "Upgraded 2 BR plus Study | With Pool | Large Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/15/upgraded-2-br-plus-study-with-pool-larg-2-136578/",
+      "area": "The Springs",
+      "category": "Villa",
+      "size": "1643",
+      "bedrooms": "2",
+      "price": 4600000,
+      "first_seen": "2026-09-28"
+    },
+    {
       "id": "18015984",
       "title": "Bright | High Floor| 2BR Apartment | FH Residency",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/bright-high-floor-2br-apartment-fh-resi-2-111576/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "5",
       "price": 26500000,
       "first_seen": "2026-09-21"
-    },
-    {
-      "id": "17984908",
-      "title": "Priced to Sell | Must See | Large Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/priced-to-sell-must-see-large-plot-2-125675/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "4850",
-      "bedrooms": "3",
-      "price": 8000000,
-      "first_seen": "2026-09-21"
-    },
-    {
-      "id": "18007943",
-      "title": "Motivated Seller | Must Sell | Greenbelt",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/15/motivated-seller-must-sell-greenbelt-2-230604/",
-      "area": "Dubai Hills Estate",
-      "category": "Townhouse",
-      "size": "2406",
-      "bedrooms": "4",
-      "price": 5299000,
-      "first_seen": "2026-09-21"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-27"
+  "last_updated": "2026-09-28"
 }
