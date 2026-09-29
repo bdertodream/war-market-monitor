@@ -1,23 +1,9 @@
 {
-  "total_tracked": 23636,
-  "total_drops": 502,
-  "total_new": 23636,
-  "last_updated": "2026-09-28T19:19:27Z",
+  "total_tracked": 23637,
+  "total_drops": 501,
+  "total_new": 23637,
+  "last_updated": "2026-09-29T00:13:13Z",
   "drops": [
-    {
-      "id": "16906619",
-      "title": "2018 HONDA PILOT 3.5L V6 GCC SPECIFICATION IN VERY EXCELLENT CONDITION",
-      "old_price": 34500,
-      "new_price": 32500,
-      "drop_pct": 5.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/pilot/2026/07/12/2018-honda-pilot-35l-v6-gcc-specification--2-727---02726979fff54307bab09848fe1d6edb/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Pilot",
-      "year": "2018",
-      "mileage": "182000",
-      "date": "2026-08-28T19:56:14Z"
-    },
     {
       "id": "16817919",
       "title": "BMW M8 Coupe | 3,380 AED P.M. | Supercar Performance",
@@ -7003,9 +6989,35 @@
       "year": "2019",
       "mileage": "127000",
       "date": "2026-09-28T19:19:27Z"
+    },
+    {
+      "id": "16960371",
+      "title": "BMW 428i Gran Coupe 2016 | GCC Specs | Pristine Condition",
+      "old_price": 65000,
+      "new_price": 60000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/08/31/bmw-428i-gran-coupe-2016-gcc-specs-pristin-2-034---005ba6834a6c4594a459539a22bc1378/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "4-Series",
+      "year": "2016",
+      "mileage": "121000",
+      "date": "2026-09-29T00:13:13Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16796210",
+      "title": "BMW X1 2017 xDrive 28i | No Accidents | New AGM Battery | Panoramic | Ready",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2026/04/07/bmw-x1-2017-xdrive-28i-no-accidents-new-ag-2-192---5d290de8146143f5a45f89ce6a0fd541/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X1",
+      "year": "2017",
+      "mileage": "135000",
+      "price": 37000,
+      "first_seen": "2026-09-29T00:13:13Z"
+    },
     {
       "id": "16958718",
       "title": "Renault Koleos 2016 - GCC Specs - 1 Owner- Original Paint",
@@ -7015,7 +7027,7 @@
       "model": "Koleos",
       "year": "2016",
       "mileage": "132000",
-      "price": 12000,
+      "price": 13000,
       "first_seen": "2026-09-28T19:19:27Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2017",
       "mileage": "158754",
       "price": 19500,
-      "first_seen": "2026-09-23T09:07:32Z"
-    },
-    {
-      "id": "16906753",
-      "title": "Lexus LS 430 2003 | Well Maintained | Lady Driven",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ls-series/2026/07/12/lexus-ls-430-2003-well-maintained-lady-dri-2-119---95de7b7fbfe9483591055f40f003beaa/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LS-Series",
-      "year": "2003",
-      "mileage": "197338",
-      "price": 12500,
       "first_seen": "2026-09-23T09:07:32Z"
     }
   ]

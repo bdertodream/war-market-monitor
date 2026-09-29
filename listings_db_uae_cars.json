@@ -512518,7 +512518,7 @@
   "16960371": {
     "id": "16960371",
     "title": "BMW 428i Gran Coupe 2016 | GCC Specs | Pristine Condition",
-    "price": 65000,
+    "price": 60000,
     "make": "BMW",
     "model": "4-Series",
     "year": "2016",
@@ -512527,7 +512527,7 @@
     "fuel_type": "Petrol",
     "area": "Cayan Tower",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/08/31/bmw-428i-gran-coupe-2016-gcc-specs-pristin-2-128---005ba6834a6c4594a459539a22bc1378/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/08/31/bmw-428i-gran-coupe-2016-gcc-specs-pristin-2-034---005ba6834a6c4594a459539a22bc1378/",
     "first_seen": "2026-09-01T16:09:22Z",
     "prices": [
       {
@@ -512537,6 +512537,10 @@
       {
         "price": 65000,
         "date": "2026-09-22T09:05:04Z"
+      },
+      {
+        "price": 60000,
+        "date": "2026-09-29T00:13:13Z"
       }
     ],
     "date": "2026-09-01"
@@ -524732,7 +524736,7 @@
   "16968941": {
     "id": "16968941",
     "title": "PRICE NOT NEGOTIABLE// LOW MILLAGE I/ NO ACCIDENTS II GREAT CONDITION GCC SPECS 2014 BMW Z4 //",
-    "price": 44500,
+    "price": 44999,
     "make": "BMW",
     "model": "Z4",
     "year": "2014",
@@ -524747,6 +524751,10 @@
       {
         "price": 44500,
         "date": "2026-09-07T22:33:01Z"
+      },
+      {
+        "price": 44999,
+        "date": "2026-09-29T00:13:13Z"
       }
     ],
     "date": "2026-09-07"
@@ -563718,7 +563726,7 @@
   "16958718": {
     "id": "16958718",
     "title": "Renault Koleos 2016 - GCC Specs - 1 Owner- Original Paint",
-    "price": 12000,
+    "price": 13000,
     "make": "Renault",
     "model": "Koleos",
     "year": "2016",
@@ -563733,6 +563741,10 @@
       {
         "price": 12000,
         "date": "2026-09-28T19:19:27Z"
+      },
+      {
+        "price": 13000,
+        "date": "2026-09-29T00:13:13Z"
       }
     ],
     "date": "2026-09-28"
@@ -564767,6 +564779,28 @@
       {
         "price": 89950,
         "date": "2026-09-28T19:19:27Z"
+      }
+    ],
+    "date": "2026-09-28"
+  },
+  "16796210": {
+    "id": "16796210",
+    "title": "BMW X1 2017 xDrive 28i | No Accidents | New AGM Battery | Panoramic | Ready",
+    "price": 37000,
+    "make": "BMW",
+    "model": "X1",
+    "year": "2017",
+    "kilometers": "135000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2026/04/07/bmw-x1-2017-xdrive-28i-no-accidents-new-ag-2-192---5d290de8146143f5a45f89ce6a0fd541/",
+    "first_seen": "2026-09-29T00:13:13Z",
+    "prices": [
+      {
+        "price": 37000,
+        "date": "2026-09-29T00:13:13Z"
       }
     ],
     "date": "2026-09-28"
