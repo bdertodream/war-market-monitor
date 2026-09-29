@@ -42254,7 +42254,7 @@
   "16721828": {
     "id": "16721828",
     "title": "FSH super clean not negotiable \u0642\u0645\u0629 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0635\u064a\u0627\u0646\u0629 \u0627\u0644\u0648\u0643\u0627\u0644\u0629",
-    "price": 24500,
+    "price": 24000,
     "make": "Lincoln",
     "model": "MKC",
     "year": "2015",
@@ -42263,7 +42263,7 @@
     "fuel_type": "Petrol",
     "area": "Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkc/2026/1/27/fsh-super-clean-not-negotiable-2-127---6a36b784533246afa78b87597ca3f403/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkc/2026/01/27/fsh-super-clean-not-negotiable-2-280---6a36b784533246afa78b87597ca3f403/",
     "first_seen": "2026-03-14T07:38:16Z",
     "prices": [
       {
@@ -42277,6 +42277,10 @@
       {
         "price": 24500,
         "date": "2026-06-02T16:26:14Z"
+      },
+      {
+        "price": 24000,
+        "date": "2026-09-29T23:28:36Z"
       }
     ],
     "date": "2026-03-14"
@@ -397744,7 +397748,7 @@
   "16892244": {
     "id": "16892244",
     "title": "Pristine 2019 Rolls-Royce Phantom | GCC Specs | Ultra Luxury",
-    "price": 1025000,
+    "price": 1050000,
     "make": "Rolls-Royce",
     "model": "Phantom",
     "year": "2019",
@@ -397767,6 +397771,10 @@
       {
         "price": 1025000,
         "date": "2026-08-02T20:56:03Z"
+      },
+      {
+        "price": 1050000,
+        "date": "2026-09-29T23:28:36Z"
       }
     ],
     "date": "2026-07-11"
@@ -567696,7 +567704,7 @@
   "100419635": {
     "id": "100419635",
     "title": "2021 Nissan Patrol Safari GL - GCC Specs | Excellent Condition",
-    "price": 115000,
+    "price": 110000,
     "make": "Nissan",
     "model": "Patrol Safari",
     "year": "2021",
@@ -567705,12 +567713,16 @@
     "fuel_type": "Petrol",
     "area": "Jumeirah",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol-safari/2026/09/29/2021-nissan-patrol-safari-gl-gcc-specs-exc-2-607---83a002efa2b34709b681653c2227e477/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol-safari/2026/09/29/2021-nissan-patrol-safari-gl-gcc-specs-exc-2-947---83a002efa2b34709b681653c2227e477/",
     "first_seen": "2026-09-29T17:44:50Z",
     "prices": [
       {
         "price": 115000,
         "date": "2026-09-29T17:44:50Z"
+      },
+      {
+        "price": 110000,
+        "date": "2026-09-29T23:28:36Z"
       }
     ],
     "date": "2026-09-29"
@@ -567953,6 +567965,314 @@
       {
         "price": 139999,
         "date": "2026-09-29T17:44:50Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100425545": {
+    "id": "100425545",
+    "title": "2020 Rolls-Royce Cullinan Black Badge GCC Specs",
+    "price": 1150000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2020",
+    "kilometers": "26000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/09/29/2020-rolls-royce-cullinan-black-badge-gcc--2-298---f26e932f3c494837b46d62d14f70bf8e/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 1150000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100425489": {
+    "id": "100425489",
+    "title": "Mercedes-Benz G-Class G 63 AMG 2027 European Specs",
+    "price": 1170000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/29/mercedes-benz-g-class-g-63-amg-2027-europe-2-438---2cd85498185b4987bc233c43553bb012/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 1170000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100425224": {
+    "id": "100425224",
+    "title": "Mercedes Benz V300 \"L'ENTOURAGE\" VIP MERCEDES V-CLASS GCC V300 ADDITIONAL REAR AC - 3 YEAR WARRANTY",
+    "price": 474000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/09/29/mercedes-benz-v300-lentourage-vip-mercedes-2-020---e958f325566f498393b54d17d09a572b/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 474000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100425264": {
+    "id": "100425264",
+    "title": "Mercedes-Benz S-Class S 400 h 2016 Japanese Specs",
+    "price": 73500,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2016",
+    "kilometers": "115000",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/29/mercedes-benz-s-class-s-400-h-2016-japanes-2-648---a557054a176a4912b975d3699d08b7d8/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 73500,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100411500": {
+    "id": "100411500",
+    "title": "Land Rover Range Rover HSE P530 2022 GCC Specs",
+    "price": 445000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "kilometers": "52500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Executive Tower J",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/28/land-rover-range-rover-hse-p530-2022-gcc-s-2-459---eb892afc26034ccc94dc1cd15699d299/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 445000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100424850": {
+    "id": "100424850",
+    "title": "Toyota Land Cruiser VXR Twin Turbo GCC Specs",
+    "price": 375000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2024",
+    "kilometers": "17000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/09/29/toyota-land-cruiser-vxr-twin-turbo-gcc-spe-2-550---dafa0345bf5140a688e323efdc320ff3/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 375000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100424677": {
+    "id": "100424677",
+    "title": "Mercedes-Benz GLA 220 2019 (GCC - Excellent Condition - Well Maintained)",
+    "price": 49000,
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "year": "2019",
+    "kilometers": "126000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/09/29/mercedes-benz-gla-220-2019-gcc-excellent-c-2-891---28ba556476f5497497711241b596b3dc/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "16958179": {
+    "id": "16958179",
+    "title": "BMW X5 - 7 Seater - M Sport 2024 (GCC \u2013 Under BMW Warranty \u2013 Massage Seats \u2013 Single Owner)",
+    "price": 219000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2024",
+    "kilometers": "129000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/08/29/bmw-x5-7-seater-m-sport-2024-gcc-under-bmw-2-260---cbdc69003d0b43819d56f6ab9a94f63b/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 219000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "16841191": {
+    "id": "16841191",
+    "title": "Dodge RAM 1500 Big Horn 2022 (V8 Engine \u2013 Big Horn Package \u2013 Perfect Condition)",
+    "price": 79000,
+    "make": "RAM",
+    "model": "1500",
+    "year": "2022",
+    "kilometers": "129000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/05/16/dodge-ram-1500-big-horn-2022-v8-engine-big-2-683---100d5313479f49ddb6b53516e03d4bce/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100283803": {
+    "id": "100283803",
+    "title": "Audi Q8 S Line Kit (GCC - Full Service History - Fully Loaded - Excellent Condition)",
+    "price": 127000,
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2019",
+    "kilometers": "100500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q8/2026/09/18/audi-q8-s-line-kit-gcc-full-service-histor-2-570---2ea11018ef424f5698957037784f8d60/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 127000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100424144": {
+    "id": "100424144",
+    "title": "Mercedes-Maybach S-Class 2023 S580 | Low Mileage | Accident-Free",
+    "price": 750000,
+    "make": "Mercedes-Maybach",
+    "model": "S-Class",
+    "year": "2023",
+    "kilometers": "31000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/s-class/2026/09/29/mercedes-maybach-s-class-2023-s580-low-mil-2-288---be01a693ae9f4e3ea4d0f18a5ae4cdfd/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 750000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100424169": {
+    "id": "100424169",
+    "title": "2019 BMW 5-Series 540i M Sport GCC Specs",
+    "price": 85000,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2019",
+    "kilometers": "97000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/29/2019-bmw-5-series-540i-m-sport-gcc-specs-2-999---a14ae564c6cb4c69bc86069604fb56a2/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100423990": {
+    "id": "100423990",
+    "title": "2015 Nissan Altima ( With WARRANTY)Beige interior. Leather electric seat. Valid Mulkia.",
+    "price": 16500,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2015",
+    "kilometers": "190000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/09/29/2015-nissan-altima-with-warrantybeige-inte-2-121---0555d655201544c5b79dcb097b37a9f3/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-09-29T23:28:36Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100422102": {
+    "id": "100422102",
+    "title": "Porsche Macan 2018 ( GCC - Low Mileage - Full Porsche Service History - Original Paint - Mint con",
+    "price": 109000,
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2018",
+    "kilometers": "68000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/09/29/porsche-macan-2018-gcc-low-mileage-full-po-2-543---70433ce0ef9445d1ab98e2d462bb9f6f/",
+    "first_seen": "2026-09-29T23:28:36Z",
+    "prices": [
+      {
+        "price": 109000,
+        "date": "2026-09-29T23:28:36Z"
       }
     ],
     "date": "2026-09-29"
