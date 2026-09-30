@@ -568276,5 +568276,49 @@
       }
     ],
     "date": "2026-09-29"
+  },
+  "100422087": {
+    "id": "100422087",
+    "title": "SUZUKI BALENO GLX # 2023 GCC # WELL MAINTAINED CAR FOR SALE.",
+    "price": 34499,
+    "make": "Suzuki",
+    "model": "Baleno",
+    "year": "2023",
+    "kilometers": "72000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Diamond Views 1 Block A",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/baleno/2026/09/29/suzuki-baleno-glx-2023-gcc-well-maintained-2-279---2cbcf7b4926e430b8667d430f7045834/",
+    "first_seen": "2026-09-30T04:14:50Z",
+    "prices": [
+      {
+        "price": 34499,
+        "date": "2026-09-30T04:14:50Z"
+      }
+    ],
+    "date": "2026-09-29"
+  },
+  "100421576": {
+    "id": "100421576",
+    "title": "TOYOTA RAIZE TURBO G # 2023 GCC # FULL ECONOMICAL CAR FOR SALE.",
+    "price": 44999,
+    "make": "Toyota",
+    "model": "Raize",
+    "year": "2023",
+    "kilometers": "48000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Diamond Views 1 Block A",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/raize/2026/09/29/toyota-raize-turbo-g-2023-gcc-full-economi-2-481---978a57ebacd542e789e35d8cd5658087/",
+    "first_seen": "2026-09-30T04:14:50Z",
+    "prices": [
+      {
+        "price": 44999,
+        "date": "2026-09-30T04:14:50Z"
+      }
+    ],
+    "date": "2026-09-29"
   }
 }

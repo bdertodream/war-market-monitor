@@ -1,8 +1,8 @@
 {
-  "total_tracked": 23785,
+  "total_tracked": 23787,
   "total_drops": 500,
-  "total_new": 23785,
-  "last_updated": "2026-09-29T23:28:36Z",
+  "total_new": 23787,
+  "last_updated": "2026-09-30T04:14:50Z",
   "drops": [
     {
       "id": "16726126",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100422087",
+      "title": "SUZUKI BALENO GLX # 2023 GCC # WELL MAINTAINED CAR FOR SALE.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/baleno/2026/09/29/suzuki-baleno-glx-2023-gcc-well-maintained-2-279---2cbcf7b4926e430b8667d430f7045834/",
+      "category": "Used Cars",
+      "make": "Suzuki",
+      "model": "Baleno",
+      "year": "2023",
+      "mileage": "72000",
+      "price": 34499,
+      "first_seen": "2026-09-30T04:14:50Z"
+    },
+    {
+      "id": "100421576",
+      "title": "TOYOTA RAIZE TURBO G # 2023 GCC # FULL ECONOMICAL CAR FOR SALE.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/raize/2026/09/29/toyota-raize-turbo-g-2023-gcc-full-economi-2-481---978a57ebacd542e789e35d8cd5658087/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Raize",
+      "year": "2023",
+      "mileage": "48000",
+      "price": 44999,
+      "first_seen": "2026-09-30T04:14:50Z"
+    },
+    {
       "id": "100425545",
       "title": "2020 Rolls-Royce Cullinan Black Badge GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/09/29/2020-rolls-royce-cullinan-black-badge-gcc--2-298---f26e932f3c494837b46d62d14f70bf8e/",
@@ -12980,30 +13004,6 @@
       "year": "2021",
       "mileage": "73000",
       "price": 124999,
-      "first_seen": "2026-09-24T16:36:19Z"
-    },
-    {
-      "id": "100362323",
-      "title": "2022 Chevrolet Captiva Premier GCC Specs FULL ORIGINAL PAINT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/09/24/2022-chevrolet-captiva-premier-gcc-specs-f-2-958---4efa47b2e6534b919c86a89bc38bcdea/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Captiva",
-      "year": "2022",
-      "mileage": "85000",
-      "price": 34999,
-      "first_seen": "2026-09-24T16:36:19Z"
-    },
-    {
-      "id": "100344157",
-      "title": "3,134 P.M | S-Line | Audi Warranty + S/Contract | 0% Downpayment",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q5/2026/09/23/3134-pm-s-line-audi-warranty-scontract-0-d-2-978---697b08315f034944810c3930285f4184/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "Q5",
-      "year": "2023",
-      "mileage": "47000",
-      "price": 159999,
       "first_seen": "2026-09-24T16:36:19Z"
     }
   ]

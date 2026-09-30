@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27006,
+  "total_tracked": 27011,
   "total_drops": 500,
-  "total_new": 27006,
+  "total_new": 27011,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,61 @@
   ],
   "new_listings": [
     {
+      "id": "17980707",
+      "title": "Exclusive | Upgraded | Large Balcony | Low Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/9/exclusive-upgraded-large-balcony-low-fl-2-281871/",
+      "area": "The Views",
+      "category": "Apartment",
+      "size": "861",
+      "bedrooms": "1",
+      "price": 1775000,
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "18046970",
+      "title": "Vacant Now | Largest Three Bed | View Today",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/23/vacant-now-largest-three-bed-view-today-2-274997/",
+      "area": "DIFC",
+      "category": "Apartment",
+      "size": "3589",
+      "bedrooms": "3",
+      "price": 7999000,
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "17575750",
+      "title": "Full Golf + Marina Skyline View - 25,915 SqFt",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/11/full-golf-marina-skyline-view-25000-sqf-2-411533/",
+      "area": "Emirates Hills",
+      "category": "Villa",
+      "size": "11400",
+      "bedrooms": "7",
+      "price": 90000000,
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "18059477",
+      "title": "Burj Khalifa View | 1BR Apartment | Volta Downtown",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/burj-khalifa-view-1br-apartment-volta-d-2-208140/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1010",
+      "bedrooms": "1",
+      "price": 1500000,
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "18060973",
+      "title": "Waterfront 5BR Villa | Mira Villas by Bentley Home | Private Pool & Cinema",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/25/waterfront-5br-villa-mira-villas-by-ben-2-145426/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Villa",
+      "size": "14816",
+      "bedrooms": "5",
+      "price": 23000000,
+      "first_seen": "2026-09-30"
+    },
+    {
       "id": "18074452",
       "title": "DLD WAIVER | BEST PRICE | BOOK NOW",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/28/dld-waiver-best-price-book-now-2-286542/",
@@ -12452,63 +12507,8 @@
       "bedrooms": "1",
       "price": 950000,
       "first_seen": "2026-09-25"
-    },
-    {
-      "id": "17529840",
-      "title": "Motivated Seller | Ellington | Cheapest",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/1/cheapest-unit-ellington-quality-vacant-2-770041/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "745",
-      "bedrooms": "1",
-      "price": 1135000,
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "16695794",
-      "title": "Middle Unit | Vacant | Spacious Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/11/24/middle-unit-park-backing-brand-new-2-309490/",
-      "area": "DAMAC Hills",
-      "category": "Townhouse",
-      "size": "1843",
-      "bedrooms": "4",
-      "price": 3500000,
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "17970184",
-      "title": "Multiple options | Motivated seller | close to OP",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/7/furnished-villa-luxurious-on-lagoon-2-119655/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "7108",
-      "bedrooms": "5",
-      "price": 26000000,
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "17530695",
-      "title": "Large Terrace | Vacant | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/1/huge-terrace-vacant-prime-location-2-202871/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1245",
-      "bedrooms": "3",
-      "price": 1999999,
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "18052406",
-      "title": "MODERN TOWER I VACANT I GREAT FACILITIES",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/24/modern-tower-vacant-great-facilities-2-239268/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "718",
-      "bedrooms": "1",
-      "price": 1899998,
-      "first_seen": "2026-09-25"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-29"
+  "last_updated": "2026-09-30"
 }
