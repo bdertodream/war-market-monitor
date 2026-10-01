@@ -229270,7 +229270,7 @@
   "16770844": {
     "id": "16770844",
     "title": "M-BENZ | I 2018 | V4 | TURBO | TOP",
-    "price": 58000,
+    "price": 53000,
     "make": "Mercedes-Benz",
     "model": "GLA-Class",
     "year": "2018",
@@ -229279,12 +229279,16 @@
     "fuel_type": "Petrol",
     "area": "Al Nahda (Dubai)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/3/10/m-benz-i-2018-v4-turbo-top-2-003---54ff02a2b67e495e8b30bab1f3ffdc0f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/03/10/m-benz-i-2018-v4-turbo-top-2-382---54ff02a2b67e495e8b30bab1f3ffdc0f/",
     "first_seen": "2026-05-09T06:25:11Z",
     "prices": [
       {
         "price": 58000,
         "date": "2026-05-09T06:25:11Z"
+      },
+      {
+        "price": 53000,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-05-09"
@@ -231700,7 +231704,7 @@
   "16436806": {
     "id": "16436806",
     "title": "M-BENZ | 2016 | C 450 | V6 { TOP RANGE",
-    "price": 58000,
+    "price": 49000,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2016",
@@ -231709,12 +231713,16 @@
     "fuel_type": "Petrol",
     "area": "Al Twar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2025/6/5/m-benz-2016-c-450-v6-top-range-2-486---81de6e9ac0124e1aae98ddc45301ec9b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2025/06/05/m-benz-2016-c-450-v6-top-range-2-961---81de6e9ac0124e1aae98ddc45301ec9b/",
     "first_seen": "2026-05-09T17:05:07Z",
     "prices": [
       {
         "price": 58000,
         "date": "2026-05-09T17:05:07Z"
+      },
+      {
+        "price": 49000,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-05-09"
@@ -234114,7 +234122,7 @@
   "16826619": {
     "id": "16826619",
     "title": "Land Rover Range Rover Supercharged 2016 - GCC Specs",
-    "price": 63000,
+    "price": 58000,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2016",
@@ -234123,7 +234131,7 @@
     "fuel_type": "Petrol",
     "area": "Al Qusais",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/5/4/land-rover-range-rover-supercharged-2016-g-2-662---dcbf02f9c4a94c2aaf2255c5b85c47bd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/05/04/land-rover-range-rover-supercharged-2016-g-2-130---dcbf02f9c4a94c2aaf2255c5b85c47bd/",
     "first_seen": "2026-05-10T17:05:55Z",
     "prices": [
       {
@@ -234133,6 +234141,10 @@
       {
         "price": 63000,
         "date": "2026-05-12T14:35:32Z"
+      },
+      {
+        "price": 58000,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-05-10"
@@ -390982,7 +390994,7 @@
   "16635622": {
     "id": "16635622",
     "title": "BMW | 2019 | X1 | FULL OPTION |TURBO ENG",
-    "price": 53000,
+    "price": 48000,
     "make": "BMW",
     "model": "X1",
     "year": "2019",
@@ -390991,12 +391003,16 @@
     "fuel_type": "Petrol",
     "area": "Al Twar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2025/11/13/bmw-2019-x1-full-option-2-801---5440ef728951436ba800f20b270eda1a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2025/11/13/bmw-2019-x1-full-option-turbo-eng-2-921---5440ef728951436ba800f20b270eda1a/",
     "first_seen": "2026-07-09T07:37:37Z",
     "prices": [
       {
         "price": 53000,
         "date": "2026-07-09T07:37:37Z"
+      },
+      {
+        "price": 48000,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-07-09"
@@ -426612,7 +426628,7 @@
   "16899924": {
     "id": "16899924",
     "title": "!! 2023!! Infiniti | QX80 Sensory | GCC | Immaculate Condition | just 49000 Driven",
-    "price": 163000,
+    "price": 155000,
     "make": "Infiniti",
     "model": "QX80",
     "year": "2023",
@@ -426621,7 +426637,7 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/7/6/2023-infiniti-qx80-sensory-gcc-imaculate-c-2-173---a5a884488b61473ab8cbbfeb1caa54c5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/07/06/2023-infiniti-qx80-sensory-gcc-immaculate--2-244---a5a884488b61473ab8cbbfeb1caa54c5/",
     "first_seen": "2026-07-23T10:23:32Z",
     "prices": [
       {
@@ -426631,6 +426647,10 @@
       {
         "price": 163000,
         "date": "2026-07-29T17:15:36Z"
+      },
+      {
+        "price": 155000,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-07-23"
@@ -568836,7 +568856,7 @@
   "100429900": {
     "id": "100429900",
     "title": "\ud83d\ude97 NO CONVENIENCE FEES | UNDER WARRANTY | CERTIFIED PRE-OWNED | 0% DOWN PAYMENT",
-    "price": 58900,
+    "price": 58100,
     "make": "Mazda",
     "model": "6",
     "year": "2024",
@@ -568845,12 +568865,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/30/no-convenience-fees-under-warranty-certifi-2-387---3927995443614b959ca5c0bf9053e135/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/6/2026/09/30/no-convenience-fees-under-warranty-certifi-2-664---3927995443614b959ca5c0bf9053e135/",
     "first_seen": "2026-09-30T14:40:00Z",
     "prices": [
       {
         "price": 58900,
         "date": "2026-09-30T14:40:00Z"
+      },
+      {
+        "price": 58100,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-09-30"
@@ -569716,7 +569740,7 @@
   "16963182": {
     "id": "16963182",
     "title": "Honda Civic 2004 LX Sport - Well Maintained Japanese Specs",
-    "price": 7700,
+    "price": 7499,
     "make": "Honda",
     "model": "Civic",
     "year": "2004",
@@ -569725,12 +569749,16 @@
     "fuel_type": "Petrol",
     "area": "Deira",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2026/09/02/honda-civic-2004-lx-sport-well-maintained--2-954---ca19ee4bbcf4457f95e6b8c352b8d60e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2026/09/02/honda-civic-2004-lx-sport-well-maintained--2-729---ca19ee4bbcf4457f95e6b8c352b8d60e/",
     "first_seen": "2026-09-30T20:35:41Z",
     "prices": [
       {
         "price": 7700,
         "date": "2026-09-30T20:35:41Z"
+      },
+      {
+        "price": 7499,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-09-30"
@@ -570149,6 +570177,116 @@
       {
         "price": 419000,
         "date": "2026-09-30T20:35:41Z"
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  "100287945": {
+    "id": "100287945",
+    "title": "2021 Isuzu N-Series NPR | GCC Specs | Well Maintained",
+    "price": 71000,
+    "make": "Isuzu",
+    "model": "N-SERIES",
+    "year": "2021",
+    "kilometers": "221554",
+    "body_type": "Utility Truck",
+    "fuel_type": "Diesel",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/n-series/2026/09/18/2021-isuzu-n-series-npr-gcc-specs-well-mai-2-841---6c8a7ffe5988469581b378a9f621d587/",
+    "first_seen": "2026-10-01T04:26:46Z",
+    "prices": [
+      {
+        "price": 71000,
+        "date": "2026-10-01T04:26:46Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100437143": {
+    "id": "100437143",
+    "title": "2014 Volkswagen Passat. No1. Sunroof Cruise. GCC. Very clean. RTA passed. 2 keys.",
+    "price": 9500,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2014",
+    "kilometers": "160000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/10/01/2014-volkswagen-passat-no1-sunroof-cruise--2-561---39115c8d85a943fa81bd02e51eaf627d/",
+    "first_seen": "2026-10-01T04:26:46Z",
+    "prices": [
+      {
+        "price": 9500,
+        "date": "2026-10-01T04:26:46Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "16919983": {
+    "id": "16919983",
+    "title": "2017 Cadillac XT5 Platinum AWD | GCC Specs | Pristine Condition",
+    "price": 31000,
+    "make": "Cadillac",
+    "model": "XT5",
+    "year": "2017",
+    "kilometers": "149250",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/xt5/2026/07/24/2017-cadillac-xt5-platinum-awd-gcc-specs-p-2-436---32adf9bbf5034d9cab170ba4ff6e18ab/",
+    "first_seen": "2026-10-01T04:26:46Z",
+    "prices": [
+      {
+        "price": 31000,
+        "date": "2026-10-01T04:26:46Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100426493": {
+    "id": "100426493",
+    "title": "2017 RENAULT DUSTER 4x4 RTA PASS IN VERY GOOD CONDITION",
+    "price": 10500,
+    "make": "Renault",
+    "model": "Duster",
+    "year": "2017",
+    "kilometers": "162000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/09/30/2017-renault-duster-4x4-rta-pass-in-very-g-2-911---3dd3ece250624dc781fcb39d698441ef/",
+    "first_seen": "2026-10-01T04:26:46Z",
+    "prices": [
+      {
+        "price": 10500,
+        "date": "2026-10-01T04:26:46Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100436122": {
+    "id": "100436122",
+    "title": "L200 pickup for sale - well maintained",
+    "price": 15600,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2016",
+    "kilometers": "283600",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Al Khabaisi",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/09/30/l200-pickup-for-sale-well-maintained-2-961---a0fd4d37486c4ed69d96099118ed17d5/",
+    "first_seen": "2026-10-01T04:26:46Z",
+    "prices": [
+      {
+        "price": 15600,
+        "date": "2026-10-01T04:26:46Z"
       }
     ],
     "date": "2026-09-30"
