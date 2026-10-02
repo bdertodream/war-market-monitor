@@ -139432,7 +139432,7 @@
   "16154404": {
     "id": "16154404",
     "title": "2004 Bentley Continental GT  6.0L W12 || FULL SERVICE HISTORY ||Accident  free ||pristine condition",
-    "price": 85000,
+    "price": 69950,
     "make": "Bentley",
     "model": "Continental",
     "year": "2004",
@@ -139441,7 +139441,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2024/11/7/2004-bentley-continental-gt-w12-60l-12-cyl-2-343---a531f951962c411c8c930628765cbc6b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2024/11/07/2004-bentley-continental-gt-60l-w12-full-s-2-811---a531f951962c411c8c930628765cbc6b/",
     "first_seen": "2026-04-14T06:09:58Z",
     "prices": [
       {
@@ -139455,6 +139455,10 @@
       {
         "price": 85000,
         "date": "2026-08-07T08:59:22Z"
+      },
+      {
+        "price": 69950,
+        "date": "2026-10-02T04:19:29Z"
       }
     ],
     "date": "2026-04-14"
@@ -572033,6 +572037,248 @@
       {
         "price": 10500,
         "date": "2026-10-01T20:50:13Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100448244": {
+    "id": "100448244",
+    "title": "Suzuki Grand Vitara GLX 2016 GCC Specifications (Single Owner / 2 Keys)",
+    "price": 24000,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "year": "2016",
+    "kilometers": "177000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/grand-vitara/2026/10/02/suzuki-grand-vitara-glx-2016-gcc-specifica-2-948---855155caa9824633903c5b3257caf3d6/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 24000,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "16943622": {
+    "id": "16943622",
+    "title": "2017 MERCEDES GLC250 low mileage || accident free || single owner",
+    "price": 79999,
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "year": "2017",
+    "kilometers": "68000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-class/2026/08/15/2017-mercedes-glc250-low-mileage-accident--2-952---da47241466de420baddfade45d349f33/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 79999,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "100331281": {
+    "id": "100331281",
+    "title": "MERCEDES-BENZ EQS 450 SUV 4MATIC 7-SEATER | GCC | MERCEDES WARRANTY & SERVICE CONTRACT (GARGASH)",
+    "price": 264900,
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "year": "2023",
+    "kilometers": "19000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/eqs/2026/09/22/mercedes-benz-eqs-450-suv-4matic-7-seater--2-217---c05188ceba564e709820aafec2ae5e81/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 264900,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "16893149": {
+    "id": "16893149",
+    "title": "GEELY WARRANTY 2028 / 150,000KM | 1.5 GF | GCC | AED 950 PM",
+    "price": 56900,
+    "make": "Geely",
+    "model": "Coolray",
+    "year": "2024",
+    "kilometers": "39504",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/coolray/2026/07/01/geely-warranty-2028-150000km-15-gf-gcc-aed-2-235---9ead28e4dff5471eb866ef6d67bd710a/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 56900,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "16961403": {
+    "id": "16961403",
+    "title": "GEELY WARRANTY 2028 / 150,000 KM | 2.0 | MOONROOF | LEATHER | GCC | AED 1330 PM",
+    "price": 79900,
+    "make": "Geely",
+    "model": "Monjaro",
+    "year": "2024",
+    "kilometers": "64098",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/monjaro/2026/09/01/geely-warranty-2028-150000-km-20-moonroof--2-064---be1bd4e49afc44fbb02192c04175507f/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 79900,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "100447349": {
+    "id": "100447349",
+    "title": "Fiat 500 2017 Base GCC Specs",
+    "price": 26000,
+    "make": "Fiat",
+    "model": "500",
+    "year": "2017",
+    "kilometers": "91000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/fiat/500/2026/10/01/fiat-500-2017-base-gcc-specs-2-080---5e18ce8fc7ba47b3a0a27aad3454d7bc/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 26000,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "16970462": {
+    "id": "16970462",
+    "title": "E 400 2016 Coupe panorama roof Tiffany Brabus interior",
+    "price": 55000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2016",
+    "kilometers": "176000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Za'abeel 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/09/e-400-2016-coupe-panorama-roof-tiffany-bra-2-471---7be776b062584d8fa7b039475b1026ea/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100447217": {
+    "id": "100447217",
+    "title": "Toyota FJ Cruiser GXR 2014 GCC Specs",
+    "price": 64000,
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "year": "2014",
+    "kilometers": "215000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda (Dubai)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fj-cruiser/2026/10/01/toyota-fj-cruiser-gxr-2014-gcc-specs-2-016---f753d516a74b414198157d6546dc63f0/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 64000,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100447117": {
+    "id": "100447117",
+    "title": "2021 Mercedes-Benz G-Class G 63 AMG GCC Specs",
+    "price": 535000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2021",
+    "kilometers": "69000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/01/2021-mercedes-benz-g-class-g-63-amg-gcc-sp-2-783---04cf97ea0a8d4aad9f3ff15e1ad2094f/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 535000,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100445045": {
+    "id": "100445045",
+    "title": "2026 Jetour Dashing",
+    "price": 79999,
+    "make": "Jetour",
+    "model": "Dashing",
+    "year": "2026",
+    "kilometers": "11142",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/10/01/2026-jetour-dashing-2-495---0f9cad06b94e480bbc97a9c7d9c3a8c4/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 79999,
+        "date": "2026-10-02T04:19:29Z"
+      }
+    ],
+    "date": "2026-10-01"
+  },
+  "100441000": {
+    "id": "100441000",
+    "title": "Toyata prado 2011.v6 full op famliy car.all  gcc home used gcc",
+    "price": 58000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2011",
+    "kilometers": "176000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda (Dubai)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/10/01/toyata-prado-2011v6-full-op-famliy-carall--2-310---1d11a53739d74182be68250eb0d35fde/",
+    "first_seen": "2026-10-02T04:19:29Z",
+    "prices": [
+      {
+        "price": 58000,
+        "date": "2026-10-02T04:19:29Z"
       }
     ],
     "date": "2026-10-01"

@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27174,
+  "total_tracked": 27177,
   "total_drops": 500,
-  "total_new": 27174,
+  "total_new": 27177,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9756652",
-      "title": "Prime Plot for Sale | Jebel Ali Hills | Large Size | Investment Opportunity",
-      "old_price": 4570000,
-      "new_price": 3900000,
-      "drop_pct": 14.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/20/prime-plot-for-sale-jebel-ali-hills-lar-2-104555/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10149",
-      "bedrooms": "",
-      "date": "2026-05-20",
-      "first_seen": "2026-04-20"
-    },
     {
       "id": "9802583",
       "title": "Vacant | Bespoke Furnishings | Walk to Metro",
@@ -7005,9 +6991,56 @@
       "bedrooms": "3",
       "date": "2026-10-01",
       "first_seen": "2026-09-28"
+    },
+    {
+      "id": "9793772",
+      "title": "Land Residential | Prime Location | Spacious Plot",
+      "old_price": 16000000,
+      "new_price": 15000000,
+      "drop_pct": 6.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/8/24/land-residential-prime-location-spaciou-2-309619/",
+      "area": "Umm Suqeim",
+      "category": "Land",
+      "size": "12030",
+      "bedrooms": "",
+      "date": "2026-10-02",
+      "first_seen": "2026-08-24"
     }
   ],
   "new_listings": [
+    {
+      "id": "18088056",
+      "title": "Premium Building | Canal View | Income Generating",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/premium-building-canal-view-income-gene-2-132218/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "815",
+      "bedrooms": "1",
+      "price": 2250000,
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "9804363",
+      "title": "Near Mosque Park School | Back to Back | Best Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/1/near-mosque-park-school-back-to-back-be-2-255075/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9849",
+      "bedrooms": "",
+      "price": 3004000,
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "9804228",
+      "title": "Corner Villa Plot | Park Facing | Phase 12 | 12,052 Sq. Ft.",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/1/corner-villa-plot-park-facing-phase-12--2-239247/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "12052",
+      "bedrooms": "",
+      "price": 4799999,
+      "first_seen": "2026-10-02"
+    },
     {
       "id": "18038577",
       "title": "Single Row | Vacant | View Today",
@@ -7049,7 +7082,7 @@
       "category": "Apartment",
       "size": "1085",
       "bedrooms": "2",
-      "price": 2525000,
+      "price": 2450000,
       "first_seen": "2026-10-01"
     },
     {
@@ -7060,7 +7093,7 @@
       "category": "Apartment",
       "size": "1498",
       "bedrooms": "2",
-      "price": 5150000,
+      "price": 4980000,
       "first_seen": "2026-10-01"
     },
     {
@@ -12474,41 +12507,8 @@
       "bedrooms": "4",
       "price": 5500000,
       "first_seen": "2026-09-27"
-    },
-    {
-      "id": "17664756",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/2/renovation-project-vacant-3-bed-2-335874/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Villa",
-      "size": "7266",
-      "bedrooms": "3",
-      "price": 7200000,
-      "first_seen": "2026-09-27"
-    },
-    {
-      "id": "18042637",
-      "title": "Furnished | Negotiable | Rented Till Oct 2027",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/22/furnished-studio-community-view-opalz-t-2-550193/",
-      "area": "Dubai Science Park",
-      "category": "Apartment",
-      "size": "408",
-      "bedrooms": "0",
-      "price": 600000,
-      "first_seen": "2026-09-27"
-    },
-    {
-      "id": "17583165",
-      "title": "OPEN HOUSE | SUNDAY | 27TH SEPTEMBER 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/13/e50-open-house-sunday-14-june-2026-2-982244/",
-      "area": "Jumeirah Park",
-      "category": "Villa",
-      "size": "7231",
-      "bedrooms": "4",
-      "price": 9200000,
-      "first_seen": "2026-09-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-01"
+  "last_updated": "2026-10-02"
 }
