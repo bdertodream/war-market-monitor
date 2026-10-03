@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27287,
+  "total_tracked": 27288,
   "total_drops": 500,
-  "total_new": 27287,
+  "total_new": 27288,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7735,6 +7735,17 @@
       "first_seen": "2026-10-03"
     },
     {
+      "id": "18030101",
+      "title": "Brand New | Fully Furnished | Marina View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/19/brand-new-fully-furnished-marina-view-2-922543/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "848",
+      "bedrooms": "1",
+      "price": 1250000,
+      "first_seen": "2026-10-03"
+    },
+    {
       "id": "18088056",
       "title": "Premium Building | Canal View | Income Generating",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/premium-building-canal-view-income-gene-2-132218/",
@@ -12495,17 +12506,6 @@
       "size": "832",
       "bedrooms": "1",
       "price": 2500000,
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "17905360",
-      "title": "Sky Penthouse | Luxuriously Upgraded | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/8/24/sky-penthouse-luxuriously-upgraded-vaca-2-228508/",
-      "area": "Dubai Marina",
-      "category": "Penthouse",
-      "size": "6146",
-      "bedrooms": "5",
-      "price": 14950000,
       "first_seen": "2026-09-28"
     }
   ],

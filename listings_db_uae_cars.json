@@ -574524,7 +574524,7 @@
   "100462493": {
     "id": "100462493",
     "title": "2019 Nissan Patrol SE Titanium (Japanese Specs)",
-    "price": 82500,
+    "price": 79000,
     "make": "Nissan",
     "model": "Patrol",
     "year": "2019",
@@ -574533,12 +574533,16 @@
     "fuel_type": "Petrol",
     "area": "Latifa Tower",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/10/03/2019-nissan-patrol-se-titanium-japanese-sp-2-336---a32fefdefd78485ba56c696a64efc147/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/10/03/2019-nissan-patrol-se-titanium-japanese-sp-2-733---a32fefdefd78485ba56c696a64efc147/",
     "first_seen": "2026-10-03T13:05:19Z",
     "prices": [
       {
         "price": 82500,
         "date": "2026-10-03T13:05:19Z"
+      },
+      {
+        "price": 79000,
+        "date": "2026-10-03T22:43:06Z"
       }
     ],
     "date": "2026-10-03"
