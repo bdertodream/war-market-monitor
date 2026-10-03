@@ -1,8 +1,8 @@
 {
-  "total_tracked": 24015,
-  "total_drops": 503,
-  "total_new": 24015,
-  "last_updated": "2026-10-02T20:24:04Z",
+  "total_tracked": 24020,
+  "total_drops": 500,
+  "total_new": 24020,
+  "last_updated": "2026-10-03T04:01:43Z",
   "drops": [
     {
       "id": "16866660",
@@ -7007,6 +7007,66 @@
   ],
   "new_listings": [
     {
+      "id": "100459308",
+      "title": "Toyota Corolla 2.0 SE 2015 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/10/03/toyota-corolla-20-se-2015-gcc-specs-2-012---7159f3aa8dd543cf96b93ccfb68c973d/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": "2015",
+      "mileage": "127227",
+      "price": 29500,
+      "first_seen": "2026-10-03T04:01:43Z"
+    },
+    {
+      "id": "100458248",
+      "title": "2025 GCC Mazda CX-3 Comfort / Original Paint- Official dealer warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-3/2026/10/02/2025-gcc-mazda-cx-3-comfort-original-paint-2-095---9541d69c19a2400195e5c0d734a8fa5a/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "CX-3",
+      "year": "2025",
+      "mileage": "28700",
+      "price": 54900,
+      "first_seen": "2026-10-03T04:01:43Z"
+    },
+    {
+      "id": "100458194",
+      "title": "Mercedes SLR 722 GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slr/2026/10/02/mercedes-slr-722-gcc-2-424---15957377d2524e8781060026a5b199b3/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "SLR",
+      "year": "2007",
+      "mileage": "7300",
+      "price": 3759000,
+      "first_seen": "2026-10-03T04:01:43Z"
+    },
+    {
+      "id": "100458074",
+      "title": "2021 GCC  BMW  530i M Sport / Original Paint - Full agency service history",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/02/2021-gcc-bmw-530i-m-sport-original-paint-f-2-615---9434962337e04b38b30fb929661d7c65/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2021",
+      "mileage": "112500",
+      "price": 114900,
+      "first_seen": "2026-10-03T04:01:43Z"
+    },
+    {
+      "id": "100455408",
+      "title": "Mercedes-Benz | C200 Premium Advanced | GCC Specs | Garagash Warranty And Service Contract 105000Kms",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/02/mercedes-benz-c200-premium-advanced-gcc-sp-2-096---f6fe0f0c62024d98901ba094db875bea/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2026",
+      "mileage": "4300",
+      "price": 199000,
+      "first_seen": "2026-10-03T04:01:43Z"
+    },
+    {
       "id": "100363912",
       "title": "Audi A7 2.0 TFSI 2015 American Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a7/2026/09/24/audi-a7-20-tfsi-2015-american-specs-2-380---9a1f6282b8754d14a15ccf367ee53707/",
@@ -12944,66 +13004,6 @@
       "year": "2003",
       "mileage": "73000",
       "price": 139000,
-      "first_seen": "2026-09-27T09:54:00Z"
-    },
-    {
-      "id": "100393669",
-      "title": "Hyundai Tucson Premium 2009 GCC Specs Full Option With Sunroof  4x4",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2026/09/27/hyundai-tucson-premium-2009-gcc-specs-full-2-952---fe0735a1c1ba4d38acdc678b5f90a11a/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Tucson",
-      "year": "2009",
-      "mileage": "167000",
-      "price": 9900,
-      "first_seen": "2026-09-27T09:54:00Z"
-    },
-    {
-      "id": "100393094",
-      "title": "2011 Volkswagen Touareg Comfortline GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/09/27/2011-volkswagen-touareg-comfortline-gcc-sp-2-448---2bebd1ba34ce444d913061b0cd0351f6/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "year": "2011",
-      "mileage": "190000",
-      "price": 11900,
-      "first_seen": "2026-09-27T09:54:00Z"
-    },
-    {
-      "id": "16139958",
-      "title": "Renault Capture 2016 Where Efficiency Meets Elegance \u2013 Low Fuel Consumption for Car is for Sale",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/captur/2024/10/28/renault-capture-2016-where-efficiency-meet-2-294---6af5cc023e704c428ffc655ee9b5956c/",
-      "category": "Used Cars",
-      "make": "Renault",
-      "model": "Captur",
-      "year": "2016",
-      "mileage": "104500",
-      "price": 19500,
-      "first_seen": "2026-09-27T09:54:00Z"
-    },
-    {
-      "id": "100273500",
-      "title": "Honda Pilot   2016 American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/pilot/2026/09/17/honda-pilot-2016-american-specs-2-941---c79a8944641b4a47b8fa2fd1e7d44f16/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Pilot",
-      "year": "2016",
-      "mileage": "200000",
-      "price": 27000,
-      "first_seen": "2026-09-27T09:54:00Z"
-    },
-    {
-      "id": "100392499",
-      "title": "Toyota Land Cruiser VXR 2025 GCC Specs With Full Service History & Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/09/27/toyota-land-cruiser-vxr-2025-gcc-specs-wit-2-619---cdbbda8a875f42b28866e7b487ce380e/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2025",
-      "mileage": "24525",
-      "price": 305999,
       "first_seen": "2026-09-27T09:54:00Z"
     }
   ]

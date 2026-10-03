@@ -573684,5 +573684,115 @@
       }
     ],
     "date": "2026-10-02"
+  },
+  "100459308": {
+    "id": "100459308",
+    "title": "Toyota Corolla 2.0 SE 2015 GCC Specs",
+    "price": 29500,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2015",
+    "kilometers": "127227",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Residential Area",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/10/03/toyota-corolla-20-se-2015-gcc-specs-2-012---7159f3aa8dd543cf96b93ccfb68c973d/",
+    "first_seen": "2026-10-03T04:01:43Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-10-03T04:01:43Z"
+      }
+    ],
+    "date": "2026-10-03"
+  },
+  "100458248": {
+    "id": "100458248",
+    "title": "2025 GCC Mazda CX-3 Comfort / Original Paint- Official dealer warranty",
+    "price": 54900,
+    "make": "Mazda",
+    "model": "CX-3",
+    "year": "2025",
+    "kilometers": "28700",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-3/2026/10/02/2025-gcc-mazda-cx-3-comfort-original-paint-2-095---9541d69c19a2400195e5c0d734a8fa5a/",
+    "first_seen": "2026-10-03T04:01:43Z",
+    "prices": [
+      {
+        "price": 54900,
+        "date": "2026-10-03T04:01:43Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "100458194": {
+    "id": "100458194",
+    "title": "Mercedes SLR 722 GCC",
+    "price": 3759000,
+    "make": "Mercedes-Benz",
+    "model": "SLR",
+    "year": "2007",
+    "kilometers": "7300",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/slr/2026/10/02/mercedes-slr-722-gcc-2-424---15957377d2524e8781060026a5b199b3/",
+    "first_seen": "2026-10-03T04:01:43Z",
+    "prices": [
+      {
+        "price": 3759000,
+        "date": "2026-10-03T04:01:43Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "100458074": {
+    "id": "100458074",
+    "title": "2021 GCC  BMW  530i M Sport / Original Paint - Full agency service history",
+    "price": 114900,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2021",
+    "kilometers": "112500",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/02/2021-gcc-bmw-530i-m-sport-original-paint-f-2-615---9434962337e04b38b30fb929661d7c65/",
+    "first_seen": "2026-10-03T04:01:43Z",
+    "prices": [
+      {
+        "price": 114900,
+        "date": "2026-10-03T04:01:43Z"
+      }
+    ],
+    "date": "2026-10-02"
+  },
+  "100455408": {
+    "id": "100455408",
+    "title": "Mercedes-Benz | C200 Premium Advanced | GCC Specs | Garagash Warranty And Service Contract 105000Kms",
+    "price": 199000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2026",
+    "kilometers": "4300",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/02/mercedes-benz-c200-premium-advanced-gcc-sp-2-096---f6fe0f0c62024d98901ba094db875bea/",
+    "first_seen": "2026-10-03T04:01:43Z",
+    "prices": [
+      {
+        "price": 199000,
+        "date": "2026-10-03T04:01:43Z"
+      }
+    ],
+    "date": "2026-10-02"
   }
 }

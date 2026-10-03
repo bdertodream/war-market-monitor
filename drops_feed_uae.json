@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27221,
+  "total_tracked": 27224,
   "total_drops": 500,
-  "total_new": 27221,
+  "total_new": 27224,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,39 @@
   ],
   "new_listings": [
     {
+      "id": "18097967",
+      "title": "Furnished Studio | Kappa Acca 3 | Community View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/2/furnished-studio-kappa-acca-3-community-2-312845/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "403",
+      "bedrooms": "0",
+      "price": 500000,
+      "first_seen": "2026-10-03"
+    },
+    {
+      "id": "17938172",
+      "title": "Rare layout | Rented | Pool view",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/rare-layout-rented-pool-view-2-440489/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "889",
+      "bedrooms": "1",
+      "price": 2499999,
+      "first_seen": "2026-10-03"
+    },
+    {
+      "id": "17948090",
+      "title": "Real photos, not AI | Exclusive Villa | Extended | 6,480 Sqft Built-up | 14,782 Sqft Corner Plot | 15 m Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/2/exclusive-villa-extended-6480-sqft-buil-2-334283/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "6480",
+      "bedrooms": "6",
+      "price": 27000000,
+      "first_seen": "2026-10-03"
+    },
+    {
       "id": "18088056",
       "title": "Premium Building | Canal View | Income Generating",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/premium-building-canal-view-income-gene-2-132218/",
@@ -10448,7 +10481,7 @@
       "category": "Villa",
       "size": "3574",
       "bedrooms": "3",
-      "price": 8550000,
+      "price": 8400000,
       "first_seen": "2026-09-29"
     },
     {
@@ -12474,41 +12507,8 @@
       "bedrooms": "",
       "price": 965000,
       "first_seen": "2026-09-28"
-    },
-    {
-      "id": "9837128",
-      "title": "Shell & Core Office | Aura Central Arjan | Corner Glass Facade READY TO MOVE IN",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/28/shell-core-office-aura-central-arjan-co-2-157689/",
-      "area": "Arjan",
-      "category": "Office",
-      "size": "1515",
-      "bedrooms": "",
-      "price": 2652420,
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "9837105",
-      "title": "Vacant | Prime Location | Investment Opportunity",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/28/vacant-prime-location-investment-opport-2-310667/",
-      "area": "Barsha Heights (Tecom)",
-      "category": "Office",
-      "size": "1062",
-      "bedrooms": "",
-      "price": 2920500,
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "9799798",
-      "title": "DDA approved designed BUA 4142 Sqft | Ready for construction | 3 plots available",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/14/dda-approved-designed-bua-4142-sqft-rea-2-112914/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Land",
-      "size": "2822",
-      "bedrooms": "",
-      "price": 1340000,
-      "first_seen": "2026-09-28"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-02"
+  "last_updated": "2026-10-03"
 }
