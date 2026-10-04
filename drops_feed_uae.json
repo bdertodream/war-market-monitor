@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27409,
+  "total_tracked": 27416,
   "total_drops": 500,
-  "total_new": 27409,
+  "total_new": 27416,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -8340,6 +8340,83 @@
       "first_seen": "2026-10-04"
     },
     {
+      "id": "17833401",
+      "title": "Fully Furnished | Partial Water View | High Floor | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/6/fully-furnished-partial-water-view-high-2-304151/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "806",
+      "bedrooms": "1",
+      "price": 2050000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17917484",
+      "title": "Single Row | Greenbelt | Near the Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/26/on-the-park-vacant-multiple-options-2-282247/",
+      "area": "Arabian Ranches 3",
+      "category": "Villa",
+      "size": "4635",
+      "bedrooms": "4",
+      "price": 7498000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "18012617",
+      "title": "Single Row | Park & Pool | Family Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/16/single-row-park-pool-family-living-2-294295/",
+      "area": "Arabian Ranches 3",
+      "category": "Villa",
+      "size": "3419",
+      "bedrooms": "5",
+      "price": 7300000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "18075225",
+      "title": "Largest Corner Plot | Single Row | Vastu",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/29/largest-corner-flora-plot-vastu-skyline-2-150573/",
+      "area": "Dubai Hills Estate",
+      "category": "Villa",
+      "size": "5197",
+      "bedrooms": "5",
+      "price": 20000000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17748100",
+      "title": "Luxury 5BR Mansion| Premium Finishes|Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/20/luxury-5br-mansion-premium-finishespool-2-244694/",
+      "area": "Dubai South",
+      "category": "Villa",
+      "size": "8418",
+      "bedrooms": "5",
+      "price": 11600000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17793830",
+      "title": "Corner Unit | End Unit | Negotiable Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/29/corner-unit-end-unit-negotiable-price-2-118637/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "1217",
+      "bedrooms": "2",
+      "price": 1550000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17883190",
+      "title": "Single Row | Spacious | Lagoon Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/19/single-row-spacious-lagoon-community-2-281831/",
+      "area": "Dubai South",
+      "category": "Villa",
+      "size": "2894",
+      "bedrooms": "3",
+      "price": 3750000,
+      "first_seen": "2026-10-04"
+    },
+    {
       "id": "18097967",
       "title": "Furnished Studio | Kappa Acca 3 | Community View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/2/furnished-studio-kappa-acca-3-community-2-312845/",
@@ -12429,83 +12506,6 @@
       "size": "780",
       "bedrooms": "1",
       "price": 1200000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "9833923",
-      "title": "Exclusive | Fitted | Ready to Move In",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/7/exclusive-fitted-ready-to-move-in-2-222637/",
-      "area": "Sheikh Zayed Road",
-      "category": "Office",
-      "size": "1052",
-      "bedrooms": "",
-      "price": 3299999,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "9837308",
-      "title": "Elegant Office I Premimum Amenities I 1% Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/29/elegant-office-i-premimum-amenities-i-1-2-115114/",
-      "area": "Al Sufouh",
-      "category": "Office",
-      "size": "518",
-      "bedrooms": "",
-      "price": 2650000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "9837134",
-      "title": "Prime industrial warehouse for sale in DIC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/28/prime-industrial-warehouse-for-sale-in--2-255167/",
-      "area": "Dubai Industrial City",
-      "category": "Warehouse",
-      "size": "80428",
-      "bedrooms": "",
-      "price": 27000000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "9803717",
-      "title": "BEST ,TOP REAR LOCATION 15,000 SQ FT PLOT | UMM AL SHEIF",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/29/best-top-rear-location-15000-sq-ft-plot-2-160872/",
-      "area": "Umm Al Sheif",
-      "category": "Land",
-      "size": "15000",
-      "bedrooms": "",
-      "price": 16500000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "17955155",
-      "title": "Open House this Saturday! 3rd Oct | 10am - 1pm",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/3/exceptional-family-home-spa-pool-turnke-2-145378/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "5700",
-      "bedrooms": "5",
-      "price": 22000000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "17771786",
-      "title": "Largest Plot | 3-Side Open | Lagoon Facing | Genuine Resale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/24/address-villa-largest-plot-lagoon-view-2-202149/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "7297",
-      "bedrooms": "4",
-      "price": 14000000,
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "18069428",
-      "title": "Exclusive 6BR Villa | Prime Palm Jebel Ali",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/28/exclusive-6br-villa-prime-palm-jebel-al-2-130781/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "8289",
-      "bedrooms": "6",
-      "price": 22000000,
       "first_seen": "2026-09-29"
     }
   ],

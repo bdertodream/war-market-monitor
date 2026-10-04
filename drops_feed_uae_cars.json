@@ -1,8 +1,8 @@
 {
-  "total_tracked": 24122,
-  "total_drops": 501,
-  "total_new": 24122,
-  "last_updated": "2026-10-04T19:14:35Z",
+  "total_tracked": 24123,
+  "total_drops": 500,
+  "total_new": 24123,
+  "last_updated": "2026-10-04T22:47:59Z",
   "drops": [
     {
       "id": "16541313",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100482371",
+      "title": "Jaguar F-Type 2024 P450 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-type/2026/10/04/jaguar-f-type-2024-p450-gcc-specs-2-817---22ffdd364aec474397dd33ee6f5c25d9/",
+      "category": "Used Cars",
+      "make": "Jaguar",
+      "model": "F-Type",
+      "year": "2024",
+      "mileage": "50000",
+      "price": 349000,
+      "first_seen": "2026-10-04T22:47:59Z"
+    },
+    {
       "id": "100334314",
       "title": "Reliable Nissan Sunny S 2016 - Excellent Condition",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/09/22/reliable-nissan-sunny-s-2016-excellent-con-2-794---8092d2164c374ffb836c9422b45a6023/",
@@ -12992,18 +13004,6 @@
       "year": "2014",
       "mileage": "160000",
       "price": 40000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "16960189",
-      "title": "2011 Nissan Xterra v6 4x4",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/08/31/2011-nissan-xterra-v6-4x4-2-205---b479c17522bd4a4cb466f4c0e5fe347b/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Xterra",
-      "year": "2011",
-      "mileage": "222000",
-      "price": 20000,
       "first_seen": "2026-09-28T19:19:27Z"
     }
   ]

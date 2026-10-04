@@ -400298,7 +400298,7 @@
   "16906600": {
     "id": "16906600",
     "title": "2022 Cadillac Escalade Platinum Orignal Paint",
-    "price": 189999,
+    "price": 184500,
     "make": "Cadillac",
     "model": "Escalade",
     "year": "2022",
@@ -400307,7 +400307,7 @@
     "fuel_type": "Petrol",
     "area": "Al Awir",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/7/12/2022-cadillac-escalade-platinum-orignal-pa-2-278---23e3801712134008b88b21e001aa5ca3/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/07/12/2022-cadillac-escalade-platinum-orignal-pa-2-771---23e3801712134008b88b21e001aa5ca3/",
     "first_seen": "2026-07-12T09:51:17Z",
     "prices": [
       {
@@ -400317,6 +400317,10 @@
       {
         "price": 189999,
         "date": "2026-07-21T21:10:04Z"
+      },
+      {
+        "price": 184500,
+        "date": "2026-10-04T22:47:59Z"
       }
     ],
     "date": "2026-07-12"
@@ -576223,6 +576227,28 @@
       {
         "price": 47500,
         "date": "2026-10-04T19:14:35Z"
+      }
+    ],
+    "date": "2026-10-04"
+  },
+  "100482371": {
+    "id": "100482371",
+    "title": "Jaguar F-Type 2024 P450 GCC Specs",
+    "price": 349000,
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2024",
+    "kilometers": "50000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Creekside 18 Tower B",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-type/2026/10/04/jaguar-f-type-2024-p450-gcc-specs-2-817---22ffdd364aec474397dd33ee6f5c25d9/",
+    "first_seen": "2026-10-04T22:47:59Z",
+    "prices": [
+      {
+        "price": 349000,
+        "date": "2026-10-04T22:47:59Z"
       }
     ],
     "date": "2026-10-04"

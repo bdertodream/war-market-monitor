@@ -22552,7 +22552,7 @@
     "category": "Warehouse",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2025/11/19/premium-warehouse-for-sale-in-jebel-ali-2-342323/",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-10-03"
+    "last_seen": "2026-10-04"
   },
   "9806704": {
     "title": "SHELL & CORE | MULTIPLE UNITS | PRIME LOCATION",
@@ -292380,7 +292380,7 @@
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/29/contemporary-finishes-ready-soon-spacio-2-391642/",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-04"
   },
   "17813193": {
     "title": "Single Row | Best Deal In Tilal | Payment Plan",
@@ -356313,6 +356313,97 @@
     "city": "Dubai",
     "category": "Villa",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/4/fully-renovated-ready-to-move-in-furnis-2-476953/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "17833401": {
+    "title": "Fully Furnished | Partial Water View | High Floor | Vacant",
+    "price": 2050000,
+    "size": "806",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "area": "Dubai Creek Harbour",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/6/fully-furnished-partial-water-view-high-2-304151/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "17917484": {
+    "title": "Single Row | Greenbelt | Near the Pool",
+    "price": 7498000,
+    "size": "4635",
+    "bedrooms": "4",
+    "bathrooms": "6",
+    "area": "Arabian Ranches 3",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/26/on-the-park-vacant-multiple-options-2-282247/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "18012617": {
+    "title": "Single Row | Park & Pool | Family Living",
+    "price": 7300000,
+    "size": "3419",
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "area": "Arabian Ranches 3",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/16/single-row-park-pool-family-living-2-294295/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "18075225": {
+    "title": "Largest Corner Plot | Single Row | Vastu",
+    "price": 20000000,
+    "size": "5197",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "area": "Dubai Hills Estate",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/29/largest-corner-flora-plot-vastu-skyline-2-150573/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "17748100": {
+    "title": "Luxury 5BR Mansion| Premium Finishes|Pool",
+    "price": 11600000,
+    "size": "8418",
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "area": "Dubai South",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/20/luxury-5br-mansion-premium-finishespool-2-244694/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "17793830": {
+    "title": "Corner Unit | End Unit | Negotiable Price",
+    "price": 1550000,
+    "size": "1217",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "area": "Dubai South",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/29/corner-unit-end-unit-negotiable-price-2-118637/",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04"
+  },
+  "17883190": {
+    "title": "Single Row | Spacious | Lagoon Community",
+    "price": 3750000,
+    "size": "2894",
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "area": "Dubai South",
+    "city": "Dubai",
+    "category": "Villa",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/19/single-row-spacious-lagoon-community-2-281831/",
     "first_seen": "2026-10-04",
     "last_seen": "2026-10-04"
   }
