@@ -1,23 +1,9 @@
 {
-  "total_tracked": 24080,
-  "total_drops": 500,
-  "total_new": 24080,
-  "last_updated": "2026-10-03T22:43:06Z",
+  "total_tracked": 24082,
+  "total_drops": 501,
+  "total_new": 24082,
+  "last_updated": "2026-10-04T04:34:51Z",
   "drops": [
-    {
-      "id": "16957431",
-      "title": "2,146/pm | JCW | AGMC Warranty till Dec 2030 & Service till Dec 2028",
-      "old_price": 149990,
-      "new_price": 139990,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/08/28/2146pm-jcw-agmc-warranty-till-dec-2030-ser-2-959---82eb5211ef764ab4b318e385d0da83b0/",
-      "category": "Used Cars",
-      "make": "MINI",
-      "model": "Cooper",
-      "year": "2025",
-      "mileage": "6847",
-      "date": "2026-09-02T08:26:59Z"
-    },
     {
       "id": "16904887",
       "title": "T77 DELUXE | THE AUGUST RESET | WARRANTY",
@@ -7003,9 +6989,47 @@
       "year": "2025",
       "mileage": "0",
       "date": "2026-10-03T19:02:07Z"
+    },
+    {
+      "id": "16895619",
+      "title": "2025 Audi Q2",
+      "old_price": 122999,
+      "new_price": 112999,
+      "drop_pct": 8.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q2/2026/07/02/2025-audi-q2-2-180---c1fb6257eedf4d239f5a31e6fc475121/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q2",
+      "year": "2025",
+      "mileage": "23850",
+      "date": "2026-10-04T04:34:51Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100471441",
+      "title": "Nissan Juke 2014 SV GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/juke/2026/10/04/nissan-juke-2014-sv-gcc-specs-2-876---1d039447e07647ee896b97f835010656/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Juke",
+      "year": "2014",
+      "mileage": "105000",
+      "price": 30000,
+      "first_seen": "2026-10-04T04:34:51Z"
+    },
+    {
+      "id": "100471429",
+      "title": "MG5 2023 GCC Specs Top Notch Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/10/04/mg5-2023-gcc-specs-top-notch-condition-2-645---80551a306f4745458f5f45d8819091f1/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "MG5",
+      "year": "2023",
+      "mileage": "104000",
+      "price": 22999,
+      "first_seen": "2026-10-04T04:34:51Z"
+    },
     {
       "id": "100469664",
       "title": "Cruze LT Premium GCC not negotiable \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646 \u0641\u0644 \u0627\u0648\u0628\u0634\u0646",
@@ -12980,30 +13004,6 @@
       "year": "2024",
       "mileage": "2100",
       "price": 760000,
-      "first_seen": "2026-09-28T10:41:34Z"
-    },
-    {
-      "id": "16956261",
-      "title": "LAMBORGINI URUS SE-2026-800HP-METALIC WHITE-MULTIMEDIA-FULLL OPTIONS- EXPORT PRICE 1.290.000AED",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/08/27/lamborgini-urus-se-2026-800hp-metalic-whit-2-704---ecac1ed9a67a4eb492672c2384c9e707/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Urus",
-      "year": "2026",
-      "mileage": "0",
-      "price": 1340000,
-      "first_seen": "2026-09-28T10:41:34Z"
-    },
-    {
-      "id": "100406047",
-      "title": "2025 Kia K4 LX | Clean US Spec | 12,000 km",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/k4/2026/09/28/2025-kia-k4-lx-clean-us-spec-12000-km-2-089---82cb905f286e4492b5a5662ade8d3e1d/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "K4",
-      "year": "2025",
-      "mileage": "12000",
-      "price": 53000,
       "first_seen": "2026-09-28T10:41:34Z"
     }
   ]

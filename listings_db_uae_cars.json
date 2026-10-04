@@ -374842,7 +374842,7 @@
   "16895619": {
     "id": "16895619",
     "title": "2025 Audi Q2",
-    "price": 122999,
+    "price": 112999,
     "make": "Audi",
     "model": "Q2",
     "year": "2025",
@@ -374851,7 +374851,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q2/2026/7/2/2025-audi-q2-2-342---c1fb6257eedf4d239f5a31e6fc475121/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q2/2026/07/02/2025-audi-q2-2-180---c1fb6257eedf4d239f5a31e6fc475121/",
     "first_seen": "2026-07-02T21:07:33Z",
     "prices": [
       {
@@ -374861,6 +374861,10 @@
       {
         "price": 122999,
         "date": "2026-07-15T13:43:28Z"
+      },
+      {
+        "price": 112999,
+        "date": "2026-10-04T04:34:51Z"
       }
     ],
     "date": "2026-07-02"
@@ -575206,5 +575210,49 @@
       }
     ],
     "date": "2026-10-03"
+  },
+  "100471441": {
+    "id": "100471441",
+    "title": "Nissan Juke 2014 SV GCC Specs",
+    "price": 30000,
+    "make": "Nissan",
+    "model": "Juke",
+    "year": "2014",
+    "kilometers": "105000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/juke/2026/10/04/nissan-juke-2014-sv-gcc-specs-2-876---1d039447e07647ee896b97f835010656/",
+    "first_seen": "2026-10-04T04:34:51Z",
+    "prices": [
+      {
+        "price": 30000,
+        "date": "2026-10-04T04:34:51Z"
+      }
+    ],
+    "date": "2026-10-04"
+  },
+  "100471429": {
+    "id": "100471429",
+    "title": "MG5 2023 GCC Specs Top Notch Condition",
+    "price": 22999,
+    "make": "MG",
+    "model": "MG5",
+    "year": "2023",
+    "kilometers": "104000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/10/04/mg5-2023-gcc-specs-top-notch-condition-2-645---80551a306f4745458f5f45d8819091f1/",
+    "first_seen": "2026-10-04T04:34:51Z",
+    "prices": [
+      {
+        "price": 22999,
+        "date": "2026-10-04T04:34:51Z"
+      }
+    ],
+    "date": "2026-10-04"
   }
 }

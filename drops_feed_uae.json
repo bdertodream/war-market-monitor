@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27288,
+  "total_tracked": 27291,
   "total_drops": 500,
-  "total_new": 27288,
+  "total_new": 27291,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17326325",
-      "title": "No DLD fees and commission | Brand New Ready unit",
-      "old_price": 1499000,
-      "new_price": 1199999,
-      "drop_pct": 19.9,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/14/brand-new-ready-unit-no-dld-fees-and-co-2-269412/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "849",
-      "bedrooms": "1",
-      "date": "2026-05-21",
-      "first_seen": "2026-04-15"
-    },
     {
       "id": "17406073",
       "title": "Water View | Best Price | Listed on OP",
@@ -7005,9 +6991,56 @@
       "bedrooms": "4",
       "date": "2026-10-03",
       "first_seen": "2026-08-27"
+    },
+    {
+      "id": "17695795",
+      "title": "Best Price | Legacy | Internal | Call now",
+      "old_price": 12000000,
+      "new_price": 10999999,
+      "drop_pct": 8.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/8/vacant-soon-legacy-central-location-cal-2-192658/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3527",
+      "bedrooms": "4",
+      "date": "2026-10-04",
+      "first_seen": "2026-07-24"
     }
   ],
   "new_listings": [
+    {
+      "id": "18045857",
+      "title": "Park Backing | Single Row | Vacant Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/23/park-backing-single-row-vacant-now-2-877844/",
+      "area": "Arabian Ranches 3",
+      "category": "Townhouse",
+      "size": "1936",
+      "bedrooms": "3",
+      "price": 2900000,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17885729",
+      "title": "Exclusive | Motivated Seller | Internal | Call now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/19/exclusive-motivated-seller-internal-cal-2-251364/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "4154",
+      "bedrooms": "4",
+      "price": 8399999,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "17923849",
+      "title": "Open House this weekend | VOT | Call now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/27/open-house-this-weekend-vot-call-now-2-752876/",
+      "area": "Jumeirah Park",
+      "category": "Townhouse",
+      "size": "2461",
+      "bedrooms": "4",
+      "price": 5995000,
+      "first_seen": "2026-10-04"
+    },
     {
       "id": "18097967",
       "title": "Furnished Studio | Kappa Acca 3 | Community View",
@@ -9815,7 +9848,7 @@
     },
     {
       "id": "17978355",
-      "title": "Below Market | Large Vastu Plot | Park Facing | EMAAR Resale",
+      "title": "Below Market | Large Vastu Plot | Park Facing | EMAAR RESALE",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/9/park-facing-villa-genuine-resale-large--2-313222/",
       "area": "The Valley by Emaar",
       "category": "Villa",
@@ -12474,41 +12507,8 @@
       "bedrooms": "1",
       "price": 1450000,
       "first_seen": "2026-09-28"
-    },
-    {
-      "id": "17879175",
-      "title": "Negotiable to 2.9 | Below OP | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/18/negotiable-to-31-below-op-single-row-2-163846/",
-      "area": "Athlon by Aldar",
-      "category": "Townhouse",
-      "size": "1969",
-      "bedrooms": "3",
-      "price": 3240000,
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "18013900",
-      "title": "Exclusive | Sea View | Mid Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/exclusive-sea-view-mid-floor-2-141564/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "687",
-      "bedrooms": "1",
-      "price": 2100000,
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "18001912",
-      "title": "Marina View | Vacant | Exclusive",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/canal-view-brand-new-high-floor-2-975510/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "832",
-      "bedrooms": "1",
-      "price": 2500000,
-      "first_seen": "2026-09-28"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-03"
+  "last_updated": "2026-10-04"
 }
