@@ -1,23 +1,9 @@
 {
-  "total_tracked": 24113,
-  "total_drops": 508,
-  "total_new": 24113,
-  "last_updated": "2026-10-04T13:44:21Z",
+  "total_tracked": 24122,
+  "total_drops": 501,
+  "total_new": 24122,
+  "last_updated": "2026-10-04T19:14:35Z",
   "drops": [
-    {
-      "id": "16946007",
-      "title": "Mitsubishi Pajero GLS 2011 | GCC Spec | 173,000 km | AED 19,500",
-      "old_price": 23500,
-      "new_price": 19500,
-      "drop_pct": 17.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/08/17/mitsubishi-pajero-gls-2011-gcc-spec-173000-2-776---e013c6aa9bce468091ad75f7f5754674/",
-      "category": "Used Cars",
-      "make": "Mitsubishi",
-      "model": "Pajero",
-      "year": "2011",
-      "mileage": "172915",
-      "date": "2026-09-02T22:25:01Z"
-    },
     {
       "id": "16541313",
       "title": "2,057 P.M  |  0% Downpayment | A5 Sportback | Full Audi Service History",
@@ -7003,9 +6989,131 @@
       "year": "2017",
       "mileage": "200000",
       "date": "2026-10-04T13:44:21Z"
+    },
+    {
+      "id": "100410437",
+      "title": "Audi TT 2.0 TFSI S-Line Quattro GCC Specs - Carplay",
+      "old_price": 19500,
+      "new_price": 16500,
+      "drop_pct": 15.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/tt/2026/09/28/audi-tt-20-tfsi-s-line-quattro-gcc-specs-c-2-491---5b32f197cc0340b7a2bb1cda8f5bec0c/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "TT",
+      "year": "2010",
+      "mileage": "200000",
+      "date": "2026-10-04T19:14:35Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100334314",
+      "title": "Reliable Nissan Sunny S 2016 - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/09/22/reliable-nissan-sunny-s-2016-excellent-con-2-794---8092d2164c374ffb836c9422b45a6023/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Sunny",
+      "year": "2016",
+      "mileage": "275000",
+      "price": 14500,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100481929",
+      "title": "Jetour T2 Traveler Plus 7-Seater Under Warranty Till 2028",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/10/04/jetour-t2-traveler-plus-7-seater-under-war-2-936---f4b78f349f694bb9bf6e18d9b00014a3/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "mileage": "12000",
+      "price": 105000,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100481742",
+      "title": "2025 Avatr 07 Ultra REEV Edition AWD - Brand New - European Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/avatr/07/2026/10/04/2025-avatr-07-ultra-reev-edition-awd-brand-2-996---8a84caf35b4244fcb51f4dcad8832f85/",
+      "category": "Used Cars",
+      "make": "Avatr",
+      "model": "07",
+      "year": "2025",
+      "mileage": "0",
+      "price": 165000,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "16958057",
+      "title": "2023 Lamborghini Urus Performante | GCC | 42,000km | Full Service History | 2 Keys",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/08/29/2023-lamborghini-urus-performante-gcc-4200-2-126---9964af71171b45589536364cbc53fdbe/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "year": "2023",
+      "mileage": "45000",
+      "price": 979000,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100481354",
+      "title": "MG MG5 2020 Comfort 1.5L | GCC Specs | Well Maintained Sedan",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/10/04/mg-mg5-2020-comfort-15l-gcc-specs-well-mai-2-947---844fce9fa95f424f9c5d42c0a663bf4b/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "MG5",
+      "year": "2020",
+      "mileage": "77000",
+      "price": 21000,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100481325",
+      "title": "Hyundai Elantra Limited 2016 Korean Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/10/04/hyundai-elantra-limited-2016-korean-specs-2-521---a6fbf1750139447a807bb06cb9a79889/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2016",
+      "mileage": "116000",
+      "price": 22000,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100479726",
+      "title": "!! 2023 !! Chevrolet | Tahoe LS | GCC | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/04/2023-chevrolet-tahoe-ls-gcc-excellent-cond-2-640---f51197eba6e34e07a1d8557e602c60d9/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": "2023",
+      "mileage": "63000",
+      "price": 132500,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100479237",
+      "title": "Mazda 3 2015 Premium GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3/2026/10/04/mazda-3-2015-premium-gcc-specs-2-565---c872c10917764886a9d630d701362cd8/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "3",
+      "year": "2015",
+      "mileage": "235000",
+      "price": 22500,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
+    {
+      "id": "100472947",
+      "title": "Mazda CX-3 2024 GCC Specs Premium Condition With Original Paint And 2 Original Keys New Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-3/2026/10/04/mazda-cx-3-2024-gcc-specs-premium-conditio-2-354---eb2bb0c8e8bd45ac889a0c94b1153e91/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "CX-3",
+      "year": "2024",
+      "mileage": "26000",
+      "price": 47500,
+      "first_seen": "2026-10-04T19:14:35Z"
+    },
     {
       "id": "100407453",
       "title": "2020 Audi Q5 45 TFSI Quattro S line GCC | 62,800 km | Al Nabooda History + 2 Free Services",
@@ -7081,13 +7189,13 @@
     {
       "id": "100410437",
       "title": "Audi TT 2.0 TFSI S-Line Quattro GCC Specs - Carplay",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/tt/2026/09/28/audi-tt-20-tfsi-s-line-quattro-gcc-specs-c-2-057---5b32f197cc0340b7a2bb1cda8f5bec0c/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/tt/2026/09/28/audi-tt-20-tfsi-s-line-quattro-gcc-specs-c-2-491---5b32f197cc0340b7a2bb1cda8f5bec0c/",
       "category": "Used Cars",
       "make": "Audi",
       "model": "TT",
       "year": "2010",
       "mileage": "200000",
-      "price": 19500,
+      "price": 16500,
       "first_seen": "2026-10-04T13:44:21Z"
     },
     {
@@ -9876,14 +9984,14 @@
     },
     {
       "id": "100418685",
-      "title": "3,036 P.M |  iX3 M Sport | 0% Downpayment | BMW Warranty & Service",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/ix3/2026/09/29/3036-pm-ix3-m-sport-0-downpayment-bmw-warr-2-551---4b430340e96e4e97bf99897d90f97271/",
+      "title": "2,997 P.M |  iX3 M Sport | 0% Downpayment | BMW Warranty & Service",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/ix3/2026/09/29/2997-pm-ix3-m-sport-0-downpayment-bmw-warr-2-729---4b430340e96e4e97bf99897d90f97271/",
       "category": "Used Cars",
       "make": "BMW",
       "model": "iX3",
       "year": "2023",
       "mileage": "33000",
-      "price": 154999,
+      "price": 152999,
       "first_seen": "2026-10-01T15:08:46Z"
     },
     {
@@ -10153,13 +10261,13 @@
     {
       "id": "100286988",
       "title": "+++ 2026 STILL LIKE NEW +++",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv70/2026/09/18/2026-still-like-new-2-761---f66cebb8b49e40d6b442965af595fceb/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv70/2026/09/18/2026-still-like-new-2-451---f66cebb8b49e40d6b442965af595fceb/",
       "category": "Used Cars",
       "make": "Genesis",
       "model": "GV70",
       "year": "2026",
       "mileage": "9970",
-      "price": 188888,
+      "price": 185000,
       "first_seen": "2026-09-30T20:35:41Z"
     },
     {
@@ -11364,14 +11472,14 @@
     },
     {
       "id": "16941497",
-      "title": "2,149 P.M | Tucson COMFORT PLUS | ONE OWNER | FSH | 0% Downpayment | ONE OWNER | FSH!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2026/08/13/2149-pm-tucson-comfort-plus-one-owner-fsh--2-378---e97bd1b4d9b84d4baf19e24e6849f1ee/",
+      "title": "1,332 P.M | Tucson COMFORT PLUS | ONE OWNER | FSH | 0% Downpayment | ONE OWNER | FSH!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2026/08/13/1332-pm-tucson-comfort-plus-one-owner-fsh--2-838---e97bd1b4d9b84d4baf19e24e6849f1ee/",
       "category": "Used Cars",
       "make": "Hyundai",
       "model": "Tucson",
       "year": "2022",
       "mileage": "84000",
-      "price": 69999,
+      "price": 67999,
       "first_seen": "2026-09-29T17:44:50Z"
     },
     {
@@ -11580,14 +11688,14 @@
     },
     {
       "id": "100297700",
-      "title": "2,644 P.M |  C43 AMG 4MATIC | 0% Downpayment | Agency History!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/19/2644-pm-c43-amg-4matic-0-downpayment-agenc-2-084---5f21bfa08b5740cb87201d3f66e5681d/",
+      "title": "2,605 P.M |  C43 AMG 4MATIC | 0% Downpayment | Agency History!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/09/19/2605-pm-c43-amg-4matic-0-downpayment-agenc-2-084---5f21bfa08b5740cb87201d3f66e5681d/",
       "category": "Used Cars",
       "make": "Mercedes-Benz",
       "model": "C-Class",
       "year": "2020",
       "mileage": "76000",
-      "price": 134999,
+      "price": 132999,
       "first_seen": "2026-09-29T17:44:50Z"
     },
     {
@@ -12896,114 +13004,6 @@
       "year": "2011",
       "mileage": "222000",
       "price": 20000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410990",
-      "title": "Mercedes-Benz S-Class S 350 2009 GCC Specs Well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/28/mercedes-benz-s-class-s-350-2009-gcc-specs-2-313---f6e24f51be854a78bd08369f4200bfdf/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2009",
-      "mileage": "180000",
-      "price": 14900,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410918",
-      "title": "Toyota Land Cruiser VXR 2026 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/09/28/toyota-land-cruiser-vxr-2026-gcc-specs-2-397---0e370ca340404d768d7b9d78eb63d86c/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2026",
-      "mileage": "0",
-      "price": 440000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410890",
-      "title": "Chery iCar Long Range- Brand New - 2027 GCC Specs-5 Years Warranty- 5 Years Serivce",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chery/icar/2026/09/28/chery-icar-long-range-brand-new-2027-gcc-s-2-228---8e9ac160f6c54d2ab2361952a03a77c0/",
-      "category": "Used Cars",
-      "make": "Chery",
-      "model": "iCar",
-      "year": "2027",
-      "mileage": "0",
-      "price": 156999,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410768",
-      "title": "Super clean full options not negotiable \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/09/28/super-clean-full-options-not-negotiable-2-660---22cbc4593b80439abdbf5b65619f6f46/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2012",
-      "mileage": "200000",
-      "price": 22000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410633",
-      "title": "2026 Nissan Magnite S GCC Specs Brand New Car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/magnite/2026/09/28/2026-nissan-magnite-s-gcc-specs-brand-new--2-340---26b9158d4d7a4cacba8245f2adce8edf/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Magnite",
-      "year": "2026",
-      "mileage": "4900",
-      "price": 44500,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410590",
-      "title": "2022 |  MERCEDES-BENZ G63 AMG BRABUS KIT | GCC | AGENCY  WARRANTY & SERVICE CONTRACT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/28/2022-mercedes-benz-g63-amg-brabus-kit-gcc--2-369---47102529fa8a4146a00bb50ff395fc69/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2022",
-      "mileage": "44000",
-      "price": 599000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410486",
-      "title": "Mitsubishi ASX GLS 2024 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/asx/2026/09/28/mitsubishi-asx-gls-2024-gcc-specs-2-127---8f955bec854249309dcab03f9ff3f69c/",
-      "category": "Used Cars",
-      "make": "Mitsubishi",
-      "model": "ASX",
-      "year": "2024",
-      "mileage": "46000",
-      "price": 45000,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100361483",
-      "title": "1,626 P.M |  Corsair Premier | 0% Downpayment | AGENCY WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/corsair/2026/09/24/1626-pm-corsair-premier-0-downpayment-agen-2-275---623e75f444ff438f964f5f92aa440e54/",
-      "category": "Used Cars",
-      "make": "Lincoln",
-      "model": "Corsair",
-      "year": "2021",
-      "mileage": "25000",
-      "price": 82999,
-      "first_seen": "2026-09-28T19:19:27Z"
-    },
-    {
-      "id": "100410227",
-      "title": "2022 Mercedes-Benz G-Class G 63 AMG GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/28/2022-mercedes-benz-g-class-g-63-amg-gcc-sp-2-690---3e9fc3bc8e264f7c8754dc6292cf9332/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2022",
-      "mileage": "38000",
-      "price": 569999,
       "first_seen": "2026-09-28T19:19:27Z"
     }
   ]
