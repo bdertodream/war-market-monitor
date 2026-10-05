@@ -570376,7 +570376,7 @@
   "100286988": {
     "id": "100286988",
     "title": "+++ 2026 STILL LIKE NEW +++",
-    "price": 185000,
+    "price": 182222,
     "make": "Genesis",
     "model": "GV70",
     "year": "2026",
@@ -570385,7 +570385,7 @@
     "fuel_type": "Petrol",
     "area": "Jumeirah Beach Residence (JBR)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv70/2026/09/18/2026-still-like-new-2-451---f66cebb8b49e40d6b442965af595fceb/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/genesis/gv70/2026/09/18/2026-still-like-new-2-344---f66cebb8b49e40d6b442965af595fceb/",
     "first_seen": "2026-09-30T20:35:41Z",
     "prices": [
       {
@@ -570395,6 +570395,10 @@
       {
         "price": 185000,
         "date": "2026-10-04T19:14:35Z"
+      },
+      {
+        "price": 182222,
+        "date": "2026-10-05T04:20:19Z"
       }
     ],
     "date": "2026-09-30"
