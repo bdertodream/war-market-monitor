@@ -513440,7 +513440,7 @@
   "16961832": {
     "id": "16961832",
     "title": "AED 890 monthly - No down payment | 2023 Model | GCC Specs | 4-Cyl 1.5L Turbo",
-    "price": 44000,
+    "price": 41000,
     "make": "MG",
     "model": "HS",
     "year": "2023",
@@ -513449,12 +513449,16 @@
     "fuel_type": "Petrol",
     "area": "Al Barsha",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/hs/2026/09/01/aed-890-monthly-no-down-payment-2023-model-2-670---27104bb2241e44828f7b8f70a8ff3a65/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/hs/2026/09/01/aed-890-monthly-no-down-payment-2023-model-2-245---27104bb2241e44828f7b8f70a8ff3a65/",
     "first_seen": "2026-09-01T22:25:37Z",
     "prices": [
       {
         "price": 44000,
         "date": "2026-09-01T22:25:37Z"
+      },
+      {
+        "price": 41000,
+        "date": "2026-10-06T01:09:28Z"
       }
     ],
     "date": "2026-09-01"
@@ -562936,7 +562940,7 @@
   "16116099": {
     "id": "16116099",
     "title": "MINI CLUBMAN JCW COOPER S || ITS  JCW AND S  not the normal ONE || FSH || ORIGINAL PAINT",
-    "price": 49000,
+    "price": 45500,
     "make": "MINI",
     "model": "Clubman",
     "year": "2018",
@@ -562945,12 +562949,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/clubman/2024/10/09/mini-clubman-jcw-cooper-s-its-jcw-and-s-no-2-903---bcc903e2af4846d2bdfb2200a8b24977/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mini/clubman/2024/10/09/mini-clubman-jcw-cooper-s-its-jcw-and-s-no-2-083---bcc903e2af4846d2bdfb2200a8b24977/",
     "first_seen": "2026-09-27T09:54:00Z",
     "prices": [
       {
         "price": 49000,
         "date": "2026-09-27T09:54:00Z"
+      },
+      {
+        "price": 45500,
+        "date": "2026-10-06T01:09:28Z"
       }
     ],
     "date": "2026-09-27"
@@ -577611,6 +577619,182 @@
       {
         "price": 129999,
         "date": "2026-10-05T16:51:22Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100494652": {
+    "id": "100494652",
+    "title": "Toyota Hiace 2024 Standard GCC Specs",
+    "price": 79500,
+    "make": "Toyota",
+    "model": "Hiace",
+    "year": "2024",
+    "kilometers": "76000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hiace/2026/10/05/toyota-hiace-2024-standard-gcc-specs-2-779---85d79a7690f348439c86434c09c29daf/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 79500,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "16954606": {
+    "id": "16954606",
+    "title": "2013 ROLLS ROYCE GHOST MANSORY | FULL CARBON | BABY BLUE | AED 400K+ | 6 MONTH BUILD",
+    "price": 488888,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": "2013",
+    "kilometers": "107500",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "The Address Fountain Views 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2026/08/25/2013-rolls-royce-ghost-mansory-full-carbon-2-525---1e10a5e612b64166b280317bf6a03433/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 488888,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100493957": {
+    "id": "100493957",
+    "title": "GAC M8 Master Edition 2025 GCC Specs",
+    "price": 127000,
+    "make": "GAC",
+    "model": "M8",
+    "year": "2025",
+    "kilometers": "20000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/m8/2026/10/05/gac-m8-master-edition-2025-gcc-specs-2-577---a5868aede02f4351ba9b0b7d6ad425ac/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 127000,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100487509": {
+    "id": "100487509",
+    "title": "2025 BMW 230i M SPORT | B48 2.0L TWINPOWER TURBO INLINE-4 | RWD | GCC | AGENCY WARRANTY + SERVICE",
+    "price": 219990,
+    "make": "BMW",
+    "model": "2-Series",
+    "year": "2025",
+    "kilometers": "9981",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/10/05/2025-bmw-230i-m-sport-b48-20l-twinpower-tu-2-486---38d9d9c2743b402eb0ec62757303cb40/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 219990,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100485046": {
+    "id": "100485046",
+    "title": "2025 P400 X-DYNAMIC HSE SUNRISE EDITION | 1 OF 50 IN GCC | 3.0L TURBO INLINE-6 MHEV | AWD | GCC",
+    "price": 419990,
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": "2025",
+    "kilometers": "16934",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/10/05/2025-p400-x-dynamic-hse-sunrise-edition-1--2-111---e7569644845741f2be832a9ba0d1f0d6/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 419990,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100487468": {
+    "id": "100487468",
+    "title": "CARRERA GTS | AERO-KIT | GCC | OFFICIAL PORSCHE WARRANTY",
+    "price": 749990,
+    "make": "Porsche",
+    "model": "911",
+    "year": "2025",
+    "kilometers": "8135",
+    "body_type": "Coupe",
+    "fuel_type": "Hybrid",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/10/05/carrera-gts-aero-kit-gcc-official-porsche--2-636---ac75b1b3f05d4c58baddbd56e6845ee8/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 749990,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100328682": {
+    "id": "100328682",
+    "title": "2019 Mercedes-Benz G-Class G 63 AMG - Pristine Japanese Spec",
+    "price": 475000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2019",
+    "kilometers": "49000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/21/2019-mercedes-benz-g-class-g-63-amg-pristi-2-265---9eb1e85c2d664f909fb6c4e7006d2c55/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 475000,
+        "date": "2026-10-06T01:09:28Z"
+      }
+    ],
+    "date": "2026-10-05"
+  },
+  "100492893": {
+    "id": "100492893",
+    "title": "2021 Mercedes-Benz C-Class C200 GCC Specs",
+    "price": 75000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2021",
+    "kilometers": "142000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/05/2021-mercedes-benz-c-class-c200-gcc-specs-2-347---efd7a356ad264473ad3da77e9ea19636/",
+    "first_seen": "2026-10-06T01:09:28Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-10-06T01:09:28Z"
       }
     ],
     "date": "2026-10-05"
