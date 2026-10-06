@@ -1,23 +1,9 @@
 {
-  "total_tracked": 24306,
-  "total_drops": 505,
-  "total_new": 24306,
-  "last_updated": "2026-10-06T18:00:14Z",
+  "total_tracked": 24312,
+  "total_drops": 501,
+  "total_new": 24312,
+  "last_updated": "2026-10-06T23:36:32Z",
   "drops": [
-    {
-      "id": "16935744",
-      "title": "Hyundai Santa Fe GLS 2015 | GCC Specs | V6 | Sunroof",
-      "old_price": 26500,
-      "new_price": 25000,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/08/08/hyundai-santa-fe-gls-2015-gcc-specs-v6-sun-2-327---290b793e5c9e4fdbbcc7ea9f71234772/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "year": "2015",
-      "mileage": "124000",
-      "date": "2026-09-06T08:24:43Z"
-    },
     {
       "id": "16914561",
       "title": "2023 Mercedes-Benz A 200 AMG | GCC Specs | Original Paint | Mercedes Warranty  Service Pack",
@@ -7003,9 +6989,95 @@
       "year": "2017",
       "mileage": "153000",
       "date": "2026-10-06T18:00:14Z"
+    },
+    {
+      "id": "100500299",
+      "title": "2013 Chrysler 300 SRT8 Hemi GCC Specs",
+      "old_price": 30000,
+      "new_price": 28000,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/10/06/2013-chrysler-300-srt8-hemi-gcc-specs-2-784---67cbec178f4d4e6ebc1eec722b8ec6af/",
+      "category": "Used Cars",
+      "make": "Chrysler",
+      "model": "300",
+      "year": "2013",
+      "mileage": "151000",
+      "date": "2026-10-06T23:36:32Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100507288",
+      "title": "AED 2,600 Monthly - No Down Payment | 2023 Model | GCC Specs | 2.0L 4-Cyl Turbo engine",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/10/06/aed-2600-monthly-no-down-payment-2023-mode-2-754---b723bf257e944a2086892f61935d0a47/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2023",
+      "mileage": "15000",
+      "price": 125000,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
+    {
+      "id": "100506721",
+      "title": "2021 Alfa Romeo GIULIETTA Premium \u2013 GCC Specs, Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/10/06/2021-alfa-romeo-giulietta-premium-gcc-spec-2-922---123e8a3ca7bc49029b85dc6ed1a8f601/",
+      "category": "Used Cars",
+      "make": "Alfa Romeo",
+      "model": "GIULIETTA",
+      "year": "2021",
+      "mileage": "91525",
+      "price": 29500,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
+    {
+      "id": "100506140",
+      "title": "2016 Kia Carnival EX GCC Specs - Well Maintained, Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carnival/2026/10/06/2016-kia-carnival-ex-gcc-specs-well-mainta-2-892---1c77d960a8054fdc9ca2cfd0fadb1f36/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Carnival",
+      "year": "2016",
+      "mileage": "125300",
+      "price": 34500,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
+    {
+      "id": "100270184",
+      "title": "Mercedes-Benz GLC Coupe GLC 200 4MATIC 2025 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/09/17/mercedes-benz-glc-coupe-glc-200-4matic-202-2-930---4e0b0b98203c45d493723091d5fc012f/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLC Coupe",
+      "year": "2025",
+      "mileage": "26000",
+      "price": 229900,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
+    {
+      "id": "100506065",
+      "title": "2020 Rolls-Royce Cullinan Black Badge | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/10/06/2020-rolls-royce-cullinan-black-badge-gcc--2-885---8cffeb3a42034cf9aacf3a7fcc03032e/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Cullinan",
+      "year": "2020",
+      "mileage": "26000",
+      "price": 1150000,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
+    {
+      "id": "100505814",
+      "title": "2022 Ford Mustang Ecoboost American Specs-Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/06/2022-ford-mustang-ecoboost-american-specs--2-503---8c8318f28fc64e6fa0eed358479fa1e9/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2022",
+      "mileage": "67100",
+      "price": 62500,
+      "first_seen": "2026-10-06T23:36:32Z"
+    },
     {
       "id": "100505379",
       "title": "NISSAN KICKS.S 1.6L GCC CAR FIRST OWNER CAR GOOD CONDITION CAR",
@@ -7609,13 +7681,13 @@
     {
       "id": "100500299",
       "title": "2013 Chrysler 300 SRT8 Hemi GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/10/06/2013-chrysler-300-srt8-hemi-gcc-specs-2-279---67cbec178f4d4e6ebc1eec722b8ec6af/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/10/06/2013-chrysler-300-srt8-hemi-gcc-specs-2-784---67cbec178f4d4e6ebc1eec722b8ec6af/",
       "category": "Used Cars",
       "make": "Chrysler",
       "model": "300",
       "year": "2013",
       "mileage": "151000",
-      "price": 30000,
+      "price": 28000,
       "first_seen": "2026-10-06T11:03:28Z"
     },
     {
@@ -7687,7 +7759,7 @@
       "model": "Sentra",
       "year": "2017",
       "mileage": "153000",
-      "price": 8900,
+      "price": 9900,
       "first_seen": "2026-10-06T11:03:28Z"
     },
     {
@@ -12932,78 +13004,6 @@
       "year": "2017",
       "mileage": "125000",
       "price": 55500,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "100428893",
-      "title": "MAZDA CX30 CARBON EDITION # GCC # UNDER WARRANTY AND FREE SERVICE AED 79999/-",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-30/2026/09/30/mazda-cx30-carbon-edition-gcc-under-warran-2-902---f06b0b8e263a488f89598c5fee4d384b/",
-      "category": "Used Cars",
-      "make": "Mazda",
-      "model": "CX-30",
-      "year": "2024",
-      "mileage": "36000",
-      "price": 79999,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "100428840",
-      "title": "2015 LAND ROVER RANGE ROVER SPORT SVR | 5.0L SUPERCHARGED V8 | AWD | GCC | FULL COLOURED PPF",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/09/30/2015-land-rover-range-rover-sport-svr-50l--2-727---2931c723b92d48f2a922ca991374b4e9/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2015",
-      "mileage": "114000",
-      "price": 109990,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "100428567",
-      "title": "2025 Citro\u00ebn C5 Aircross | GCC | 1.6 Turbo | Agency Warranty & Service",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c5-aircross/2026/09/30/2025-citroen-c5-aircross-gcc-16-turbo-agen-2-331---e34dc85d512f46ae88e8bf671a80145f/",
-      "category": "Used Cars",
-      "make": "Citroen",
-      "model": "C5 Aircross",
-      "year": "2025",
-      "mileage": "38000",
-      "price": 69000,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "100367465",
-      "title": "BYD HAN L 2025 FLAGSHIP CHINESE SPEC WITH WARRANTY & SEVICE CONTRACT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/han/2026/09/25/byd-han-l-2025-flagship-chinese-spec-with--2-797---3dc3dc8e28434761b77de1f6d6bb0ff6/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "HAN",
-      "year": "2025",
-      "mileage": "0",
-      "price": 137000,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "100428366",
-      "title": "2026 Toyota Rav4 2.5L HEV Adventure  ( Ready Stock )",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/09/30/2026-toyota-rav4-25l-hev-adventure-ready-s-2-470---a20824a111394a83aef49c3e6d0a401f/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Rav 4",
-      "year": "2026",
-      "mileage": "0",
-      "price": 199000,
-      "first_seen": "2026-09-30T14:40:00Z"
-    },
-    {
-      "id": "16969672",
-      "title": "Mercedes-Benz G63 | 2025 | White | Korean Specs | V8",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/08/mercedes-benz-g63-2025-white-korean-specs--2-448---7d1a03f4ad114e56b294b731305fdddb/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2025",
-      "mileage": "2300",
-      "price": 850000,
       "first_seen": "2026-09-30T14:40:00Z"
     }
   ]

@@ -553163,8 +553163,8 @@
   },
   "16968353": {
     "id": "16968353",
-    "title": "2,253 P.M |  Model Y Dual Motor | 0% Downpayment | Perfect Condition!",
-    "price": 114999,
+    "title": "2,213 P.M |  Model Y Dual Motor | 0% Downpayment | Perfect Condition!",
+    "price": 112999,
     "make": "Tesla",
     "model": "Model Y",
     "year": "2022",
@@ -553173,12 +553173,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/09/07/2253-pm-model-y-dual-motor-0-downpayment-p-2-917---8af32c3efa40476d88c9162f5e597fd9/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/09/07/2213-pm-model-y-dual-motor-0-downpayment-p-2-380---8af32c3efa40476d88c9162f5e597fd9/",
     "first_seen": "2026-09-22T16:23:31Z",
     "prices": [
       {
         "price": 114999,
         "date": "2026-09-22T16:23:31Z"
+      },
+      {
+        "price": 112999,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-09-22"
@@ -553539,8 +553543,8 @@
   },
   "16921292": {
     "id": "16921292",
-    "title": "1,861 P.M |  Edge ST | 0% Downpayment | Ford Warranty | Edge ST!",
-    "price": 94999,
+    "title": "1,822 P.M |  Edge ST | 0% Downpayment | Ford Warranty | Edge ST!",
+    "price": 92999,
     "make": "Ford",
     "model": "Edge",
     "year": "2023",
@@ -553549,12 +553553,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/07/25/1861-pm-edge-st-0-downpayment-ford-warrant-2-092---ff216178e77f4864ab47598508f314bd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/07/25/1822-pm-edge-st-0-downpayment-ford-warrant-2-884---ff216178e77f4864ab47598508f314bd/",
     "first_seen": "2026-09-22T16:23:31Z",
     "prices": [
       {
         "price": 94999,
         "date": "2026-09-22T16:23:31Z"
+      },
+      {
+        "price": 92999,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-09-22"
@@ -562594,7 +562602,7 @@
   "16941379": {
     "id": "16941379",
     "title": "Nissan Maxima 2013 SV GCC Specs",
-    "price": 10900,
+    "price": 10500,
     "make": "Nissan",
     "model": "Maxima",
     "year": "2013",
@@ -562603,7 +562611,7 @@
     "fuel_type": "Petrol",
     "area": "Shorooq Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/08/13/nissan-maxima-2013-sv-gcc-specs-2-055---fcaa9b2c565f4a0eae6e5079f79e0df9/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/08/13/nissan-maxima-2013-sv-gcc-specs-2-146---fcaa9b2c565f4a0eae6e5079f79e0df9/",
     "first_seen": "2026-09-26T19:04:02Z",
     "prices": [
       {
@@ -562613,6 +562621,10 @@
       {
         "price": 10900,
         "date": "2026-10-06T11:03:28Z"
+      },
+      {
+        "price": 10500,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-09-26"
@@ -578074,7 +578086,7 @@
   "100500299": {
     "id": "100500299",
     "title": "2013 Chrysler 300 SRT8 Hemi GCC Specs",
-    "price": 30000,
+    "price": 28000,
     "make": "Chrysler",
     "model": "300",
     "year": "2013",
@@ -578083,12 +578095,16 @@
     "fuel_type": "Petrol",
     "area": "Al Bada'a Building C",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/10/06/2013-chrysler-300-srt8-hemi-gcc-specs-2-279---67cbec178f4d4e6ebc1eec722b8ec6af/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300/2026/10/06/2013-chrysler-300-srt8-hemi-gcc-specs-2-784---67cbec178f4d4e6ebc1eec722b8ec6af/",
     "first_seen": "2026-10-06T11:03:28Z",
     "prices": [
       {
         "price": 30000,
         "date": "2026-10-06T11:03:28Z"
+      },
+      {
+        "price": 28000,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-10-06"
@@ -578206,7 +578222,7 @@
   "100498863": {
     "id": "100498863",
     "title": "Nissan Sentra SV 2017 Model US Well maintained RTA passed",
-    "price": 8900,
+    "price": 9900,
     "make": "Nissan",
     "model": "Sentra",
     "year": "2017",
@@ -578225,6 +578241,10 @@
       {
         "price": 8900,
         "date": "2026-10-06T18:00:14Z"
+      },
+      {
+        "price": 9900,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-10-06"
@@ -580579,6 +580599,138 @@
       {
         "price": 49000,
         "date": "2026-10-06T18:00:14Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100507288": {
+    "id": "100507288",
+    "title": "AED 2,600 Monthly - No Down Payment | 2023 Model | GCC Specs | 2.0L 4-Cyl Turbo engine",
+    "price": 125000,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2023",
+    "kilometers": "15000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/10/06/aed-2600-monthly-no-down-payment-2023-mode-2-754---b723bf257e944a2086892f61935d0a47/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-10-06T23:36:32Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100506721": {
+    "id": "100506721",
+    "title": "2021 Alfa Romeo GIULIETTA Premium \u2013 GCC Specs, Excellent Condition",
+    "price": 29500,
+    "make": "Alfa Romeo",
+    "model": "GIULIETTA",
+    "year": "2021",
+    "kilometers": "91525",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulietta/2026/10/06/2021-alfa-romeo-giulietta-premium-gcc-spec-2-922---123e8a3ca7bc49029b85dc6ed1a8f601/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-10-06T23:36:32Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100506140": {
+    "id": "100506140",
+    "title": "2016 Kia Carnival EX GCC Specs - Well Maintained, Single Owner",
+    "price": 34500,
+    "make": "Kia",
+    "model": "Carnival",
+    "year": "2016",
+    "kilometers": "125300",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carnival/2026/10/06/2016-kia-carnival-ex-gcc-specs-well-mainta-2-892---1c77d960a8054fdc9ca2cfd0fadb1f36/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 34500,
+        "date": "2026-10-06T23:36:32Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100270184": {
+    "id": "100270184",
+    "title": "Mercedes-Benz GLC Coupe GLC 200 4MATIC 2025 GCC Specs",
+    "price": 229900,
+    "make": "Mercedes-Benz",
+    "model": "GLC Coupe",
+    "year": "2025",
+    "kilometers": "26000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/09/17/mercedes-benz-glc-coupe-glc-200-4matic-202-2-930---4e0b0b98203c45d493723091d5fc012f/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 229900,
+        "date": "2026-10-06T23:36:32Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100506065": {
+    "id": "100506065",
+    "title": "2020 Rolls-Royce Cullinan Black Badge | GCC Specs | Excellent Condition",
+    "price": 1150000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": "2020",
+    "kilometers": "26000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/10/06/2020-rolls-royce-cullinan-black-badge-gcc--2-885---8cffeb3a42034cf9aacf3a7fcc03032e/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 1150000,
+        "date": "2026-10-06T23:36:32Z"
+      }
+    ],
+    "date": "2026-10-06"
+  },
+  "100505814": {
+    "id": "100505814",
+    "title": "2022 Ford Mustang Ecoboost American Specs-Warranty",
+    "price": 62500,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2022",
+    "kilometers": "67100",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/06/2022-ford-mustang-ecoboost-american-specs--2-503---8c8318f28fc64e6fa0eed358479fa1e9/",
+    "first_seen": "2026-10-06T23:36:32Z",
+    "prices": [
+      {
+        "price": 62500,
+        "date": "2026-10-06T23:36:32Z"
       }
     ],
     "date": "2026-10-06"

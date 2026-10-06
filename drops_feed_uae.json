@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27620,
+  "total_tracked": 27622,
   "total_drops": 500,
-  "total_new": 27620,
+  "total_new": 27622,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -8868,6 +8868,28 @@
       "first_seen": "2026-10-06"
     },
     {
+      "id": "18117034",
+      "title": "Close to OP | Park Backing | Great Value",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/close-to-op-park-backing-great-value-2-289093/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "8818",
+      "bedrooms": "4",
+      "price": 9200000,
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "9806658",
+      "title": "Best Price | More Options | Community Specialist",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/6/best-price-more-options-community-speci-2-294128/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9847",
+      "bedrooms": "",
+      "price": 2750000,
+      "first_seen": "2026-10-06"
+    },
+    {
       "id": "18071093",
       "title": "DISTRESS DEAL| VACANT I SHEIKH ZAYED VIEW",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/28/distress-deal-vacant-i-sheikh-zayed-vie-2-193346/",
@@ -10464,7 +10486,7 @@
     },
     {
       "id": "18040086",
-      "title": "Internal Single Row | Motivated Seller | P Plan",
+      "title": "Internal Single Row | Motivated Seller | Key In Hand",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/22/internal-single-row-motivated-seller-p--2-215293/",
       "area": "DAMAC Lagoons",
       "category": "Townhouse",
@@ -12484,28 +12506,6 @@
       "size": "887",
       "bedrooms": "2",
       "price": 1275000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "17781733",
-      "title": "Private Jacuzzi | Cash Deal | Premium Studio | Top Amenities | Book Now!",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/27/private-jacuzzi-cash-deal-premium-studi-2-334489/",
-      "area": "Downtown Jebel Ali",
-      "category": "Apartment",
-      "size": "425",
-      "bedrooms": "0",
-      "price": 550000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18085837",
-      "title": "Spacious 1 Bedroom | Close to Mall | Book with 10% DP | Golf Course | High Roi",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/30/spacious-1-bedroom-close-to-mall-book-w-2-152052/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "822",
-      "bedrooms": "1",
-      "price": 1600000,
       "first_seen": "2026-09-30"
     }
   ],
