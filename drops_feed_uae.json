@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27622,
+  "total_tracked": 27628,
   "total_drops": 500,
-  "total_new": 27622,
+  "total_new": 27628,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,72 @@
   ],
   "new_listings": [
     {
+      "id": "18098689",
+      "title": "Upgraded| 3 Car Garage | 5 bed + Maids and Drivers",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/3/upgraded-3-car-garage-5-bed-maids-and-d-2-301245/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Villa",
+      "size": "6700",
+      "bedrooms": "5",
+      "price": 16250000,
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "18093091",
+      "title": "Lovely Upgrades | Spacious | Exclusive | VOT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/2/lovely-upgrades-spacious-exclusive-vot-2-277160/",
+      "area": "The Greens",
+      "category": "Apartment",
+      "size": "1408",
+      "bedrooms": "2",
+      "price": 2599999,
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "18111475",
+      "title": "Exclusive | Vastu | Corner Plot | 5Bed+Maid",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/exclusive-vastu-corner-plot-5bedmaid-2-110330/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "3875",
+      "bedrooms": "5",
+      "price": 9499999,
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "18106060",
+      "title": "Unobstructed Sea View | Private Beach Access",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/5/unobstructed-sea-view-private-beach-acc-2-159037/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "2210",
+      "bedrooms": "2",
+      "price": 14500000,
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "18087246",
+      "title": "Majestic Marina View | 2 Bedroom",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/majestic-marina-view-2-bedroom-2-258691/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "1709",
+      "bedrooms": "2",
+      "price": 5395000,
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "9806747",
+      "title": "Phase 8 | Large Plot | Negotiable | Call Today",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/6/phase-8-large-plot-negotiable-call-toda-2-181616/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "12954",
+      "bedrooms": "",
+      "price": 4250000,
+      "first_seen": "2026-10-07"
+    },
+    {
       "id": "18103399",
       "title": "Spacious 4BR Villa +Maid | Beach Club Living | Private Garden",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/4/island-living-resort-style-high-roi-2-136884/",
@@ -9293,7 +9359,7 @@
       "category": "Villa",
       "size": "4154",
       "bedrooms": "4",
-      "price": 8399999,
+      "price": 8100000,
       "first_seen": "2026-10-04"
     },
     {
@@ -12441,74 +12507,8 @@
       "bedrooms": "3",
       "price": 7999000,
       "first_seen": "2026-09-30"
-    },
-    {
-      "id": "17575750",
-      "title": "Full Golf + Marina Skyline View - 25,915 SqFt",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/11/full-golf-marina-skyline-view-25000-sqf-2-411533/",
-      "area": "Emirates Hills",
-      "category": "Villa",
-      "size": "11400",
-      "bedrooms": "7",
-      "price": 90000000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18059477",
-      "title": "Burj Khalifa View | 1BR Apartment | Volta Downtown",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/burj-khalifa-view-1br-apartment-volta-d-2-208140/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1010",
-      "bedrooms": "1",
-      "price": 1500000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18060973",
-      "title": "1 of Only 9 Lagoon Mansions | Bentley Furnished | Private Cinema + 2 Pools",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/25/waterfront-5br-villa-mira-villas-by-ben-2-145426/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Villa",
-      "size": "14816",
-      "bedrooms": "5",
-      "price": 23000000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18085275",
-      "title": "High-Demand Dubai Apartments | Modern Lifestyle | Investment Opportunity",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/30/high-demand-dubai-apartments-modern-lif-2-312981/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "1075",
-      "bedrooms": "2",
-      "price": 1350000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18069463",
-      "title": "Skylight | Single Row | Brand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/28/skylight-single-row-brand-new-2-330557/",
-      "area": "Arabian Ranches 3",
-      "category": "Villa",
-      "size": "2315",
-      "bedrooms": "3",
-      "price": 3300000,
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "18064875",
-      "title": "Lowest 2BR Resale | Ready Handover | High ROI Potential",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/premium-2br-modern-layout-high-roi-pote-2-223583/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "887",
-      "bedrooms": "2",
-      "price": 1275000,
-      "first_seen": "2026-09-30"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-06"
+  "last_updated": "2026-10-07"
 }
