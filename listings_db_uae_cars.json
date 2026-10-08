@@ -8553,8 +8553,8 @@
   },
   "16582047": {
     "id": "16582047",
-    "title": "AED 1,819 pm \u2022 0% Downpayment \u2022 A4 35TFSI S-Line \u2022 Agency Warranty",
-    "price": 94950,
+    "title": "AED 1,724 PM \u2022 0% Downpayment \u2022 A4 35TFSI S-Line \u2022 Agency Warranty",
+    "price": 89950,
     "make": "Audi",
     "model": "A4",
     "year": "{'label': 'Year', 'value': 2023}",
@@ -8563,7 +8563,7 @@
     "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2025/10/02/aed-1819-pm-0-downpayment-a4-35tfsi-s-line-2-426---575e2ceabe9f4486a6417fbdf5b16b55/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2025/10/02/aed-1724-pm-0-downpayment-a4-35tfsi-s-line-2-391---575e2ceabe9f4486a6417fbdf5b16b55/",
     "first_seen": "2026-03-09T06:59:10Z",
     "prices": [
       {
@@ -8581,6 +8581,10 @@
       {
         "price": 94950,
         "date": "2026-08-27T07:47:06Z"
+      },
+      {
+        "price": 89950,
+        "date": "2026-10-08T04:46:03Z"
       }
     ],
     "date": "2026-03-09"
@@ -482736,7 +482740,7 @@
   "16944702": {
     "id": "16944702",
     "title": "Free accident ( no paint no accident no flooded)",
-    "price": 348000,
+    "price": 344000,
     "make": "Mercedes-Benz",
     "model": "GLS-Class",
     "year": "2024",
@@ -482745,7 +482749,7 @@
     "fuel_type": "Petrol",
     "area": "Jumeirah",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/08/16/free-accident-no-paint-no-accident-no-floo-2-849---75b79319965e4f91a398b19a7122f3ec/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/08/16/free-accident-no-paint-no-accident-no-floo-2-625---75b79319965e4f91a398b19a7122f3ec/",
     "first_seen": "2026-08-16T16:24:50Z",
     "prices": [
       {
@@ -482755,6 +482759,10 @@
       {
         "price": 348000,
         "date": "2026-09-12T08:24:29Z"
+      },
+      {
+        "price": 344000,
+        "date": "2026-10-08T04:46:03Z"
       }
     ],
     "date": "2026-08-16"
@@ -497881,8 +497889,8 @@
   },
   "16950697": {
     "id": "16950697",
-    "title": "AED 3,544 P.M \u2022 0% Downpayment \u2022 Rover Range Rover HSE \u2022 1 Year Warranty",
-    "price": 184950,
+    "title": "AED 3,449 P.M \u2022 0% Downpayment \u2022 Rover Range Rover HSE \u2022 1 Year Warranty",
+    "price": 179950,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2021",
@@ -497891,12 +497899,16 @@
     "fuel_type": "Petrol",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/8/22/aed-3544-pm-0-downpayment-rover-range-rove-2-826---c5dbf24e3f2546df9188177f8aac34a3/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/08/22/aed-3449-pm-0-downpayment-rover-range-rove-2-607---c5dbf24e3f2546df9188177f8aac34a3/",
     "first_seen": "2026-08-23T12:38:42Z",
     "prices": [
       {
         "price": 184950,
         "date": "2026-08-23T12:38:42Z"
+      },
+      {
+        "price": 179950,
+        "date": "2026-10-08T04:46:03Z"
       }
     ],
     "date": "2026-08-23"
@@ -546155,8 +546167,8 @@
   },
   "100286047": {
     "id": "100286047",
-    "title": "3,602 P.M \u2022 0% Downpayment \u2022 Range Rover HSE \u2022 Agency Warranty",
-    "price": 187950,
+    "title": "AED 3,506 P.M \u2022 0% Downpayment \u2022 Range Rover HSE \u2022 Agency Warranty",
+    "price": 182950,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2021",
@@ -546165,20 +546177,24 @@
     "fuel_type": "Petrol",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/18/3602-pm-0-downpayment-range-rover-hse-agen-2-098---425691e2e10e4192ba9f5023d3f5f911/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/18/aed-3506-pm-0-downpayment-range-rover-hse--2-499---425691e2e10e4192ba9f5023d3f5f911/",
     "first_seen": "2026-09-18T15:56:01Z",
     "prices": [
       {
         "price": 187950,
         "date": "2026-09-18T15:56:01Z"
+      },
+      {
+        "price": 182950,
+        "date": "2026-10-08T04:46:03Z"
       }
     ],
     "date": "2026-09-18"
   },
   "100285844": {
     "id": "100285844",
-    "title": "3,353 P.M \u2022 0% Downpayment \u2022 Porsche Macan \u2022 Agency Warranty",
-    "price": 174950,
+    "title": "AED 3,257 P.M \u2022 0% Downpayment \u2022 Porsche Macan \u2022 Agency Warranty",
+    "price": 169950,
     "make": "Porsche",
     "model": "Macan",
     "year": "2021",
@@ -546187,12 +546203,16 @@
     "fuel_type": "Petrol",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/09/18/3353-pm-0-downpayment-porsche-macan-agency-2-953---ef68b2107f1c481b919bff02b6dcb208/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/09/18/aed-3257-pm-0-downpayment-porsche-macan-ag-2-464---ef68b2107f1c481b919bff02b6dcb208/",
     "first_seen": "2026-09-18T15:56:01Z",
     "prices": [
       {
         "price": 174950,
         "date": "2026-09-18T15:56:01Z"
+      },
+      {
+        "price": 169950,
+        "date": "2026-10-08T04:46:03Z"
       }
     ],
     "date": "2026-09-18"
@@ -582608,5 +582628,269 @@
       }
     ],
     "date": "2026-10-07"
+  },
+  "100370401": {
+    "id": "100370401",
+    "title": "AED 1,398 P.M \u2022 0% Downpayment \u2022 GAC GS8 \u2022 Agency Warranty",
+    "price": 72950,
+    "make": "GAC",
+    "model": "GS8",
+    "year": "2023",
+    "kilometers": "55806",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/09/25/aed-1398-pm-0-downpayment-gac-gs8-agency-w-2-404---582e39fecd5a43c7a0d34f79b80acb12/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 72950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100455406": {
+    "id": "100455406",
+    "title": "AED 2,203 P.M \u2022 0% Downpayment \u2022 Nissan Pathfinder \u2022 1 Year Warranty",
+    "price": 114950,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "2022",
+    "kilometers": "61882",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/02/aed-2203-pm-0-downpayment-nissan-pathfinde-2-278---6c73a35af07847b0ada58b0bfdde38f8/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 114950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100454489": {
+    "id": "100454489",
+    "title": "2,394  P.M \u2022 0% Downpayment \u2022 Mercedes-Benz GLA 200 Premium \u2022 Agency Warranty and Service Contract",
+    "price": 124950,
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "year": "2022",
+    "kilometers": "45086",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/10/02/2394-pm-0-downpayment-mercedes-benz-gla-20-2-160---31b811856a454414a4aa47a0f3db59cc/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 124950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100454566": {
+    "id": "100454566",
+    "title": "AED 3,329 P.M \u2022 0% Downpayment \u2022 Mercedes-Benz GLE 63 S AMG \u2022 1 Year Warranty",
+    "price": 109950,
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "year": "2017",
+    "kilometers": "182564",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/10/02/aed-3329-pm-0-downpayment-mercedes-benz-gl-2-924---4824da5d5dba47fd9406a4d1831d0597/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 109950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100452574": {
+    "id": "100452574",
+    "title": "AED 3,449 P.M \u2022 0% Downpayment \u2022 GMC Yukon Denali \u2022 Agency Warranty",
+    "price": 179950,
+    "make": "GMC",
+    "model": "Yukon",
+    "year": "2022",
+    "kilometers": "87864",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/10/02/aed-3449-pm-0-downpayment-gmc-yukon-denali-2-036---ee46bc0e71d54c00b3703f5f40370155/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 179950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100454986": {
+    "id": "100454986",
+    "title": "AED 2,586 P.M \u2022 0% Downpayment \u2022 Audi Q8 55 TFSI quattro S-Line ABT Kit \u2022 1 Year Warranty",
+    "price": 134950,
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2020",
+    "kilometers": "128168",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q8/2026/10/02/aed-2586-pm-0-downpayment-audi-q8-55-tfsi--2-570---87a04a1b45a64b08bc557d9a9a92655f/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 134950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100452085": {
+    "id": "100452085",
+    "title": "AED 3,832 P.M \u2022 0% Downpayment \u2022 Porsche Cayenne Coupe \u2022 1 Year Warranty",
+    "price": 199950,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2020",
+    "kilometers": "61497",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/02/aed-3832-pm-0-downpayment-porsche-cayenne--2-150---091eb2bc462d48319d9c21fb10c70ab6/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 199950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100451631": {
+    "id": "100451631",
+    "title": "AED 199,950 CASH \u2022 Porsche 911 Carrera \u2022 1 Year Warranty",
+    "price": 199950,
+    "make": "Porsche",
+    "model": "911",
+    "year": "2014",
+    "kilometers": "109437",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/10/02/aed-199950-cash-porsche-911-carrera-1-year-2-060---1ca93430eae34797982bea53fc52fcbc/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 199950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100370675": {
+    "id": "100370675",
+    "title": "AED 1,398 P.M \u2022 0% Downpayment \u2022 GAC GS8 \u2022 Agency Warranty",
+    "price": 72950,
+    "make": "GAC",
+    "model": "GS8",
+    "year": "2023",
+    "kilometers": "58185",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/09/25/aed-1398-pm-0-downpayment-gac-gs8-agency-w-2-252---92717384e60849ce9f961dfc4173d3d9/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 72950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100374520": {
+    "id": "100374520",
+    "title": "AED 1,398 P.M \u2022 0% Downpayment \u2022 GAC GS8 \u2022 Agency Warranty",
+    "price": 72950,
+    "make": "GAC",
+    "model": "GS8",
+    "year": "2023",
+    "kilometers": "60138",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/09/25/aed-1398-pm-0-downpayment-gac-gs8-agency-w-2-522---b55ad77f41804070affb21e4e1472f4a/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 72950,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100495905": {
+    "id": "100495905",
+    "title": "Peugeot Partner 2023 Van Long Body GCC Specs",
+    "price": 32000,
+    "make": "Peugeot",
+    "model": "Partner",
+    "year": "2023",
+    "kilometers": "137000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "District One",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/partner/2026/10/06/peugeot-partner-2023-van-long-body-gcc-spe-2-327---c09834afd6fd419ea5642f04eadee396/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 32000,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100515624": {
+    "id": "100515624",
+    "title": "Chery Tiggo 8 2026 2.0 Premium GCC Specs",
+    "price": 104999,
+    "make": "Chery",
+    "model": "Tiggo 8",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo-8/2026/10/07/chery-tiggo-8-2026-20-premium-gcc-specs-2-494---c46ffda7ad5b4bdb9d4540b99efcc499/",
+    "first_seen": "2026-10-08T04:46:03Z",
+    "prices": [
+      {
+        "price": 104999,
+        "date": "2026-10-08T04:46:03Z"
+      }
+    ],
+    "date": "2026-10-08"
   }
 }
