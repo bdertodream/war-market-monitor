@@ -1,8 +1,8 @@
 {
-  "total_tracked": 24482,
-  "total_drops": 501,
-  "total_new": 24482,
-  "last_updated": "2026-10-08T21:04:17Z",
+  "total_tracked": 24485,
+  "total_drops": 500,
+  "total_new": 24485,
+  "last_updated": "2026-10-09T04:49:23Z",
   "drops": [
     {
       "id": "16792324",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100286906",
+      "title": "Mercedes Benz V300 \"LA FAMILLE\" VIP MERCEDES V-CLASS GCC V300 ADDITIONAL REAR AC - 3 YEAR WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/09/18/mercedes-benz-v300-la-famille-vip-mercedes-2-596---6c580c7c330b4d06864b579be1ea0579/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "V-Class",
+      "year": "2026",
+      "mileage": "0",
+      "price": 529000,
+      "first_seen": "2026-10-09T04:49:23Z"
+    },
+    {
+      "id": "100531108",
+      "title": "Land Rover LR4 HSE  | Full Option 7 Seater | Low Kms | GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/lr4/2026/10/08/land-rover-lr4-hse-full-option-7-seater-lo-2-819---24d9fb9de2d5420c8c6c464ef72a89e7/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "LR4",
+      "year": "2016",
+      "mileage": "101000",
+      "price": 49000,
+      "first_seen": "2026-10-09T04:49:23Z"
+    },
+    {
+      "id": "100527074",
+      "title": "MITSUBISHI LANCER 2.0 EX # 2016 GCC # WELL MAINTAINED CAR FOR SALE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/lancer/2026/10/08/mitsubishi-lancer-20-ex-2016-gcc-well-main-2-171---eb91d433f30a4467a200c707d8cd8dbd/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2016",
+      "mileage": "85000",
+      "price": 26499,
+      "first_seen": "2026-10-09T04:49:23Z"
+    },
+    {
       "id": "100525462",
       "title": "DASHING LUXURY | IMMEDIATE AUTO LOAN | OFFICIAL ELITE JETOUR AGENCY WARRANTY",
       "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/10/08/dashing-luxury-immediate-auto-loan-officia-2-894---92333a2871104551ba506ce71d49184d/",
@@ -12968,42 +13004,6 @@
       "year": "2018",
       "mileage": "230000",
       "price": 28000,
-      "first_seen": "2026-10-02T14:29:58Z"
-    },
-    {
-      "id": "100453104",
-      "title": "2022 Audi RSQ3 Sportback 2.5L 400HP, GCC, Full Option, Nardo Grey, Original Paint, Perfect Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs-q3/2026/10/02/2022-audi-rsq3-sportback-25l-400hp-gcc-ful-2-521---2d46c220065041a4961c59783fed0bfe/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "RS Q3",
-      "year": "2022",
-      "mileage": "119000",
-      "price": 135000,
-      "first_seen": "2026-10-02T14:29:58Z"
-    },
-    {
-      "id": "100452752",
-      "title": "ALMOST NEW MAZDA CX-3 GT 2024 GCC SPEC NO ACCIDENT PUSH START CAR PLAY NAV 08 AIRBAGS SINGLE OWNER",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-3/2026/10/02/almost-new-mazda-cx-3-gt-2024-gcc-spec-no--2-274---57184f11e0f04d428f3fd1e5b43aac3a/",
-      "category": "Used Cars",
-      "make": "Mazda",
-      "model": "CX-3",
-      "year": "2024",
-      "mileage": "27200",
-      "price": 51000,
-      "first_seen": "2026-10-02T14:29:58Z"
-    },
-    {
-      "id": "100410596",
-      "title": "2018 Mercedes-Benz E-Class E 400 4MATIC - American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/28/2018-mercedes-benz-e-class-e-400-4matic-am-2-100---33925348b31243edb5df3191f351003e/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2018",
-      "mileage": "95000",
-      "price": 89000,
       "first_seen": "2026-10-02T14:29:58Z"
     }
   ]

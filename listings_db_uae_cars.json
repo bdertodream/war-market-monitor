@@ -584714,5 +584714,71 @@
       }
     ],
     "date": "2026-10-08"
+  },
+  "100286906": {
+    "id": "100286906",
+    "title": "Mercedes Benz V300 \"LA FAMILLE\" VIP MERCEDES V-CLASS GCC V300 ADDITIONAL REAR AC - 3 YEAR WARRANTY",
+    "price": 529000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/09/18/mercedes-benz-v300-la-famille-vip-mercedes-2-596---6c580c7c330b4d06864b579be1ea0579/",
+    "first_seen": "2026-10-09T04:49:23Z",
+    "prices": [
+      {
+        "price": 529000,
+        "date": "2026-10-09T04:49:23Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100531108": {
+    "id": "100531108",
+    "title": "Land Rover LR4 HSE  | Full Option 7 Seater | Low Kms | GCC Specs",
+    "price": 49000,
+    "make": "Land Rover",
+    "model": "LR4",
+    "year": "2016",
+    "kilometers": "101000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/lr4/2026/10/08/land-rover-lr4-hse-full-option-7-seater-lo-2-819---24d9fb9de2d5420c8c6c464ef72a89e7/",
+    "first_seen": "2026-10-09T04:49:23Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-10-09T04:49:23Z"
+      }
+    ],
+    "date": "2026-10-08"
+  },
+  "100527074": {
+    "id": "100527074",
+    "title": "MITSUBISHI LANCER 2.0 EX # 2016 GCC # WELL MAINTAINED CAR FOR SALE",
+    "price": 26499,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "year": "2016",
+    "kilometers": "85000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Diamond Views 1 Block A",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/lancer/2026/10/08/mitsubishi-lancer-20-ex-2016-gcc-well-main-2-171---eb91d433f30a4467a200c707d8cd8dbd/",
+    "first_seen": "2026-10-09T04:49:23Z",
+    "prices": [
+      {
+        "price": 26499,
+        "date": "2026-10-09T04:49:23Z"
+      }
+    ],
+    "date": "2026-10-08"
   }
 }
