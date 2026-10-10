@@ -233087,7 +233087,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/22/furnished-studio-alta-v1ew-jvc-high-flo-2-108707/",
     "first_seen": "2026-06-22",
-    "last_seen": "2026-09-22"
+    "last_seen": "2026-10-10"
   },
   "17612790": {
     "title": "End Corner Unit 5BR Villa | Best price | Only Serous Buyers Pls.",
@@ -249831,7 +249831,7 @@
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/23/luxury-office-bayswater-omniyat-canal-v-2-145876/",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-10-09"
+    "last_seen": "2026-10-10"
   },
   "9824025": {
     "title": "Retail | Investment Opportunity | Direct Developer",
@@ -305370,7 +305370,7 @@
     "last_seen": "2026-08-25"
   },
   "17852732": {
-    "title": "Spacious 1BR Apartment | Courtyard View | Vacant On Transfer",
+    "title": "Spacious 1BR Apartment || Courtyard View || Vacant On Transfer",
     "price": 1090000,
     "size": "995",
     "bedrooms": "1",
@@ -305380,7 +305380,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/11/spacious-1br-apartment-courtyard-view-u-2-229836/",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-08-26"
+    "last_seen": "2026-10-10"
   },
   "17846785": {
     "title": "Location | Semi Detatch | G + 2",
@@ -360214,7 +360214,7 @@
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/6/private-floor-blue-chip-co-360-view-9-y-2-160665/",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09"
+    "last_seen": "2026-10-10"
   },
   "17027381": {
     "title": "Vastu | High Floor | Vacant | 3 bed+maids",
@@ -362241,6 +362241,175 @@
     "city": "Dubai",
     "category": "Land",
     "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/10/rare-corner-plot-prime-location-freehol-2-291829/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "18064934": {
+    "title": "More Space, Corner Layout | High-Floor Studio at Skyhills",
+    "price": 860000,
+    "size": "574",
+    "bedrooms": "0",
+    "bathrooms": "1",
+    "area": "Dubai Science Park",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/more-space-corner-layout-high-floor-stu-2-228993/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "18064919": {
+    "title": "Resort-Style Amenities Every Day | Brand-New Furnished Studio",
+    "price": 740000,
+    "size": "447",
+    "bedrooms": "0",
+    "bathrooms": "1",
+    "area": "Dubai Science Park",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/resort-style-amenities-every-day-brand--2-109318/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "17679087": {
+    "title": "Cash Deal | Fully Furnished 2BR in Dubai South | Post-Handover Payment Plan Available",
+    "price": 772273,
+    "size": "583",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "area": "Dubai South",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/5/studio-50-during-construction-50-on-han-2-253967/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "18137653": {
+    "title": "High-Floor 2BR | Azizi Central | City & Garden Views | Balcony",
+    "price": 1690000,
+    "size": "1273",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "area": "Al Furjan",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/10/high-floor-2br-azizi-central-city-garde-2-171460/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9836678": {
+    "title": "Brand New Warehouse \u2013 12 Meter Height & High Power Capacity",
+    "price": 22000000,
+    "size": "76352",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Industrial City",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/24/brand-new-warehouse-12-meter-height-hig-2-294631/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9835487": {
+    "title": "Al Quoz 16,600 sq. Ft total plot area with built-in warehouses available for sale",
+    "price": 7500000,
+    "size": "16600",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Al Quoz",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/17/al-quoz-16000-sq-ft-total-plot-area-wit-2-223402/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9837306": {
+    "title": "Prime 270,000 Sq. Ft. Industrial Land with 80,000 Sq. Ft. Warehouse for Sale in DIC",
+    "price": 27000000,
+    "size": "80428",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Industrial City",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/29/prime-270000-sq-ft-industrial-land-with-2-262338/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9838555": {
+    "title": "Good investment fully rented warehouse for sale in Dubai investment park",
+    "price": 125000000,
+    "size": "376790",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Investments Park (DIP)",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/10/5/good-investment-fully-rented-warehouse--2-222481/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9836019": {
+    "title": "SHOWROOM READY | EVICTION NOTICE SERVED",
+    "price": 19718400,
+    "size": "32864",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Investments Park (DIP)",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/21/standalone-warehouse-tenant-high-roi-po-2-305595/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9830598": {
+    "title": "Warehouse Compound|DIP2 (13% Gross Roi (No Agents)",
+    "price": 36000000,
+    "size": "63000",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Investments Park (DIP)",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/8/13/warehouse-compounddip2-13-gross-roi-no--2-141290/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9830597": {
+    "title": "WAREHOUSE | FACTORY PICAS | HIGH ELECTRICITY",
+    "price": 46000000,
+    "size": "70000",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Investments Park (DIP)",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/8/13/warehouse-factory-high-electricity-2-831434/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9830985": {
+    "title": "WAREHOUSE | BEST DEAL | PRIME LOCATION",
+    "price": 5900000,
+    "size": "8500",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Dubai Investments Park (DIP)",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/8/15/warehouse-best-deal-prime-location-2-317848/",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  "9831933": {
+    "title": "Al Qouz Industrial Area 24,000 Sq. Ft warehouse with built-in front showroom",
+    "price": 24000000,
+    "size": "24000",
+    "bedrooms": "",
+    "bathrooms": "",
+    "area": "Al Quoz",
+    "city": "Dubai",
+    "category": "Warehouse",
+    "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/8/22/al-qouz-industrial-area-24000-sq-ft-war-2-691246/",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10"
   }
