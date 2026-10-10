@@ -1,23 +1,9 @@
 {
-  "total_tracked": 24580,
-  "total_drops": 500,
-  "total_new": 24580,
-  "last_updated": "2026-10-09T20:35:17Z",
+  "total_tracked": 24581,
+  "total_drops": 501,
+  "total_new": 24581,
+  "last_updated": "2026-10-10T04:34:36Z",
   "drops": [
-    {
-      "id": "16889953",
-      "title": "AED 685/month | 0 Downpayment | Free 3 Months Warranty | 30 Day Return | GEELY COOLRAY 2025",
-      "old_price": 49399,
-      "new_price": 43690,
-      "drop_pct": 11.6,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/coolray/2026/06/28/aed-685month-0-downpayment-free-3-months-w-2-656---79e7f69212334158bff39bb02f34bea7/",
-      "category": "Used Cars",
-      "make": "Geely",
-      "model": "Coolray",
-      "year": "2025",
-      "mileage": "32406",
-      "date": "2026-09-08T08:39:25Z"
-    },
     {
       "id": "16924273",
       "title": "ROX 01 | VIP 6 SEATS | LONG RANGE | BIG BATTERY 2026",
@@ -7003,9 +6989,35 @@
       "year": "2023",
       "mileage": "97000",
       "date": "2026-10-09T15:00:47Z"
+    },
+    {
+      "id": "16972226",
+      "title": "AED 7126/month | 2023 Land Rover Range Rover P530 Autobiography | GCC Specs | Ref#511312",
+      "old_price": 499000,
+      "new_price": 469000,
+      "drop_pct": 6.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/09/10/aed-7126month-2023-land-rover-range-rover--2-264---ab1c388343c74426af02220b7be77323/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2023",
+      "mileage": "51112",
+      "date": "2026-10-10T04:34:36Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100540448",
+      "title": "AED 10408/month | 2023 Mercedes-Benz G-Class G 63 AMG | GCC Specs | Ref#533555",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/09/aed-10408month-2023-mercedes-benz-g-class--2-199---b6863bbd92054cfa9c66d358a79c316c/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2023",
+      "mileage": "31527",
+      "price": 685000,
+      "first_seen": "2026-10-10T04:34:36Z"
+    },
     {
       "id": "100541456",
       "title": "2016 Nissan Sunny GCC Specs in Very Good Condition",
@@ -12992,18 +13004,6 @@
       "year": "2014",
       "mileage": "105000",
       "price": 30000,
-      "first_seen": "2026-10-04T04:34:51Z"
-    },
-    {
-      "id": "100471429",
-      "title": "MG5 2023 GCC Specs Top Notch Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/10/04/mg5-2023-gcc-specs-top-notch-condition-2-645---80551a306f4745458f5f45d8819091f1/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "MG5",
-      "year": "2023",
-      "mileage": "104000",
-      "price": 22999,
       "first_seen": "2026-10-04T04:34:51Z"
     }
   ]
