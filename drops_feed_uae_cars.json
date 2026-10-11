@@ -1,8 +1,8 @@
 {
-  "total_tracked": 24662,
-  "total_drops": 504,
-  "total_new": 24662,
-  "last_updated": "2026-10-10T23:17:32Z",
+  "total_tracked": 24664,
+  "total_drops": 500,
+  "total_new": 24664,
+  "last_updated": "2026-10-11T04:19:03Z",
   "drops": [
     {
       "id": "16896547",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100553822",
+      "title": "1 YEAR / 20,000 KM WARRANTY | 1.5 L | GCC | AED 1100 PM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx5/2026/10/11/1-year-20000-km-warranty-15-l-gcc-aed-1100-2-383---5cd31e8101b74d149340b12f41c4088b/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "RX5",
+      "year": "2025",
+      "mileage": "10",
+      "price": 66900,
+      "first_seen": "2026-10-11T04:19:03Z"
+    },
+    {
+      "id": "100553818",
+      "title": "GAC WARRANTY | 2.0 GX | GCC | AED 1150 PM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/10/11/gac-warranty-20-gx-gcc-aed-1150-pm-2-718---96a22efd046445d4a205e2176198b4d9/",
+      "category": "Used Cars",
+      "make": "GAC",
+      "model": "GS8",
+      "year": "2023",
+      "mileage": "52133",
+      "price": 69900,
+      "first_seen": "2026-10-11T04:19:03Z"
+    },
+    {
       "id": "100553667",
       "title": "LAMBORGHINI REVUELTO | GCC SPECS | DEALER WARRANTY + SERVICE CONTRACT",
       "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/revuelto/2026/10/10/lamborghini-revuelto-gcc-specs-dealer-warr-2-561---bb8b11d2b77947c99951555c847ec887/",
@@ -12980,30 +13004,6 @@
       "year": "2025",
       "mileage": "980",
       "price": 70000,
-      "first_seen": "2026-10-05T16:51:22Z"
-    },
-    {
-      "id": "100490124",
-      "title": "2024 BRABUS 900 Mercedes-AMG G 63 Japanese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/05/2024-brabus-900-mercedes-amg-g-63-japanese-2-747---28adcfc70081402ab8e25e33d34e99d4/",
-      "category": "Used Cars",
-      "make": "BRABUS",
-      "model": "900 - Mercedes-AMG G 63",
-      "year": "2024",
-      "mileage": "9000",
-      "price": 899000,
-      "first_seen": "2026-10-05T16:51:22Z"
-    },
-    {
-      "id": "100490047",
-      "title": "2026 GEELY CITYRAY GF PLUS | 1.5L TURBO INLINE-4 | FWD | GCC | AGENCY WARRANTY + SERVICE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/cityray/2026/10/05/2026-geely-cityray-gf-plus-15l-turbo-inlin-2-584---9252c073cdf544b2b00316b90ab41ca8/",
-      "category": "Used Cars",
-      "make": "Geely",
-      "model": "CityRay",
-      "year": "2026",
-      "mileage": "10594",
-      "price": 69990,
       "first_seen": "2026-10-05T16:51:22Z"
     }
   ]

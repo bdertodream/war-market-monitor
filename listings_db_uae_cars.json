@@ -588934,5 +588934,49 @@
       }
     ],
     "date": "2026-10-10"
+  },
+  "100553822": {
+    "id": "100553822",
+    "title": "1 YEAR / 20,000 KM WARRANTY | 1.5 L | GCC | AED 1100 PM",
+    "price": 66900,
+    "make": "MG",
+    "model": "RX5",
+    "year": "2025",
+    "kilometers": "10",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/rx5/2026/10/11/1-year-20000-km-warranty-15-l-gcc-aed-1100-2-383---5cd31e8101b74d149340b12f41c4088b/",
+    "first_seen": "2026-10-11T04:19:03Z",
+    "prices": [
+      {
+        "price": 66900,
+        "date": "2026-10-11T04:19:03Z"
+      }
+    ],
+    "date": "2026-10-11"
+  },
+  "100553818": {
+    "id": "100553818",
+    "title": "GAC WARRANTY | 2.0 GX | GCC | AED 1150 PM",
+    "price": 69900,
+    "make": "GAC",
+    "model": "GS8",
+    "year": "2023",
+    "kilometers": "52133",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/10/11/gac-warranty-20-gx-gcc-aed-1150-pm-2-718---96a22efd046445d4a205e2176198b4d9/",
+    "first_seen": "2026-10-11T04:19:03Z",
+    "prices": [
+      {
+        "price": 69900,
+        "date": "2026-10-11T04:19:03Z"
+      }
+    ],
+    "date": "2026-10-11"
   }
 }
