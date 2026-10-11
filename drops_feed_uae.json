@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27878,
+  "total_tracked": 27885,
   "total_drops": 500,
-  "total_new": 27878,
+  "total_new": 27885,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,83 @@
   ],
   "new_listings": [
     {
+      "id": "18051016",
+      "title": "SPECIAL PAYMENT PLAN I 10 % DP I EMAAR COMMUNITY",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/23/special-payment-plan-i-10-dp-i-emaar-co-2-262890/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "4335",
+      "bedrooms": "4",
+      "price": 7259888,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "17990193",
+      "title": "Huge Plots | Priority Allocation | Final Cluster Of Valley",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/11/huge-plots-priority-allocation-final-cl-2-216733/",
+      "area": "The Valley by Emaar",
+      "category": "Townhouse",
+      "size": "3912",
+      "bedrooms": "4",
+      "price": 5090000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "9836666",
+      "title": "Great Location | 18 Parking | Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/24/great-location-18-parking-investment-2-247647/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "14563",
+      "bedrooms": "",
+      "price": 32000000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "9838297",
+      "title": "Great Investment Opportunity Warehouse compound for sale in",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/10/3/great-investment-opportunity-warehouse--2-196178/",
+      "area": "Dubai Investments Park (DIP)",
+      "category": "Warehouse",
+      "size": "376790",
+      "bedrooms": "",
+      "price": 125000000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "9836006",
+      "title": "Full Commercial medical Floor | High ROI | Reem by Vision, Liwan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/commercial-floor/2026/9/21/full-commercial-medical-floor-high-roi--2-802342/",
+      "area": "Liwan",
+      "category": "Commercial Floor",
+      "size": "3196",
+      "bedrooms": "",
+      "price": 9000000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "9836833",
+      "title": "Prime Industrial Warehouse For Sale In DIC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/9/26/newly-built-industrial-property-for-sal-2-250139/",
+      "area": "Dubai Industrial City",
+      "category": "Warehouse",
+      "size": "80428",
+      "bedrooms": "",
+      "price": 27000000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "9807891",
+      "title": "PREMIUM PLOT | HIGH POTENTIAL | PRESTIGIOUS LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/11/premium-plot-high-potential-prestigious-2-232877/",
+      "area": "Palm Jebel Ali",
+      "category": "Land",
+      "size": "39091",
+      "bedrooms": "",
+      "price": 109000000,
+      "first_seen": "2026-10-11"
+    },
+    {
       "id": "17982212",
       "title": "Area Expert | Internal | Vacant On Transfer",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/9/area-expert-internal-vacant-on-transfer-2-243157/",
@@ -8473,7 +8550,7 @@
     },
     {
       "id": "18115384",
-      "title": "Vastu Unit | Single row | High Capital appreciation | Flexible payment plan | Near the park",
+      "title": "Vastu Unit | Single row | High Capital appreciation | Near the park",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/6/modern-spacious-31-bed-townhouse-high-r-2-153958/",
       "area": "Dubai South",
       "category": "Townhouse",
@@ -12429,83 +12506,6 @@
       "size": "1979",
       "bedrooms": "3",
       "price": 2950000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18064383",
-      "title": "DISTRESS DEAL? I BRANDED I READY SOON I SEPTEMBER ONLY l DM",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/26/distress-deal-i-furnished-branded-i-rea-2-999398/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "913",
-      "bedrooms": "1",
-      "price": 1500000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18071987",
-      "title": "Corner Plot | Type 3E | Greenbelt Backing",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/28/corner-plot-type-3e-greenbelt-backing-2-246993/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "2735",
-      "bedrooms": "5",
-      "price": 6200000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18072330",
-      "title": "Near Amenities | Type 2E | With Maid's Room",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/28/near-amenities-type-2e-with-maids-room-2-261425/",
-      "area": "Dubai Hills Estate",
-      "category": "Townhouse",
-      "size": "2500",
-      "bedrooms": "4",
-      "price": 5800000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18072789",
-      "title": "Furnished 1BR Apartment | West Avenue | Marina & City View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/28/furnished-1br-apartment-west-avenue-mar-2-338674/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "722",
-      "bedrooms": "1",
-      "price": 1450000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18071008",
-      "title": "Single Row | Vastu | Landscaped",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/28/single-row-vastu-landscaped-2-479321/",
-      "area": "Jumeirah Park",
-      "category": "Villa",
-      "size": "3063",
-      "bedrooms": "3",
-      "price": 6700000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18093280",
-      "title": "Prime Location / Resale / Brand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/2/prime-location-resale-brand-new-2-116499/",
-      "area": "Arabian Ranches 3",
-      "category": "Villa",
-      "size": "1611",
-      "bedrooms": "3",
-      "price": 3050000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18084620",
-      "title": "Selling at OP| Panaromic View| Duplex |4 BR + Maid",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/9/30/selling-at-op-panaromic-view-duplex-4-b-2-310168/",
-      "area": "Dubai Islands",
-      "category": "Penthouse",
-      "size": "3358",
-      "bedrooms": "4",
-      "price": 10300000,
       "first_seen": "2026-10-04"
     }
   ],
