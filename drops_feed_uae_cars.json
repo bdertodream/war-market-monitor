@@ -1,37 +1,9 @@
 {
-  "total_tracked": 24722,
-  "total_drops": 500,
-  "total_new": 24722,
-  "last_updated": "2026-10-11T19:56:56Z",
+  "total_tracked": 24723,
+  "total_drops": 502,
+  "total_new": 24723,
+  "last_updated": "2026-10-11T23:29:40Z",
   "drops": [
-    {
-      "id": "16925213",
-      "title": "UNLIMITED MILEAGE WARRANTY / GCC SPECS + SEDAN + BLUETOOTH + USB + POWER LOCKS",
-      "old_price": 15950,
-      "new_price": 14490,
-      "drop_pct": 9.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/07/29/unlimited-mileage-warranty-gcc-specs-sedan-2-162---e6f954b7e7a74cea9c3ee2f221abe460/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Figo",
-      "year": "2020",
-      "mileage": "87617",
-      "date": "2026-09-08T16:05:27Z"
-    },
-    {
-      "id": "16846966",
-      "title": "(WARRANTY  1-YEAR)*Mercedes-Benz E-Class E 200 Exclusive 2019 GCC Specs",
-      "old_price": 89000,
-      "new_price": 82000,
-      "drop_pct": 7.9,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/05/21/warranty-1-yearmercedes-benz-e-class-e-200-2-635---d82103b4cd874f338ebd11dc209fb7b5/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2019",
-      "mileage": "56000",
-      "date": "2026-09-08T16:05:27Z"
-    },
     {
       "id": "16896968",
       "title": "(Warranty for a 1-year)Volkswagen Teramont Comfortline 2018 | GCC Specs | Well Maintained",
@@ -7003,9 +6975,49 @@
       "year": "2023",
       "mileage": "36000",
       "date": "2026-10-11T14:42:20Z"
+    },
+    {
+      "id": "100501585",
+      "title": "2017 Infiniti QX50 Luxury GCC Specs",
+      "old_price": 22000,
+      "new_price": 16000,
+      "drop_pct": 27.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/06/2017-infiniti-qx50-luxury-gcc-specs-2-209---31ae8c7c8fd444288b7b4d8bb81249fd/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX50",
+      "year": "2017",
+      "mileage": "200000",
+      "date": "2026-10-11T23:29:40Z"
+    },
+    {
+      "id": "100479237",
+      "title": "Mazda 3 2015 Premium GCC Specs",
+      "old_price": 22000,
+      "new_price": 19500,
+      "drop_pct": 11.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3/2026/10/04/mazda-3-2015-premium-gcc-specs-2-199---c872c10917764886a9d630d701362cd8/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "3",
+      "year": "2015",
+      "mileage": "235000",
+      "date": "2026-10-11T23:29:40Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100565500",
+      "title": "Mercedes-Benz C-Class C 300 AMG 2023 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/11/mercedes-benz-c-class-c-300-amg-2023-gcc-s-2-058---94baffefe67e49a09ce6990d0be786d3/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2023",
+      "mileage": "89000",
+      "price": 149000,
+      "first_seen": "2026-10-11T23:29:40Z"
+    },
     {
       "id": "100564484",
       "title": "AED 1,000 Monthly - No Down Payment | 2020 Model | US Specs | 2.5L 4-Cyl engine",
@@ -7800,14 +7812,14 @@
     },
     {
       "id": "100501585",
-      "title": "2017 Infiniti QX50 Luxury GCC Specs fix price",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/06/2017-infiniti-qx50-luxury-gcc-specs-fix-pr-2-202---31ae8c7c8fd444288b7b4d8bb81249fd/",
+      "title": "2017 Infiniti QX50 Luxury GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/06/2017-infiniti-qx50-luxury-gcc-specs-2-209---31ae8c7c8fd444288b7b4d8bb81249fd/",
       "category": "Used Cars",
       "make": "Infiniti",
       "model": "QX50",
       "year": "2017",
       "mileage": "200000",
-      "price": 22000,
+      "price": 16000,
       "first_seen": "2026-10-10T23:17:32Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2024",
       "mileage": "45849",
       "price": 73499,
-      "first_seen": "2026-10-06T11:03:28Z"
-    },
-    {
-      "id": "100369728",
-      "title": "AED 1,459/month | 0 Downpayment | Free 3 Months Warranty | 30 Day Return | TOYOTA FORTUNER 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fortuner/2026/09/25/aed-1459month-0-downpayment-free-3-months--2-407---829ace56d4154cef803f30ba9b06e525/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Fortuner",
-      "year": "2024",
-      "mileage": "73376",
-      "price": 95999,
       "first_seen": "2026-10-06T11:03:28Z"
     }
   ]

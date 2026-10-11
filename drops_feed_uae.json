@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27905,
+  "total_tracked": 27908,
   "total_drops": 500,
-  "total_new": 27905,
+  "total_new": 27908,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7306,6 +7306,39 @@
       "first_seen": "2026-10-11"
     },
     {
+      "id": "18122217",
+      "title": "Exclusive | Investor Opportunity | Boulevard View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/exclusive-investor-opportunity-boulevar-2-289017/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "1611",
+      "bedrooms": "3",
+      "price": 3150000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "18122107",
+      "title": "Elegant 1BR Apartment | Low Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/elegant-1br-apartment-low-floor-2-219955/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "704",
+      "bedrooms": "1",
+      "price": 1900000,
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "18121955",
+      "title": "Boulevard View | Largest Layout | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/boulevard-view-largest-layout-vacant-2-150181/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "1652",
+      "bedrooms": "2",
+      "price": 4234888,
+      "first_seen": "2026-10-11"
+    },
+    {
       "id": "17982212",
       "title": "Area Expert | Internal | Vacant On Transfer",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/9/area-expert-internal-vacant-on-transfer-2-243157/",
@@ -12473,39 +12506,6 @@
       "size": "1601",
       "bedrooms": "2",
       "price": 3450000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18031053",
-      "title": "High Floor | Largest Layout | VOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/19/high-floor-largest-layout-vot-2-416383/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "2109",
-      "bedrooms": "3",
-      "price": 7700000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18027601",
-      "title": "Vacant | Fully Upgraded | Burj and Sea View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/19/vacant-fully-upgraded-burj-and-sea-view-2-860810/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "3012",
-      "bedrooms": "4",
-      "price": 15500000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18009424",
-      "title": "High Floor | Corner Layout | Burj Khalifa View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/15/high-floor-corner-layout-burj-khalifa-v-2-316687/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "861",
-      "bedrooms": "1",
-      "price": 2430000,
       "first_seen": "2026-10-04"
     }
   ],

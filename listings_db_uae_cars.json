@@ -577042,7 +577042,7 @@
   "100479237": {
     "id": "100479237",
     "title": "Mazda 3 2015 Premium GCC Specs",
-    "price": 22000,
+    "price": 19500,
     "make": "Mazda",
     "model": "3",
     "year": "2015",
@@ -577051,7 +577051,7 @@
     "fuel_type": "Petrol",
     "area": "Hanover Square",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3/2026/10/04/mazda-3-2015-premium-gcc-specs-2-070---c872c10917764886a9d630d701362cd8/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3/2026/10/04/mazda-3-2015-premium-gcc-specs-2-199---c872c10917764886a9d630d701362cd8/",
     "first_seen": "2026-10-04T19:14:35Z",
     "prices": [
       {
@@ -577061,6 +577061,10 @@
       {
         "price": 22000,
         "date": "2026-10-10T23:17:32Z"
+      },
+      {
+        "price": 19500,
+        "date": "2026-10-11T23:29:40Z"
       }
     ],
     "date": "2026-10-04"
@@ -588993,8 +588997,8 @@
   },
   "100501585": {
     "id": "100501585",
-    "title": "2017 Infiniti QX50 Luxury GCC Specs fix price",
-    "price": 22000,
+    "title": "2017 Infiniti QX50 Luxury GCC Specs",
+    "price": 16000,
     "make": "Infiniti",
     "model": "QX50",
     "year": "2017",
@@ -589003,12 +589007,16 @@
     "fuel_type": "Petrol",
     "area": "Hanover Square",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/06/2017-infiniti-qx50-luxury-gcc-specs-fix-pr-2-202---31ae8c7c8fd444288b7b4d8bb81249fd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/06/2017-infiniti-qx50-luxury-gcc-specs-2-209---31ae8c7c8fd444288b7b4d8bb81249fd/",
     "first_seen": "2026-10-10T23:17:32Z",
     "prices": [
       {
         "price": 22000,
         "date": "2026-10-10T23:17:32Z"
+      },
+      {
+        "price": 16000,
+        "date": "2026-10-11T23:29:40Z"
       }
     ],
     "date": "2026-10-10"
@@ -590351,6 +590359,28 @@
       {
         "price": 139000,
         "date": "2026-10-11T19:56:56Z"
+      }
+    ],
+    "date": "2026-10-11"
+  },
+  "100565500": {
+    "id": "100565500",
+    "title": "Mercedes-Benz C-Class C 300 AMG 2023 GCC Specs",
+    "price": 149000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2023",
+    "kilometers": "89000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/11/mercedes-benz-c-class-c-300-amg-2023-gcc-s-2-058---94baffefe67e49a09ce6990d0be786d3/",
+    "first_seen": "2026-10-11T23:29:40Z",
+    "prices": [
+      {
+        "price": 149000,
+        "date": "2026-10-11T23:29:40Z"
       }
     ],
     "date": "2026-10-11"

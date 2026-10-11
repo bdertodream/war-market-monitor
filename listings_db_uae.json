@@ -52985,7 +52985,7 @@
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/13/great-location-furnished-competitive-pr-2-152231/",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-10-08"
+    "last_seen": "2026-10-11"
   },
   "9780620": {
     "title": "CUSTOM BUILD VILLA PLOT|SINGLE ROW|G+1",
@@ -168997,7 +168997,7 @@
     "category": "Land",
     "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/7/hot-deal-i-marina-skyline-view-i-g4-2-252998/",
     "first_seen": "2026-05-07",
-    "last_seen": "2026-10-10"
+    "last_seen": "2026-10-11"
   },
   "9761153": {
     "title": "G+4 | Strategic location | Opportunity Investment",
@@ -320512,7 +320512,7 @@
     "category": "Townhouse",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/29/flexible-payment-plan-golden-visa-inves-2-875125/",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-27"
+    "last_seen": "2026-10-11"
   },
   "17924837": {
     "title": "Exclusive | Upgraded 5 BR Villa I Private Pool",
@@ -362761,6 +362761,45 @@
     "city": "Dubai",
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/palm-views-best-price-private-beach-2-311849/",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11"
+  },
+  "18122217": {
+    "title": "Exclusive | Investor Opportunity | Boulevard View",
+    "price": 3150000,
+    "size": "1611",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "area": "Dubai Hills Estate",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/exclusive-investor-opportunity-boulevar-2-289017/",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11"
+  },
+  "18122107": {
+    "title": "Elegant 1BR Apartment | Low Floor",
+    "price": 1900000,
+    "size": "704",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "area": "Dubai Hills Estate",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/elegant-1br-apartment-low-floor-2-219955/",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11"
+  },
+  "18121955": {
+    "title": "Boulevard View | Largest Layout | Vacant",
+    "price": 4234888,
+    "size": "1652",
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "area": "Dubai Hills Estate",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/7/boulevard-view-largest-layout-vacant-2-150181/",
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11"
   }
