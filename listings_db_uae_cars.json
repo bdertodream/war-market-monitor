@@ -430439,8 +430439,8 @@
   },
   "16918802": {
     "id": "16918802",
-    "title": "AED 8813/month | 2021 Bentley Continental GT W12 | GCC Specs | Ref#496545",
-    "price": 580000,
+    "title": "AED 8661/month | 2021 Bentley Continental GT W12 | GCC Specs | Ref#496545",
+    "price": 570000,
     "make": "Bentley",
     "model": "Continental",
     "year": "2021",
@@ -430449,7 +430449,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/8/17/aed-9116month-2021-bentley-continental-gt--2-663---ae3878d3cfe3401db1a793103d33b4b8/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/07/23/aed-8661month-2021-bentley-continental-gt--2-013---ae3878d3cfe3401db1a793103d33b4b8/",
     "first_seen": "2026-07-24T13:45:33Z",
     "prices": [
       {
@@ -430459,6 +430459,10 @@
       {
         "price": 580000,
         "date": "2026-08-17T08:43:17Z"
+      },
+      {
+        "price": 570000,
+        "date": "2026-10-12T04:35:46Z"
       }
     ],
     "date": "2026-07-24"
@@ -531506,7 +531510,7 @@
   "16972002": {
     "id": "16972002",
     "title": "2026 Nissan Patrol Nismo",
-    "price": 490000,
+    "price": 440000,
     "make": "Nissan",
     "model": "Patrol",
     "year": "2026",
@@ -531515,12 +531519,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/10/2026-nissan-patrol-nismo-2-607---10967a258d2a4f22aacda22832cdc37f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/10/2026-nissan-patrol-nismo-2-890---10967a258d2a4f22aacda22832cdc37f/",
     "first_seen": "2026-09-10T18:59:12Z",
     "prices": [
       {
         "price": 490000,
         "date": "2026-09-10T18:59:12Z"
+      },
+      {
+        "price": 440000,
+        "date": "2026-10-12T04:35:46Z"
       }
     ],
     "date": "2026-09-10"
@@ -534808,7 +534816,7 @@
   "16973932": {
     "id": "16973932",
     "title": "Land Rover Service History | Land Rover Discovery Sport 2016 HSE Luxury GCC Specification (1 Owner)",
-    "price": 29000,
+    "price": 27000,
     "make": "Land Rover",
     "model": "Discovery Sport",
     "year": "2016",
@@ -534817,12 +534825,16 @@
     "fuel_type": "Petrol",
     "area": "Nad Al Sheba",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery-sport/2026/09/12/land-rover-service-history-land-rover-disc-2-435---66b64bccd5384df29ba02666a9b92fc4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery-sport/2026/09/12/land-rover-service-history-land-rover-disc-2-148---66b64bccd5384df29ba02666a9b92fc4/",
     "first_seen": "2026-09-12T08:24:29Z",
     "prices": [
       {
         "price": 29000,
         "date": "2026-09-12T08:24:29Z"
+      },
+      {
+        "price": 27000,
+        "date": "2026-10-12T04:35:46Z"
       }
     ],
     "date": "2026-09-12"
@@ -534830,7 +534842,7 @@
   "16973925": {
     "id": "16973925",
     "title": "Toyota 86 VTX Automatic 2018 GCC Specifications (Single Owner)",
-    "price": 45000,
+    "price": 38000,
     "make": "Toyota",
     "model": "86",
     "year": "2018",
@@ -534839,12 +534851,16 @@
     "fuel_type": "Petrol",
     "area": "Nad Al Sheba",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/86/2026/09/12/toyota-86-vtx-automatic-2018-gcc-specifica-2-861---5e33ab1d7f7648609c7861ffd0d036c1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/86/2026/09/12/toyota-86-vtx-automatic-2018-gcc-specifica-2-270---5e33ab1d7f7648609c7861ffd0d036c1/",
     "first_seen": "2026-09-12T08:24:29Z",
     "prices": [
       {
         "price": 45000,
         "date": "2026-09-12T08:24:29Z"
+      },
+      {
+        "price": 38000,
+        "date": "2026-10-12T04:35:46Z"
       }
     ],
     "date": "2026-09-12"
@@ -590384,5 +590400,137 @@
       }
     ],
     "date": "2026-10-11"
+  },
+  "100533144": {
+    "id": "100533144",
+    "title": "AED 7749/month | 2024 Land Rover Range Rover  | GCC Specs | Ref#532073",
+    "price": 510000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2024",
+    "kilometers": "27244",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/09/aed-7749month-2024-land-rover-range-rover--2-085---b6e689299b1b493b974024b3a64e42f0/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 510000,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100444278": {
+    "id": "100444278",
+    "title": "AED 9101/month | 2024 Porsche 718 Cayman GT4 RS | GCC Specs | Ref#531988",
+    "price": 599000,
+    "make": "Porsche",
+    "model": "718",
+    "year": "2024",
+    "kilometers": "20273",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718/2026/10/01/aed-9101month-2024-porsche-718-cayman-gt4--2-361---01d69546ecbc42bd92fd0ec8f3525e78/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 599000,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100566333": {
+    "id": "100566333",
+    "title": "2009 Mitsubishi Pajero GLS GCC Specs New Battery",
+    "price": 11900,
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": "2009",
+    "kilometers": "169000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Naif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/10/12/2009-mitsubishi-pajero-gls-gcc-specs-new-b-2-809---72f4a4c8f1234fe9894451a4908d884a/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 11900,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100566209": {
+    "id": "100566209",
+    "title": "Ford Edge 2013 SEL GCC Specs. RTA passed. Leather electric seats. Cruise. Number lock.",
+    "price": 12000,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2013",
+    "kilometers": "152000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/10/12/ford-edge-2013-sel-gcc-specs-rta-passed-le-2-613---20917c6e3617413a87848a26d56a9903/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 12000,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "16931608": {
+    "id": "16931608",
+    "title": "!! 2021 !! Infiniti | QX80 Sensory | GCC Specs | Low Mileage",
+    "price": 118000,
+    "make": "Infiniti",
+    "model": "QX80",
+    "year": "2021",
+    "kilometers": "112148",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/08/04/2021-infiniti-qx80-sensory-gcc-specs-low-m-2-795---3ab8fdaac2ea4fa6845096ed9bd7fc66/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 118000,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100565698": {
+    "id": "100565698",
+    "title": "Chevrolet Tahoe RST 2021 | American Specs",
+    "price": 112000,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": "2021",
+    "kilometers": "82500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/12/chevrolet-tahoe-rst-2021-american-specs-2-585---22c225667b4048fc9f4cec7a3e73d526/",
+    "first_seen": "2026-10-12T04:35:46Z",
+    "prices": [
+      {
+        "price": 112000,
+        "date": "2026-10-12T04:35:46Z"
+      }
+    ],
+    "date": "2026-10-12"
   }
 }

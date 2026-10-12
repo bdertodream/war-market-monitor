@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 27908,
+  "total_tracked": 27912,
   "total_drops": 500,
-  "total_new": 27908,
+  "total_new": 27912,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,50 @@
   ],
   "new_listings": [
     {
+      "id": "17888905",
+      "title": "VASTU | Vacant Soon | Multiple Options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/20/hot-deal-vacant-soon-chiller-free-2-209842/",
+      "area": "Dubai South",
+      "category": "Townhouse",
+      "size": "1462",
+      "bedrooms": "3",
+      "price": 2150000,
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "18091827",
+      "title": "3 BEDS | SINGLE ROW | VASTU COMPLIANT | HANDOVER SOON",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/1/3beds-single-row-vastu-ready-to-move-2-315013/",
+      "area": "Arabian Ranches 3",
+      "category": "Townhouse",
+      "size": "1995",
+      "bedrooms": "3",
+      "price": 2900000,
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "18088946",
+      "title": "Fully Upgraded | Rare to Market | Golf Backing",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/fully-upgraded-rare-to-market-golf-back-2-598187/",
+      "area": "DAMAC Hills",
+      "category": "Apartment",
+      "size": "2354",
+      "bedrooms": "3",
+      "price": 5950000,
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "18132048",
+      "title": "Vastu | Upgraded | Huge Plot | Cul-de-sac",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/9/vastu-upgraded-huge-plot-cul-de-sac-2-255453/",
+      "area": "Green Community",
+      "category": "Villa",
+      "size": "5991",
+      "bedrooms": "5",
+      "price": 8199999,
+      "first_seen": "2026-10-12"
+    },
+    {
       "id": "18051016",
       "title": "SPECIAL PAYMENT PLAN I 10 % DP I EMAAR COMMUNITY",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/23/special-payment-plan-i-10-dp-i-emaar-co-2-262890/",
@@ -12463,52 +12507,8 @@
       "bedrooms": "4",
       "price": 14990000,
       "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18096770",
-      "title": "One of a Kind 4BR | Large Plot | Private Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/2/one-of-a-kind-4br-large-plot-private-po-2-339126/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "10048",
-      "bedrooms": "4",
-      "price": 8450000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "17934718",
-      "title": "Direct Lake Facing | Single Row | Type 3M | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/31/direct-lake-facing-single-row-type-3m-v-2-234078/",
-      "area": "The Springs",
-      "category": "Villa",
-      "size": "2377",
-      "bedrooms": "3",
-      "price": 5350000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "18026119",
-      "title": "Loft 1BR | Prime Location | City Skyline & Horizon View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/18/loft-1br-prime-location-city-skyline-ho-2-228744/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1362",
-      "bedrooms": "1",
-      "price": 4992000,
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "17992628",
-      "title": "Below OP Price | Sea view | Motivated seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/dubai-island-sea-view-motivated-seller-2-159974/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1601",
-      "bedrooms": "2",
-      "price": 3450000,
-      "first_seen": "2026-10-04"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-11"
+  "last_updated": "2026-10-12"
 }
