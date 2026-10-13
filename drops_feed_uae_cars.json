@@ -1,37 +1,9 @@
 {
-  "total_tracked": 24775,
-  "total_drops": 505,
-  "total_new": 24775,
-  "last_updated": "2026-10-12T17:26:40Z",
+  "total_tracked": 24778,
+  "total_drops": 502,
+  "total_new": 24778,
+  "last_updated": "2026-10-13T01:51:08Z",
   "drops": [
-    {
-      "id": "16888936",
-      "title": "M Sport | AED 2,583 PM | Warranty & Service Available for 2,217.00 AED monthly",
-      "old_price": 165000,
-      "new_price": 155000,
-      "drop_pct": 6.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/06/27/m-sport-aed-2583-pm-warranty-service-avail-2-942---37143074c23146dd9cf63d187620add7/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "3-Series",
-      "year": "2025",
-      "mileage": "20",
-      "date": "2026-09-08T22:24:19Z"
-    },
-    {
-      "id": "16891536",
-      "title": "Brand New | M Sport | Service and Warranty Available for 2,217.00 AED monthly",
-      "old_price": 165000,
-      "new_price": 155000,
-      "drop_pct": 6.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/06/29/brand-new-m-sport-service-and-warranty-ava-2-351---fe5401874cd5446ea857faf8b4fcd661/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "3-Series",
-      "year": "2025",
-      "mileage": "20",
-      "date": "2026-09-08T22:24:19Z"
-    },
     {
       "id": "16930441",
       "title": "Bmw x5",
@@ -7003,9 +6975,73 @@
       "year": "2019",
       "mileage": "129611",
       "date": "2026-10-12T17:26:40Z"
+    },
+    {
+      "id": "16957050",
+      "title": "ELITE RANGE ROVER SPORT || SUPERCHARGED || TOP RANGE || REAR SCREENS || VERY NEAT || PANORAMIC",
+      "old_price": 169000,
+      "new_price": 159000,
+      "drop_pct": 5.9,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/08/27/elite-range-rover-sport-supercharged-top-r-2-351---eca25824bebc462db74436912616aabd/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2020",
+      "mileage": "79000",
+      "date": "2026-10-13T01:51:08Z"
+    },
+    {
+      "id": "16969238",
+      "title": "Audi A5 2019 45 TFSI quattro S line | GCC Specs | Low Mileage",
+      "old_price": 46000,
+      "new_price": 39000,
+      "drop_pct": 15.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/09/08/audi-a5-2019-45-tfsi-quattro-s-line-gcc-sp-2-073---688c5d59f9764ceabdcdb8b191d51e0f/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A5",
+      "year": "2019",
+      "mileage": "188000",
+      "date": "2026-10-13T01:51:08Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100576872",
+      "title": "LOVELY BMW 750LI V8 || TOP OPTIONS || F.S.H || GCC || SCREENS || RADAR || PANORAMIC ROOF",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/10/12/lovely-bmw-750li-v8-top-options-fsh-gcc-sc-2-673---faf680a9c1ef4acfb549a5f8b4f174b8/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2018",
+      "mileage": "100000",
+      "price": 99000,
+      "first_seen": "2026-10-13T01:51:08Z"
+    },
+    {
+      "id": "100576569",
+      "title": "2022 GMC Sierra Denali Ultimate GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra/2026/10/12/2022-gmc-sierra-denali-ultimate-gcc-specs-2-031---90b3c59bc4934c939450c81550308a23/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Sierra",
+      "year": "2022",
+      "mileage": "114500",
+      "price": 192000,
+      "first_seen": "2026-10-13T01:51:08Z"
+    },
+    {
+      "id": "100575475",
+      "title": "2020 Nissan Sentra SV American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sentra/2026/10/12/2020-nissan-sentra-sv-american-specs-2-607---73f54de5e4dd4f0fb2c0cab993c57db9/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": "2020",
+      "mileage": "100900",
+      "price": 26888,
+      "first_seen": "2026-10-13T01:51:08Z"
+    },
     {
       "id": "100439343",
       "title": "Mazda CX-9, Model 2016",
@@ -12968,42 +13004,6 @@
       "year": "2016",
       "mileage": "65000",
       "price": 40500,
-      "first_seen": "2026-10-06T18:00:14Z"
-    },
-    {
-      "id": "100502286",
-      "title": "Ford Mustang 2015 Ecoboost Premium GCC Specs 2.3L",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/06/ford-mustang-2015-ecoboost-premium-gcc-spe-2-650---a4148767c65b4e19a0c749e362b7449a/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Mustang",
-      "year": "2015",
-      "mileage": "81000",
-      "price": 53000,
-      "first_seen": "2026-10-06T18:00:14Z"
-    },
-    {
-      "id": "100502274",
-      "title": "2015 Honda Pilot EX GCC Specs in Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/pilot/2026/10/06/2015-honda-pilot-ex-gcc-specs-in-excellent-2-561---64f80b9ae0804d0c9b5cc2f2a6e18bce/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Pilot",
-      "year": "2015",
-      "mileage": "342000",
-      "price": 22000,
-      "first_seen": "2026-10-06T18:00:14Z"
-    },
-    {
-      "id": "100502158",
-      "title": "Ford Mustang 2014 V6 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/06/ford-mustang-2014-v6-gcc-specs-2-405---a65faaac882b41ea8d2da41f667a9fb4/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Mustang",
-      "year": "2014",
-      "mileage": "185000",
-      "price": 23000,
       "first_seen": "2026-10-06T18:00:14Z"
     }
   ]

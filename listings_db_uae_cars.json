@@ -522762,7 +522762,7 @@
   "16954931": {
     "id": "16954931",
     "title": "AUTOBIOGRAPHY SUPERCHARGED RR VOGUE || F.S.H || HEADS-UP DISPLAY || GCC II TOP RANGE I| REAR SCREENS",
-    "price": 159000,
+    "price": 169000,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2019",
@@ -522777,6 +522777,10 @@
       {
         "price": 159000,
         "date": "2026-09-06T08:24:43Z"
+      },
+      {
+        "price": 169000,
+        "date": "2026-10-13T01:51:08Z"
       }
     ],
     "date": "2026-09-06"
@@ -525588,7 +525592,7 @@
   "16957050": {
     "id": "16957050",
     "title": "ELITE RANGE ROVER SPORT || SUPERCHARGED || TOP RANGE || REAR SCREENS || VERY NEAT || PANORAMIC",
-    "price": 169000,
+    "price": 159000,
     "make": "Land Rover",
     "model": "Range Rover Sport",
     "year": "2020",
@@ -525597,12 +525601,16 @@
     "fuel_type": "Petrol",
     "area": "Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/08/27/elite-range-rover-sport-supercharged-top-r-2-166---eca25824bebc462db74436912616aabd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/08/27/elite-range-rover-sport-supercharged-top-r-2-351---eca25824bebc462db74436912616aabd/",
     "first_seen": "2026-09-07T22:33:01Z",
     "prices": [
       {
         "price": 169000,
         "date": "2026-09-07T22:33:01Z"
+      },
+      {
+        "price": 159000,
+        "date": "2026-10-13T01:51:08Z"
       }
     ],
     "date": "2026-09-07"
@@ -537832,7 +537840,7 @@
   "16969238": {
     "id": "16969238",
     "title": "Audi A5 2019 45 TFSI quattro S line | GCC Specs | Low Mileage",
-    "price": 46000,
+    "price": 39000,
     "make": "Audi",
     "model": "A5",
     "year": "2019",
@@ -537841,12 +537849,16 @@
     "fuel_type": "Petrol",
     "area": "Nad Al Hamar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/09/08/audi-a5-2019-45-tfsi-quattro-s-line-gcc-sp-2-736---688c5d59f9764ceabdcdb8b191d51e0f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a5/2026/09/08/audi-a5-2019-45-tfsi-quattro-s-line-gcc-sp-2-073---688c5d59f9764ceabdcdb8b191d51e0f/",
     "first_seen": "2026-09-14T09:37:18Z",
     "prices": [
       {
         "price": 46000,
         "date": "2026-09-14T09:37:18Z"
+      },
+      {
+        "price": 39000,
+        "date": "2026-10-13T01:51:08Z"
       }
     ],
     "date": "2026-09-14"
@@ -574174,7 +574186,7 @@
   "100295488": {
     "id": "100295488",
     "title": "2015 Kia Sportage LX GCC Specs",
-    "price": 19000,
+    "price": 22500,
     "make": "Kia",
     "model": "Sportage",
     "year": "2015",
@@ -574189,6 +574201,10 @@
       {
         "price": 19000,
         "date": "2026-10-02T14:29:58Z"
+      },
+      {
+        "price": 22500,
+        "date": "2026-10-13T01:51:08Z"
       }
     ],
     "date": "2026-10-02"
@@ -591601,6 +591617,72 @@
       {
         "price": 178000,
         "date": "2026-10-12T17:26:40Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100576872": {
+    "id": "100576872",
+    "title": "LOVELY BMW 750LI V8 || TOP OPTIONS || F.S.H || GCC || SCREENS || RADAR || PANORAMIC ROOF",
+    "price": 99000,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2018",
+    "kilometers": "100000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/10/12/lovely-bmw-750li-v8-top-options-fsh-gcc-sc-2-673---faf680a9c1ef4acfb549a5f8b4f174b8/",
+    "first_seen": "2026-10-13T01:51:08Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-10-13T01:51:08Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100576569": {
+    "id": "100576569",
+    "title": "2022 GMC Sierra Denali Ultimate GCC Specs",
+    "price": 192000,
+    "make": "GMC",
+    "model": "Sierra",
+    "year": "2022",
+    "kilometers": "114500",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra/2026/10/12/2022-gmc-sierra-denali-ultimate-gcc-specs-2-031---90b3c59bc4934c939450c81550308a23/",
+    "first_seen": "2026-10-13T01:51:08Z",
+    "prices": [
+      {
+        "price": 192000,
+        "date": "2026-10-13T01:51:08Z"
+      }
+    ],
+    "date": "2026-10-12"
+  },
+  "100575475": {
+    "id": "100575475",
+    "title": "2020 Nissan Sentra SV American Specs",
+    "price": 26888,
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": "2020",
+    "kilometers": "100900",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Arjan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sentra/2026/10/12/2020-nissan-sentra-sv-american-specs-2-607---73f54de5e4dd4f0fb2c0cab993c57db9/",
+    "first_seen": "2026-10-13T01:51:08Z",
+    "prices": [
+      {
+        "price": 26888,
+        "date": "2026-10-13T01:51:08Z"
       }
     ],
     "date": "2026-10-12"
