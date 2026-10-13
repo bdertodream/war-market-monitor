@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28142,
+  "total_tracked": 28144,
   "total_drops": 500,
-  "total_new": 28142,
+  "total_new": 28144,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -9000,6 +9000,28 @@
       "first_seen": "2026-10-13"
     },
     {
+      "id": "17730487",
+      "title": "1 Bedroom Apartment | Equiti Gate Jebel Ali | POST HANDOVER TRENSFERRED TO NEW OWNER",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/15/1-bedroom-apartment-equiti-gate-jebel-a-2-179083/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "569",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "18106062",
+      "title": "Prime Golf View | Basement | Renovation Potential",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/5/prime-golf-view-basement-renovation-pot-2-146194/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Villa",
+      "size": "8200",
+      "bedrooms": "5",
+      "price": 24500000,
+      "first_seen": "2026-10-13"
+    },
+    {
       "id": "17888905",
       "title": "VASTU | Vacant Soon | Multiple Options",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/20/hot-deal-vacant-soon-chiller-free-2-209842/",
@@ -12484,28 +12506,6 @@
       "size": "3652",
       "bedrooms": "3",
       "price": 3500000,
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "18124132",
-      "title": "Golf Course View | 3 Levels | Pool | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/8/golf-course-view-3-levels-pool-vacant-2-290479/",
-      "area": "Emirates Hills",
-      "category": "Villa",
-      "size": "2611",
-      "bedrooms": "4",
-      "price": 15000000,
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "18060938",
-      "title": "Exclusive | Upgraded | Best Priced & Located",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/25/exclusive-upgraded-best-priced-located-2-268032/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "3357",
-      "bedrooms": "4",
-      "price": 9500000,
       "first_seen": "2026-10-08"
     }
   ],
