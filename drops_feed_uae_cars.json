@@ -1,23 +1,9 @@
 {
   "total_tracked": 24891,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 24891,
-  "last_updated": "2026-10-13T23:38:00Z",
+  "last_updated": "2026-10-14T03:45:15Z",
   "drops": [
-    {
-      "id": "16877864",
-      "title": "ONLY AED 766 PM | Mercedes-Benz GLA 250 AMG | Comes With Warranty",
-      "old_price": 49999,
-      "new_price": 44999,
-      "drop_pct": 10.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/06/18/only-aed-766-pm-mercedes-benz-gla-250-amg--2-618---2f3c5122689e49b59afbe6da6904dafd/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLA-Class",
-      "year": "2020",
-      "mileage": "69000",
-      "date": "2026-09-09T22:18:17Z"
-    },
     {
       "id": "16948956",
       "title": "AED 383 PM | GCC Specs | Excellent Condition 24,999 AED Only!",
@@ -7003,6 +6989,20 @@
       "year": "2026",
       "mileage": "0",
       "date": "2026-10-13T18:57:04Z"
+    },
+    {
+      "id": "100402861",
+      "title": "2006 BMW 5-Series 525i Japanese Specs Super Clean Condition ,0 faults,0 Issues, 0 accident,like new.",
+      "old_price": 10500,
+      "new_price": 9500,
+      "drop_pct": 9.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/28/2006-bmw-5-series-525i-japanese-specs-supe-2-805---bb680c343e7b412b8dabffce22401b16/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2006",
+      "mileage": "118000",
+      "date": "2026-10-14T03:45:15Z"
     }
   ],
   "new_listings": [
@@ -7117,13 +7117,13 @@
     {
       "id": "100399427",
       "title": "Super clean | Ford Explorer | Limited edition | 2014 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/09/27/super-clean-ford-explorer-limited-edition--2-590---0309790ce3974f1d826c0dd0e8340b15/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/09/27/super-clean-ford-explorer-limited-edition--2-028---0309790ce3974f1d826c0dd0e8340b15/",
       "category": "Used Cars",
       "make": "Ford",
       "model": "Explorer",
       "year": "2014",
       "mileage": "297000",
-      "price": 22500,
+      "price": 21999,
       "first_seen": "2026-10-13T18:57:04Z"
     },
     {

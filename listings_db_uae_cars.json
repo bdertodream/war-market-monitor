@@ -568120,7 +568120,7 @@
   "100402861": {
     "id": "100402861",
     "title": "2006 BMW 5-Series 525i Japanese Specs Super Clean Condition ,0 faults,0 Issues, 0 accident,like new.",
-    "price": 10500,
+    "price": 9500,
     "make": "BMW",
     "model": "5-Series",
     "year": "2006",
@@ -568129,7 +568129,7 @@
     "fuel_type": "Petrol",
     "area": "JVC District 10",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/28/2006-bmw-5-series-525i-japanese-specs-supe-2-456---bb680c343e7b412b8dabffce22401b16/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/09/28/2006-bmw-5-series-525i-japanese-specs-supe-2-805---bb680c343e7b412b8dabffce22401b16/",
     "first_seen": "2026-09-29T17:44:50Z",
     "prices": [
       {
@@ -568139,6 +568139,10 @@
       {
         "price": 10500,
         "date": "2026-10-10T19:49:46Z"
+      },
+      {
+        "price": 9500,
+        "date": "2026-10-14T03:45:15Z"
       }
     ],
     "date": "2026-09-29"
@@ -592972,7 +592976,7 @@
   "100399427": {
     "id": "100399427",
     "title": "Super clean | Ford Explorer | Limited edition | 2014 GCC Specs",
-    "price": 22500,
+    "price": 21999,
     "make": "Ford",
     "model": "Explorer",
     "year": "2014",
@@ -592981,12 +592985,16 @@
     "fuel_type": "Petrol",
     "area": "Sherlock House 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/09/27/super-clean-ford-explorer-limited-edition--2-590---0309790ce3974f1d826c0dd0e8340b15/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/09/27/super-clean-ford-explorer-limited-edition--2-028---0309790ce3974f1d826c0dd0e8340b15/",
     "first_seen": "2026-10-13T18:57:04Z",
     "prices": [
       {
         "price": 22500,
         "date": "2026-10-13T18:57:04Z"
+      },
+      {
+        "price": 21999,
+        "date": "2026-10-14T03:45:15Z"
       }
     ],
     "date": "2026-10-13"
