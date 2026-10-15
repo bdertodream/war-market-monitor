@@ -566782,7 +566782,7 @@
   "16943422": {
     "id": "16943422",
     "title": "BMW X4 M40i xDrive 2019 (GCC \u2013 Carbon Edition \u2013 Schneider Kit \u2013 Full BMW Service History)",
-    "price": 98000,
+    "price": 93500,
     "make": "BMW",
     "model": "X4",
     "year": "2019",
@@ -566791,12 +566791,16 @@
     "fuel_type": "Petrol",
     "area": "Downtown Dubai",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x4/2026/08/15/bmw-x4-m40i-xdrive-2019-gcc-carbon-edition-2-278---46369d1dc184491fa080acbf53543248/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x4/2026/08/15/bmw-x4-m40i-xdrive-2019-gcc-carbon-edition-2-719---46369d1dc184491fa080acbf53543248/",
     "first_seen": "2026-09-29T10:26:44Z",
     "prices": [
       {
         "price": 98000,
         "date": "2026-09-29T10:26:44Z"
+      },
+      {
+        "price": 93500,
+        "date": "2026-10-15T22:55:33Z"
       }
     ],
     "date": "2026-09-29"
@@ -598729,6 +598733,578 @@
       {
         "price": 47000,
         "date": "2026-10-15T16:24:45Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100611598": {
+    "id": "100611598",
+    "title": "Lady Driven Nissan Tiida 1.8 GCC Specs",
+    "price": 8000,
+    "make": "Nissan",
+    "model": "Tiida",
+    "year": "2012",
+    "kilometers": "464000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Muraqqabat",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/tiida/2026/10/15/lady-driven-nissan-tiida-18-gcc-specs-2-583---823bfc11d43f42eb8db7e04eb7838b29/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 8000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100369956": {
+    "id": "100369956",
+    "title": "Toyota Prado 2 Door GXR 2022 GCC Specs - Exceptional Condition - Under Warranty",
+    "price": 139000,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2022",
+    "kilometers": "107599",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/09/25/toyota-prado-2-door-gxr-2022-gcc-specs-exc-2-416---387ff6a7321e43129a26cd90d3c67870/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 139000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100456517": {
+    "id": "100456517",
+    "title": "Ford Explorer Sport 2018 GCC Specs",
+    "price": 45000,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2018",
+    "kilometers": "181000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/02/ford-explorer-sport-2018-gcc-specs-2-847---78ad6e9154ff4ad2aa6a8325a8637c83/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100611130": {
+    "id": "100611130",
+    "title": "2017 Infiniti QX50 Luxury GCC Specs",
+    "price": 39900,
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": "2017",
+    "kilometers": "84000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Saeed Tower 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/10/15/2017-infiniti-qx50-luxury-gcc-specs-2-430---54cc8e4034c14e86b41d63325b337f0b/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100611004": {
+    "id": "100611004",
+    "title": "Kia Forte 2020 American Specs",
+    "price": 26000,
+    "make": "Kia",
+    "model": "Forte",
+    "year": "2020",
+    "kilometers": "107000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/forte/2026/10/15/kia-forte-2020-american-specs-2-677---e8ac1e0d38c04578a7a4de057ab06908/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 26000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610876": {
+    "id": "100610876",
+    "title": "2020 Kia Carnival EX",
+    "price": 49000,
+    "make": "Kia",
+    "model": "Carnival",
+    "year": "2020",
+    "kilometers": "91000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carnival/2026/10/15/2020-kia-carnival-ex-2-668---5b6fe0b24f9249fea888b162c415f15a/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610833": {
+    "id": "100610833",
+    "title": "2019 Kia Optima LX - American Specs | Excellent Condition | UAE",
+    "price": 23000,
+    "make": "Kia",
+    "model": "Optima",
+    "year": "2019",
+    "kilometers": "107000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/optima/2026/10/15/2019-kia-optima-lx-american-specs-excellen-2-855---96f88d2ba3de442a93be94cbbc27f455/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 23000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610742": {
+    "id": "100610742",
+    "title": "2019 Volkswagen Jetta SE American Specs",
+    "price": 22000,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": "2019",
+    "kilometers": "143000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/jetta/2026/10/15/2019-volkswagen-jetta-se-american-specs-2-979---0364ad3584df451faf267de9d43efef4/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610709": {
+    "id": "100610709",
+    "title": "2022 Hyundai Venue SEL",
+    "price": 33000,
+    "make": "Hyundai",
+    "model": "Venue",
+    "year": "2022",
+    "kilometers": "113000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/venue/2026/10/15/2022-hyundai-venue-sel-2-096---7623f25fc70446f9b7779902fd0b9f99/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610645": {
+    "id": "100610645",
+    "title": "Ford Mustang Ecoboost Fastback 2024 American Specs",
+    "price": 85000,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2024",
+    "kilometers": "51000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/15/ford-mustang-ecoboost-fastback-2024-americ-2-867---3406552a2d2e490e8bd68cd075789114/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100610607": {
+    "id": "100610607",
+    "title": "Mercedes-Benz E-Class E350+63bodykit beige interior 2020",
+    "price": 85000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2020",
+    "kilometers": "117000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/15/mercedes-benz-e-class-e35063bodykit-beige--2-135---97fb5f7424a2474594c497588b704edc/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978318": {
+    "id": "16978318",
+    "title": "low kms , urgent sale",
+    "price": 185000,
+    "make": "Mercedes-Benz",
+    "model": "CLE-Class",
+    "year": "2024",
+    "kilometers": "14000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cle-class/2026/09/15/low-kms-urgent-sale-2-618---07cdc7c3cd7c4347aff69ef89436c49d/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 185000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978332": {
+    "id": "16978332",
+    "title": "2023 Nissan Patrol LE - American Specs",
+    "price": 135000,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2023",
+    "kilometers": "82000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/09/15/2023-nissan-patrol-le-american-specs-2-035---ce7250942a4a43aaa44ebc5edb8e5870/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 135000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978339": {
+    "id": "16978339",
+    "title": "2020 Mercedes-Benz E-Class E 450 for Sale in UAE",
+    "price": 95000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2020",
+    "kilometers": "118000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/09/15/2020-mercedes-benz-e-class-e-450-for-sale--2-718---39d9bc3e31fc4d1fbf80259a40b0a2d4/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 95000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978356": {
+    "id": "16978356",
+    "title": "Chevrolet Captiva LT 2023 GCC Specs",
+    "price": 33000,
+    "make": "Chevrolet",
+    "model": "Captiva",
+    "year": "2023",
+    "kilometers": "88000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/09/15/chevrolet-captiva-lt-2023-gcc-specs-2-199---75f8afd56a764b659b2f4238d54f66bb/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978361": {
+    "id": "16978361",
+    "title": "2021 Lexus RX-Series RX 350 Prestige - American Specs",
+    "price": 95000,
+    "make": "Lexus",
+    "model": "RX-Series",
+    "year": "2021",
+    "kilometers": "67000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/rx-series/2026/09/15/2021-lexus-rx-series-rx-350-prestige-ameri-2-101---83372b6c5ef04362a0d12505ef9cbee3/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 95000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978371": {
+    "id": "16978371",
+    "title": "2021 Lexus IS-Series IS 300 American Specs",
+    "price": 73000,
+    "make": "Lexus",
+    "model": "IS-Series",
+    "year": "2021",
+    "kilometers": "27000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/is-series/2026/09/15/2021-lexus-is-series-is-300-american-specs-2-637---4f87b03d0b0a41158c3326704910521f/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 73000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978375": {
+    "id": "16978375",
+    "title": "2020 Hyundai Palisade Calligraphy -",
+    "price": 57000,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "year": "2020",
+    "kilometers": "111000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/palisade/2026/09/15/2020-hyundai-palisade-calligraphy-2-519---6555af48963e4505bc709660c3a4054f/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 57000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978393": {
+    "id": "16978393",
+    "title": "2020 Kia Forte EX - American Specs",
+    "price": 25000,
+    "make": "Kia",
+    "model": "Forte",
+    "year": "2020",
+    "kilometers": "74000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/forte/2026/09/15/2020-kia-forte-ex-american-specs-2-310---574442b1c21a400baee559b3550d49c1/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 25000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978394": {
+    "id": "16978394",
+    "title": "2021 Hyundai Sonata SEL American Specs",
+    "price": 37000,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": "2021",
+    "kilometers": "76000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/sonata/2026/09/15/2021-hyundai-sonata-sel-american-specs-2-593---f6771f9f7d3a454dad71a7f7e547d703/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 37000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978400": {
+    "id": "16978400",
+    "title": "2021 BMW 2-Series 228i xDrive American Specs",
+    "price": 55000,
+    "make": "BMW",
+    "model": "2-Series",
+    "year": "2021",
+    "kilometers": "105000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/09/15/2021-bmw-2-series-228i-xdrive-american-spe-2-342---331a44b8b80d4135861552f85414991d/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978407": {
+    "id": "16978407",
+    "title": "Kia Forte GT 2021 American Specs",
+    "price": 34000,
+    "make": "Kia",
+    "model": "Forte",
+    "year": "2021",
+    "kilometers": "95000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/forte/2026/09/15/kia-forte-gt-2021-american-specs-2-851---97fb5d7888744b9ba416837c240482ed/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 34000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978422": {
+    "id": "16978422",
+    "title": "2025 Mercedes-Benz GLE-Class GLE 350",
+    "price": 195000,
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "year": "2025",
+    "kilometers": "17000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/15/2025-mercedes-benz-gle-class-gle-350-2-620---6ba8da05573d43bda388245ba60d4758/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 195000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978431": {
+    "id": "16978431",
+    "title": "2016 Mercedes-Benz S-Class S 63 AMG 4MATIC clean car",
+    "price": 110000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2016",
+    "kilometers": "78000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/15/2016-mercedes-benz-s-class-s-63-amg-4matic-2-350---79e748e3062b4282b4b09d075992dff4/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 110000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "16978447": {
+    "id": "16978447",
+    "title": "2020 Kia Forte EX American Specs",
+    "price": 26000,
+    "make": "Kia",
+    "model": "Forte",
+    "year": "2020",
+    "kilometers": "89000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/forte/2026/09/15/2020-kia-forte-ex-american-specs-2-972---d4c1b09de76540e7b7dafb83e0532be2/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 26000,
+        "date": "2026-10-15T22:55:33Z"
+      }
+    ],
+    "date": "2026-10-15"
+  },
+  "100609452": {
+    "id": "100609452",
+    "title": "2014 Mitsubishi Attrage GLX Medium Line | GCC Specs | Well Maintained",
+    "price": 10900,
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "year": "2014",
+    "kilometers": "161000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/10/15/2014-mitsubishi-attrage-glx-medium-line-gc-2-977---e81fae82877c4453b8463eca7413dec1/",
+    "first_seen": "2026-10-15T22:55:33Z",
+    "prices": [
+      {
+        "price": 10900,
+        "date": "2026-10-15T22:55:33Z"
       }
     ],
     "date": "2026-10-15"
