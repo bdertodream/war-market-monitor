@@ -1,8 +1,8 @@
 {
-  "total_tracked": 24992,
-  "total_drops": 501,
-  "total_new": 24992,
-  "last_updated": "2026-10-14T23:00:27Z",
+  "total_tracked": 24994,
+  "total_drops": 500,
+  "total_new": 24994,
+  "last_updated": "2026-10-15T03:27:10Z",
   "drops": [
     {
       "id": "16965312",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100600636",
+      "title": "GCC.. Mercedes GLA250 AMG 4Matic 2018 Like new!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/10/14/gcc-mercedes-gla250-amg-4matic-2018-like-n-2-455---dbb3918414364f648738759a6b6a4aa0/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "year": "2018",
+      "mileage": "149000",
+      "price": 48000,
+      "first_seen": "2026-10-15T03:27:10Z"
+    },
+    {
+      "id": "100598844",
+      "title": "Hyundai Santa Fe 2015 | 7-seater | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/10/14/hyundai-santa-fe-2015-7-seater-gcc-specs-e-2-485---9bb20168725e40ee9ca1346428680775/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2015",
+      "mileage": "116000",
+      "price": 29500,
+      "first_seen": "2026-10-15T03:27:10Z"
+    },
+    {
       "id": "100600156",
       "title": "2023 JAC J7 Luxury GCC Specs with manufacturer warranty",
       "url": "https://dubai.dubizzle.com/motors/used-cars/jac/j7/2026/10/14/2023-jac-j7-luxury-gcc-specs-with-manufact-2-146---d7595f4c64c0452b9a81dd5efb4db92a/",
@@ -12980,30 +13004,6 @@
       "year": "2020",
       "mileage": "80000",
       "price": 64900,
-      "first_seen": "2026-10-09T15:00:47Z"
-    },
-    {
-      "id": "100535420",
-      "title": "[DODGE CHALLENGER GT 3.6L V6]",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/10/09/dodge-challenger-gt-36l-v6-2-178---c5026f6ddf80478fbcf89eb34663338a/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2021",
-      "mileage": "73000",
-      "price": 69000,
-      "first_seen": "2026-10-09T15:00:47Z"
-    },
-    {
-      "id": "100351112",
-      "title": "2015 Toyota Prado VXR V6 | Grey | 233,000 KM | AED 68,000",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/09/23/2015-toyota-prado-vxr-v6-grey-233000-km-ae-2-377---04965cf48cc341a992ad661e24f9cf72/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Prado",
-      "year": "2015",
-      "mileage": "233000",
-      "price": 78000,
       "first_seen": "2026-10-09T15:00:47Z"
     }
   ]

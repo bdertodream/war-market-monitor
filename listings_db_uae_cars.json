@@ -596762,5 +596762,49 @@
       }
     ],
     "date": "2026-10-14"
+  },
+  "100600636": {
+    "id": "100600636",
+    "title": "GCC.. Mercedes GLA250 AMG 4Matic 2018 Like new!",
+    "price": 48000,
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "year": "2018",
+    "kilometers": "149000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Garhoud",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/10/14/gcc-mercedes-gla250-amg-4matic-2018-like-n-2-455---dbb3918414364f648738759a6b6a4aa0/",
+    "first_seen": "2026-10-15T03:27:10Z",
+    "prices": [
+      {
+        "price": 48000,
+        "date": "2026-10-15T03:27:10Z"
+      }
+    ],
+    "date": "2026-10-14"
+  },
+  "100598844": {
+    "id": "100598844",
+    "title": "Hyundai Santa Fe 2015 | 7-seater | GCC Specs | Excellent Condition",
+    "price": 29500,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2015",
+    "kilometers": "116000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda (Dubai)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/10/14/hyundai-santa-fe-2015-7-seater-gcc-specs-e-2-485---9bb20168725e40ee9ca1346428680775/",
+    "first_seen": "2026-10-15T03:27:10Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-10-15T03:27:10Z"
+      }
+    ],
+    "date": "2026-10-14"
   }
 }
