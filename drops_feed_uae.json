@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28587,
+  "total_tracked": 28590,
   "total_drops": 500,
-  "total_new": 28587,
+  "total_new": 28590,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7724,6 +7724,39 @@
       "first_seen": "2026-10-16"
     },
     {
+      "id": "18109465",
+      "title": "Spacious 2BR | Prime Location | Modern Layout | Great Value",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/5/spacious-2br-furnished-sea-view-prime-l-2-236437/",
+      "area": "Mirdif",
+      "category": "Apartment",
+      "size": "1335",
+      "bedrooms": "2",
+      "price": 1802329,
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "9840320",
+      "title": "SAMANA Business Hub | Premium Off-Plan Offices for Sale in Dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/16/samana-business-hub-premium-off-plan-of-2-246232/",
+      "area": "Downtown Jebel Ali",
+      "category": "Office",
+      "size": "898",
+      "bedrooms": "",
+      "price": 2065723,
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "9840321",
+      "title": "SAMANA Barari Avenue | Luxury Off-Plan Apartments for Sale in Dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/16/samana-barari-avenue-luxury-off-plan-ap-2-253254/",
+      "area": "Majan",
+      "category": "Office",
+      "size": "1093",
+      "bedrooms": "",
+      "price": 2617415,
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "18133402",
       "title": "Single Row | Vacant On Transfer | Modern Finish",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/9/single-row-vacant-on-transfer-modern-fi-2-337272/",
@@ -12473,39 +12506,6 @@
       "size": "3673",
       "bedrooms": "",
       "price": 36000000,
-      "first_seen": "2026-10-13"
-    },
-    {
-      "id": "9827397",
-      "title": "F&B Approved Park Facing 5 Parking Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/21/fb-approved-park-facing-5-parking-prime-2-447464/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Shop",
-      "size": "1137",
-      "bedrooms": "",
-      "price": 3980000,
-      "first_seen": "2026-10-13"
-    },
-    {
-      "id": "17905800",
-      "title": "New to Market | Park Backing | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/24/new-to-market-park-backing-motivated-se-2-241841/",
-      "area": "Arabian Ranches 3",
-      "category": "Villa",
-      "size": "4653",
-      "bedrooms": "4",
-      "price": 7650000,
-      "first_seen": "2026-10-13"
-    },
-    {
-      "id": "18025026",
-      "title": "Upgraded | Elevated Plot | Beautiful Garden",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/18/upgraded-elevated-plot-beautiful-garden-2-228260/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "5634",
-      "bedrooms": "5",
-      "price": 24000000,
       "first_seen": "2026-10-13"
     }
   ],
