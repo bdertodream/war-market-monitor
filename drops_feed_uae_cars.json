@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25097,
+  "total_tracked": 25098,
   "total_drops": 500,
-  "total_new": 25097,
-  "last_updated": "2026-10-15T22:55:33Z",
+  "total_new": 25098,
+  "last_updated": "2026-10-16T03:22:16Z",
   "drops": [
     {
       "id": "16956751",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100604591",
+      "title": "JAC J3 2024 | GCC specs | Good Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/10/15/jac-j3-2024-gcc-specs-good-condition-2-938---d6658d502b164e008a216d85da612490/",
+      "category": "Used Cars",
+      "make": "JAC",
+      "model": "S3",
+      "year": "2024",
+      "mileage": "76258",
+      "price": 29999,
+      "first_seen": "2026-10-16T03:22:16Z"
+    },
+    {
       "id": "100611598",
       "title": "Lady Driven Nissan Tiida 1.8 GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/tiida/2026/10/15/lady-driven-nissan-tiida-18-gcc-specs-2-583---823bfc11d43f42eb8db7e04eb7838b29/",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 98000,
-      "first_seen": "2026-10-10T14:16:55Z"
-    },
-    {
-      "id": "100546473",
-      "title": "AED 1,116/month | X-Terra SE 4WD | GCC Specs | REF#N04851",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/10/10/aed-1116month-x-terra-se-4wd-gcc-specs-ref-2-462---b9514688901446d5b325c6e014a283b2/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Xterra",
-      "year": "2023",
-      "mileage": "78064",
-      "price": 67900,
       "first_seen": "2026-10-10T14:16:55Z"
     }
   ]

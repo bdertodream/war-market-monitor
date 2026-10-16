@@ -599308,5 +599308,27 @@
       }
     ],
     "date": "2026-10-15"
+  },
+  "100604591": {
+    "id": "100604591",
+    "title": "JAC J3 2024 | GCC specs | Good Condition",
+    "price": 29999,
+    "make": "JAC",
+    "model": "S3",
+    "year": "2024",
+    "kilometers": "76258",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/10/15/jac-j3-2024-gcc-specs-good-condition-2-938---d6658d502b164e008a216d85da612490/",
+    "first_seen": "2026-10-16T03:22:16Z",
+    "prices": [
+      {
+        "price": 29999,
+        "date": "2026-10-16T03:22:16Z"
+      }
+    ],
+    "date": "2026-10-15"
   }
 }
