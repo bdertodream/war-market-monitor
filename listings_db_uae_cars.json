@@ -601524,5 +601524,71 @@
       }
     ],
     "date": "2026-10-16"
+  },
+  "100623359": {
+    "id": "100623359",
+    "title": "Land Rover Discovery Sport HSE Si4 \u2022 2017 Model \u2022 GCC Specs",
+    "price": 29000,
+    "make": "Land Rover",
+    "model": "Discovery Sport",
+    "year": "2017",
+    "kilometers": "175000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery-sport/2026/10/17/land-rover-discovery-sport-hse-si4-2017-mo-2-472---f2536d289d0c49988b853ff4956c38c5/",
+    "first_seen": "2026-10-17T03:13:14Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-10-17T03:13:14Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100623244": {
+    "id": "100623244",
+    "title": "Ford Edge Limited 2013 GCC Specs. Panoramic roof. Brown leather. Cruise control. RTA passed.",
+    "price": 11900,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2013",
+    "kilometers": "190000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/10/17/ford-edge-limited-2013-gcc-specs-panoramic-2-751---f7a483fb16cd46f28492a83f17844aaa/",
+    "first_seen": "2026-10-17T03:13:14Z",
+    "prices": [
+      {
+        "price": 11900,
+        "date": "2026-10-17T03:13:14Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100519087": {
+    "id": "100519087",
+    "title": "AUDI Q7 SLINE GCC ACCIDENT FREE ORIGINAL PAINT FULL SERVICE HISTORY",
+    "price": 19000,
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2011",
+    "kilometers": "148000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "The Springs Souk",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/10/07/audi-q7-sline-gcc-accident-free-original-p-2-471---427042d1f07f458fa5835a0ee07d4fc0/",
+    "first_seen": "2026-10-17T03:13:14Z",
+    "prices": [
+      {
+        "price": 19000,
+        "date": "2026-10-17T03:13:14Z"
+      }
+    ],
+    "date": "2026-10-16"
   }
 }
