@@ -14224,7 +14224,7 @@
   "16523368": {
     "id": "16523368",
     "title": "MERCEDES S 550L  S 65 KIT",
-    "price": 125000,
+    "price": 115000,
     "make": "Mercedes-Benz",
     "model": "S-Class",
     "year": "{'label': 'Year', 'value': 2014}",
@@ -14233,12 +14233,16 @@
     "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
     "area": "Ras Al Khor",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2025/8/16/mercedes-s-550l-s-65-kit-2-352---7062d32d540a4a09b8135f4be136d564/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2025/08/16/mercedes-s-550l-s-65-kit-2-371---7062d32d540a4a09b8135f4be136d564/",
     "first_seen": "2026-03-09T18:48:15Z",
     "prices": [
       {
         "price": 125000,
         "date": "2026-03-09T18:48:15Z"
+      },
+      {
+        "price": 115000,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-03-09"
@@ -155052,7 +155056,7 @@
   "16806830": {
     "id": "16806830",
     "title": "Audi RS7 Performance",
-    "price": 239000,
+    "price": 259000,
     "make": "Audi",
     "model": "S7/RS7",
     "year": "2021",
@@ -155083,6 +155087,10 @@
       {
         "price": 239000,
         "date": "2026-08-07T13:02:49Z"
+      },
+      {
+        "price": 259000,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-04-16"
@@ -387237,8 +387245,8 @@
   },
   "16900547": {
     "id": "16900547",
-    "title": "\u23f3 TAILORED FINANCE | \ud83c\udfc6 THE SUMMER PLAY | FORD F-150 RAPTOR | CERTIFIED GCC | WARRANTY + SERVICE PLA",
-    "price": 199990,
+    "title": "F-150 RAPTOR | GCC SPEC | GUARANTEED BUY-BACK | FDSH",
+    "price": 194990,
     "make": "Ford",
     "model": "F-150",
     "year": "2020",
@@ -387247,12 +387255,16 @@
     "fuel_type": "Petrol",
     "area": "Green Community",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/7/7/tailored-finance-the-summer-play-ford-f-15-2-433---b927cad1883a41dbb988f29be0723c4e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/07/07/f-150-raptor-gcc-spec-guaranteed-buy-back--2-762---b927cad1883a41dbb988f29be0723c4e/",
     "first_seen": "2026-07-07T14:34:08Z",
     "prices": [
       {
         "price": 199990,
         "date": "2026-07-07T14:34:08Z"
+      },
+      {
+        "price": 194990,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-07-07"
@@ -412978,7 +412990,7 @@
   "16911611": {
     "id": "16911611",
     "title": "DODGE CHALLENGER R/T HEMI | GCC | ONE OWNER | 381 HP",
-    "price": 89990,
+    "price": 99990,
     "make": "Dodge",
     "model": "Challenger",
     "year": "2019",
@@ -413001,6 +413013,10 @@
       {
         "price": 89990,
         "date": "2026-09-09T16:00:58Z"
+      },
+      {
+        "price": 99990,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-07-16"
@@ -433151,8 +433167,8 @@
   },
   "16920819": {
     "id": "16920819",
-    "title": "0% DOWN PAYMENT | \u2600\ufe0f OFF-PEAK EDITION | MERCEDES-AMG C63 S COUP\u00c9 | FRESH ARRIVAL | KOREAN SPEC",
-    "price": 129990,
+    "title": "MERCEDES-AMG C63 COUP\u00c9 | 476 HP V8 | KOREAN SPEC | GUARANTEED BUY-BACK",
+    "price": 114990,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2017",
@@ -433161,12 +433177,16 @@
     "fuel_type": "Petrol",
     "area": "Green Community",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/7/25/0-down-payment-off-peak-edition-mercedes-a-2-674---5a0f8c1e991b4af7b3d1aeb15486c07d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/07/25/mercedes-amg-c63-coupe-476-hp-v8-korean-sp-2-256---5a0f8c1e991b4af7b3d1aeb15486c07d/",
     "first_seen": "2026-07-25T09:48:00Z",
     "prices": [
       {
         "price": 129990,
         "date": "2026-07-25T09:48:00Z"
+      },
+      {
+        "price": 114990,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-07-25"
@@ -467064,7 +467084,7 @@
   "16936228": {
     "id": "16936228",
     "title": "SILVERADO ZR2 1500 2024 | 44,546 KM | WARRANTY AUGUST 2027 | SERVICE PACKAGE AUGUST 2027",
-    "price": 209990,
+    "price": 199990,
     "make": "Chevrolet",
     "model": "Silverado 1500",
     "year": "2024",
@@ -467073,7 +467093,7 @@
     "fuel_type": "Petrol",
     "area": "Green Community",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/silverado-1500/2026/08/08/silverado-zr2-1500-2024-44546-km-warranty--2-020---07633d7ae15e4d7b96c77479cf95c02a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/silverado-1500/2026/08/08/silverado-zr2-1500-2024-44546-km-warranty--2-857---07633d7ae15e4d7b96c77479cf95c02a/",
     "first_seen": "2026-08-09T16:35:19Z",
     "prices": [
       {
@@ -467083,6 +467103,10 @@
       {
         "price": 209990,
         "date": "2026-09-23T16:13:22Z"
+      },
+      {
+        "price": 199990,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-08-09"
@@ -508526,7 +508550,7 @@
   "16928098": {
     "id": "16928098",
     "title": "\ud83d\ude97 NO CONVENIENCE FEES |",
-    "price": 16999,
+    "price": 15500,
     "make": "Nissan",
     "model": "Altima",
     "year": "2015",
@@ -508535,12 +508559,16 @@
     "fuel_type": "Petrol",
     "area": "Nad Al Hamar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/08/01/no-convenience-fees-2-699---8c4b380f5cb349ce851ff532b52aa50e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/08/01/no-convenience-fees-2-869---8c4b380f5cb349ce851ff532b52aa50e/",
     "first_seen": "2026-08-29T10:51:20Z",
     "prices": [
       {
         "price": 16999,
         "date": "2026-08-29T10:51:20Z"
+      },
+      {
+        "price": 15500,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-08-29"
@@ -576748,7 +576776,7 @@
   "100466765": {
     "id": "100466765",
     "title": "UNLIMITED MILEAGE WARRANTY / ALLOY WHEELS + CRUISE CONTROL + CAMERA + CARPLAY / FINANCE AVAILABLE",
-    "price": 46950,
+    "price": 47950,
     "make": "Nissan",
     "model": "Kicks",
     "year": "2024",
@@ -576763,6 +576791,10 @@
       {
         "price": 46950,
         "date": "2026-10-03T19:02:07Z"
+      },
+      {
+        "price": 47950,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-10-03"
@@ -576901,8 +576933,8 @@
   },
   "100466170": {
     "id": "100466170",
-    "title": "2025 BMW 530i M SPORT PRO | 2.0L TWINPOWER TURBO INLINE-4 | GCC | AGENCY WARRANTY + SERVICE",
-    "price": 319990,
+    "title": "530I M SPORT PRO | WARRANTY + SERVICE UNTIL NOV 2030 | FULL DEALERSHIP SERVICE HISTORY",
+    "price": 309990,
     "make": "BMW",
     "model": "5-Series",
     "year": "2025",
@@ -576911,12 +576943,16 @@
     "fuel_type": "Petrol",
     "area": "Green Community",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/03/2025-bmw-530i-m-sport-pro-20l-twinpower-tu-2-900---10149d333c2a4a39a8d43fbab8885440/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/03/530i-m-sport-pro-warranty-service-until-no-2-968---10149d333c2a4a39a8d43fbab8885440/",
     "first_seen": "2026-10-03T19:02:07Z",
     "prices": [
       {
         "price": 319990,
         "date": "2026-10-03T19:02:07Z"
+      },
+      {
+        "price": 309990,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-10-03"
@@ -590697,8 +590733,8 @@
   },
   "100361066": {
     "id": "100361066",
-    "title": "2,644 P.M | R/T | V8 | Dodge Warranty + S/Contract | 0% Downpayment",
-    "price": 134999,
+    "title": "2,595 P.M | R/T | V8 | Dodge Warranty + S/Contract | 0% Downpayment",
+    "price": 132500,
     "make": "Dodge",
     "model": "Charger",
     "year": "2023",
@@ -590707,12 +590743,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/09/24/2644-pm-rt-v8-dodge-warranty-scontract-0-d-2-224---8af341e349bb4f548ed3e75183f6acfc/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/09/24/2595-pm-rt-v8-dodge-warranty-scontract-0-d-2-322---8af341e349bb4f548ed3e75183f6acfc/",
     "first_seen": "2026-10-11T14:42:20Z",
     "prices": [
       {
         "price": 134999,
         "date": "2026-10-11T14:42:20Z"
+      },
+      {
+        "price": 132500,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-10-11"
@@ -592246,7 +592286,7 @@
   "100570931": {
     "id": "100570931",
     "title": "2018 Dodge Charger Daytona R/T - GCC Specs",
-    "price": 57999,
+    "price": 51999,
     "make": "Dodge",
     "model": "Charger",
     "year": "2018",
@@ -592255,12 +592295,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/10/12/2018-dodge-charger-daytona-rt-gcc-specs-2-280---ffa398d2441f46969bc16c3a485f02a1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/10/12/2018-dodge-charger-daytona-rt-gcc-specs-2-096---ffa398d2441f46969bc16c3a485f02a1/",
     "first_seen": "2026-10-12T17:26:40Z",
     "prices": [
       {
         "price": 57999,
         "date": "2026-10-12T17:26:40Z"
+      },
+      {
+        "price": 51999,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-10-12"
@@ -604089,6 +604133,204 @@
       {
         "price": 89900,
         "date": "2026-10-17T15:03:26Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100633667": {
+    "id": "100633667",
+    "title": "(FINAL PRICE) Renault Megane 2018 GCC Specs Excellent Condition",
+    "price": 15500,
+    "make": "Renault",
+    "model": "Megane",
+    "year": "2018",
+    "kilometers": "165000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Hamar Gardens",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/megane/2026/10/17/final-price-renault-megane-2018-gcc-specs--2-801---0de60f0dc1164e12964c8a51115b1158/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 15500,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100543546": {
+    "id": "100543546",
+    "title": "YUKON DENALI | AGENCY WARRANTY | IMMEDIATE AUTO LOAN | FDSH",
+    "price": 189990,
+    "make": "GMC",
+    "model": "Yukon",
+    "year": "2022",
+    "kilometers": "93515",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/10/10/yukon-denali-agency-warranty-immediate-aut-2-808---efc78f2180aa416c80b38ce430bbf9c8/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 189990,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100633453": {
+    "id": "100633453",
+    "title": "VOLVO XC40 GCC SPECS 2022 MINT CONDITION PANAROMIC ROOF WITH 2 YEARS WARRANTY",
+    "price": 79000,
+    "make": "Volvo",
+    "model": "XC40",
+    "year": "2022",
+    "kilometers": "78000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/xc40/2026/10/17/volvo-xc40-gcc-specs-2022-mint-condition-p-2-048---89d51079bb4741578158ae60a1a78eef/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100633103": {
+    "id": "100633103",
+    "title": "EMI 609 AED*/ UNLIMITED KM WARRANTY / NAVIGATION + PUSH START + CRUISE CONTROL / IN HOUSE FINANCE",
+    "price": 29900,
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2020",
+    "kilometers": "82833",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/escape/2026/10/17/emi-609-aed-unlimited-km-warranty-navigati-2-460---f22d0873e1254a648ae56869c66bcadf/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 29900,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "16948302": {
+    "id": "16948302",
+    "title": "Challenger SR/T kit  | 5.7L HEMI V8 | American Specs not negotiable",
+    "price": 74000,
+    "make": "Dodge",
+    "model": "Challenger",
+    "year": "2022",
+    "kilometers": "55000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/08/19/challenger-srt-kit-57l-hemi-v8-american-sp-2-388---d78fba15153d4c5dba4fe3dd642ea7e6/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 74000,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100560102": {
+    "id": "100560102",
+    "title": "Full options not negotiable price \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646 \u0641\u0642\u0637",
+    "price": 140000,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "year": "2020",
+    "kilometers": "70000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ghoroob Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/navigator/2026/10/11/full-options-not-negotiable-price-2-271---1cad477f06d547d98a130589208ba4db/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 140000,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100632417": {
+    "id": "100632417",
+    "title": "2015 HIGH QUALITY TOP MOST MODEL CHEVROLET TRAX 4CYLINDER 1.8L ENGINE RTA PASSED IN SUPERB CONDITION",
+    "price": 12900,
+    "make": "Chevrolet",
+    "model": "Trax",
+    "year": "2015",
+    "kilometers": "149000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2026/10/17/2015-high-quality-top-most-model-chevrolet-2-101---960ae26d086d42a0a236c55ee38d5af3/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 12900,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100631466": {
+    "id": "100631466",
+    "title": "Porsche Cayenne Standard 2022 Korean Specs",
+    "price": 199999,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2022",
+    "kilometers": "47908",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/17/porsche-cayenne-standard-2022-korean-specs-2-606---9cecf0d87528420cb0ad1a50e7fc0ea8/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 199999,
+        "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100631975": {
+    "id": "100631975",
+    "title": "2021 NISSAN URVAN / GCC / CARGO VAN + MANUAL GEAR + 3 SEATER + STANDARD ROOF",
+    "price": 39900,
+    "make": "Nissan",
+    "model": "Urvan",
+    "year": "2021",
+    "kilometers": "135638",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/urvan/2026/10/17/2021-nissan-urvan-gcc-cargo-van-manual-gea-2-120---aa019c8af6c14293b63f8be3689ea221/",
+    "first_seen": "2026-10-17T18:12:12Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-10-17T18:12:12Z"
       }
     ],
     "date": "2026-10-17"
