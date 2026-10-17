@@ -561844,7 +561844,7 @@
   "100370449": {
     "id": "100370449",
     "title": "Mercedes-Benz V-Class V 250 2023 GCC Specs",
-    "price": 235000,
+    "price": 225000,
     "make": "Mercedes-Benz",
     "model": "V-Class",
     "year": "2023",
@@ -561853,12 +561853,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/09/25/mercedes-benz-v-class-v-250-2023-gcc-specs-2-488---a4bb4e08911a4baeaa1e7c3ef7f6eb1e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/09/25/mercedes-benz-v-class-v-250-2023-gcc-specs-2-942---a4bb4e08911a4baeaa1e7c3ef7f6eb1e/",
     "first_seen": "2026-09-25T16:41:21Z",
     "prices": [
       {
         "price": 235000,
         "date": "2026-09-25T16:41:21Z"
+      },
+      {
+        "price": 225000,
+        "date": "2026-10-17T21:59:33Z"
       }
     ],
     "date": "2026-09-25"
@@ -562018,7 +562022,7 @@
   "16938263": {
     "id": "16938263",
     "title": "BENTLEY CONTINENTAL GT SPEED | IMMEDIATE SHOWROOM DELIVERY | GCC SPEC",
-    "price": 229990,
+    "price": 219990,
     "make": "Bentley",
     "model": "Continental",
     "year": "2016",
@@ -562027,12 +562031,16 @@
     "fuel_type": "Petrol",
     "area": "Green Community",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/08/10/bentley-continental-gt-speed-immediate-sho-2-234---35fba0de37864772ba0e67b0e377c9c1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/08/10/bentley-continental-gt-speed-immediate-sho-2-346---35fba0de37864772ba0e67b0e377c9c1/",
     "first_seen": "2026-09-25T16:41:21Z",
     "prices": [
       {
         "price": 229990,
         "date": "2026-09-25T16:41:21Z"
+      },
+      {
+        "price": 219990,
+        "date": "2026-10-17T21:59:33Z"
       }
     ],
     "date": "2026-09-25"
@@ -562878,7 +562886,7 @@
   "100386772": {
     "id": "100386772",
     "title": "Mercedes-Benz S-Class S 450 AMG 2023 GCC Specs 1000 KM ONLY",
-    "price": 420000,
+    "price": 399000,
     "make": "Mercedes-Benz",
     "model": "S-Class",
     "year": "2023",
@@ -562887,12 +562895,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/26/mercedes-benz-s-class-s-450-amg-2023-gcc-s-2-726---59e097c4bb764a5386e4a5dd4c7090c9/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/26/mercedes-benz-s-class-s-450-amg-2023-gcc-s-2-594---59e097c4bb764a5386e4a5dd4c7090c9/",
     "first_seen": "2026-09-26T15:54:14Z",
     "prices": [
       {
         "price": 420000,
         "date": "2026-09-26T15:54:14Z"
+      },
+      {
+        "price": 399000,
+        "date": "2026-10-17T21:59:33Z"
       }
     ],
     "date": "2026-09-26"
@@ -574212,7 +574224,7 @@
   "100447117": {
     "id": "100447117",
     "title": "2021 Mercedes-Benz G-Class G 63 AMG GCC Specs",
-    "price": 535000,
+    "price": 529900,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2021",
@@ -574221,12 +574233,16 @@
     "fuel_type": "Petrol",
     "area": "Palm Jumeirah",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/01/2021-mercedes-benz-g-class-g-63-amg-gcc-sp-2-783---04cf97ea0a8d4aad9f3ff15e1ad2094f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/01/2021-mercedes-benz-g-class-g-63-amg-gcc-sp-2-615---04cf97ea0a8d4aad9f3ff15e1ad2094f/",
     "first_seen": "2026-10-02T04:19:29Z",
     "prices": [
       {
         "price": 535000,
         "date": "2026-10-02T04:19:29Z"
+      },
+      {
+        "price": 529900,
+        "date": "2026-10-17T21:59:33Z"
       }
     ],
     "date": "2026-10-01"
@@ -604331,6 +604347,160 @@
       {
         "price": 39900,
         "date": "2026-10-17T18:12:12Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100634867": {
+    "id": "100634867",
+    "title": "Mazda 2 2016 sky active GCC Specs Excellent condition",
+    "price": 15900,
+    "make": "Mazda",
+    "model": "2",
+    "year": "2016",
+    "kilometers": "125000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/2/2026/10/17/mazda-2-2016-sky-active-gcc-specs-excellen-2-494---e9c0ac7b6e6d47a7bcf078885c2a51cd/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 15900,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100509604": {
+    "id": "100509604",
+    "title": "2018 NISSAN PATHFINDER PLATINUM | 3.5L NATURALLY ASPIRATED V6 | FWD | USA SPEC",
+    "price": 29990,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "2018",
+    "kilometers": "218000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/07/2018-nissan-pathfinder-platinum-35l-natura-2-263---0241a5e2843b49faa41f33d70039f56a/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 29990,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100581644": {
+    "id": "100581644",
+    "title": "TIVOLI | BRAND NEW | GCC SPEC | AGENCY WARRANTY + SERVICE PLAN",
+    "price": 77990,
+    "make": "KGM",
+    "model": "Tivoli",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Green Community",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kgm/tivoli/2026/10/13/tivoli-brand-new-gcc-spec-agency-warranty--2-381---89732673bb634d148a477dd84e3316bd/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 77990,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100524819": {
+    "id": "100524819",
+    "title": "2020 Alfa Romeo Stelvio Super | GCC Specs",
+    "price": 68900,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "year": "2020",
+    "kilometers": "66087",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Sports City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/stelvio/2026/10/08/2020-alfa-romeo-stelvio-super-gcc-specs-2-669---03bd765ec0414ed890760673d3797724/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 68900,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100410518": {
+    "id": "100410518",
+    "title": "MERCEDES S 450 2023 GCC 450 KM",
+    "price": 385000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2023",
+    "kilometers": "450",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/28/mercedes-s-450-2023-gcc-450-km-2-168---0b6272b263fa4996bcf098b9d867f0a5/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 385000,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100633297": {
+    "id": "100633297",
+    "title": "2026 Forthing V9 HEV Exclusive GCC Specs-Agency Warranty",
+    "price": 129500,
+    "make": "Forthing",
+    "model": "V9",
+    "year": "2026",
+    "kilometers": "17350",
+    "body_type": "Van",
+    "fuel_type": "Hybrid",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/forthing/v9/2026/10/17/2026-forthing-v9-hev-exclusive-gcc-specs-a-2-500---30cc702c4d504dedbd7c464353d1c423/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 129500,
+        "date": "2026-10-17T21:59:33Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100632896": {
+    "id": "100632896",
+    "title": "Jaecoo J5 Elite 2027 | GCC Speces | Brand New",
+    "price": 77999,
+    "make": "JAECOO",
+    "model": "J5",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaecoo/j5/2026/10/17/jaecoo-j5-elite-2027-gcc-speces-brand-new-2-606---df094cafd775416c9f5494a56a1c55d7/",
+    "first_seen": "2026-10-17T21:59:33Z",
+    "prices": [
+      {
+        "price": 77999,
+        "date": "2026-10-17T21:59:33Z"
       }
     ],
     "date": "2026-10-17"

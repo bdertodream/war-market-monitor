@@ -1,23 +1,9 @@
 {
-  "total_tracked": 25306,
-  "total_drops": 504,
-  "total_new": 25306,
-  "last_updated": "2026-10-17T18:12:12Z",
+  "total_tracked": 25313,
+  "total_drops": 501,
+  "total_new": 25313,
+  "last_updated": "2026-10-17T21:59:33Z",
   "drops": [
-    {
-      "id": "16918309",
-      "title": "AED 6827/month | 2021 Mercedes-Benz G-Class G 63 AMG | GCC Specs | Ref#496747",
-      "old_price": 474888,
-      "new_price": 449299,
-      "drop_pct": 5.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/07/22/aed-6827month-2021-mercedes-benz-g-class-g-2-346---525c53fed8a841ff9622b640060fcc76/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2021",
-      "mileage": "138375",
-      "date": "2026-09-14T09:37:18Z"
-    },
     {
       "id": "16889022",
       "title": "2,742 P.M |  GLA35 AMG 4matic | 0% Downpayment | Super Low Mileage!",
@@ -7003,9 +6989,107 @@
       "year": "2014",
       "mileage": "73000",
       "date": "2026-10-17T18:12:12Z"
+    },
+    {
+      "id": "100386772",
+      "title": "Mercedes-Benz S-Class S 450 AMG 2023 GCC Specs 1000 KM ONLY",
+      "old_price": 420000,
+      "new_price": 399000,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/26/mercedes-benz-s-class-s-450-amg-2023-gcc-s-2-594---59e097c4bb764a5386e4a5dd4c7090c9/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2023",
+      "mileage": "1000",
+      "date": "2026-10-17T21:59:33Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100634867",
+      "title": "Mazda 2 2016 sky active GCC Specs Excellent condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/2/2026/10/17/mazda-2-2016-sky-active-gcc-specs-excellen-2-494---e9c0ac7b6e6d47a7bcf078885c2a51cd/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "2",
+      "year": "2016",
+      "mileage": "125000",
+      "price": 15900,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100509604",
+      "title": "2018 NISSAN PATHFINDER PLATINUM | 3.5L NATURALLY ASPIRATED V6 | FWD | USA SPEC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/07/2018-nissan-pathfinder-platinum-35l-natura-2-263---0241a5e2843b49faa41f33d70039f56a/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": "2018",
+      "mileage": "218000",
+      "price": 29990,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100581644",
+      "title": "TIVOLI | BRAND NEW | GCC SPEC | AGENCY WARRANTY + SERVICE PLAN",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kgm/tivoli/2026/10/13/tivoli-brand-new-gcc-spec-agency-warranty--2-381---89732673bb634d148a477dd84e3316bd/",
+      "category": "Used Cars",
+      "make": "KGM",
+      "model": "Tivoli",
+      "year": "2026",
+      "mileage": "0",
+      "price": 77990,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100524819",
+      "title": "2020 Alfa Romeo Stelvio Super | GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/stelvio/2026/10/08/2020-alfa-romeo-stelvio-super-gcc-specs-2-669---03bd765ec0414ed890760673d3797724/",
+      "category": "Used Cars",
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "year": "2020",
+      "mileage": "66087",
+      "price": 68900,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100410518",
+      "title": "MERCEDES S 450 2023 GCC 450 KM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/28/mercedes-s-450-2023-gcc-450-km-2-168---0b6272b263fa4996bcf098b9d867f0a5/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2023",
+      "mileage": "450",
+      "price": 385000,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100633297",
+      "title": "2026 Forthing V9 HEV Exclusive GCC Specs-Agency Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/forthing/v9/2026/10/17/2026-forthing-v9-hev-exclusive-gcc-specs-a-2-500---30cc702c4d504dedbd7c464353d1c423/",
+      "category": "Used Cars",
+      "make": "Forthing",
+      "model": "V9",
+      "year": "2026",
+      "mileage": "17350",
+      "price": 129500,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
+    {
+      "id": "100632896",
+      "title": "Jaecoo J5 Elite 2027 | GCC Speces | Brand New",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jaecoo/j5/2026/10/17/jaecoo-j5-elite-2027-gcc-speces-brand-new-2-606---df094cafd775416c9f5494a56a1c55d7/",
+      "category": "Used Cars",
+      "make": "JAECOO",
+      "model": "J5",
+      "year": "2027",
+      "mileage": "0",
+      "price": 77999,
+      "first_seen": "2026-10-17T21:59:33Z"
+    },
     {
       "id": "100633667",
       "title": "(FINAL PRICE) Renault Megane 2018 GCC Specs Excellent Condition",
@@ -12920,90 +13004,6 @@
       "year": "2021",
       "mileage": "136000",
       "price": 95000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100358660",
-      "title": "Rolls-Royce Cullinan Black Badge 2026 | Certified Pre-Owned | Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/09/24/rolls-royce-cullinan-black-badge-2026-cert-2-697---a35c3e3a6756449b9530fb42b651f8f1/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2026",
-      "mileage": "400",
-      "price": 2180000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100580380",
-      "title": "Mercedes-Benz GLC Coupe GLC 300 2025 Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glc-coupe/2026/10/13/mercedes-benz-glc-coupe-glc-300-2025-korea-2-010---98af8fb551cd479f80e9d17141e14928/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLC Coupe",
-      "year": "2025",
-      "mileage": "8000",
-      "price": 207999,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100259369",
-      "title": "Jetour T2 Traveler Plus XWD 2025 | 2.0 Turbo | 254 HP",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/09/16/jetour-t2-traveler-plus-xwd-2025-20-turbo--2-213---7eeb11d669e044cf84824f20c772017f/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "T2",
-      "year": "2025",
-      "mileage": "15235",
-      "price": 114999,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "16969547",
-      "title": "2023 Tesla Model Y Performance | GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/09/08/2023-tesla-model-y-performance-gcc-specs-2-387---6455795d9c83489c9ee26dfff2a2ac72/",
-      "category": "Used Cars",
-      "make": "Tesla",
-      "model": "Model Y",
-      "year": "2023",
-      "mileage": "78000",
-      "price": 135000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "16969559",
-      "title": "Tesla Model 3 Long Range 2024 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/09/08/tesla-model-3-long-range-2024-gcc-specs-2-106---1bc94bff55fc41f1bb5385096b3a9b73/",
-      "category": "Used Cars",
-      "make": "Tesla",
-      "model": "Model 3",
-      "year": "2024",
-      "mileage": "78000",
-      "price": 152000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100579705",
-      "title": "Toyota RAV4 2.0L Petrol 4WD XLE Premium GCC Specs - Export Only",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/10/13/toyota-rav4-20l-petrol-4wd-xle-premium-gcc-2-474---fa6fb293b5d44a419766976de49e584e/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Rav 4",
-      "year": "2026",
-      "mileage": "0",
-      "price": 145000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100511513",
-      "title": "Mercedes-Benz G-Class G 63 AMG 2019 GCC Specs Special Edition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/07/mercedes-benz-g-class-g-63-amg-2019-gcc-sp-2-138---c6599417da334a55ae131e1c90ae7b17/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2019",
-      "mileage": "80000",
-      "price": 429000,
       "first_seen": "2026-10-13T11:27:48Z"
     }
   ]

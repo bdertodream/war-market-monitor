@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28786,
+  "total_tracked": 28788,
   "total_drops": 500,
-  "total_new": 28786,
+  "total_new": 28788,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -9165,6 +9165,28 @@
       "first_seen": "2026-10-17"
     },
     {
+      "id": "18166477",
+      "title": "Fully Upgraded | Beautifully Furnished |High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/16/fully-upgraded-beautifully-furnished-hi-2-114804/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "639",
+      "bedrooms": "1",
+      "price": 1190000,
+      "first_seen": "2026-10-17"
+    },
+    {
+      "id": "17368120",
+      "title": "Brand New- Fully Furnished- Post Handover Payment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/front-facing-open-view-with-post-handov-2-157329/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "1025",
+      "bedrooms": "2",
+      "price": 1750000,
+      "first_seen": "2026-10-17"
+    },
+    {
       "id": "17948007",
       "title": "1 BR Apartment | Full Lagoon & Pool View | Below Market Price | High ROI Investor Deal",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/2/1-br-apartment-full-lagoon-pool-view-be-2-243261/",
@@ -12483,28 +12505,6 @@
       "category": "Townhouse",
       "size": "2249",
       "bedrooms": "3",
-      "price": 3399999,
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "18031071",
-      "title": "Exclusive | Best Burj View | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/19/exclusive-best-burj-view-fully-furnishe-2-303770/",
-      "area": "Za'abeel",
-      "category": "Apartment",
-      "size": "1408",
-      "bedrooms": "2",
-      "price": 4350000,
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "17968832",
-      "title": "Below Op Price| | Largest Plot | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/7/op-price-largest-plot-single-row-2-190816/",
-      "area": "The Valley by Emaar",
-      "category": "Townhouse",
-      "size": "4003",
-      "bedrooms": "4",
       "price": 3399999,
       "first_seen": "2026-10-14"
     }

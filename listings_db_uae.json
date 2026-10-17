@@ -213808,7 +213808,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/7/rare-to-market-large-high-floor-3-bedro-2-323992/",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   "17554459": {
     "title": "Garden Villa Type E | Under Market Price | Corner Unit | On The Park | Exclusive",
@@ -265496,7 +265496,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/8/29/handoverq1-2026-40-pho-1-monthly-high-r-2-800488/",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-10-04"
+    "last_seen": "2026-10-17"
   },
   "17725190": {
     "title": "Priority Allocation | 12% ROI | On Metro Station",
@@ -356980,7 +356980,7 @@
     "last_seen": "2026-10-16"
   },
   "17945597": {
-    "title": "Near amenities | Prime Location | Middle Corner",
+    "title": "Middle Corner | Near Lagoons| Prime Location",
     "price": 3400000,
     "size": "2364",
     "bedrooms": "5",
@@ -374214,6 +374214,32 @@
     "city": "Dubai",
     "category": "Shop",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/2/retail-with-post-handover-pp-1-monthly--2-665489/",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17"
+  },
+  "18166477": {
+    "title": "Fully Upgraded | Beautifully Furnished |High Floor",
+    "price": 1190000,
+    "size": "639",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "area": "Jumeirah Lake Towers (JLT)",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/16/fully-upgraded-beautifully-furnished-hi-2-114804/",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17"
+  },
+  "17368120": {
+    "title": "Brand New- Fully Furnished- Post Handover Payment",
+    "price": 1750000,
+    "size": "1025",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "area": "Dubai Science Park",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/front-facing-open-view-with-post-handov-2-157329/",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17"
   }
