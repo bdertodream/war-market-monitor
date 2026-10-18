@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28794,
+  "total_tracked": 28795,
   "total_drops": 500,
-  "total_new": 28794,
+  "total_new": 28795,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9738159",
-      "title": "CORNER PLOT | PHASE 2| CLOSE TO SZR E11 |MOTIVATED",
-      "old_price": 5566000,
-      "new_price": 5000000,
-      "drop_pct": 10.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/3/corner-plot-phase-2-close-to-szr-e11-mo-2-313427/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "13255",
-      "bedrooms": "",
-      "date": "2026-05-27",
-      "first_seen": "2026-03-08"
-    },
     {
       "id": "17279279",
       "title": "Open Kitchen | Fully Furnished | Spacious",
@@ -7005,6 +6991,20 @@
       "bedrooms": "4",
       "date": "2026-10-17",
       "first_seen": "2026-10-02"
+    },
+    {
+      "id": "9792922",
+      "title": "Exclusive | 10,000 sqft | Residential Plot",
+      "old_price": 3500000,
+      "new_price": 3175000,
+      "drop_pct": 9.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/8/21/exclusive-10000-sqft-residential-plot-2-624863/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "10000",
+      "bedrooms": "",
+      "date": "2026-10-18",
+      "first_seen": "2026-08-21"
     }
   ],
   "new_listings": [
@@ -7072,6 +7072,17 @@
       "size": "1218",
       "bedrooms": "2",
       "price": 3036124,
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "18088086",
+      "title": "Private Location | 4 Bed + Study | Large Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/1/private-location-4-bed-study-large-plot-2-557805/",
+      "area": "Al Barari",
+      "category": "Villa",
+      "size": "7463",
+      "bedrooms": "4",
+      "price": 34500000,
       "first_seen": "2026-10-18"
     },
     {
@@ -8946,7 +8957,7 @@
     },
     {
       "id": "9840337",
-      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Location",
+      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Locatio",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/10/17/just-1-monthly-for-80-months-high-roi-p-2-475161/",
       "area": "Dubai Silicon Oasis (DSO)",
       "category": "Shop",
@@ -12495,17 +12506,6 @@
       "size": "1617",
       "bedrooms": "3",
       "price": 3675000,
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "17878439",
-      "title": "New | Luxury Townhouse | Private Garden",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/18/new-luxury-townhouse-private-garden-2-649872/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Townhouse",
-      "size": "3064",
-      "bedrooms": "4",
-      "price": 4350000,
       "first_seen": "2026-10-14"
     }
   ],
