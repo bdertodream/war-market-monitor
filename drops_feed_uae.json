@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28788,
+  "total_tracked": 28789,
   "total_drops": 500,
-  "total_new": 28788,
+  "total_new": 28789,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "18169426",
+      "title": "Beach District | Next to Metro | Near Handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/16/beach-district-next-to-metro-near-hando-2-253294/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1596",
+      "bedrooms": "3",
+      "price": 3990000,
+      "first_seen": "2026-10-18"
+    },
+    {
       "id": "18108112",
       "title": "Vacant | Fully Upgraded | Burj and Sea View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/5/vacant-fully-upgraded-burj-and-sea-view-2-249597/",
@@ -8858,7 +8869,7 @@
     },
     {
       "id": "9840410",
-      "title": "Own With 20% Down & Pay 80% In 6.5 Years | Fully Furnished-Branded By Versace | 5 Mins to Metro & D",
+      "title": "Own With 20% Down & Pay 80% In 6.5 Years | Fully Furnished-Branded By Versace | 5 Mins to Metro & District IO",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/10/17/own-with-20-down-pay-80-in-65-years-ful-2-161433/",
       "area": "Dubai Silicon Oasis (DSO)",
       "category": "Shop",
@@ -8880,7 +8891,7 @@
     },
     {
       "id": "9840337",
-      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Locatio",
+      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Location",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/10/17/just-1-monthly-for-80-months-high-roi-p-2-475161/",
       "area": "Dubai Silicon Oasis (DSO)",
       "category": "Shop",
@@ -12496,19 +12507,8 @@
       "bedrooms": "3",
       "price": 2650000,
       "first_seen": "2026-10-14"
-    },
-    {
-      "id": "16549307",
-      "title": "Great Condition | Motivated | Viewable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/10/26/thm1-type-spacious-investor-deal-2-221349/",
-      "area": "DAMAC Hills",
-      "category": "Townhouse",
-      "size": "2249",
-      "bedrooms": "3",
-      "price": 3399999,
-      "first_seen": "2026-10-14"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-17"
+  "last_updated": "2026-10-18"
 }

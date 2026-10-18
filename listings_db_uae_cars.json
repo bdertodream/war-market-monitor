@@ -604504,5 +604504,49 @@
       }
     ],
     "date": "2026-10-17"
+  },
+  "100363754": {
+    "id": "100363754",
+    "title": "2024 Polestar 3 Long Range performance GCC Specs",
+    "price": 175000,
+    "make": "Polestar",
+    "model": "3",
+    "year": "2024",
+    "kilometers": "1900",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/3/2026/09/24/2024-polestar-3-long-range-performance-gcc-2-114---ec41c9826136494b934383b90463acbe/",
+    "first_seen": "2026-10-18T03:16:26Z",
+    "prices": [
+      {
+        "price": 175000,
+        "date": "2026-10-18T03:16:26Z"
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  "100538767": {
+    "id": "100538767",
+    "title": "!! 2024!! Chevrolet | Tahoe LS | GCC | Excellent Condition | 64000 Driven |",
+    "price": 157500,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": "2024",
+    "kilometers": "64000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/09/2024-chevrolet-tahoe-ls-gcc-excellent-cond-2-288---a990b0dc5da64bfd80962647edda6c02/",
+    "first_seen": "2026-10-18T03:16:26Z",
+    "prices": [
+      {
+        "price": 157500,
+        "date": "2026-10-18T03:16:26Z"
+      }
+    ],
+    "date": "2026-10-18"
   }
 }

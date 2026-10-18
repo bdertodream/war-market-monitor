@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25313,
-  "total_drops": 501,
-  "total_new": 25313,
-  "last_updated": "2026-10-17T21:59:33Z",
+  "total_tracked": 25315,
+  "total_drops": 500,
+  "total_new": 25315,
+  "last_updated": "2026-10-18T03:16:26Z",
   "drops": [
     {
       "id": "16889022",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100363754",
+      "title": "2024 Polestar 3 Long Range performance GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/3/2026/09/24/2024-polestar-3-long-range-performance-gcc-2-114---ec41c9826136494b934383b90463acbe/",
+      "category": "Used Cars",
+      "make": "Polestar",
+      "model": "3",
+      "year": "2024",
+      "mileage": "1900",
+      "price": 175000,
+      "first_seen": "2026-10-18T03:16:26Z"
+    },
+    {
+      "id": "100538767",
+      "title": "!! 2024!! Chevrolet | Tahoe LS | GCC | Excellent Condition | 64000 Driven |",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/09/2024-chevrolet-tahoe-ls-gcc-excellent-cond-2-288---a990b0dc5da64bfd80962647edda6c02/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": "2024",
+      "mileage": "64000",
+      "price": 157500,
+      "first_seen": "2026-10-18T03:16:26Z"
+    },
+    {
       "id": "100634867",
       "title": "Mazda 2 2016 sky active GCC Specs Excellent condition",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/2/2026/10/17/mazda-2-2016-sky-active-gcc-specs-excellen-2-494---e9c0ac7b6e6d47a7bcf078885c2a51cd/",
@@ -12980,30 +13004,6 @@
       "year": "2020",
       "mileage": "140000",
       "price": 59500,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100580655",
-      "title": "Mercedes-Benz G 63 AMG 2025 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/13/mercedes-benz-g-63-amg-2025-gcc-specs-2-079---b91f7e43cc184f4ab772ff2670bf6389/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2025",
-      "mileage": "36000",
-      "price": 880000,
-      "first_seen": "2026-10-13T11:27:48Z"
-    },
-    {
-      "id": "100580552",
-      "title": "2021 GMC Sierra 1500 Elevation - GCC Specs | Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra/2026/10/13/2021-gmc-sierra-1500-elevation-gcc-specs-e-2-818---146c64cb7a474b85982d5f6283ff8a6e/",
-      "category": "Used Cars",
-      "make": "GMC",
-      "model": "Sierra",
-      "year": "2021",
-      "mileage": "136000",
-      "price": 95000,
       "first_seen": "2026-10-13T11:27:48Z"
     }
   ]
