@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 28795,
+  "total_tracked": 28797,
   "total_drops": 500,
-  "total_new": 28795,
+  "total_new": 28797,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7086,6 +7086,28 @@
       "first_seen": "2026-10-18"
     },
     {
+      "id": "18177003",
+      "title": "Damac hills,Rockwood,sale villa,dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/18/damac-hillsrockwoodsale-villadubai-2-890/",
+      "area": "DAMAC Hills",
+      "category": "Villa",
+      "size": "2723",
+      "bedrooms": "3",
+      "price": 4250000,
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "9840516",
+      "title": "Executive Entrance | Super Bright Spacious Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/18/executive-entrance-super-bright-spaciou-2-252893/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "3459",
+      "bedrooms": "",
+      "price": 12500000,
+      "first_seen": "2026-10-18"
+    },
+    {
       "id": "18108112",
       "title": "Vacant | Fully Upgraded | Burj and Sea View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/5/vacant-fully-upgraded-burj-and-sea-view-2-249597/",
@@ -12484,28 +12506,6 @@
       "size": "2204",
       "bedrooms": "3",
       "price": 4400000,
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "17934830",
-      "title": "EMAAR | Premium Building | Investor Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/emaar-premium-building-investor-deal-2-297800/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1332",
-      "bedrooms": "2",
-      "price": 4000000,
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "17926091",
-      "title": "VOT | Downtown Skyline Views | Exclusive",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/28/vot-downtown-skyline-views-exclusive-2-115102/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1617",
-      "bedrooms": "3",
-      "price": 3675000,
       "first_seen": "2026-10-14"
     }
   ],

@@ -1,23 +1,9 @@
 {
-  "total_tracked": 25356,
-  "total_drops": 510,
-  "total_new": 25356,
-  "last_updated": "2026-10-18T15:27:46Z",
+  "total_tracked": 25358,
+  "total_drops": 501,
+  "total_new": 25358,
+  "last_updated": "2026-10-18T18:29:08Z",
   "drops": [
-    {
-      "id": "16937981",
-      "title": "Special Order Brand new only 1,000km Warranty and Service contract until 08/2027",
-      "old_price": 1350000,
-      "new_price": 1280000,
-      "drop_pct": 5.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2026/08/10/special-order-brand-new-only-1000km-warran-2-476---ae33abdbfade4f51969037c3bfcbe514/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Ghost",
-      "year": "2024",
-      "mileage": "1000",
-      "date": "2026-09-15T09:14:38Z"
-    },
     {
       "id": "16917722",
       "title": "ROX 01 / 6 SEATS VIP / 2026 / BIG BATTERY / WARRANTY AND CONTRACT SERVICE EVS",
@@ -7003,9 +6989,47 @@
       "year": "2022",
       "mileage": "18700",
       "date": "2026-10-18T15:27:46Z"
+    },
+    {
+      "id": "16909072",
+      "title": "Brabus 900 Rocket Edition 4\u00d74\u00b2 2020 - Japanese Specs",
+      "old_price": 820000,
+      "new_price": 749000,
+      "drop_pct": 8.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/07/14/brabus-900-rocket-edition-442-2020-japanes-2-073---25a763318c65448d8f7b4f9c0436c952/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2020",
+      "mileage": "29000",
+      "date": "2026-10-18T18:29:08Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100645233",
+      "title": "Toyota Land Cruiser VXR 2026 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/18/toyota-land-cruiser-vxr-2026-gcc-specs-2-066---31bb1eee8e5340e391d4fdb63baeb17e/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2026",
+      "mileage": "3800",
+      "price": 345000,
+      "first_seen": "2026-10-18T18:29:08Z"
+    },
+    {
+      "id": "16972175",
+      "title": "2023 Lamborghini Usus S | GCC | 38,500km | Warranty and Service",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/10/2023-lamborghini-usus-s-gcc-38500km-warran-2-671---601e82c7c6274bc6834d0d9bb5d060e9/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "year": "2023",
+      "mileage": "38500",
+      "price": 910000,
+      "first_seen": "2026-10-18T18:29:08Z"
+    },
     {
       "id": "16966757",
       "title": "Audi S8 2015 - Premium Performance Luxury Sedan",
@@ -10141,13 +10165,13 @@
     {
       "id": "100456517",
       "title": "Ford Explorer Sport 2018 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/02/ford-explorer-sport-2018-gcc-specs-2-847---78ad6e9154ff4ad2aa6a8325a8637c83/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/02/ford-explorer-sport-2018-gcc-specs-2-885---78ad6e9154ff4ad2aa6a8325a8637c83/",
       "category": "Used Cars",
       "make": "Ford",
       "model": "Explorer",
       "year": "2018",
       "mileage": "181000",
-      "price": 45000,
+      "price": 44000,
       "first_seen": "2026-10-15T22:55:33Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2017",
       "mileage": "120000",
       "price": 89000,
-      "first_seen": "2026-10-13T18:57:04Z"
-    },
-    {
-      "id": "100584016",
-      "title": "1984 Mercedes-Benz 190 2.3-16",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/190/2026/10/13/1984-mercedes-benz-190-23-16-2-734---25fbb2230ba5446e96bab922210e1f44/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "190",
-      "year": "1984",
-      "mileage": "94000",
-      "price": 175000,
-      "first_seen": "2026-10-13T18:57:04Z"
-    },
-    {
-      "id": "100424997",
-      "title": "Porsche Panamera 4S 2011 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/09/29/porsche-panamera-4s-2011-gcc-specs-2-458---4f219ddc92e346e1991c64496ed98b55/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Panamera",
-      "year": "2011",
-      "mileage": "140000",
-      "price": 46500,
       "first_seen": "2026-10-13T18:57:04Z"
     }
   ]

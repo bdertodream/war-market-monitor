@@ -537730,7 +537730,7 @@
   "16909072": {
     "id": "16909072",
     "title": "Brabus 900 Rocket Edition 4\u00d74\u00b2 2020 - Japanese Specs",
-    "price": 820000,
+    "price": 749000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2020",
@@ -537739,12 +537739,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/07/14/brabus-900-rocket-edition-442-2020-japanes-2-224---25a763318c65448d8f7b4f9c0436c952/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/07/14/brabus-900-rocket-edition-442-2020-japanes-2-073---25a763318c65448d8f7b4f9c0436c952/",
     "first_seen": "2026-09-13T18:34:34Z",
     "prices": [
       {
         "price": 820000,
         "date": "2026-09-13T18:34:34Z"
+      },
+      {
+        "price": 749000,
+        "date": "2026-10-18T18:29:08Z"
       }
     ],
     "date": "2026-09-13"
@@ -599304,7 +599308,7 @@
   "100456517": {
     "id": "100456517",
     "title": "Ford Explorer Sport 2018 GCC Specs",
-    "price": 45000,
+    "price": 44000,
     "make": "Ford",
     "model": "Explorer",
     "year": "2018",
@@ -599313,12 +599317,16 @@
     "fuel_type": "Petrol",
     "area": "Al Mizhar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/02/ford-explorer-sport-2018-gcc-specs-2-847---78ad6e9154ff4ad2aa6a8325a8637c83/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/02/ford-explorer-sport-2018-gcc-specs-2-885---78ad6e9154ff4ad2aa6a8325a8637c83/",
     "first_seen": "2026-10-15T22:55:33Z",
     "prices": [
       {
         "price": 45000,
         "date": "2026-10-15T22:55:33Z"
+      },
+      {
+        "price": 44000,
+        "date": "2026-10-18T18:29:08Z"
       }
     ],
     "date": "2026-10-15"
@@ -605527,6 +605535,50 @@
       {
         "price": 849000,
         "date": "2026-10-18T15:27:46Z"
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  "100645233": {
+    "id": "100645233",
+    "title": "Toyota Land Cruiser VXR 2026 GCC Specs",
+    "price": 345000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2026",
+    "kilometers": "3800",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/18/toyota-land-cruiser-vxr-2026-gcc-specs-2-066---31bb1eee8e5340e391d4fdb63baeb17e/",
+    "first_seen": "2026-10-18T18:29:08Z",
+    "prices": [
+      {
+        "price": 345000,
+        "date": "2026-10-18T18:29:08Z"
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  "16972175": {
+    "id": "16972175",
+    "title": "2023 Lamborghini Usus S | GCC | 38,500km | Warranty and Service",
+    "price": 910000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2023",
+    "kilometers": "38500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "District One",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/10/2023-lamborghini-usus-s-gcc-38500km-warran-2-671---601e82c7c6274bc6834d0d9bb5d060e9/",
+    "first_seen": "2026-10-18T18:29:08Z",
+    "prices": [
+      {
+        "price": 910000,
+        "date": "2026-10-18T18:29:08Z"
       }
     ],
     "date": "2026-10-18"
