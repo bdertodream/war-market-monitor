@@ -1,23 +1,9 @@
 {
-  "total_tracked": 25358,
+  "total_tracked": 25359,
   "total_drops": 501,
-  "total_new": 25358,
-  "last_updated": "2026-10-18T18:29:08Z",
+  "total_new": 25359,
+  "last_updated": "2026-10-18T22:15:19Z",
   "drops": [
-    {
-      "id": "16917722",
-      "title": "ROX 01 / 6 SEATS VIP / 2026 / BIG BATTERY / WARRANTY AND CONTRACT SERVICE EVS",
-      "old_price": 215000,
-      "new_price": 203000,
-      "drop_pct": 5.6,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/07/22/rox-01-6-seats-vip-2026-big-battery-warran-2-263---6d0d679908b349db9d32f8057a51113c/",
-      "category": "Used Cars",
-      "make": "Rox",
-      "model": "01",
-      "year": "2026",
-      "mileage": "0",
-      "date": "2026-09-15T09:14:38Z"
-    },
     {
       "id": "16931395",
       "title": "AED 1,360/month | 0 Downpayment | Free 3 Months Warranty | 30 Day Return | TOYOTA FORTUNER 2023",
@@ -7003,9 +6989,35 @@
       "year": "2020",
       "mileage": "29000",
       "date": "2026-10-18T18:29:08Z"
+    },
+    {
+      "id": "100341275",
+      "title": "2022 Mahindra XUV 500 W8 GCC Specs",
+      "old_price": 35000,
+      "new_price": 29000,
+      "drop_pct": 17.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mahindra/xuv-500/2026/09/22/2022-mahindra-xuv-500-w8-gcc-specs-2-853---90bb4fcc5012400ea083144db5010875/",
+      "category": "Used Cars",
+      "make": "Mahindra",
+      "model": "XUV 500",
+      "year": "2022",
+      "mileage": "108262",
+      "date": "2026-10-18T22:15:19Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100646750",
+      "title": "Mercedes-Benz G-Class G 63 AMG 4x4\u00b2 2016 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/18/mercedes-benz-g-class-g-63-amg-4x42-2016-g-2-322---802c51db879a48fbafe61ac93a136ec1/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2016",
+      "mileage": "129000",
+      "price": 157000,
+      "first_seen": "2026-10-18T22:15:19Z"
+    },
     {
       "id": "100645233",
       "title": "Toyota Land Cruiser VXR 2026 GCC Specs",
@@ -12992,18 +13004,6 @@
       "year": "2019",
       "mileage": "102496",
       "price": 119950,
-      "first_seen": "2026-10-13T18:57:04Z"
-    },
-    {
-      "id": "100584048",
-      "title": "Mercedes-Benz S-Class S 55 AMG 2017 European Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/10/13/mercedes-benz-s-class-s-55-amg-2017-europe-2-946---f8fbbc42976448aca356e505d8d5b447/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2017",
-      "mileage": "120000",
-      "price": 89000,
       "first_seen": "2026-10-13T18:57:04Z"
     }
   ]

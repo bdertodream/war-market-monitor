@@ -543074,7 +543074,7 @@
   "100260210": {
     "id": "100260210",
     "title": "G 63 AMG / DOUBLE NIGHT PACKAGE / CARBON FIBER EDITION / 5 YEARS WARRANTY / FULL OPTION",
-    "price": 718000,
+    "price": 696000,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2024",
@@ -543083,12 +543083,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/g-63-amg-double-night-package-carbon-fiber-2-037---5612d58c2bcb4c4490df1a1bdf18709a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/16/g-63-amg-double-night-package-carbon-fiber-2-477---5612d58c2bcb4c4490df1a1bdf18709a/",
     "first_seen": "2026-09-16T16:15:20Z",
     "prices": [
       {
         "price": 718000,
         "date": "2026-09-16T16:15:20Z"
+      },
+      {
+        "price": 696000,
+        "date": "2026-10-18T22:15:19Z"
       }
     ],
     "date": "2026-09-16"
@@ -582802,7 +582806,7 @@
   "100341275": {
     "id": "100341275",
     "title": "2022 Mahindra XUV 500 W8 GCC Specs",
-    "price": 35000,
+    "price": 29000,
     "make": "Mahindra",
     "model": "XUV 500",
     "year": "2022",
@@ -582811,12 +582815,16 @@
     "fuel_type": "Petrol",
     "area": "Al Jaddaf Star Building",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mahindra/xuv-500/2026/09/22/2022-mahindra-xuv-500-w8-gcc-specs-2-023---90bb4fcc5012400ea083144db5010875/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mahindra/xuv-500/2026/09/22/2022-mahindra-xuv-500-w8-gcc-specs-2-853---90bb4fcc5012400ea083144db5010875/",
     "first_seen": "2026-10-07T21:02:37Z",
     "prices": [
       {
         "price": 35000,
         "date": "2026-10-07T21:02:37Z"
+      },
+      {
+        "price": 29000,
+        "date": "2026-10-18T22:15:19Z"
       }
     ],
     "date": "2026-10-07"
@@ -605579,6 +605587,28 @@
       {
         "price": 910000,
         "date": "2026-10-18T18:29:08Z"
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  "100646750": {
+    "id": "100646750",
+    "title": "Mercedes-Benz G-Class G 63 AMG 4x4\u00b2 2016 GCC Specs",
+    "price": 157000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2016",
+    "kilometers": "129000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/18/mercedes-benz-g-class-g-63-amg-4x42-2016-g-2-322---802c51db879a48fbafe61ac93a136ec1/",
+    "first_seen": "2026-10-18T22:15:19Z",
+    "prices": [
+      {
+        "price": 157000,
+        "date": "2026-10-18T22:15:19Z"
       }
     ],
     "date": "2026-10-18"
