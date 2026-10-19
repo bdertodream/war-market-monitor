@@ -605612,5 +605612,27 @@
       }
     ],
     "date": "2026-10-18"
+  },
+  "100643576": {
+    "id": "100643576",
+    "title": "2023 Land Rover Range Rover HSE GCC Specs in Immaculate Condition",
+    "price": 390000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2023",
+    "kilometers": "60500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/18/2023-land-rover-range-rover-hse-gcc-specs--2-194---4f1b38c639524bada5fd6f620473348a/",
+    "first_seen": "2026-10-19T03:29:25Z",
+    "prices": [
+      {
+        "price": 390000,
+        "date": "2026-10-19T03:29:25Z"
+      }
+    ],
+    "date": "2026-10-18"
   }
 }

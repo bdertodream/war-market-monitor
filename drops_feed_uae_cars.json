@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25359,
-  "total_drops": 501,
-  "total_new": 25359,
-  "last_updated": "2026-10-18T22:15:19Z",
+  "total_tracked": 25360,
+  "total_drops": 500,
+  "total_new": 25360,
+  "last_updated": "2026-10-19T03:29:25Z",
   "drops": [
     {
       "id": "16931395",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100643576",
+      "title": "2023 Land Rover Range Rover HSE GCC Specs in Immaculate Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/18/2023-land-rover-range-rover-hse-gcc-specs--2-194---4f1b38c639524bada5fd6f620473348a/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2023",
+      "mileage": "60500",
+      "price": 390000,
+      "first_seen": "2026-10-19T03:29:25Z"
+    },
+    {
       "id": "100646750",
       "title": "Mercedes-Benz G-Class G 63 AMG 4x4\u00b2 2016 GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/18/mercedes-benz-g-class-g-63-amg-4x42-2016-g-2-322---802c51db879a48fbafe61ac93a136ec1/",
@@ -12992,18 +13004,6 @@
       "year": "2027",
       "mileage": "0",
       "price": 295000,
-      "first_seen": "2026-10-13T18:57:04Z"
-    },
-    {
-      "id": "100584152",
-      "title": "AED 2,299 P.M \u2022 0% Downpayment \u2022  Range Rover HSE \u2022 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/13/aed-2299-pm-0-downpayment-range-rover-hse--2-715---54971f3809384f8eb066a00943646c70/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover",
-      "year": "2019",
-      "mileage": "102496",
-      "price": 119950,
       "first_seen": "2026-10-13T18:57:04Z"
     }
   ]
