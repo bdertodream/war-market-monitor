@@ -1620,7 +1620,7 @@
   "16764417": {
     "id": "16764417",
     "title": "GCC 3 cylinders not negotiable price \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646",
-    "price": 16000,
+    "price": 14500,
     "make": "Ford",
     "model": "Figo",
     "year": "{'label': 'Year', 'value': 2020}",
@@ -1629,7 +1629,7 @@
     "fuel_type": "{'label': 'Fuel Type', 'value': 'Petrol'}",
     "area": "Al Khabaisi",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/03/04/gcc-3-cylinders-not-negotiable-price-2-467---57287fd4e54849a2935cf67cc85fdf20/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/03/04/gcc-3-cylinders-not-negotiable-price-2-183---57287fd4e54849a2935cf67cc85fdf20/",
     "first_seen": "2026-03-08T13:42:36Z",
     "prices": [
       {
@@ -1691,6 +1691,10 @@
       {
         "price": 16000,
         "date": "2026-10-03T13:05:19Z"
+      },
+      {
+        "price": 14500,
+        "date": "2026-10-19T23:21:50Z"
       }
     ],
     "date": "2026-03-08"
@@ -606649,8 +606653,8 @@
   },
   "100654903": {
     "id": "100654903",
-    "title": "2015 Audi Q7 Supercharged Sline\u2013 GCC Specs | Excellent Condition I Fixed with Extra Slim Wooferofer",
-    "price": 32000,
+    "title": "2015 Audi Q7 Supercharged Sline\u2013 GCC Specs | Excellent Condition I Fixed with Extra Slim SubWoofer",
+    "price": 27000,
     "make": "Audi",
     "model": "Q7",
     "year": "2015",
@@ -606659,12 +606663,16 @@
     "fuel_type": "Petrol",
     "area": "Mirdif",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/10/19/2015-audi-q7-supercharged-sline-gcc-specs--2-083---e287feda5aab4d9c968a99f54224bd7a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/10/19/2015-audi-q7-supercharged-sline-gcc-specs--2-345---e287feda5aab4d9c968a99f54224bd7a/",
     "first_seen": "2026-10-19T18:24:38Z",
     "prices": [
       {
         "price": 32000,
         "date": "2026-10-19T18:24:38Z"
+      },
+      {
+        "price": 27000,
+        "date": "2026-10-19T23:21:50Z"
       }
     ],
     "date": "2026-10-19"
@@ -607303,6 +607311,402 @@
       {
         "price": 389000,
         "date": "2026-10-19T18:24:38Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100402510": {
+    "id": "100402510",
+    "title": "Honda Civic 2010 || Perfect Condition",
+    "price": 11000,
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2010",
+    "kilometers": "235000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2026/09/27/honda-civic-2010-perfect-condition-2-950---193664aae2174683b8f6e5f7cb5365e4/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 11000,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100658146": {
+    "id": "100658146",
+    "title": "2004 Jaguar XJ 8 Japanese Specs",
+    "price": 23900,
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2004",
+    "kilometers": "72000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/10/19/2004-jaguar-xj-8-japanese-specs-2-847---38b950833e13434daaf7542ea84b8674/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 23900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657857": {
+    "id": "100657857",
+    "title": "2011 Porsche Boxster Spyder GCC Specs-Agency Service History",
+    "price": 79500,
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": "2011",
+    "kilometers": "220450",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/boxster/2026/10/19/2011-porsche-boxster-spyder-gcc-specs-agen-2-518---834e5976835444e3add5d6359da27fa7/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 79500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657798": {
+    "id": "100657798",
+    "title": "Honda HR-V 2023 EX GCC Specs",
+    "price": 66500,
+    "make": "Honda",
+    "model": "HR-V",
+    "year": "2023",
+    "kilometers": "88000",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/hr-v/2026/10/19/honda-hr-v-2023-ex-gcc-specs-2-878---50c543ae24634f30806d49b3bdd104ae/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 66500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657757": {
+    "id": "100657757",
+    "title": "2021 Nissan X-Trail SV GCC Specs for Sale",
+    "price": 49900,
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": "2021",
+    "kilometers": "61000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/x-trail/2026/10/19/2021-nissan-x-trail-sv-gcc-specs-for-sale-2-196---ec5a4d436c104e1fb4fbc01951c19d59/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 49900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657731": {
+    "id": "100657731",
+    "title": "2013 Toyota Yaris SE GCC Specs \u2014 Excellent Condition, Low Mileage",
+    "price": 13000,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2013",
+    "kilometers": "367000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/10/19/2013-toyota-yaris-se-gcc-specs-excellent-c-2-124---91b4fb4fc7bb4014a98c2345a7c02ac5/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 13000,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100371210": {
+    "id": "100371210",
+    "title": "2024 Toyota Rav 4 EX GCC Specs",
+    "price": 84900,
+    "make": "Toyota",
+    "model": "Rav 4",
+    "year": "2024",
+    "kilometers": "47000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/09/25/2024-toyota-rav-4-ex-gcc-specs-2-170---a1885704a51c4fb0a280335d13d3eb0e/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 84900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657697": {
+    "id": "100657697",
+    "title": "Chevrolet Groove LT 2023 GCC Specs",
+    "price": 29900,
+    "make": "Chevrolet",
+    "model": "Groove",
+    "year": "2023",
+    "kilometers": "42000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/groove/2026/10/19/chevrolet-groove-lt-2023-gcc-specs-2-044---38f81fcf07e146778a02d7881e9e9788/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 29900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657650": {
+    "id": "100657650",
+    "title": "2023 Hyundai Accent Smart GCC Specs",
+    "price": 36500,
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "2023",
+    "kilometers": "89000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/10/19/2023-hyundai-accent-smart-gcc-specs-2-798---5bea619e978e40b1960fc11ba051035b/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 36500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657628": {
+    "id": "100657628",
+    "title": "2023 Hyundai Accent Smart GCC Specs",
+    "price": 39900,
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "2023",
+    "kilometers": "47000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/10/19/2023-hyundai-accent-smart-gcc-specs-2-752---006f5bae1d5b431e9ddf3c2c5c8b1dbc/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100657541": {
+    "id": "100657541",
+    "title": "2023 Infiniti Q50 Luxe Edition - GCC Specs - Excellent Condition",
+    "price": 68500,
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2023",
+    "kilometers": "64000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q50/2026/10/19/2023-infiniti-q50-luxe-edition-gcc-specs-e-2-511---5d22f449cc604b21afcb0297365a7119/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 68500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100656604": {
+    "id": "100656604",
+    "title": "2021 Land Rover Range Rover SE GCC Specs",
+    "price": 220000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2021",
+    "kilometers": "115000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/19/2021-land-rover-range-rover-se-gcc-specs-2-743---1ea550a73cf445d4b00181b115376245/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 220000,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100283762": {
+    "id": "100283762",
+    "title": "2023 Hyundai Elantra Comfort GCC Specs",
+    "price": 46500,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2023",
+    "kilometers": "58000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/09/18/2023-hyundai-elantra-comfort-gcc-specs-2-369---51535d1711c44b1fb49473eaec1f902c/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 46500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100284657": {
+    "id": "100284657",
+    "title": "Toyota Yaris E 2021 GCC Specs",
+    "price": 34900,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2021",
+    "kilometers": "79000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/09/18/toyota-yaris-e-2021-gcc-specs-2-362---d5728e96c8604c27bcfbc2b18f6d7869/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 34900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "16773806": {
+    "id": "16773806",
+    "title": "Infiniti Q 50 2021 with sunroof leather seats gcc accident free FSH",
+    "price": 52500,
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2021",
+    "kilometers": "109000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q50/2026/03/13/infiniti-q-50-2021-with-sunroof-leather-se-2-370---5710779117dd489b957999fc39b7df71/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 52500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "16844997": {
+    "id": "16844997",
+    "title": "Toyota Yaris SE 2022 GCC Specs - Excellent Condition",
+    "price": 32500,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2022",
+    "kilometers": "108000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/05/19/toyota-yaris-se-2022-gcc-specs-excellent-c-2-520---3793418a953d48b4ab6f8ff3b6b3ca2e/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 32500,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "16948284": {
+    "id": "16948284",
+    "title": "Toyota yaris 1.5 2022 with cruise control gcc FSH",
+    "price": 34900,
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2022",
+    "kilometers": "69500",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/08/19/toyota-yaris-15-2022-with-cruise-control-g-2-117---7915e8b4cdce45d1bb11d6dfcfc97cad/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 34900,
+        "date": "2026-10-19T23:21:50Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "16878581": {
+    "id": "16878581",
+    "title": "Nissan Pathfinder SV 2019 GCC Specs midnight edition",
+    "price": 44900,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": "2019",
+    "kilometers": "127000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/06/19/nissan-pathfinder-sv-2019-gcc-specs-midnig-2-867---0dcda55e0f334c2195ba5c8c3a4bd7d2/",
+    "first_seen": "2026-10-19T23:21:50Z",
+    "prices": [
+      {
+        "price": 44900,
+        "date": "2026-10-19T23:21:50Z"
       }
     ],
     "date": "2026-10-19"
