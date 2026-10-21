@@ -1,37 +1,9 @@
 {
   "total_tracked": 25556,
-  "total_drops": 501,
+  "total_drops": 502,
   "total_new": 25556,
-  "last_updated": "2026-10-20T22:57:35Z",
+  "last_updated": "2026-10-21T03:31:39Z",
   "drops": [
-    {
-      "id": "16918143",
-      "title": "6,855 P.M |  X7 xDrive40i M Sport | 0% Downpayment | Agency Warranty",
-      "old_price": 369999,
-      "new_price": 349999,
-      "drop_pct": 5.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/07/22/6855-pm-x7-xdrive40i-m-sport-0-downpayment-2-797---3f2232a779514244a1a62d8a1b19c2d6/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X7",
-      "year": "2025",
-      "mileage": "32000",
-      "date": "2026-09-17T16:21:59Z"
-    },
-    {
-      "id": "16958503",
-      "title": "MG ZST Luxury 2023 GCC Specs - Full Option - Under Warranty",
-      "old_price": 45000,
-      "new_price": 42000,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zst/2026/08/29/mg-zst-luxury-2023-gcc-specs-full-option-u-2-066---e92d28c51b83490cb3685d83d596bc81/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "ZST",
-      "year": "2023",
-      "mileage": "74000",
-      "date": "2026-09-17T16:21:59Z"
-    },
     {
       "id": "16948527",
       "title": "Kia Sorento LX Premium 2020 | GCC Specs | Low Mileage | Family SUV",
@@ -7003,6 +6975,34 @@
       "year": "2015",
       "mileage": "24000",
       "date": "2026-10-20T22:57:35Z"
+    },
+    {
+      "id": "100584350",
+      "title": "2016 Hyundai Accent Clane Title 4 Cylinder 1.6L just buy and drive perfect condition",
+      "old_price": 11500,
+      "new_price": 10700,
+      "drop_pct": 7.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/10/13/2016-hyundai-accent-clane-title-4-cylinder-2-134---225174bf6e044464a1f66c6139f93c45/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Accent",
+      "year": "2016",
+      "mileage": "260000",
+      "date": "2026-10-21T03:31:39Z"
+    },
+    {
+      "id": "100628606",
+      "title": "PREMIUM GCC-SPEC NISSAN PATHFINDER S V6 \u2013 AED 29,990 A CLEAN, WELL-MAINTAINED FAMILY SUV.",
+      "old_price": 32000,
+      "new_price": 29900,
+      "drop_pct": 6.6,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/17/premium-gcc-spec-nissan-pathfinder-s-v6-ae-2-769---33e8e3795a0a451cb4cb5d21549abc00/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": "2018",
+      "mileage": "164991",
+      "date": "2026-10-21T03:31:39Z"
     }
   ],
   "new_listings": [
@@ -7872,14 +7872,14 @@
     },
     {
       "id": "100628606",
-      "title": "PREMIUM GCC-SPEC NISSAN PATHFINDER S V6 \u2013 AED 32,000 A CLEAN, WELL-MAINTAINED FAMILY SUV.",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/17/premium-gcc-spec-nissan-pathfinder-s-v6-ae-2-326---33e8e3795a0a451cb4cb5d21549abc00/",
+      "title": "PREMIUM GCC-SPEC NISSAN PATHFINDER S V6 \u2013 AED 29,990 A CLEAN, WELL-MAINTAINED FAMILY SUV.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/17/premium-gcc-spec-nissan-pathfinder-s-v6-ae-2-769---33e8e3795a0a451cb4cb5d21549abc00/",
       "category": "Used Cars",
       "make": "Nissan",
       "model": "Pathfinder",
       "year": "2018",
       "mileage": "164991",
-      "price": 32000,
+      "price": 29900,
       "first_seen": "2026-10-20T09:11:35Z"
     },
     {

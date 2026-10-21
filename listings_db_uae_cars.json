@@ -594390,7 +594390,7 @@
   "100584350": {
     "id": "100584350",
     "title": "2016 Hyundai Accent Clane Title 4 Cylinder 1.6L just buy and drive perfect condition",
-    "price": 11500,
+    "price": 10700,
     "make": "Hyundai",
     "model": "Accent",
     "year": "2016",
@@ -594399,12 +594399,16 @@
     "fuel_type": "Petrol",
     "area": "Muhaisnah",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/10/13/2016-hyundai-accent-clane-title-4-cylinder-2-327---225174bf6e044464a1f66c6139f93c45/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/accent/2026/10/13/2016-hyundai-accent-clane-title-4-cylinder-2-134---225174bf6e044464a1f66c6139f93c45/",
     "first_seen": "2026-10-13T18:57:04Z",
     "prices": [
       {
         "price": 11500,
         "date": "2026-10-13T18:57:04Z"
+      },
+      {
+        "price": 10700,
+        "date": "2026-10-21T03:31:39Z"
       }
     ],
     "date": "2026-10-13"
@@ -608063,8 +608067,8 @@
   },
   "100628606": {
     "id": "100628606",
-    "title": "PREMIUM GCC-SPEC NISSAN PATHFINDER S V6 \u2013 AED 32,000 A CLEAN, WELL-MAINTAINED FAMILY SUV.",
-    "price": 32000,
+    "title": "PREMIUM GCC-SPEC NISSAN PATHFINDER S V6 \u2013 AED 29,990 A CLEAN, WELL-MAINTAINED FAMILY SUV.",
+    "price": 29900,
     "make": "Nissan",
     "model": "Pathfinder",
     "year": "2018",
@@ -608073,12 +608077,16 @@
     "fuel_type": "Petrol",
     "area": "JVC District 16",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/17/premium-gcc-spec-nissan-pathfinder-s-v6-ae-2-326---33e8e3795a0a451cb4cb5d21549abc00/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/10/17/premium-gcc-spec-nissan-pathfinder-s-v6-ae-2-769---33e8e3795a0a451cb4cb5d21549abc00/",
     "first_seen": "2026-10-20T09:11:35Z",
     "prices": [
       {
         "price": 32000,
         "date": "2026-10-20T09:11:35Z"
+      },
+      {
+        "price": 29900,
+        "date": "2026-10-21T03:31:39Z"
       }
     ],
     "date": "2026-10-20"

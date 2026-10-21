@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17156420",
-      "title": "RESALE | COMMUNITY LIVING | BEST LAYOUT",
-      "old_price": 2650000,
-      "new_price": 2300000,
-      "drop_pct": 13.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/resale-community-living-best-layout-2-323060/",
-      "area": "Al Wasl",
-      "category": "Apartment",
-      "size": "767",
-      "bedrooms": "1",
-      "date": "2026-05-30",
-      "first_seen": "2026-04-30"
-    },
-    {
       "id": "17392380",
       "title": "Fully Upgraded | Lake View | E Type",
       "old_price": 16000000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-10-20",
       "first_seen": "2026-08-25"
+    },
+    {
+      "id": "9804228",
+      "title": "Corner Villa Plot | Park Facing | Phase 12 | 12,052 Sq. Ft.",
+      "old_price": 4799999,
+      "new_price": 4550000,
+      "drop_pct": 5.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/1/corner-villa-plot-park-facing-phase-12--2-239247/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "12052",
+      "bedrooms": "",
+      "date": "2026-10-21",
+      "first_seen": "2026-10-02"
     }
   ],
   "new_listings": [
@@ -9733,7 +9733,7 @@
       "category": "Land",
       "size": "4773",
       "bedrooms": "",
-      "price": 8200000,
+      "price": 8500000,
       "first_seen": "2026-10-19"
     },
     {
@@ -11971,7 +11971,7 @@
     },
     {
       "id": "9840337",
-      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Locatio",
+      "title": "\ud83d\udd25Just 1% Monthly for 80 Months | High ROI Potential | Next Growth Hotspot | Prime Business Location",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/10/17/just-1-monthly-for-80-months-high-roi-p-2-475161/",
       "area": "Dubai Silicon Oasis (DSO)",
       "category": "Shop",
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-20"
+  "last_updated": "2026-10-21"
 }
