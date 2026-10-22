@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25666,
-  "total_drops": 504,
-  "total_new": 25666,
-  "last_updated": "2026-10-21T23:02:58Z",
+  "total_tracked": 25667,
+  "total_drops": 500,
+  "total_new": 25667,
+  "last_updated": "2026-10-22T03:31:00Z",
   "drops": [
     {
       "id": "16424571",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100681684",
+      "title": "2023 BMW X5 xDrive40e",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/10/21/2023-bmw-x5-xdrive40e-2-492---93d41993abb24be0a2b88ce509099e72/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2023",
+      "mileage": "80000",
+      "price": 145000,
+      "first_seen": "2026-10-22T03:31:00Z"
+    },
+    {
       "id": "100681315",
       "title": "Chevrolet Captiva 2021 LT GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/10/21/chevrolet-captiva-2021-lt-gcc-specs-2-589---03e85a8dce8546ec9a3a5d4ad045868a/",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "14872",
       "price": 259990,
-      "first_seen": "2026-10-16T16:10:20Z"
-    },
-    {
-      "id": "100617660",
-      "title": "BMW 1 SERIES | FULL SERVICE HISTORY | GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/1-series/2026/10/16/bmw-1-series-full-service-history-gcc-2-165---89dfcd8989094644a6a8b359a6a8da57/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "1-Series",
-      "year": "2017",
-      "mileage": "179051",
-      "price": 29990,
       "first_seen": "2026-10-16T16:10:20Z"
     }
   ]

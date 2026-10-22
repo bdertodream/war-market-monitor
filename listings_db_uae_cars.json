@@ -612866,5 +612866,27 @@
       }
     ],
     "date": "2026-10-21"
+  },
+  "100681684": {
+    "id": "100681684",
+    "title": "2023 BMW X5 xDrive40e",
+    "price": 145000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2023",
+    "kilometers": "80000",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Garhoud",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/10/21/2023-bmw-x5-xdrive40e-2-492---93d41993abb24be0a2b88ce509099e72/",
+    "first_seen": "2026-10-22T03:31:00Z",
+    "prices": [
+      {
+        "price": 145000,
+        "date": "2026-10-22T03:31:00Z"
+      }
+    ],
+    "date": "2026-10-21"
   }
 }
