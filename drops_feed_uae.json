@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29182,
+  "total_tracked": 29184,
   "total_drops": 500,
-  "total_new": 29182,
+  "total_new": 29184,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17074231",
-      "title": "Price negotiable - 2BHK+STORAGE/MAID | GROUND FLOOR | PRIATE GARDEN",
-      "old_price": 1899000,
-      "new_price": 1499999,
-      "drop_pct": 21.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/12/spacious-2bhkstoragemaid-ground-floor-p-2-197386/",
-      "area": "Mirdif",
-      "category": "Apartment",
-      "size": "1602",
-      "bedrooms": "2",
-      "date": "2026-06-02",
-      "first_seen": "2026-03-18"
-    },
     {
       "id": "9800838",
       "title": "Spacious Office | 3 Parking | Prime Location",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-10-22",
       "first_seen": "2026-10-06"
+    },
+    {
+      "id": "18177749",
+      "title": "Exclusive Corner | By the Park | Mortgage Eligible",
+      "old_price": 14500000,
+      "new_price": 12500000,
+      "drop_pct": 13.8,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/19/exclusive-corner-by-the-park-mortgage-e-2-102083/",
+      "area": "Arabian Ranches 3",
+      "category": "Villa",
+      "size": "5944",
+      "bedrooms": "5",
+      "date": "2026-10-22",
+      "first_seen": "2026-10-19"
     }
   ],
   "new_listings": [
@@ -7526,6 +7526,28 @@
       "first_seen": "2026-10-22"
     },
     {
+      "id": "17841707",
+      "title": "HIGH FLOOR / NEW BUILDING / SPACIOUS LAYOUT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/9/high-floor-new-building-spacious-layout-2-722680/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "603",
+      "bedrooms": "1",
+      "price": 730000,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "18190062",
+      "title": "Fully Renovated | Private pool | vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/21/fully-renovated-private-pool-vacant-2-276995/",
+      "area": "Al Furjan",
+      "category": "Villa",
+      "size": "5412",
+      "bedrooms": "5",
+      "price": 9500000,
+      "first_seen": "2026-10-22"
+    },
+    {
       "id": "18185131",
       "title": "POOL FACING | NEW LAUNCH | EOI STAGES | BOOK NOW",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/20/pool-facing-new-launch-eoi-stages-book--2-313396/",
@@ -7989,7 +8011,7 @@
     },
     {
       "id": "18111620",
-      "title": "Best Location | Elevated Plot | Best Price",
+      "title": "Best Location | Best Priced E5 | Vacant",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/best-location-elevated-plot-best-price-2-829773/",
       "area": "Dubai Hills Estate",
       "category": "Villa",
@@ -10184,7 +10206,7 @@
       "category": "Villa",
       "size": "5944",
       "bedrooms": "5",
-      "price": 14500000,
+      "price": 12500000,
       "first_seen": "2026-10-19"
     },
     {
@@ -11141,7 +11163,7 @@
       "category": "Apartment",
       "size": "961",
       "bedrooms": "1",
-      "price": 2050000,
+      "price": 1999999,
       "first_seen": "2026-10-19"
     },
     {
@@ -12484,28 +12506,6 @@
       "size": "3049",
       "bedrooms": "3",
       "price": 5570000,
-      "first_seen": "2026-10-17"
-    },
-    {
-      "id": "17944042",
-      "title": "Fully Extended | Upgraded | Notice Served",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/1/fully-extended-upgraded-notice-served-2-331636/",
-      "area": "The Valley by Emaar",
-      "category": "Townhouse",
-      "size": "2113",
-      "bedrooms": "3",
-      "price": 2900000,
-      "first_seen": "2026-10-17"
-    },
-    {
-      "id": "18053948",
-      "title": "Villa Hidden Views, a Bespoke Sanctuary in Jumeirah",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/24/villa-hidden-views-a-bespoke-sanctuary--2-576685/",
-      "area": "Jumeirah",
-      "category": "Villa",
-      "size": "15000",
-      "bedrooms": "6",
-      "price": 47500000,
       "first_seen": "2026-10-17"
     }
   ],
