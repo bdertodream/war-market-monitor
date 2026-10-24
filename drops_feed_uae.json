@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29366,
+  "total_tracked": 29372,
   "total_drops": 500,
-  "total_new": 29366,
+  "total_new": 29372,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -8637,6 +8637,72 @@
       "first_seen": "2026-10-24"
     },
     {
+      "id": "18172874",
+      "title": "Exclusive 5BR Resale | Private Beach | Palm Expert",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/17/exclusive-6br-private-beach-skyline-vie-2-363338/",
+      "area": "Palm Jebel Ali",
+      "category": "Villa",
+      "size": "7565",
+      "bedrooms": "5",
+      "price": 17550000,
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "18207789",
+      "title": "2 Bedroom Beachfront Residence | Cheval Residences",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/24/2-bedroom-beachfront-residence-cheval-r-2-640117/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1156",
+      "bedrooms": "2",
+      "price": 5051000,
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "18207790",
+      "title": "3 Bedroom Townhouse | Gated Waterfront | Bay Estate",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/24/3-bedroom-townhouse-gated-waterfront-ba-2-322365/",
+      "area": "Dubai Islands",
+      "category": "Townhouse",
+      "size": "2407",
+      "bedrooms": "3",
+      "price": 5350000,
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "18207791",
+      "title": "1 Bedroom Waterfront Apartment | Casagrand Hermina",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/24/1-bedroom-waterfront-apartment-casagran-2-338047/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "851",
+      "bedrooms": "1",
+      "price": 2450000,
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "18207800",
+      "title": "1 Bedroom Sea View Apartment | Hado by Beyond",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/24/1-bedroom-sea-view-apartment-hado-by-be-2-340151/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1102",
+      "bedrooms": "1",
+      "price": 2500000,
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "17732427",
+      "title": "G+1 |Near Lagoon |Strong Investment |Resort-Style",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/16/luxury-lagoon-villa-strong-investment-o-2-169287/",
+      "area": "DAMAC Lagoons",
+      "category": "Villa",
+      "size": "6889",
+      "bedrooms": "7",
+      "price": 9900000,
+      "first_seen": "2026-10-24"
+    },
+    {
       "id": "18127994",
       "title": "NATURE-LED VILLA | GRAND INTERIORS | ROOF DECK",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/8/nature-led-villa-grand-interiors-roof-d-2-408150/",
@@ -12440,72 +12506,6 @@
       "size": "4000",
       "bedrooms": "4",
       "price": 10450000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18132293",
-      "title": "Fully Renovated | Marina Skyline Views | Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/9/fully-renovated-marina-skyline-views-pr-2-564853/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4900",
-      "bedrooms": "5",
-      "price": 16900000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18157339",
-      "title": "Fully Upgraded | Backing Green Belt | Private Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/14/fully-upgraded-backing-green-belt-priva-2-308795/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "3600",
-      "bedrooms": "3",
-      "price": 10900000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18111659",
-      "title": "Green Belt Backing | Close to Park | Extended",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/green-belt-backing-close-to-park-extend-2-638078/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "3641",
-      "bedrooms": "4",
-      "price": 10500000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18157546",
-      "title": "Vacant on Transfer | Close to Park | Large Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/14/vacant-on-transfer-close-to-park-large--2-320011/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "3950",
-      "bedrooms": "4",
-      "price": 12000000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18074958",
-      "title": "Exclusive | Corner Plot | Vacant on Transfer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/29/exclusive-corner-plot-vacant-on-transfe-2-247932/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4150",
-      "bedrooms": "4",
-      "price": 12800000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18108379",
-      "title": "Lake View | Type L2 | Large Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/5/lake-view-type-l2-large-plot-2-303624/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "6419",
-      "bedrooms": "6",
-      "price": 22500000,
       "first_seen": "2026-10-19"
     }
   ],

@@ -1,37 +1,9 @@
 {
-  "total_tracked": 25961,
-  "total_drops": 501,
-  "total_new": 25961,
-  "last_updated": "2026-10-24T18:37:09Z",
+  "total_tracked": 25966,
+  "total_drops": 502,
+  "total_new": 25966,
+  "last_updated": "2026-10-24T22:16:17Z",
   "drops": [
-    {
-      "id": "100268615",
-      "title": "0% DP - JAC S3+ 2023 - LOW MILEAGE - ORIGINAL PAINT",
-      "old_price": 34900,
-      "new_price": 32900,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/09/17/0-dp-jac-s3-2023-low-mileage-original-pain-2-299---4387a90cad7349b78ec30d86caf9c017/",
-      "category": "Used Cars",
-      "make": "JAC",
-      "model": "S3",
-      "year": "2023",
-      "mileage": "34000",
-      "date": "2026-09-23T09:07:32Z"
-    },
-    {
-      "id": "16894549",
-      "title": "Hyundai Tucson GLS 2.4 2016 Limited  | GCC Specs | Lady Driven",
-      "old_price": 33500,
-      "new_price": 30500,
-      "drop_pct": 9.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/tucson/2026/07/02/hyundai-tucson-gls-24-2016-limited-gcc-spe-2-163---13273ab51da049d1bd4664739881233f/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Tucson",
-      "year": "2016",
-      "mileage": "148632",
-      "date": "2026-09-23T09:07:32Z"
-    },
     {
       "id": "16894560",
       "title": "Mercedes-Benz A-Class A 250 2015 GCC Specs Lady Driven",
@@ -7003,9 +6975,97 @@
       "year": "2018",
       "mileage": "102000",
       "date": "2026-10-24T18:37:09Z"
+    },
+    {
+      "id": "100667306",
+      "title": "2013 Mazda CX-9 Comfort \u2013 GCC Specs, Well Maintained, Great Condition",
+      "old_price": 19999,
+      "new_price": 17999,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2026/10/20/2013-mazda-cx-9-comfort-gcc-specs-well-mai-2-988---be8967eb26a84ad4b99fe9141723d3c2/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "CX-9",
+      "year": "2013",
+      "mileage": "107000",
+      "date": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "100617660",
+      "title": "BMW 1 SERIES | FULL SERVICE HISTORY | GCC",
+      "old_price": 29990,
+      "new_price": 24990,
+      "drop_pct": 16.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/1-series/2026/10/16/bmw-1-series-full-service-history-gcc-2-734---89dfcd8989094644a6a8b359a6a8da57/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "1-Series",
+      "year": "2017",
+      "mileage": "179051",
+      "date": "2026-10-24T22:16:17Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100715586",
+      "title": "2022 Fiat 500X Cross Plus GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/fiat/500x/2026/10/24/2022-fiat-500x-cross-plus-gcc-specs-2-151---dc87f5a8671745f4ab3e83a22ed5c4f9/",
+      "category": "Used Cars",
+      "make": "Fiat",
+      "model": "500X",
+      "year": "2022",
+      "mileage": "30000",
+      "price": 44000,
+      "first_seen": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "100715564",
+      "title": "7 seaters Explorer 2017 Sport 3.5L Twin Turbo EcoBoost GCC not negotiable",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/24/7-seaters-explorer-2017-sport-35l-twin-tur-2-992---3f98e3f8b4ca4ab2afeb4eb8a70f921b/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Explorer",
+      "year": "2017",
+      "mileage": "199000",
+      "price": 44000,
+      "first_seen": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "100715061",
+      "title": "2026 GCC Defender 110 X-Dynamic HSE P400 / 5yrs Official Dealer Warranty and Service Package",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/10/24/2026-gcc-defender-110-x-dynamic-hse-p400-5-2-565---7e4bf4d4edb14f64a45456405f6b3e5e/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Defender",
+      "year": "2026",
+      "mileage": "45",
+      "price": 429900,
+      "first_seen": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "100714092",
+      "title": "Toyota Camry GLE 2013 Japanese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/camry/2026/10/24/toyota-camry-gle-2013-japanese-specs-2-821---94d3bacb5e004d37ba7c59327f50e07a/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2013",
+      "mileage": "134000",
+      "price": 24800,
+      "first_seen": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "100713803",
+      "title": "2014 BMW X5 xDrive50i GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/10/24/2014-bmw-x5-xdrive50i-gcc-specs-2-657---68ad29bbb3584770bbbe1714c9bf0a35/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2014",
+      "mileage": "112000",
+      "price": 39999,
+      "first_seen": "2026-10-24T22:16:17Z"
+    },
     {
       "id": "100714800",
       "title": "2015 FORD ECOSPORT TREND | GCC SPECS | AUTOMATIC | FUEL EFFICIENT",
@@ -12133,13 +12193,13 @@
     {
       "id": "100667306",
       "title": "2013 Mazda CX-9 Comfort \u2013 GCC Specs, Well Maintained, Great Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2026/10/20/2013-mazda-cx-9-comfort-gcc-specs-well-mai-2-589---be8967eb26a84ad4b99fe9141723d3c2/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2026/10/20/2013-mazda-cx-9-comfort-gcc-specs-well-mai-2-988---be8967eb26a84ad4b99fe9141723d3c2/",
       "category": "Used Cars",
       "make": "Mazda",
       "model": "CX-9",
       "year": "2013",
       "mileage": "107000",
-      "price": 19999,
+      "price": 17999,
       "first_seen": "2026-10-20T16:26:06Z"
     },
     {
@@ -12944,66 +13004,6 @@
       "year": "2024",
       "mileage": "39286",
       "price": 169900,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100661096",
-      "title": "2011 Nissan Tiida SE GCC Specs for Sale",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/tiida/2026/10/20/2011-nissan-tiida-se-gcc-specs-for-sale-2-768---902112d919d045328a0ad70e0436efc1/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Tiida",
-      "year": "2011",
-      "mileage": "170000",
-      "price": 9500,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100661164",
-      "title": "2024 BMW XM | Perfect Condition | Low Mileage",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/xm/2026/10/20/2024-bmw-xm-perfect-condition-low-mileage-2-687---96e56169c8b5450ab2a4cab65092ddad/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "XM",
-      "year": "2024",
-      "mileage": "15500",
-      "price": 375000,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100593608",
-      "title": "AED 8509/month | 2024 Land Rover Range Rover P530 Autobiography | GCC Specs | Ref#536477",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/14/aed-8509month-2024-land-rover-range-rover--2-372---89c7b8455e6341fe987e1d1b0e680f01/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover",
-      "year": "2024",
-      "mileage": "49130",
-      "price": 560000,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "16911709",
-      "title": "Rolls-Royce Spectre Silver Badge | Model Year 2025 | 4,151 Kms",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/07/16/rolls-royce-spectre-silver-badge-model-yea-2-387---bcaec6ceaba049c585f85d8e30c43c1f/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Spectre",
-      "year": "2025",
-      "mileage": "4151",
-      "price": 1580000,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "16721032",
-      "title": "Rolls-Royce Spectre Model Year 2024 | Electric | 4,900 Km",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/01/26/rolls-royce-spectre-model-year-2024-electr-2-548---484154d6fec64b9fbcd9602485f14ed8/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Spectre",
-      "year": "2024",
-      "mileage": "4900",
-      "price": 1425000,
       "first_seen": "2026-10-20T09:11:35Z"
     }
   ]
