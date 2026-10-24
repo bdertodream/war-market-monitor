@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25862,
-  "total_drops": 504,
-  "total_new": 25862,
-  "last_updated": "2026-10-23T22:56:23Z",
+  "total_tracked": 25863,
+  "total_drops": 500,
+  "total_new": 25863,
+  "last_updated": "2026-10-24T03:30:04Z",
   "drops": [
     {
       "id": "16808721",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100660874",
+      "title": "2016 Volkswagen Touareg SE GCC Specs. Urgent Sale ! Must go today.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/10/20/2016-volkswagen-touareg-se-gcc-specs-urgen-2-433---dca14a6ab1a843d69c1d927adcf9b993/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Touareg",
+      "year": "2016",
+      "mileage": "206000",
+      "price": 21000,
+      "first_seen": "2026-10-24T03:30:04Z"
+    },
+    {
       "id": "100588061",
       "title": "2016 Nissan Altima S Japanese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/10/13/2016-nissan-altima-s-japanese-specs-2-741---3136d40a65574363a7ac38e1e713c37a/",
@@ -12992,18 +13004,6 @@
       "year": "2025",
       "mileage": "15639",
       "price": 233199,
-      "first_seen": "2026-10-19T09:38:35Z"
-    },
-    {
-      "id": "100648644",
-      "title": "DODGE CHALLENGER R/T HEMI | GCC | ONE OWNER | 381 HP",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/10/19/dodge-challenger-rt-hemi-gcc-one-owner-381-2-509---f7503fb2084141d78ae045a1bc9c2287/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2019",
-      "mileage": "109926",
-      "price": 99990,
       "first_seen": "2026-10-19T09:38:35Z"
     }
   ]

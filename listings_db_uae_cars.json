@@ -617710,5 +617710,27 @@
       }
     ],
     "date": "2026-10-23"
+  },
+  "100660874": {
+    "id": "100660874",
+    "title": "2016 Volkswagen Touareg SE GCC Specs. Urgent Sale ! Must go today.",
+    "price": 21000,
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "year": "2016",
+    "kilometers": "206000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dania 6",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/touareg/2026/10/20/2016-volkswagen-touareg-se-gcc-specs-urgen-2-433---dca14a6ab1a843d69c1d927adcf9b993/",
+    "first_seen": "2026-10-24T03:30:04Z",
+    "prices": [
+      {
+        "price": 21000,
+        "date": "2026-10-24T03:30:04Z"
+      }
+    ],
+    "date": "2026-10-24"
   }
 }
