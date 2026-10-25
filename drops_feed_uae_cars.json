@@ -1,23 +1,9 @@
 {
-  "total_tracked": 25966,
-  "total_drops": 502,
-  "total_new": 25966,
-  "last_updated": "2026-10-24T22:16:17Z",
+  "total_tracked": 25967,
+  "total_drops": 501,
+  "total_new": 25967,
+  "last_updated": "2026-10-25T03:26:19Z",
   "drops": [
-    {
-      "id": "16894560",
-      "title": "Mercedes-Benz A-Class A 250 2015 GCC Specs Lady Driven",
-      "old_price": 21500,
-      "new_price": 20000,
-      "drop_pct": 7.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/07/02/mercedes-benz-a-class-a-250-2015-gcc-specs-2-290---38b766d5865143dc92a9b6a49ba5289f/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "A-Class",
-      "year": "2015",
-      "mileage": "198829",
-      "date": "2026-09-23T09:07:32Z"
-    },
     {
       "id": "16903512",
       "title": "Audi Q7 2014 3.0 TFSI quattro | GCC Specs | Lady Driven",
@@ -7003,9 +6989,35 @@
       "year": "2017",
       "mileage": "179051",
       "date": "2026-10-24T22:16:17Z"
+    },
+    {
+      "id": "16975149",
+      "title": "Chevrolet Cruze 2015 - GCC Specs - Excellent Condition",
+      "old_price": 12500,
+      "new_price": 11500,
+      "drop_pct": 8.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/cruze/2026/09/13/chevrolet-cruze-2015-gcc-specs-excellent-c-2-733---3bce2c83c65c47c2b384366bcb5030d2/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "year": "2015",
+      "mileage": "160000",
+      "date": "2026-10-25T03:26:19Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100713885",
+      "title": "6,433 P.M \u2022 0% Downpayment \u2022 Porsche Cayman \u2022 1 Year Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayman/2026/10/24/6433-pm-0-downpayment-porsche-cayman-1-yea-2-099---07ad16f3168a498bbc2cd7df01df77ff/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayman",
+      "year": "2015",
+      "mileage": "192566",
+      "price": 74950,
+      "first_seen": "2026-10-25T03:26:19Z"
+    },
     {
       "id": "100715586",
       "title": "2022 Fiat 500X Cross Plus GCC Specs",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 72999,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100661239",
-      "title": "Audi A6 Avant 40 TFSI - Launch Edition 2024 (REF #03995) GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2026/10/20/audi-a6-avant-40-tfsi-launch-edition-2024--2-228---b73ff88fed5b4394bd5921de94476ee9/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A6",
-      "year": "2024",
-      "mileage": "39286",
-      "price": 169900,
       "first_seen": "2026-10-20T09:11:35Z"
     }
   ]

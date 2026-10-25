@@ -574840,7 +574840,7 @@
   "16975149": {
     "id": "16975149",
     "title": "Chevrolet Cruze 2015 - GCC Specs - Excellent Condition",
-    "price": 12500,
+    "price": 11500,
     "make": "Chevrolet",
     "model": "Cruze",
     "year": "2015",
@@ -574849,12 +574849,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/cruze/2026/09/13/chevrolet-cruze-2015-gcc-specs-excellent-c-2-597---3bce2c83c65c47c2b384366bcb5030d2/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/cruze/2026/09/13/chevrolet-cruze-2015-gcc-specs-excellent-c-2-733---3bce2c83c65c47c2b384366bcb5030d2/",
     "first_seen": "2026-10-01T20:50:13Z",
     "prices": [
       {
         "price": 12500,
         "date": "2026-10-01T20:50:13Z"
+      },
+      {
+        "price": 11500,
+        "date": "2026-10-25T03:26:19Z"
       }
     ],
     "date": "2026-10-01"
@@ -620163,6 +620167,28 @@
       {
         "price": 39999,
         "date": "2026-10-24T22:16:17Z"
+      }
+    ],
+    "date": "2026-10-24"
+  },
+  "100713885": {
+    "id": "100713885",
+    "title": "6,433 P.M \u2022 0% Downpayment \u2022 Porsche Cayman \u2022 1 Year Warranty",
+    "price": 74950,
+    "make": "Porsche",
+    "model": "Cayman",
+    "year": "2015",
+    "kilometers": "192566",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayman/2026/10/24/6433-pm-0-downpayment-porsche-cayman-1-yea-2-099---07ad16f3168a498bbc2cd7df01df77ff/",
+    "first_seen": "2026-10-25T03:26:19Z",
+    "prices": [
+      {
+        "price": 74950,
+        "date": "2026-10-25T03:26:19Z"
       }
     ],
     "date": "2026-10-24"

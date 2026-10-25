@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29372,
+  "total_tracked": 29373,
   "total_drops": 500,
-  "total_new": 29372,
+  "total_new": 29373,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9801132",
+      "title": "Freehold Plot in Mirdif | Direct from Owner | Near to City Center Mirdif",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/19/freehold-plot-in-mirdif-direct-from-own-2-155969/",
+      "area": "Mirdif",
+      "category": "Land",
+      "size": "8163",
+      "bedrooms": "",
+      "price": 5305970,
+      "first_seen": "2026-10-25"
+    },
+    {
       "id": "18041548",
       "title": "Fully Upgraded | 3 Parking Space | Marina Skyline",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/22/fully-upgraded-3-parking-space-marina-s-2-294743/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "4",
       "price": 22500000,
       "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18145358",
-      "title": "Corner Plot | Lake View | Renovation Opportunity",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/12/corner-plot-lake-view-renovation-opport-2-113335/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4000",
-      "bedrooms": "4",
-      "price": 10450000,
-      "first_seen": "2026-10-19"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-24"
+  "last_updated": "2026-10-25"
 }
