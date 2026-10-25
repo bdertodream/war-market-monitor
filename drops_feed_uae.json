@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29373,
+  "total_tracked": 29379,
   "total_drops": 500,
-  "total_new": 29373,
+  "total_new": 29379,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "16386934",
-      "title": "1-Bed | Canal View | Luxury | Ready to Move",
-      "old_price": 1695000,
-      "new_price": 1599999,
-      "drop_pct": 5.6,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/9/19/canal-one-bedroom-ready-november-luxuri-2-237935/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "685",
-      "bedrooms": "1",
-      "date": "2026-06-04",
-      "first_seen": "2026-04-06"
-    },
     {
       "id": "9806883",
       "title": "Brand New | Freehold | Museum Of The Future View",
@@ -7005,6 +6991,20 @@
       "bedrooms": "0",
       "date": "2026-10-24",
       "first_seen": "2026-09-12"
+    },
+    {
+      "id": "9838639",
+      "title": "Grade A | Furnished | Burj View",
+      "old_price": 5278500,
+      "new_price": 4692000,
+      "drop_pct": 11.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/6/grade-a-furnished-burj-view-2-947093/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1173",
+      "bedrooms": "",
+      "date": "2026-10-25",
+      "first_seen": "2026-10-22"
     }
   ],
   "new_listings": [
@@ -7017,6 +7017,72 @@
       "size": "8163",
       "bedrooms": "",
       "price": 5305970,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "17878849",
+      "title": "Brand New | Burj Al Arab View | Ready to Move in",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/18/brand-new-burj-al-arab-view-ready-to-mo-2-195236/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "723",
+      "bedrooms": "1",
+      "price": 2000000,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "18173750",
+      "title": "Single Row | Green back | Genuine |Ready Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/17/single-row-keys-in-hand-ready-unit-2-210484/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "2274",
+      "bedrooms": "4",
+      "price": 2900000,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "18115881",
+      "title": "Ready | Mortgageable | Close to Lagoons",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/6/ready-mortgageable-close-to-lagoons-2-238933/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "2200",
+      "bedrooms": "4",
+      "price": 2600000,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "17910560",
+      "title": "Opposite Lagoon | Large Plot | Best Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/25/opposite-lagoon-large-plot-best-locatio-2-174044/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "3261",
+      "bedrooms": "5",
+      "price": 3400000,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "17863618",
+      "title": "Exclusive I Luxurious Living I Iconic Building",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/14/exclusive-i-luxurious-living-i-iconic-b-2-320800/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "1698",
+      "bedrooms": "2",
+      "price": 5600000,
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "9840214",
+      "title": "Panoramic 360\u00b0 View | Fitted Office | Prime Area",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/16/panoramic-360-view-fitted-office-prime--2-238583/",
+      "area": "Downtown Dubai",
+      "category": "Office",
+      "size": "6286",
+      "bedrooms": "",
+      "price": 48000000,
       "first_seen": "2026-10-25"
     },
     {
@@ -9293,7 +9359,7 @@
       "category": "Office",
       "size": "1173",
       "bedrooms": "",
-      "price": 5278500,
+      "price": 4692000,
       "first_seen": "2026-10-22"
     },
     {
@@ -12440,72 +12506,6 @@
       "size": "5260",
       "bedrooms": "5",
       "price": 29950000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18108480",
-      "title": "One of a Kind | Extended | Fully Upgraded",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/5/vacant-extended-fully-upgraded-2-801812/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4200",
-      "bedrooms": "4",
-      "price": 13800000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18132298",
-      "title": "Exclusive | Lake View | Upgraded and Extended",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/9/exclusive-lake-view-fully-upgraded-and--2-188729/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "7458",
-      "bedrooms": "5",
-      "price": 35000000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18157332",
-      "title": "Fully Renovated | Corner Plot | Extended",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/14/fully-renovated-corner-plot-extended-2-131801/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4200",
-      "bedrooms": "4",
-      "price": 13250000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18166924",
-      "title": "Prime Location | Lake View | Turnkey Villa",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/16/prime-location-lake-view-turnkey-villa-2-337427/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4500",
-      "bedrooms": "5",
-      "price": 18500000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18157357",
-      "title": "Large Plot | Cul De Sac Location | Renovated",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/14/large-plot-cul-de-sac-location-renovate-2-283318/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "3624",
-      "bedrooms": "4",
-      "price": 15300000,
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "18147500",
-      "title": "Large Plot | Cul De Sac Location | Close to Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/13/large-plot-cul-de-sac-location-close-to-2-623334/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "4150",
-      "bedrooms": "4",
-      "price": 22500000,
       "first_seen": "2026-10-19"
     }
   ],
