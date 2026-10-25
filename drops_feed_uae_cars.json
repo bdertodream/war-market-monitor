@@ -1,23 +1,9 @@
 {
-  "total_tracked": 25986,
-  "total_drops": 502,
-  "total_new": 25986,
-  "last_updated": "2026-10-25T15:38:44Z",
+  "total_tracked": 25989,
+  "total_drops": 501,
+  "total_new": 25989,
+  "last_updated": "2026-10-25T18:45:32Z",
   "drops": [
-    {
-      "id": "16922060",
-      "title": "Peugeot 3008 1.6 Allure 2019 | GCC Specs | Fully Loaded Lady Driven",
-      "old_price": 29500,
-      "new_price": 25500,
-      "drop_pct": 13.6,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/3008/2026/07/26/peugeot-3008-16-allure-2019-gcc-specs-full-2-386---8dceb44f1e544d598cffdbdf2a21f1e6/",
-      "category": "Used Cars",
-      "make": "Peugeot",
-      "model": "3008",
-      "year": "2019",
-      "mileage": "137309",
-      "date": "2026-09-23T09:07:32Z"
-    },
     {
       "id": "16951805",
       "title": "Mitsubishi Lancer 2.0 EX 2015 GLS - GCC Specs -Lady Driven",
@@ -7003,19 +6989,69 @@
       "year": "2022",
       "mileage": "14000",
       "date": "2026-10-25T15:38:44Z"
-    }
-  ],
-  "new_listings": [
+    },
     {
       "id": "100725004",
       "title": "FERRARI | PUROSANGUE | 2025MY | CARBON FIBER PACKAGE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/purosangue/2026/10/25/ferrari-purosangue-2025my-carbon-fiber-pac-2-126---7fb8947b0e7c4ec6b4818b8d32c04739/",
+      "old_price": 2100000,
+      "new_price": 1950000,
+      "drop_pct": 7.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/purosangue/2026/10/25/ferrari-purosangue-2025my-carbon-fiber-pac-2-254---7fb8947b0e7c4ec6b4818b8d32c04739/",
       "category": "Used Cars",
       "make": "Ferrari",
       "model": "Purosangue",
       "year": "2025",
       "mileage": "8400",
-      "price": 2100000,
+      "date": "2026-10-25T18:45:32Z"
+    }
+  ],
+  "new_listings": [
+    {
+      "id": "100725523",
+      "title": "High Quality 2014 Nissan Sunny SE GCC Specs \u2013 Well Maintained, Great Price",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/10/25/high-quality-2014-nissan-sunny-se-gcc-spec-2-032---0a77db360f444ef0898bce7e6ae0d81f/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Sunny",
+      "year": "2014",
+      "mileage": "219000",
+      "price": 11000,
+      "first_seen": "2026-10-25T18:45:32Z"
+    },
+    {
+      "id": "100669241",
+      "title": "Mercedes-Benz GLE 450 2020 GCC specs for 2,573.00 AED monthly",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/10/20/mercedes-benz-gle-450-2020-gcc-specs-for-2-2-995---dc07754ca0a54987b7afb1f0a21491fd/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "year": "2020",
+      "mileage": "80000",
+      "price": 179000,
+      "first_seen": "2026-10-25T18:45:32Z"
+    },
+    {
+      "id": "100725104",
+      "title": "ROLLS ROYCE | CULLINAN SILVER BADGE | GCC SPECS MAIN DEALER WARRANTY + SERVICE PACKAGE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/10/25/rolls-royce-cullinan-silver-badge-gcc-spec-2-312---99ec7ac703ea477a8ddaa99baede80b8/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Cullinan",
+      "year": "2026",
+      "mileage": "0",
+      "price": 2230000,
+      "first_seen": "2026-10-25T18:45:32Z"
+    },
+    {
+      "id": "100725004",
+      "title": "FERRARI | PUROSANGUE | 2025MY | CARBON FIBER PACKAGE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/purosangue/2026/10/25/ferrari-purosangue-2025my-carbon-fiber-pac-2-254---7fb8947b0e7c4ec6b4818b8d32c04739/",
+      "category": "Used Cars",
+      "make": "Ferrari",
+      "model": "Purosangue",
+      "year": "2025",
+      "mileage": "8400",
+      "price": 1950000,
       "first_seen": "2026-10-25T15:38:44Z"
     },
     {
@@ -12968,42 +13004,6 @@
       "year": "2020",
       "mileage": "51708",
       "price": 23950,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "16970957",
-      "title": "Volkswagen Golf GTI 2025 Under Volkswagen Warranty (GCC - Single Owner - Full Option)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/09/volkswagen-golf-gti-2025-under-volkswagen--2-230---9b545bf0f4934ccd9a1c186d9c28c538/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "year": "2025",
-      "mileage": "29000",
-      "price": 129000,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100545550",
-      "title": "Mercedes-Benz CLS 350 2020 (GCC \u2013 Luxury Sport Sedan \u2013 Original Paint \u2013 Single Owner)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cls-class/2026/10/10/mercedes-benz-cls-350-2020-gcc-luxury-spor-2-925---88427c78b4fa4bbd905243a53f2e63ec/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "CLS-Class",
-      "year": "2020",
-      "mileage": "129000",
-      "price": 119000,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100651751",
-      "title": "X6 xDRIVE40i | M SPORT PRO | WARRANTY + SERVICE AGMC | LOW KM's | GCC SPECIFICATION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/10/19/x6-xdrive40i-m-sport-pro-warranty-service--2-363---8ebb6eec0b904f12ae29e52f4d7e9839/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X6",
-      "year": "2024",
-      "mileage": "77803",
-      "price": 279990,
       "first_seen": "2026-10-20T09:11:35Z"
     }
   ]
