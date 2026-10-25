@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "9806883",
-      "title": "Brand New | Freehold | Museum Of The Future View",
-      "old_price": 5799888,
-      "new_price": 5499888,
-      "drop_pct": 5.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/6/brand-new-high-floor-museum-of-the-futu-2-252414/",
-      "area": "Sheikh Zayed Road",
-      "category": "Office",
-      "size": "1414",
-      "bedrooms": "",
-      "date": "2026-06-04",
-      "first_seen": "2026-03-14"
-    },
-    {
       "id": "17207929",
       "title": "Plagette32 | Close to Lagoon | 1 of 28 Club Villas",
       "old_price": 11250000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-10-25",
       "first_seen": "2026-10-22"
+    },
+    {
+      "id": "18158500",
+      "title": "Single Row | New Launch | Lowest Price | Priority Allocation | Register Now",
+      "old_price": 6300000,
+      "new_price": 5980000,
+      "drop_pct": 5.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/14/single-row-new-launch-lowest-price-prio-2-554348/",
+      "area": "Athlon by Aldar",
+      "category": "Villa",
+      "size": "4500",
+      "bedrooms": "5",
+      "date": "2026-10-25",
+      "first_seen": "2026-10-21"
     }
   ],
   "new_listings": [
@@ -10019,7 +10019,7 @@
       "category": "Villa",
       "size": "4500",
       "bedrooms": "5",
-      "price": 6300000,
+      "price": 5980000,
       "first_seen": "2026-10-21"
     },
     {
