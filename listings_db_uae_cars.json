@@ -620760,5 +620760,27 @@
       }
     ],
     "date": "2026-10-25"
+  },
+  "100725038": {
+    "id": "100725038",
+    "title": "2019 Dodge Durango R/T Top || GCC || 7-Seater 4x4",
+    "price": 57500,
+    "make": "Dodge",
+    "model": "Durango",
+    "year": "2019",
+    "kilometers": "139000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/10/25/2019-dodge-durango-rt-top-gcc-7-seater-4x4-2-830---d9cf94c61911478b9c0f7cb05ae5135e/",
+    "first_seen": "2026-10-25T22:19:51Z",
+    "prices": [
+      {
+        "price": 57500,
+        "date": "2026-10-25T22:19:51Z"
+      }
+    ],
+    "date": "2026-10-25"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 25989,
-  "total_drops": 501,
-  "total_new": 25989,
-  "last_updated": "2026-10-25T18:45:32Z",
+  "total_tracked": 25990,
+  "total_drops": 500,
+  "total_new": 25990,
+  "last_updated": "2026-10-25T22:19:51Z",
   "drops": [
     {
       "id": "16951805",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100725038",
+      "title": "2019 Dodge Durango R/T Top || GCC || 7-Seater 4x4",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/10/25/2019-dodge-durango-rt-top-gcc-7-seater-4x4-2-830---d9cf94c61911478b9c0f7cb05ae5135e/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Durango",
+      "year": "2019",
+      "mileage": "139000",
+      "price": 57500,
+      "first_seen": "2026-10-25T22:19:51Z"
+    },
+    {
       "id": "100725523",
       "title": "High Quality 2014 Nissan Sunny SE GCC Specs \u2013 Well Maintained, Great Price",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/10/25/high-quality-2014-nissan-sunny-se-gcc-spec-2-032---0a77db360f444ef0898bce7e6ae0d81f/",
@@ -12992,18 +13004,6 @@
       "year": "2020",
       "mileage": "173636",
       "price": 124990,
-      "first_seen": "2026-10-20T09:11:35Z"
-    },
-    {
-      "id": "100662736",
-      "title": "EMI 590 AED*/ UNLIMITED KM WARRANTY / CRUISE + CAMERA + ALLOY WHEELS + LED LIGHT / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/escort/2026/10/20/emi-590-aed-unlimited-km-warranty-cruise-c-2-802---ba11115b9c444d42a130b2f8f464582e/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Escort",
-      "year": "2020",
-      "mileage": "51708",
-      "price": 23950,
       "first_seen": "2026-10-20T09:11:35Z"
     }
   ]
