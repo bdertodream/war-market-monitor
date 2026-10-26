@@ -622628,5 +622628,93 @@
       }
     ],
     "date": "2026-10-26"
+  },
+  "100338679": {
+    "id": "100338679",
+    "title": "Mercedes-Benz S-Class S 63 AMG",
+    "price": 849000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2025",
+    "kilometers": "5700",
+    "body_type": "Sedan",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/22/mercedes-benz-s-class-s-63-amg-2-604---a73a4fdefd7d4f978ed02397ab8ef664/",
+    "first_seen": "2026-10-26T23:36:48Z",
+    "prices": [
+      {
+        "price": 849000,
+        "date": "2026-10-26T23:36:48Z"
+      }
+    ],
+    "date": "2026-10-26"
+  },
+  "100338743": {
+    "id": "100338743",
+    "title": "Porsche Cayenne S Coupe",
+    "price": 629000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2026",
+    "kilometers": "800",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/22/porsche-cayenne-s-coupe-2-065---5d24d3abb2c14fdb91d8ce7a339d97da/",
+    "first_seen": "2026-10-26T23:36:48Z",
+    "prices": [
+      {
+        "price": 629000,
+        "date": "2026-10-26T23:36:48Z"
+      }
+    ],
+    "date": "2026-10-26"
+  },
+  "100738535": {
+    "id": "100738535",
+    "title": "Lexus NX 300 2018 American Specs Clean Condition Minor side accident",
+    "price": 52900,
+    "make": "Lexus",
+    "model": "NX-Series",
+    "year": "2018",
+    "kilometers": "95000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/nx-series/2026/10/26/lexus-nx-300-2018-american-specs-clean-con-2-021---b1776174731d43b8863ca911779ceabb/",
+    "first_seen": "2026-10-26T23:36:48Z",
+    "prices": [
+      {
+        "price": 52900,
+        "date": "2026-10-26T23:36:48Z"
+      }
+    ],
+    "date": "2026-10-26"
+  },
+  "100734469": {
+    "id": "100734469",
+    "title": "2014 Bentley Continental GT | GCC Specs | Pristine Condition",
+    "price": 79000,
+    "make": "Bentley",
+    "model": "Continental",
+    "year": "2014",
+    "kilometers": "104000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/10/26/2014-bentley-continental-gt-gcc-specs-pris-2-271---9ffb6e2dd6334962935dc3e887806e0c/",
+    "first_seen": "2026-10-26T23:36:48Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-10-26T23:36:48Z"
+      }
+    ],
+    "date": "2026-10-26"
   }
 }

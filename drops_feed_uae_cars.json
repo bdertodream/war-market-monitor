@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26065,
-  "total_drops": 510,
-  "total_new": 26065,
-  "last_updated": "2026-10-26T18:19:54Z",
+  "total_tracked": 26069,
+  "total_drops": 500,
+  "total_new": 26069,
+  "last_updated": "2026-10-26T23:36:48Z",
   "drops": [
     {
       "id": "16858440",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "100338679",
+      "title": "Mercedes-Benz S-Class S 63 AMG",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/22/mercedes-benz-s-class-s-63-amg-2-604---a73a4fdefd7d4f978ed02397ab8ef664/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2025",
+      "mileage": "5700",
+      "price": 849000,
+      "first_seen": "2026-10-26T23:36:48Z"
+    },
+    {
+      "id": "100338743",
+      "title": "Porsche Cayenne S Coupe",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/22/porsche-cayenne-s-coupe-2-065---5d24d3abb2c14fdb91d8ce7a339d97da/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2026",
+      "mileage": "800",
+      "price": 629000,
+      "first_seen": "2026-10-26T23:36:48Z"
+    },
+    {
+      "id": "100738535",
+      "title": "Lexus NX 300 2018 American Specs Clean Condition Minor side accident",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/nx-series/2026/10/26/lexus-nx-300-2018-american-specs-clean-con-2-021---b1776174731d43b8863ca911779ceabb/",
+      "category": "Used Cars",
+      "make": "Lexus",
+      "model": "NX-Series",
+      "year": "2018",
+      "mileage": "95000",
+      "price": 52900,
+      "first_seen": "2026-10-26T23:36:48Z"
+    },
+    {
+      "id": "100734469",
+      "title": "2014 Bentley Continental GT | GCC Specs | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/10/26/2014-bentley-continental-gt-gcc-specs-pris-2-271---9ffb6e2dd6334962935dc3e887806e0c/",
+      "category": "Used Cars",
+      "make": "Bentley",
+      "model": "Continental",
+      "year": "2014",
+      "mileage": "104000",
+      "price": 79000,
+      "first_seen": "2026-10-26T23:36:48Z"
+    },
+    {
       "id": "100737466",
       "title": "2014 BMW 328i Sport | GCC | 2.0L Turbo | Paddle Shifters | Single Owner | AED 19,500",
       "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/10/26/2014-bmw-328i-sport-gcc-20l-turbo-paddle-s-2-288---793351f7af7c46148c3a71b9cfbd265c/",
@@ -12956,54 +13004,6 @@
       "year": "2021",
       "mileage": "43945",
       "price": 269000,
-      "first_seen": "2026-10-21T09:09:22Z"
-    },
-    {
-      "id": "100455741",
-      "title": "BUY NOW, PAY 2027 | THE BLACKLINE STANDARD | 2028 Rolls Royce Warranty + Service Contract",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/10/02/buy-now-pay-2027-the-blackline-standard-20-2-471---d0908eee1b2146c99af46c5f1fd24279/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2025",
-      "mileage": "14395",
-      "price": 1999000,
-      "first_seen": "2026-10-21T09:09:22Z"
-    },
-    {
-      "id": "100593638",
-      "title": "BUY NOW, PAY LATER | THE BLACKLINE STANDARD | June 2028 Porsche Warranty, GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/14/buy-now-pay-later-the-blackline-standard-j-2-067---6bf20b48cb6b49de836ea2f0db8c535a/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2026",
-      "mileage": "5460",
-      "price": 599000,
-      "first_seen": "2026-10-21T09:09:22Z"
-    },
-    {
-      "id": "100584504",
-      "title": "BUY NOW, PAY LATER | THE BLACKLINE STANDARD | October 2028 Porsche Warranty, Low KM's, GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/13/buy-now-pay-later-the-blackline-standard-o-2-778---0eb621ef9ef64d0b852f628475912c70/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2025",
-      "mileage": "10105",
-      "price": 439000,
-      "first_seen": "2026-10-21T09:09:22Z"
-    },
-    {
-      "id": "100506635",
-      "title": "2024 Porsche Cayenne Coupe GCC Specs \u2014 Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/06/2024-porsche-cayenne-coupe-gcc-specs-excel-2-385---42d4acfef9cb4722b072afcd161b3fe1/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2024",
-      "mileage": "56700",
-      "price": 326500,
       "first_seen": "2026-10-21T09:09:22Z"
     }
   ]
