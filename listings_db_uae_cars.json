@@ -605838,7 +605838,7 @@
   "100538767": {
     "id": "100538767",
     "title": "!! 2024!! Chevrolet | Tahoe LS | GCC | Excellent Condition | 64000 Driven |",
-    "price": 157500,
+    "price": 149999,
     "make": "Chevrolet",
     "model": "Tahoe",
     "year": "2024",
@@ -605847,12 +605847,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/09/2024-chevrolet-tahoe-ls-gcc-excellent-cond-2-288---a990b0dc5da64bfd80962647edda6c02/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/09/2024-chevrolet-tahoe-ls-gcc-excellent-cond-2-604---a990b0dc5da64bfd80962647edda6c02/",
     "first_seen": "2026-10-18T03:16:26Z",
     "prices": [
       {
         "price": 157500,
         "date": "2026-10-18T03:16:26Z"
+      },
+      {
+        "price": 149999,
+        "date": "2026-10-26T03:28:42Z"
       }
     ],
     "date": "2026-10-18"
@@ -620779,6 +620783,28 @@
       {
         "price": 57500,
         "date": "2026-10-25T22:19:51Z"
+      }
+    ],
+    "date": "2026-10-25"
+  },
+  "100728490": {
+    "id": "100728490",
+    "title": "2018 Porsche 718 Cayman",
+    "price": 188000,
+    "make": "Porsche",
+    "model": "718",
+    "year": "2018",
+    "kilometers": "125000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/718/2026/10/25/2018-porsche-718-cayman-2-769---1cc0a7b0ac2149fb8e07a21cff0a6de3/",
+    "first_seen": "2026-10-26T03:28:42Z",
+    "prices": [
+      {
+        "price": 188000,
+        "date": "2026-10-26T03:28:42Z"
       }
     ],
     "date": "2026-10-25"
