@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29603,
+  "total_tracked": 29604,
   "total_drops": 500,
-  "total_new": 29603,
+  "total_new": 29604,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17996566",
+      "title": "Brand New Custom 5BR | Elevator | Central Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/12/open-house-this-weekend-custom-call-now-2-891418/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "6369",
+      "bedrooms": "5",
+      "price": 15950000,
+      "first_seen": "2026-10-27"
+    },
+    {
       "id": "18002847",
       "title": "Building Expert | Premium Building | Enquire Now",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/14/building-expert-premium-building-enquir-2-107478/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "2",
       "price": 1399000,
       "first_seen": "2026-10-21"
-    },
-    {
-      "id": "9840358",
-      "title": "Vastu | Good Investment | Rented | Best Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/17/good-investment-rented-best-deal-2-250628/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "779",
-      "bedrooms": "",
-      "price": 1299999,
-      "first_seen": "2026-10-21"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-26"
+  "last_updated": "2026-10-27"
 }

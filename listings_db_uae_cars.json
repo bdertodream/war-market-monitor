@@ -529515,8 +529515,8 @@
   },
   "16941205": {
     "id": "16941205",
-    "title": "AED 5045/month | 2025 Nissan Patrol LE Platinum City | GCC Specs | Ref#506617",
-    "price": 332000,
+    "title": "AED 5014/month | 2025 Nissan Patrol LE Platinum City | GCC Specs | Ref#506617",
+    "price": 330000,
     "make": "Nissan",
     "model": "Patrol",
     "year": "2025",
@@ -529525,7 +529525,7 @@
     "fuel_type": "Petrol",
     "area": "Umm Ramool",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/08/13/aed-5045month-2025-nissan-patrol-le-platin-2-456---553d023393a74bec91564f209d54748d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/08/13/aed-5014month-2025-nissan-patrol-le-platin-2-024---553d023393a74bec91564f209d54748d/",
     "first_seen": "2026-09-09T08:41:52Z",
     "prices": [
       {
@@ -529535,6 +529535,10 @@
       {
         "price": 332000,
         "date": "2026-09-15T03:39:19Z"
+      },
+      {
+        "price": 330000,
+        "date": "2026-10-27T03:55:15Z"
       }
     ],
     "date": "2026-09-09"
@@ -529611,8 +529615,8 @@
   },
   "16883960": {
     "id": "16883960",
-    "title": "AED 5151/month | 2023 Porsche Cayenne  | GCC Specs | Ref#484794",
-    "price": 339000,
+    "title": "AED 4999/month | 2023 Porsche Cayenne  | GCC Specs | Ref#484794",
+    "price": 329000,
     "make": "Porsche",
     "model": "Cayenne",
     "year": "2023",
@@ -529621,7 +529625,7 @@
     "fuel_type": "Petrol",
     "area": "Al Jaddaf",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/06/23/aed-5151month-2023-porsche-cayenne-gcc-spe-2-962---60b5415d4cbd4b5ebd5e8978a8daf9bf/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/06/23/aed-4999month-2023-porsche-cayenne-gcc-spe-2-278---60b5415d4cbd4b5ebd5e8978a8daf9bf/",
     "first_seen": "2026-09-09T08:41:52Z",
     "prices": [
       {
@@ -529631,6 +529635,10 @@
       {
         "price": 339000,
         "date": "2026-09-15T03:39:19Z"
+      },
+      {
+        "price": 329000,
+        "date": "2026-10-27T03:55:15Z"
       }
     ],
     "date": "2026-09-09"
