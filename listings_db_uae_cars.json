@@ -624918,5 +624918,71 @@
       }
     ],
     "date": "2026-10-27"
+  },
+  "100751926": {
+    "id": "100751926",
+    "title": "Audi A6 2016 35 TFSI GCC Specs",
+    "price": 29500,
+    "make": "Audi",
+    "model": "A6",
+    "year": "2016",
+    "kilometers": "154000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Latif Residence 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2026/10/28/audi-a6-2016-35-tfsi-gcc-specs-2-278---beab649123a54f7ebe213155d9559883/",
+    "first_seen": "2026-10-28T04:16:37Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-10-28T04:16:37Z"
+      }
+    ],
+    "date": "2026-10-28"
+  },
+  "100750815": {
+    "id": "100750815",
+    "title": "2014 Jaguar XJ i4Turbo Luxury GCC Specs V4 Full Option Luxury Well Maintained",
+    "price": 14800,
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2014",
+    "kilometers": "159000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Hassani Tower 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/10/27/2014-jaguar-xj-i4turbo-luxury-gcc-specs-v4-2-520---5787fc5d1cb7485796516b8597fd22cb/",
+    "first_seen": "2026-10-28T04:16:37Z",
+    "prices": [
+      {
+        "price": 14800,
+        "date": "2026-10-28T04:16:37Z"
+      }
+    ],
+    "date": "2026-10-28"
+  },
+  "100723457": {
+    "id": "100723457",
+    "title": "!! 2022 !! BMW X6 |  xDrive40i M Sport | GCC | Complete Service Record |",
+    "price": 174500,
+    "make": "BMW",
+    "model": "X6",
+    "year": "2022",
+    "kilometers": "112000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/10/25/2022-bmw-x6-xdrive40i-m-sport-gcc-complete-2-608---83154d40f6204ad48cd24d4436ad4740/",
+    "first_seen": "2026-10-28T04:16:37Z",
+    "prices": [
+      {
+        "price": 174500,
+        "date": "2026-10-28T04:16:37Z"
+      }
+    ],
+    "date": "2026-10-28"
   }
 }

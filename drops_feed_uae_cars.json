@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26162,
-  "total_drops": 501,
-  "total_new": 26162,
-  "last_updated": "2026-10-27T23:32:12Z",
+  "total_tracked": 26165,
+  "total_drops": 500,
+  "total_new": 26165,
+  "last_updated": "2026-10-28T04:16:37Z",
   "drops": [
     {
       "id": "16945512",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100751926",
+      "title": "Audi A6 2016 35 TFSI GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a6/2026/10/28/audi-a6-2016-35-tfsi-gcc-specs-2-278---beab649123a54f7ebe213155d9559883/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "A6",
+      "year": "2016",
+      "mileage": "154000",
+      "price": 29500,
+      "first_seen": "2026-10-28T04:16:37Z"
+    },
+    {
+      "id": "100750815",
+      "title": "2014 Jaguar XJ i4Turbo Luxury GCC Specs V4 Full Option Luxury Well Maintained",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/xj/2026/10/27/2014-jaguar-xj-i4turbo-luxury-gcc-specs-v4-2-520---5787fc5d1cb7485796516b8597fd22cb/",
+      "category": "Used Cars",
+      "make": "Jaguar",
+      "model": "XJ",
+      "year": "2014",
+      "mileage": "159000",
+      "price": 14800,
+      "first_seen": "2026-10-28T04:16:37Z"
+    },
+    {
+      "id": "100723457",
+      "title": "!! 2022 !! BMW X6 |  xDrive40i M Sport | GCC | Complete Service Record |",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/10/25/2022-bmw-x6-xdrive40i-m-sport-gcc-complete-2-608---83154d40f6204ad48cd24d4436ad4740/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X6",
+      "year": "2022",
+      "mileage": "112000",
+      "price": 174500,
+      "first_seen": "2026-10-28T04:16:37Z"
+    },
+    {
       "id": "100750901",
       "title": "Mercedes-Benz GL-Class GL 450 4MATIC 2007 GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gl-class/2026/10/27/mercedes-benz-gl-class-gl-450-4matic-2007--2-001---501a585a57074736a4c2980287caa272/",
@@ -12968,42 +13004,6 @@
       "year": "2021",
       "mileage": "80000",
       "price": 39000,
-      "first_seen": "2026-10-21T23:02:58Z"
-    },
-    {
-      "id": "100681308",
-      "title": "FERRARI 296 GTS 2024  \u2014 FULL CARBON | HIGH SPEC | SPECIAL ORDER | SERVICE CONTRACT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/296-gts/2026/10/21/ferrari-296-gts-2024-full-carbon-high-spec-2-627---d9bd23afa62a4b618d674640e37ee660/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "296 GTS",
-      "year": "2024",
-      "mileage": "16000",
-      "price": 999000,
-      "first_seen": "2026-10-21T23:02:58Z"
-    },
-    {
-      "id": "100681071",
-      "title": "G63 2016 gcc up Nardo Gray Brabus 2026",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/10/21/g63-2016-gcc-up-nardo-gray-brabus-2026-2-076---a4f752b8cf8a45a7be030f26ed757d3d/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2016",
-      "mileage": "152000",
-      "price": 235000,
-      "first_seen": "2026-10-21T23:02:58Z"
-    },
-    {
-      "id": "100680752",
-      "title": "2025 Ford F-150 Raptor | American Specs | Immaculate Condition | UAE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/10/21/2025-ford-f-150-raptor-american-specs-imma-2-276---2b133bfd0e834552ae7edb9aa4ad75f3/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-150",
-      "year": "2025",
-      "mileage": "1600",
-      "price": 295000,
       "first_seen": "2026-10-21T23:02:58Z"
     }
   ]
