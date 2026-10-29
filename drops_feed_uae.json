@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29896,
+  "total_tracked": 29906,
   "total_drops": 500,
-  "total_new": 29896,
+  "total_new": 29906,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17473423",
-      "title": "Fully Upgraded | Extended | Open Plan Living",
-      "old_price": 11500000,
-      "new_price": 10750000,
-      "drop_pct": 6.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/16/fully-upgraded-extended-open-plan-livin-2-105128/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "6001",
-      "bedrooms": "5",
-      "date": "2026-06-09",
-      "first_seen": "2026-05-23"
-    },
     {
       "id": "9738882",
       "title": "Exclusive | Prime Location | Large Plot Size",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-10-29",
       "first_seen": "2026-04-22"
+    },
+    {
+      "id": "18143122",
+      "title": "Vacant on Transfer | Furnished | Lake Views",
+      "old_price": 1850000,
+      "new_price": 1750000,
+      "drop_pct": 5.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/12/vacant-on-transfer-furnished-lake-views-2-534774/",
+      "area": "The Views",
+      "category": "Apartment",
+      "size": "758",
+      "bedrooms": "1",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-15"
     }
   ],
   "new_listings": [
@@ -7534,6 +7534,116 @@
       "size": "9808",
       "bedrooms": "",
       "price": 7800000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18235559",
+      "title": "METRO ACCESS | 7 YEAR PAYMENT PLAN | FULLY FURNISHED | SKYLINE VIEWS",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/metro-access-7-year-payment-plan-fully--2-298197/",
+      "area": "Downtown Jebel Ali",
+      "category": "Apartment",
+      "size": "335",
+      "bedrooms": "0",
+      "price": 670000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18235551",
+      "title": "7 Years Payment Plan | 2 mins from Metro Station | 10% Down payment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/7-years-payment-plan-2-mins-from-metro--2-668681/",
+      "area": "Downtown Jebel Ali",
+      "category": "Apartment",
+      "size": "347",
+      "bedrooms": "0",
+      "price": 675000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18235554",
+      "title": "1% Monthly | 10% Down payment | 7 Years Payment Plan | on Sheikh Zayed Road",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/1-monthly-10-down-payment-7-years-payme-2-189731/",
+      "area": "Downtown Jebel Ali",
+      "category": "Apartment",
+      "size": "620",
+      "bedrooms": "1",
+      "price": 990000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18221012",
+      "title": "6BR Penthouse | Dubai Harbour | Marina & Sea Views | Private Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/10/27/6br-penthouse-dubai-harbour-marina-sea--2-324335/",
+      "area": "Dubai Harbour",
+      "category": "Penthouse",
+      "size": "19188",
+      "bedrooms": "6",
+      "price": 130000000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18221305",
+      "title": "BRAND NEW | INVESTOR DEAL | 1-BEDROOM APARTMENT \u2013 EAST CREST",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/27/brand-new-investor-deal-1-bedroom-apart-2-628698/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "768",
+      "bedrooms": "1",
+      "price": 899000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18230034",
+      "title": "Pearl House III by Imtiaz | Rented | 7% ROI | Fully Furnished Studio",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/28/rented-7-roi-fully-furnished-jvc-view-2-228784/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "413",
+      "bedrooms": "0",
+      "price": 780000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18113821",
+      "title": "Type 2 | 3 Bed + Maid | Vacant December",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/type-2-3-bed-maid-vacant-december-2-286208/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "3143",
+      "bedrooms": "3",
+      "price": 6000000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "18107796",
+      "title": "Fully Remodelled | Private Plot with Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/5/fully-remodelled-private-plot-with-pool-2-216489/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "4309",
+      "bedrooms": "4",
+      "price": 13900000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "17989768",
+      "title": "Owner Occupied | VOT | 3Bed+Maid",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/11/owner-occupied-vot-3bedmaid-2-791237/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "3143",
+      "bedrooms": "3",
+      "price": 6200000,
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "9840653",
+      "title": "Walking Distance to Metro | Special Prices | PHPP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/19/walking-distance-to-metro-special-price-2-642330/",
+      "area": "Downtown Jebel Ali",
+      "category": "Office",
+      "size": "890",
+      "bedrooms": "",
+      "price": 2056880,
       "first_seen": "2026-10-29"
     },
     {
@@ -12397,116 +12507,6 @@
       "bedrooms": "",
       "price": 2100000,
       "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9837222",
-      "title": "Prestigious | Skyline view | Great investment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/29/stuning-panoramic-viewwell-maintainedbe-2-120803/",
-      "area": "Dubai Marina",
-      "category": "Office",
-      "size": "3705",
-      "bedrooms": "",
-      "price": 12500000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9834806",
-      "title": "Vacant | Near Metro | Commercial Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/12/vacant-near-metro-commercial-expert-2-251842/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1292",
-      "bedrooms": "",
-      "price": 2067200,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9831947",
-      "title": "Best Value | High ROI | Community Specialist",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/22/best-value-high-roi-community-specialis-2-156255/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "536",
-      "bedrooms": "",
-      "price": 880000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9799994",
-      "title": "Exclusive | Prime Plot | Elevated | Luxury",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/15/exclusive-prime-plot-elevated-luxury-2-603309/",
-      "area": "Expo City",
-      "category": "Land",
-      "size": "7726",
-      "bedrooms": "",
-      "price": 13700000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9801132",
-      "title": "Freehold Plot in Mirdif | Direct from Owner | Near to City Center Mirdif",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/19/freehold-plot-in-mirdif-direct-from-own-2-155969/",
-      "area": "Mirdif",
-      "category": "Land",
-      "size": "8163",
-      "bedrooms": "",
-      "price": 5305970,
-      "first_seen": "2026-10-25"
-    },
-    {
-      "id": "17878849",
-      "title": "Brand New | Burj Al Arab View | Ready to Move in",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/18/brand-new-burj-al-arab-view-ready-to-mo-2-195236/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "723",
-      "bedrooms": "1",
-      "price": 2000000,
-      "first_seen": "2026-10-25"
-    },
-    {
-      "id": "18173750",
-      "title": "Single Row | Green back | Genuine |Ready Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/17/single-row-keys-in-hand-ready-unit-2-210484/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2274",
-      "bedrooms": "4",
-      "price": 2900000,
-      "first_seen": "2026-10-25"
-    },
-    {
-      "id": "18115881",
-      "title": "Ready | Mortgageable | Close to Lagoons",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/6/ready-mortgageable-close-to-lagoons-2-238933/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2200",
-      "bedrooms": "4",
-      "price": 2600000,
-      "first_seen": "2026-10-25"
-    },
-    {
-      "id": "17910560",
-      "title": "Opposite Lagoon | Large Plot | Best Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/25/opposite-lagoon-large-plot-best-locatio-2-174044/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3261",
-      "bedrooms": "5",
-      "price": 3400000,
-      "first_seen": "2026-10-25"
-    },
-    {
-      "id": "17863618",
-      "title": "Exclusive I Luxurious Living I Iconic Building",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/14/exclusive-i-luxurious-living-i-iconic-b-2-320800/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "1698",
-      "bedrooms": "2",
-      "price": 5600000,
-      "first_seen": "2026-10-25"
     }
   ],
   "tracked": 1966,
