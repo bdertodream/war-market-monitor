@@ -563687,8 +563687,8 @@
   },
   "100358705": {
     "id": "100358705",
-    "title": "4,426 P.M | CLE 200 AMG | 2029 WARRANTY & SERVICE | 0% Downpayment",
-    "price": 225999,
+    "title": "4,309 P.M | CLE 200 AMG | 2029 WARRANTY & SERVICE | 0% Downpayment",
+    "price": 219999,
     "make": "Mercedes-Benz",
     "model": "CLE-Class",
     "year": "2025",
@@ -563697,7 +563697,7 @@
     "fuel_type": "Hybrid",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cle-class/2026/09/24/4426-pm-cle-200-amg-2029-warranty-service--2-237---4cfbd01870ec407eb48cee3c7b63066a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cle-class/2026/09/24/4309-pm-cle-200-amg-2029-warranty-service--2-271---4cfbd01870ec407eb48cee3c7b63066a/",
     "first_seen": "2026-09-26T09:11:03Z",
     "prices": [
       {
@@ -563707,6 +563707,10 @@
       {
         "price": 225999,
         "date": "2026-10-28T14:53:52Z"
+      },
+      {
+        "price": 219999,
+        "date": "2026-10-29T04:37:14Z"
       }
     ],
     "date": "2026-09-26"
@@ -574005,8 +574009,8 @@
   },
   "100439039": {
     "id": "100439039",
-    "title": "AED 2355/month | 2025 Jetour T2  | Chinese Specs | Ref#529136",
-    "price": 155000,
+    "title": "AED 2234/month | 2025 Jetour T2  | Chinese Specs | Ref#529136",
+    "price": 147000,
     "make": "Jetour",
     "model": "T2",
     "year": "2025",
@@ -574015,12 +574019,16 @@
     "fuel_type": "Petrol",
     "area": "Nad Al Sheba 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/10/01/aed-2355month-2025-jetour-t2-chinese-specs-2-684---a19635f152ad4b3a8260df0a35b110e6/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/10/01/aed-2234month-2025-jetour-t2-chinese-specs-2-734---a19635f152ad4b3a8260df0a35b110e6/",
     "first_seen": "2026-10-01T15:08:46Z",
     "prices": [
       {
         "price": 155000,
         "date": "2026-10-01T15:08:46Z"
+      },
+      {
+        "price": 147000,
+        "date": "2026-10-29T04:37:14Z"
       }
     ],
     "date": "2026-10-01"
@@ -626473,6 +626481,50 @@
       {
         "price": 79000,
         "date": "2026-10-28T20:48:43Z"
+      }
+    ],
+    "date": "2026-10-28"
+  },
+  "100495890": {
+    "id": "100495890",
+    "title": "Renault Express Van 2023 Comfort GCC Specs",
+    "price": 24000,
+    "make": "Renault",
+    "model": "Express Van",
+    "year": "2023",
+    "kilometers": "120000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "District One",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/express-van/2026/10/06/renault-express-van-2023-comfort-gcc-specs-2-695---7dc2c5e3bfaf4dcda38bff70d8a14628/",
+    "first_seen": "2026-10-29T04:37:14Z",
+    "prices": [
+      {
+        "price": 24000,
+        "date": "2026-10-29T04:37:14Z"
+      }
+    ],
+    "date": "2026-10-29"
+  },
+  "100763059": {
+    "id": "100763059",
+    "title": "2013 BMW 5-Series 520i M Sport 4 cylinder.GCC Specs. Well maintained. Very clean. Original paint.",
+    "price": 15500,
+    "make": "BMW",
+    "model": "5-Series",
+    "year": "2013",
+    "kilometers": "195000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Muhaisnah 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/28/2013-bmw-5-series-520i-m-sport-4-cylinderg-2-503---247fb2c194354003b2bd2d2c8c2863e9/",
+    "first_seen": "2026-10-29T04:37:14Z",
+    "prices": [
+      {
+        "price": 15500,
+        "date": "2026-10-29T04:37:14Z"
       }
     ],
     "date": "2026-10-28"

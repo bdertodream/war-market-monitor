@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26227,
-  "total_drops": 503,
-  "total_new": 26227,
-  "last_updated": "2026-10-28T20:48:43Z",
+  "total_tracked": 26229,
+  "total_drops": 501,
+  "total_new": 26229,
+  "last_updated": "2026-10-29T04:37:14Z",
   "drops": [
-    {
-      "id": "16947414",
-      "title": "Mercedes-Benz GLK 250 4MATIC 2014 | GCC Specs | Excellent Condition",
-      "old_price": 25000,
-      "new_price": 22000,
-      "drop_pct": 12.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glk/2026/08/19/mercedes-benz-glk-250-4matic-2014-gcc-spec-2-389---fc08e6a3ffda4fb5a92c26ac4df46e84/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLK-Class",
-      "year": "2014",
-      "mileage": "195000",
-      "date": "2026-09-26T15:54:14Z"
-    },
     {
       "id": "16973366",
       "title": "2013 Ford Edge SE - GCC Specs - Well Maintained",
@@ -7003,9 +6989,47 @@
       "year": "2013",
       "mileage": "165000",
       "date": "2026-10-28T20:48:43Z"
+    },
+    {
+      "id": "100439039",
+      "title": "AED 2234/month | 2025 Jetour T2  | Chinese Specs | Ref#529136",
+      "old_price": 155000,
+      "new_price": 147000,
+      "drop_pct": 5.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/10/01/aed-2234month-2025-jetour-t2-chinese-specs-2-734---a19635f152ad4b3a8260df0a35b110e6/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "mileage": "325",
+      "date": "2026-10-29T04:37:14Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100495890",
+      "title": "Renault Express Van 2023 Comfort GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/express-van/2026/10/06/renault-express-van-2023-comfort-gcc-specs-2-695---7dc2c5e3bfaf4dcda38bff70d8a14628/",
+      "category": "Used Cars",
+      "make": "Renault",
+      "model": "Express Van",
+      "year": "2023",
+      "mileage": "120000",
+      "price": 24000,
+      "first_seen": "2026-10-29T04:37:14Z"
+    },
+    {
+      "id": "100763059",
+      "title": "2013 BMW 5-Series 520i M Sport 4 cylinder.GCC Specs. Well maintained. Very clean. Original paint.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/28/2013-bmw-5-series-520i-m-sport-4-cylinderg-2-503---247fb2c194354003b2bd2d2c8c2863e9/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2013",
+      "mileage": "195000",
+      "price": 15500,
+      "first_seen": "2026-10-29T04:37:14Z"
+    },
     {
       "id": "100412701",
       "title": "Excellent condition X7 M60i 2023 AGMC warranty and service contract till 2028",
@@ -12980,30 +13004,6 @@
       "year": "2024",
       "mileage": "51092",
       "price": 29100,
-      "first_seen": "2026-10-22T16:43:16Z"
-    },
-    {
-      "id": "100685901",
-      "title": "Jaecoo J8 2026 | GCC specs | Brand New",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaecoo/j8/2026/10/22/jaecoo-j8-2026-gcc-specs-brand-new-2-291---dbda3ea8b85248f8b633347b28b2ba4f/",
-      "category": "Used Cars",
-      "make": "JAECOO",
-      "model": "J8",
-      "year": "2026",
-      "mileage": "0",
-      "price": 123999,
-      "first_seen": "2026-10-22T16:43:16Z"
-    },
-    {
-      "id": "100685880",
-      "title": "530/-Monthly MG MG5 2025 | GCC Specs | NO CONVENIENCE CHARGES ! Accident free.",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/10/22/530-monthly-mg-mg5-2025-gcc-specs-no-conve-2-136---83fbc4ecf04845bbb95260b119de3811/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "MG5",
-      "year": "2025",
-      "mileage": "24000",
-      "price": 34500,
       "first_seen": "2026-10-22T16:43:16Z"
     }
   ]
