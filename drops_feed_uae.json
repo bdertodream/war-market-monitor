@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29906,
+  "total_tracked": 29910,
   "total_drops": 500,
-  "total_new": 29906,
+  "total_new": 29910,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,50 @@
   ],
   "new_listings": [
     {
+      "id": "18194493",
+      "title": "WELL-CONNECTED | CITY VIEWS | SPACIOUS",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/22/well-connected-city-views-spacious_copy-2-175093/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "983",
+      "bedrooms": "2",
+      "price": 1499000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "18038445",
+      "title": "160K+ BELOW OP | PRIVATE POOL | VERY HIGH FLOOR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/21/60k-below-op-private-pool-very-high-flo-2-240578/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "812",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "17921601",
+      "title": "5Yrs PH PP | Community View | Viewing available",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/27/5yrs-ph-pp-community-view-viewing-avail-2-326759/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "915",
+      "bedrooms": "1",
+      "price": 2197152,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9840026",
+      "title": "Next To Metro | Investor Deal | Grad A",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/14/next-to-metro-investor-deal-grad-a-2-283080/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "1073",
+      "bedrooms": "",
+      "price": 1900000,
+      "first_seen": "2026-10-30"
+    },
+    {
       "id": "18144315",
       "title": "Upgraded | Duplex | Luxurious | Downtown Skyline",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/12/upgraded-duplex-luxurious-downtown-skyl-2-289222/",
@@ -12463,52 +12507,8 @@
       "bedrooms": "1",
       "price": 1245000,
       "first_seen": "2026-10-26"
-    },
-    {
-      "id": "17631869",
-      "title": "Vacant | Direct Access To Pool | Spacious",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/25/spacious-1brdirect-access-to-poolwide-b-2-144436/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "1018",
-      "bedrooms": "1",
-      "price": 849999,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18010078",
-      "title": "Prime Location | Handover Q4 2026 | Road View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/15/modern-studio-great-investment-hot-deal-2-116942/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "359",
-      "bedrooms": "0",
-      "price": 550000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18020508",
-      "title": "Furnished | Vacant | Great Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/17/furnished-vacant-great-location-2-168170/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "366",
-      "bedrooms": "0",
-      "price": 514888,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9835367",
-      "title": "ROAD FACING I RETAIL I INVESTOR DEAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/9/16/road-facing-i-retail-i-investor-deal-2-940565/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Shop",
-      "size": "868",
-      "bedrooms": "",
-      "price": 2100000,
-      "first_seen": "2026-10-26"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-29"
+  "last_updated": "2026-10-30"
 }

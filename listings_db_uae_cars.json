@@ -628450,5 +628450,49 @@
       }
     ],
     "date": "2026-10-29"
+  },
+  "100774025": {
+    "id": "100774025",
+    "title": "2013 Volkswagen Passat Highline GCC Specs",
+    "price": 15000,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2013",
+    "kilometers": "120000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Land Residence Complex (DLRC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/10/29/2013-volkswagen-passat-highline-gcc-specs-2-497---dea32af1d5ab4cb599255a47c71ced8d/",
+    "first_seen": "2026-10-30T04:37:13Z",
+    "prices": [
+      {
+        "price": 15000,
+        "date": "2026-10-30T04:37:13Z"
+      }
+    ],
+    "date": "2026-10-29"
+  },
+  "100768808": {
+    "id": "100768808",
+    "title": "Mercedes EQS 580 4MATIC 2022 | GCC Specs | Mercedes Warranty & Service Pack",
+    "price": 224900,
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "year": "2022",
+    "kilometers": "17000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/eqs/2026/10/29/mercedes-eqs-580-4matic-2022-gcc-specs-mer-2-653---24e45ed2d6294ea6b8083d25ea215c01/",
+    "first_seen": "2026-10-30T04:37:13Z",
+    "prices": [
+      {
+        "price": 224900,
+        "date": "2026-10-30T04:37:13Z"
+      }
+    ],
+    "date": "2026-10-29"
   }
 }

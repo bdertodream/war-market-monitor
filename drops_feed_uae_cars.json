@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26312,
-  "total_drops": 501,
-  "total_new": 26312,
-  "last_updated": "2026-10-29T20:54:25Z",
+  "total_tracked": 26314,
+  "total_drops": 500,
+  "total_new": 26314,
+  "last_updated": "2026-10-30T04:37:13Z",
   "drops": [
     {
       "id": "16905518",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100774025",
+      "title": "2013 Volkswagen Passat Highline GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/10/29/2013-volkswagen-passat-highline-gcc-specs-2-497---dea32af1d5ab4cb599255a47c71ced8d/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": "2013",
+      "mileage": "120000",
+      "price": 15000,
+      "first_seen": "2026-10-30T04:37:13Z"
+    },
+    {
+      "id": "100768808",
+      "title": "Mercedes EQS 580 4MATIC 2022 | GCC Specs | Mercedes Warranty & Service Pack",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/eqs/2026/10/29/mercedes-eqs-580-4matic-2022-gcc-specs-mer-2-653---24e45ed2d6294ea6b8083d25ea215c01/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "EQS",
+      "year": "2022",
+      "mileage": "17000",
+      "price": 224900,
+      "first_seen": "2026-10-30T04:37:13Z"
+    },
+    {
       "id": "100773898",
       "title": "2022 Hyundai Elantra GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/10/29/2022-hyundai-elantra-gcc-specs-2-317---2d278e0c531a4c5fb96cafc0b62c9e29/",
@@ -12980,30 +13004,6 @@
       "year": "2020",
       "mileage": "10000",
       "price": 415000,
-      "first_seen": "2026-10-23T16:34:04Z"
-    },
-    {
-      "id": "100697856",
-      "title": "7,569  P.M \u2022 0% Downpayment \u2022 Mercedes-Benz GLS 450 4MATIC \u2022 Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/10/23/7569-pm-0-downpayment-mercedes-benz-gls-45-2-319---7e96b1504b0b4529b07fadbeeec2e427/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLS-Class",
-      "year": "2025",
-      "mileage": "4157",
-      "price": 394950,
-      "first_seen": "2026-10-23T16:34:04Z"
-    },
-    {
-      "id": "100697813",
-      "title": "90 X-Dynamic HSE P400 | AGENCY WARRANTY + SERVICE PLAN | LOW KM's | GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/10/23/90-x-dynamic-hse-p400-agency-warranty-serv-2-660---5d7f049c5d704701a0b830a1b43c0fcb/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Defender",
-      "year": "2024",
-      "mileage": "44570",
-      "price": 299990,
       "first_seen": "2026-10-23T16:34:04Z"
     }
   ]
