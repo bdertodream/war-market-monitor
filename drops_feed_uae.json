@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29938,
+  "total_tracked": 29946,
   "total_drops": 500,
-  "total_new": 29938,
+  "total_new": 29946,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7361,6 +7361,94 @@
       "first_seen": "2026-10-30"
     },
     {
+      "id": "17956737",
+      "title": "7k plot | Lake & Green view | View in 20 mins",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/4/7k-plot-lake-green-view-view-in-20-mins-2-973938/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "3241",
+      "bedrooms": "4",
+      "price": 6850000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "18114026",
+      "title": "Single Row | Large Plot | Landscaped Garden",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/6/single-row-large-plot-landscaped-garden-2-548902/",
+      "area": "Dubai South",
+      "category": "Townhouse",
+      "size": "1961",
+      "bedrooms": "3",
+      "price": 2399999,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9828569",
+      "title": "Premium Retail | High Visibility | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/30/premium-retail-high-visibility-high-roi-2-338270/",
+      "area": "Al Jaddaf",
+      "category": "Shop",
+      "size": "2114",
+      "bedrooms": "",
+      "price": 7398720,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9823919",
+      "title": "Payment Plan | Huge Office | Perfect Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/1/payment-plan-huge-office-perfect-invest-2-223301/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "29570",
+      "bedrooms": "",
+      "price": 74000000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9823030",
+      "title": "Payment Plan | Merge Office | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/26/ready-to-move-in-merge-office-high-floo-2-124545/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "2960",
+      "bedrooms": "",
+      "price": 7400000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9837629",
+      "title": "FITTED OFFICE, HIGH FLOOR, AREA SPECIALIST",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/1/fitted-office-high-floor-area-specialis-2-312764/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "1580",
+      "bedrooms": "",
+      "price": 2335000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9813216",
+      "title": "Single Row-Developed Surroundings-Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/30/single-row-developed-surroundings-motiv-2-261202/",
+      "area": "Al Furjan",
+      "category": "Land",
+      "size": "9539",
+      "bedrooms": "",
+      "price": 7875000,
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "9812995",
+      "title": "Residential Plot | Easy Access | Great Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/29/residential-plot-easy-access-great-loca-2-214040/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9843",
+      "bedrooms": "",
+      "price": 3350000,
+      "first_seen": "2026-10-30"
+    },
+    {
       "id": "18144315",
       "title": "Upgraded | Duplex | Luxurious | Downtown Skyline",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/12/upgraded-duplex-luxurious-downtown-skyl-2-289222/",
@@ -10596,7 +10684,7 @@
     },
     {
       "id": "18126042",
-      "title": "Green Belt | Large Plot | Motivated seller",
+      "title": "Green Belt | Large Plot | G+2 | 4 Bedroom",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/8/green-belt-large-plot-motivated-seller-2-718214/",
       "area": "Mudon",
       "category": "Townhouse",
@@ -12418,94 +12506,6 @@
       "size": "1350",
       "bedrooms": "2",
       "price": 1640000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18128054",
-      "title": "Big Layout | High ROI | Vacant | Great Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/8/big-layout-high-roi-vacant-great-locati-2-190179/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "1005",
-      "bedrooms": "2",
-      "price": 1599888,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18136666",
-      "title": "MARINA VIEW l HIGH FLOOR l BRAND NEW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/10/marina-view-l-high-floor-l-brand-new-2-212320/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "950",
-      "bedrooms": "2",
-      "price": 1700000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "17991508",
-      "title": "Opus View | Near Metro | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/11/fully-furnished-near-business-bay-metro-2-990535/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "1012",
-      "bedrooms": "1",
-      "price": 1632000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18125131",
-      "title": "Canal View | Furnished | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/8/canal-view-furnished-prime-location-2-300299/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "802",
-      "bedrooms": "1",
-      "price": 1650000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18012432",
-      "title": "FULLY UPGRADED | FURNISHED | SEA VIEW | VACANT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/fully-upgraded-furnished-sea-view-vacan-2-130268/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "3172",
-      "bedrooms": "4",
-      "price": 4400000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18141896",
-      "title": "Burj Khalifa Views | Fully Furnished | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/12/burj-khalifa-views-fully-furnished-high-2-363435/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "470",
-      "bedrooms": "1",
-      "price": 1400000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18075258",
-      "title": "Jumeirah Island View | High Floor | Investor Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/29/high-floorbalcony-vacant-soon-2-204993/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "1087",
-      "bedrooms": "2",
-      "price": 1579999,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "17941536",
-      "title": "Community View | Close To Highway | +Study",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/1/community-view-close-to-highway-study-2-121247/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "1439",
-      "bedrooms": "2",
-      "price": 2000000,
       "first_seen": "2026-10-26"
     }
   ],
