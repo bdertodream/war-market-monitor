@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26460,
+  "total_tracked": 26461,
   "total_drops": 500,
-  "total_new": 26460,
-  "last_updated": "2026-10-31T14:20:05Z",
+  "total_new": 26461,
+  "last_updated": "2026-10-31T19:45:10Z",
   "drops": [
     {
       "id": "16974794",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100793151",
+      "title": "G900 BRABUS ROCKET I CERTIFICATE I 1 OF 25 I TOP CONDITIONS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/31/g900-brabus-rocket-i-certificate-i-1-of-25-2-156---90f3a9e87ff74da7b92ddd2725695270/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2021",
+      "mileage": "57000",
+      "price": 1850000,
+      "first_seen": "2026-10-31T19:45:10Z"
+    },
+    {
       "id": "100674757",
       "title": "April 2028 VW Service Contract \u2022 P2 Fully loaded \u2022 Pristine Condition",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/21/april-2028-vw-service-contract-p2-fully-lo-2-730---2af8014dd3f74427b742e212f271cd38/",
@@ -12993,18 +13005,6 @@
       "mileage": "112000",
       "price": 39999,
       "first_seen": "2026-10-24T22:16:17Z"
-    },
-    {
-      "id": "100714800",
-      "title": "2015 FORD ECOSPORT TREND | GCC SPECS | AUTOMATIC | FUEL EFFICIENT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ecosport/2026/10/24/2015-ford-ecosport-trend-gcc-specs-automat-2-342---311f66e705d5424bb5bccdaf1d55c1d9/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Ecosport",
-      "year": "2015",
-      "mileage": "195000",
-      "price": 12999,
-      "first_seen": "2026-10-24T18:37:09Z"
     }
   ]
 }

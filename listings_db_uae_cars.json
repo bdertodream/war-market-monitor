@@ -631754,5 +631754,27 @@
       }
     ],
     "date": "2026-10-21"
+  },
+  "100793151": {
+    "id": "100793151",
+    "title": "G900 BRABUS ROCKET I CERTIFICATE I 1 OF 25 I TOP CONDITIONS",
+    "price": 1850000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2021",
+    "kilometers": "57000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/31/g900-brabus-rocket-i-certificate-i-1-of-25-2-156---90f3a9e87ff74da7b92ddd2725695270/",
+    "first_seen": "2026-10-31T19:45:10Z",
+    "prices": [
+      {
+        "price": 1850000,
+        "date": "2026-10-31T19:45:10Z"
+      }
+    ],
+    "date": "2026-10-31"
   }
 }
