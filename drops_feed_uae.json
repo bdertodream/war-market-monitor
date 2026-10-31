@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29946,
+  "total_tracked": 29947,
   "total_drops": 500,
-  "total_new": 29946,
+  "total_new": 29947,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9738880",
-      "title": "Exclusive | Adjacent Plots | Multiple Options",
-      "old_price": 4068800,
-      "new_price": 3500000,
-      "drop_pct": 14.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/5/exclusive-adjacent-plots-multiple-optio-2-188291/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10172",
-      "bedrooms": "",
-      "date": "2026-06-09",
-      "first_seen": "2026-03-08"
-    },
     {
       "id": "9808006",
       "title": "INVESTOR DEAL | HANDOVER 2027 | MAIN ROAD VIEW",
@@ -7005,9 +6991,34 @@
       "bedrooms": "",
       "date": "2026-10-30",
       "first_seen": "2026-10-21"
+    },
+    {
+      "id": "17539678",
+      "title": "PREMIUM LOCATION | HUGE LAYOUT | AMAZING VIEW",
+      "old_price": 1750000,
+      "new_price": 1600000,
+      "drop_pct": 8.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/3/premium-location-huge-layout-amazing-vi-2-199932/",
+      "area": "DIFC",
+      "category": "Apartment",
+      "size": "782",
+      "bedrooms": "1",
+      "date": "2026-10-31",
+      "first_seen": "2026-09-21"
     }
   ],
   "new_listings": [
+    {
+      "id": "17864138",
+      "title": "Spacious 1BR | Private Garden | Ground Floor | Motivated seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/14/spacious-1br-private-garden-ground-floo-2-253488/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "1072",
+      "bedrooms": "1",
+      "price": 1199999,
+      "first_seen": "2026-10-31"
+    },
     {
       "id": "18194493",
       "title": "WELL-CONNECTED | CITY VIEWS | SPACIOUS",
@@ -12496,19 +12507,8 @@
       "bedrooms": "3",
       "price": 5775000,
       "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18054929",
-      "title": "Spacious 2BR | FloortoCeiling Windows | JVC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/24/spacious-2br-floortoceiling-windows-jvc-2-109112/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "1350",
-      "bedrooms": "2",
-      "price": 1640000,
-      "first_seen": "2026-10-26"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-10-30"
+  "last_updated": "2026-10-31"
 }
