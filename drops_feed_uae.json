@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29978,
+  "total_tracked": 29979,
   "total_drops": 500,
-  "total_new": 29978,
+  "total_new": 29979,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7361,6 +7361,17 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "18244605",
+      "title": "LIMITED-TIME OFFER | SKYLINE & POOL VIEWS | EXCLUSIVE CASH DISCOUNT | PRIME LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/31/limited-time-offer-skyline-pool-views-e-2-222395/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "575",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-10-31"
+    },
+    {
       "id": "18194493",
       "title": "WELL-CONNECTED | CITY VIEWS | SPACIOUS",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/22/well-connected-city-views-spacious_copy-2-175093/",
@@ -12495,17 +12506,6 @@
       "size": "2113",
       "bedrooms": "3",
       "price": 3450000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18129918",
-      "title": "Converted 2 Bed | Vacant | Investment Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/9/2-bedrooms-vacant-high-roi-potential-2-238425/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "754",
-      "bedrooms": "1",
-      "price": 1100000,
       "first_seen": "2026-10-26"
     }
   ],

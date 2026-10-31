@@ -354351,7 +354351,7 @@
     "category": "Apartment",
     "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/22/vacant-on-transfer-pool-view-best-price-2-900301/",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-27"
+    "last_seen": "2026-10-31"
   },
   "18071912": {
     "title": "VACANT 5BR VILLA | NEVER LIVED IN | LARGE PLOT | DAMAC HILLS",
@@ -389710,6 +389710,19 @@
     "city": "Dubai",
     "category": "Office",
     "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/30/corner-office-canal-view-unfurnished-2-296400/",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31"
+  },
+  "18244605": {
+    "title": "LIMITED-TIME OFFER | SKYLINE & POOL VIEWS | EXCLUSIVE CASH DISCOUNT | PRIME LOCATION",
+    "price": 950000,
+    "size": "575",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "area": "Jumeirah Village Circle (JVC)",
+    "city": "Dubai",
+    "category": "Apartment",
+    "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/31/limited-time-offer-skyline-pool-views-e-2-222395/",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31"
   }
