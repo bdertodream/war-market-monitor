@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26459,
+  "total_tracked": 26460,
   "total_drops": 500,
-  "total_new": 26459,
-  "last_updated": "2026-10-31T04:20:20Z",
+  "total_new": 26460,
+  "last_updated": "2026-10-31T14:20:05Z",
   "drops": [
     {
       "id": "16974794",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100674757",
+      "title": "April 2028 VW Service Contract \u2022 P2 Fully loaded \u2022 Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/21/april-2028-vw-service-contract-p2-fully-lo-2-730---2af8014dd3f74427b742e212f271cd38/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2021",
+      "mileage": "55000",
+      "price": 85000,
+      "first_seen": "2026-10-31T14:20:05Z"
+    },
+    {
       "id": "100766014",
       "title": "Nissan Versa 2015 SV American Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/versa-note/2026/10/29/nissan-versa-2015-sv-american-specs-2-413---121b70f89d824198b3fa256f1fe7c314/",
@@ -12992,18 +13004,6 @@
       "year": "2015",
       "mileage": "195000",
       "price": 12999,
-      "first_seen": "2026-10-24T18:37:09Z"
-    },
-    {
-      "id": "100714747",
-      "title": "AED 1,620 PM | 1-YEAR WARRANTY INCLUDED | 2018 MERCEDES-BENZ C200 CABRIOLET | GCC SPECS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/24/aed-1620-pm-1-year-warranty-included-2018--2-191---219e705488d248f08e280e8e81873da2/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "year": "2018",
-      "mileage": "108000",
-      "price": 89999,
       "first_seen": "2026-10-24T18:37:09Z"
     }
   ]

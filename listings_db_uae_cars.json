@@ -579792,7 +579792,7 @@
   "100490124": {
     "id": "100490124",
     "title": "2024 BRABUS 900 Mercedes-AMG G 63 Japanese Specs",
-    "price": 799000,
+    "price": 780000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2024",
@@ -579801,7 +579801,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/05/2024-brabus-900-mercedes-amg-g-63-japanese-2-012---28adcfc70081402ab8e25e33d34e99d4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/05/2024-brabus-900-mercedes-amg-g-63-japanese-2-705---28adcfc70081402ab8e25e33d34e99d4/",
     "first_seen": "2026-10-05T16:51:22Z",
     "prices": [
       {
@@ -579811,6 +579811,10 @@
       {
         "price": 799000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 780000,
+        "date": "2026-10-31T14:20:05Z"
       }
     ],
     "date": "2026-10-05"
@@ -631728,5 +631732,27 @@
       }
     ],
     "date": "2026-10-26"
+  },
+  "100674757": {
+    "id": "100674757",
+    "title": "April 2028 VW Service Contract \u2022 P2 Fully loaded \u2022 Pristine Condition",
+    "price": 85000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2021",
+    "kilometers": "55000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Arjan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/21/april-2028-vw-service-contract-p2-fully-lo-2-730---2af8014dd3f74427b742e212f271cd38/",
+    "first_seen": "2026-10-31T14:20:05Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-10-31T14:20:05Z"
+      }
+    ],
+    "date": "2026-10-21"
   }
 }
