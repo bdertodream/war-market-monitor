@@ -1,23 +1,9 @@
 {
   "total_tracked": 26465,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26465,
-  "last_updated": "2026-11-01T14:47:00Z",
+  "last_updated": "2026-11-01T20:15:04Z",
   "drops": [
-    {
-      "id": "16974794",
-      "title": "2015 Jeep Grand Cherokee Summit 5.7 V8 HEMI | GCC | No Accidents",
-      "old_price": 26900,
-      "new_price": 24900,
-      "drop_pct": 7.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/09/12/2015-jeep-grand-cherokee-summit-57-v8-hemi-2-144---36ffb2c7e6fe4bc486707b8b88b9fac6/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "2015",
-      "mileage": "285000",
-      "date": "2026-09-26T15:54:14Z"
-    },
     {
       "id": "16952431",
       "title": "2018 Mercedes Benz E200 GCC specs",
@@ -7003,6 +6989,20 @@
       "year": "2019",
       "mileage": "100000",
       "date": "2026-10-30T14:52:27Z"
+    },
+    {
+      "id": "100425535",
+      "title": "2024 BRABUS 800 - Mercedes AMG G 63 | Japanese Specs",
+      "old_price": 950000,
+      "new_price": 899000,
+      "drop_pct": 5.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/29/2024-brabus-800-mercedes-amg-g-63-japanese-2-864---722b25a09bef43cf880ef520b28eee68/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2024",
+      "mileage": "1000",
+      "date": "2026-11-01T20:15:04Z"
     }
   ],
   "new_listings": [
@@ -8233,13 +8233,13 @@
     {
       "id": "100777723",
       "title": "2026 BRABUS 800 Mercedes AMG G 63 - European Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-812---bdbe80c7ec4f43f18b67757a639d7f3a/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-364---bdbe80c7ec4f43f18b67757a639d7f3a/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "800 - Mercedes AMG G 63",
       "year": "2026",
       "mileage": "100",
-      "price": 1100009,
+      "price": 1050000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8449,13 +8449,13 @@
     {
       "id": "100425535",
       "title": "2024 BRABUS 800 - Mercedes AMG G 63 | Japanese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/29/2024-brabus-800-mercedes-amg-g-63-japanese-2-686---722b25a09bef43cf880ef520b28eee68/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/29/2024-brabus-800-mercedes-amg-g-63-japanese-2-864---722b25a09bef43cf880ef520b28eee68/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "800 - Mercedes AMG G 63",
       "year": "2024",
       "mileage": "1000",
-      "price": 950000,
+      "price": 899000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {

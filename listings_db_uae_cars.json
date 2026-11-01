@@ -630666,7 +630666,7 @@
   "100777723": {
     "id": "100777723",
     "title": "2026 BRABUS 800 Mercedes AMG G 63 - European Specs",
-    "price": 1100009,
+    "price": 1050000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2026",
@@ -630675,12 +630675,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-812---bdbe80c7ec4f43f18b67757a639d7f3a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-364---bdbe80c7ec4f43f18b67757a639d7f3a/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 1100009,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 1050000,
+        "date": "2026-11-01T20:15:04Z"
       }
     ],
     "date": "2026-10-30"
@@ -631062,7 +631066,7 @@
   "100425535": {
     "id": "100425535",
     "title": "2024 BRABUS 800 - Mercedes AMG G 63 | Japanese Specs",
-    "price": 950000,
+    "price": 899000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2024",
@@ -631071,12 +631075,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/29/2024-brabus-800-mercedes-amg-g-63-japanese-2-686---722b25a09bef43cf880ef520b28eee68/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/29/2024-brabus-800-mercedes-amg-g-63-japanese-2-864---722b25a09bef43cf880ef520b28eee68/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 950000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 899000,
+        "date": "2026-11-01T20:15:04Z"
       }
     ],
     "date": "2026-10-30"
