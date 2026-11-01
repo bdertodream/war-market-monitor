@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26462,
+  "total_tracked": 26465,
   "total_drops": 500,
-  "total_new": 26462,
-  "last_updated": "2026-11-01T04:40:09Z",
+  "total_new": 26465,
+  "last_updated": "2026-11-01T14:47:00Z",
   "drops": [
     {
       "id": "16974794",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100797245",
+      "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-689---06a7d0467d02442badcde712995ddcc8/",
+      "category": "Used Cars",
+      "make": "Citroen",
+      "model": "C4 X",
+      "year": "2025",
+      "mileage": "7667",
+      "price": 55000,
+      "first_seen": "2026-11-01T14:47:00Z"
+    },
+    {
+      "id": "100799477",
+      "title": "ORIGINAL PAINT - ONLY 92000 km - GCC - Single Owner - Amazing Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/01/original-paint-only-92000-km-gcc-single-ow-2-785---2db72183186f4b6d8b40835bd7f56486/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2017",
+      "mileage": "92000",
+      "price": 47000,
+      "first_seen": "2026-11-01T14:47:00Z"
+    },
+    {
+      "id": "100797833",
+      "title": "AED 1,725/m | 0 DP | Manufacturer Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2024",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/01/aed-1725m-0-dp-manufacturer-warranty-servi-2-846---8d901abb1e8542768cdca5f97023609c/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "56498",
+      "price": 113499,
+      "first_seen": "2026-11-01T14:47:00Z"
+    },
+    {
       "id": "100664682",
       "title": "2024 Volkswagen Golf GTI, Volkswagen Warranty + Service Contract, Full Service History, GCC",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/20/2024-volkswagen-golf-gti-volkswagen-warran-2-665---c99349127b4d4331954b6b3de80223dd/",
@@ -12968,42 +13004,6 @@
       "year": "2022",
       "mileage": "30000",
       "price": 44000,
-      "first_seen": "2026-10-24T22:16:17Z"
-    },
-    {
-      "id": "100715564",
-      "title": "7 seaters Explorer 2017 Sport 3.5L Twin Turbo EcoBoost GCC not negotiable",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/10/24/7-seaters-explorer-2017-sport-35l-twin-tur-2-992---3f98e3f8b4ca4ab2afeb4eb8a70f921b/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Explorer",
-      "year": "2017",
-      "mileage": "199000",
-      "price": 44000,
-      "first_seen": "2026-10-24T22:16:17Z"
-    },
-    {
-      "id": "100715061",
-      "title": "2026 GCC Defender 110 X-Dynamic HSE P400 / 5yrs Official Dealer Warranty and Service Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/10/24/2026-gcc-defender-110-x-dynamic-hse-p400-5-2-565---7e4bf4d4edb14f64a45456405f6b3e5e/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Defender",
-      "year": "2026",
-      "mileage": "45",
-      "price": 429900,
-      "first_seen": "2026-10-24T22:16:17Z"
-    },
-    {
-      "id": "100714092",
-      "title": "Toyota Camry GLE 2013 Japanese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/camry/2026/10/24/toyota-camry-gle-2013-japanese-specs-2-821---94d3bacb5e004d37ba7c59327f50e07a/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Camry",
-      "year": "2013",
-      "mileage": "134000",
-      "price": 24800,
       "first_seen": "2026-10-24T22:16:17Z"
     }
   ]

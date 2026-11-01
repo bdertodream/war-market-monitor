@@ -540364,7 +540364,7 @@
   "16976438": {
     "id": "16976438",
     "title": "2017 VOLKSWAGEN GTI 2.0L TURBO GCC SPECIFICATION WITH FULL AGENCY SERVICE IN EXCELLENT CONDITION",
-    "price": 49500,
+    "price": 47500,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2017",
@@ -540373,7 +540373,7 @@
     "fuel_type": "Petrol",
     "area": "Sunday Mega Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/14/2017-volkswagen-gti-20l-turbo-gcc-specific-2-558---5dab4375b60440228f7f250df9f7405f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/14/2017-volkswagen-gti-20l-turbo-gcc-specific-2-082---5dab4375b60440228f7f250df9f7405f/",
     "first_seen": "2026-09-14T17:49:09Z",
     "prices": [
       {
@@ -540383,6 +540383,10 @@
       {
         "price": 49500,
         "date": "2026-09-24T09:02:48Z"
+      },
+      {
+        "price": 47500,
+        "date": "2026-11-01T14:47:00Z"
       }
     ],
     "date": "2026-09-14"
@@ -607230,7 +607234,7 @@
   "100638669": {
     "id": "100638669",
     "title": "1500AED Monthly Payment With 0% Down Payment  2026 Geely Okavango GF+ GCC Specs",
-    "price": 79900,
+    "price": 77000,
     "make": "Geely",
     "model": "Okavango",
     "year": "2026",
@@ -607239,7 +607243,7 @@
     "fuel_type": "Petrol",
     "area": "Saad Suhail Salim Al Mukhaini Bahwan Building 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-282---99e2482b144e429b95194bfb3007cf44/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-945---99e2482b144e429b95194bfb3007cf44/",
     "first_seen": "2026-10-18T15:27:46Z",
     "prices": [
       {
@@ -607249,6 +607253,10 @@
       {
         "price": 79900,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 77000,
+        "date": "2026-11-01T14:47:00Z"
       }
     ],
     "date": "2026-10-18"
@@ -631798,5 +631806,71 @@
       }
     ],
     "date": "2026-10-20"
+  },
+  "100797245": {
+    "id": "100797245",
+    "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
+    "price": 55000,
+    "make": "Citroen",
+    "model": "C4 X",
+    "year": "2025",
+    "kilometers": "7667",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-689---06a7d0467d02442badcde712995ddcc8/",
+    "first_seen": "2026-11-01T14:47:00Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-11-01T14:47:00Z"
+      }
+    ],
+    "date": "2026-11-01"
+  },
+  "100799477": {
+    "id": "100799477",
+    "title": "ORIGINAL PAINT - ONLY 92000 km - GCC - Single Owner - Amazing Condition",
+    "price": 47000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2017",
+    "kilometers": "92000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/01/original-paint-only-92000-km-gcc-single-ow-2-785---2db72183186f4b6d8b40835bd7f56486/",
+    "first_seen": "2026-11-01T14:47:00Z",
+    "prices": [
+      {
+        "price": 47000,
+        "date": "2026-11-01T14:47:00Z"
+      }
+    ],
+    "date": "2026-11-01"
+  },
+  "100797833": {
+    "id": "100797833",
+    "title": "AED 1,725/m | 0 DP | Manufacturer Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2024",
+    "price": 113499,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "56498",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Millennium Place Barsha Heights Hotel",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/01/aed-1725m-0-dp-manufacturer-warranty-servi-2-846---8d901abb1e8542768cdca5f97023609c/",
+    "first_seen": "2026-11-01T14:47:00Z",
+    "prices": [
+      {
+        "price": 113499,
+        "date": "2026-11-01T14:47:00Z"
+      }
+    ],
+    "date": "2026-11-01"
   }
 }
