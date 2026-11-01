@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26461,
+  "total_tracked": 26462,
   "total_drops": 500,
-  "total_new": 26461,
-  "last_updated": "2026-10-31T23:07:35Z",
+  "total_new": 26462,
+  "last_updated": "2026-11-01T04:40:09Z",
   "drops": [
     {
       "id": "16974794",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100664682",
+      "title": "2024 Volkswagen Golf GTI, Volkswagen Warranty + Service Contract, Full Service History, GCC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/20/2024-volkswagen-golf-gti-volkswagen-warran-2-665---c99349127b4d4331954b6b3de80223dd/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "18248",
+      "price": 129000,
+      "first_seen": "2026-11-01T04:40:09Z"
+    },
+    {
       "id": "100793151",
       "title": "G900 BRABUS ROCKET I CERTIFICATE I 1 OF 25 I TOP CONDITIONS",
       "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/31/g900-brabus-rocket-i-certificate-i-1-of-25-2-156---90f3a9e87ff74da7b92ddd2725695270/",
@@ -12992,18 +13004,6 @@
       "year": "2013",
       "mileage": "134000",
       "price": 24800,
-      "first_seen": "2026-10-24T22:16:17Z"
-    },
-    {
-      "id": "100713803",
-      "title": "2014 BMW X5 xDrive50i GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/10/24/2014-bmw-x5-xdrive50i-gcc-specs-2-657---68ad29bbb3584770bbbe1714c9bf0a35/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2014",
-      "mileage": "112000",
-      "price": 39999,
       "first_seen": "2026-10-24T22:16:17Z"
     }
   ]

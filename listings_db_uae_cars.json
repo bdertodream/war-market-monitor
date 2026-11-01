@@ -631776,5 +631776,27 @@
       }
     ],
     "date": "2026-10-31"
+  },
+  "100664682": {
+    "id": "100664682",
+    "title": "2024 Volkswagen Golf GTI, Volkswagen Warranty + Service Contract, Full Service History, GCC",
+    "price": 129000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "18248",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/20/2024-volkswagen-golf-gti-volkswagen-warran-2-665---c99349127b4d4331954b6b3de80223dd/",
+    "first_seen": "2026-11-01T04:40:09Z",
+    "prices": [
+      {
+        "price": 129000,
+        "date": "2026-11-01T04:40:09Z"
+      }
+    ],
+    "date": "2026-10-20"
   }
 }
