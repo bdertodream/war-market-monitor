@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26465,
-  "total_drops": 500,
-  "total_new": 26465,
-  "last_updated": "2026-11-02T04:42:10Z",
+  "total_tracked": 26472,
+  "total_drops": 501,
+  "total_new": 26472,
+  "last_updated": "2026-11-02T17:52:59Z",
   "drops": [
-    {
-      "id": "16952431",
-      "title": "2018 Mercedes Benz E200 GCC specs",
-      "old_price": 59000,
-      "new_price": 52500,
-      "drop_pct": 11.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/08/24/2018-mercedes-benz-e200-gcc-specs-2-776---413f1a47692f497abbfcc7c9ad648b1e/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2018",
-      "mileage": "130000",
-      "date": "2026-09-26T22:24:37Z"
-    },
     {
       "id": "100337945",
       "title": "\u2728 GCC 2015 Audi Q7 S LiNE 3.0 TFSI Quattro | 3.0L V6 | Premium Luxury SUV \u2728",
@@ -7003,9 +6989,107 @@
       "year": "2024",
       "mileage": "1000",
       "date": "2026-11-01T20:15:04Z"
+    },
+    {
+      "id": "100678198",
+      "title": "2024 Ford Bronco Sport Big Bend - American Specs",
+      "old_price": 63000,
+      "new_price": 54000,
+      "drop_pct": 14.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/10/21/2024-ford-bronco-sport-big-bend-american-s-2-508---3dae5aa3b9dc4084909b5c415986c1f3/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "year": "2024",
+      "mileage": "69800",
+      "date": "2026-11-02T17:52:59Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100340663",
+      "title": "SQ8 SPORTBACK E-TRON QUATTRO | 503 HP | AUDI WARRANTY AND SERVICE I AS BRAND NEW",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/09/22/sq8-sportback-e-tron-quattro-503-hp-audi-w-2-445---1897b3c1907e4c889ad78a0bdebd9dd8/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "SQ8 e-tron",
+      "year": "2024",
+      "mileage": "9000",
+      "price": 264411,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100809341",
+      "title": "BRABUS SE 900 ROCKET | BRABUS CERTIFIED | BRAND NEW CONDITION | FULL OPTIONS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-lamborghini-urus-se/2026/11/02/brabus-se-900-rocket-brabus-certified-bran-2-088---05eb852b9464437f85eed3915f3f12d3/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Lamborghini Urus SE",
+      "year": "2026",
+      "mileage": "0",
+      "price": 2449000,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100515046",
+      "title": "IM LS6 2026 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/im/ls6/2026/10/07/im-ls6-2026-gcc-specs-2-454---1dc8417fc26e4ba9a5186ff994548920/",
+      "category": "Used Cars",
+      "make": "IM",
+      "model": "LS6",
+      "year": "2026",
+      "mileage": "14700",
+      "price": 165000,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "16974719",
+      "title": "2025 Hongqi EH7 Pro - European Specs - Brand New Electric Luxury",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hongqi/eh7/2026/09/12/2025-hongqi-eh7-pro-european-specs-brand-n-2-426---6d35e54fa29745b7a269fa259659371d/",
+      "category": "Used Cars",
+      "make": "Hongqi",
+      "model": "EH7",
+      "year": "2025",
+      "mileage": "0",
+      "price": 115000,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100811197",
+      "title": "2024 Mercedes Benz G63 - G800 1sec wow Brabus",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/02/2024-mercedes-benz-g63-g800-1sec-wow-brabu-2-317---98417f30683f427991a24e36bc8ca237/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2024",
+      "mileage": "500",
+      "price": 1151000,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100812418",
+      "title": "2,155 P.M |  Golf GTI | 0% Downpayment | WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/02/2155-pm-golf-gti-0-downpayment-warranty-2-046---567d2306cdda44b2b56c40d0f6079b60/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "52000",
+      "price": 109999,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100810424",
+      "title": "Volkswagen Golf GTI Sport 2018 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/02/volkswagen-golf-gti-sport-2018-gcc-specs-2-416---74a988c17c754f119a4d2fb2c412bf9f/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2018",
+      "mileage": "225000",
+      "price": 39000,
+      "first_seen": "2026-11-02T17:52:59Z"
+    },
     {
       "id": "100797245",
       "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
@@ -7200,14 +7284,14 @@
     },
     {
       "id": "100652516",
-      "title": "5,288 P.M |  SQ8 E-TRON | 0% Downpayment | WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/10/19/5288-pm-sq8-e-tron-0-downpayment-warranty-2-064---d209d3efcd724841a68b699d923244d7/",
+      "title": "5,190 P.M |  SQ8 E-TRON | 0% Downpayment | WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/10/19/5190-pm-sq8-e-tron-0-downpayment-warranty-2-332---d209d3efcd724841a68b699d923244d7/",
       "category": "Used Cars",
       "make": "Audi",
       "model": "SQ8 e-tron",
       "year": "2024",
       "mileage": "26000",
-      "price": 269999,
+      "price": 264999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -7897,13 +7981,13 @@
     {
       "id": "100678198",
       "title": "2024 Ford Bronco Sport Big Bend - American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/10/21/2024-ford-bronco-sport-big-bend-american-s-2-706---3dae5aa3b9dc4084909b5c415986c1f3/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/10/21/2024-ford-bronco-sport-big-bend-american-s-2-508---3dae5aa3b9dc4084909b5c415986c1f3/",
       "category": "Used Cars",
       "make": "Ford",
       "model": "Bronco Sport",
       "year": "2024",
       "mileage": "69800",
-      "price": 63000,
+      "price": 54000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8737,13 +8821,13 @@
     {
       "id": "100760537",
       "title": "2016 Volkswagen Golf GTI Sport GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/2016-volkswagen-golf-gti-sport-gcc-specs-2-279---112e3311fa254929aee47025dca2814f/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/2016-volkswagen-golf-gti-sport-gcc-specs-2-370---112e3311fa254929aee47025dca2814f/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2016",
       "mileage": "240000",
-      "price": 25000,
+      "price": 24000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12921,90 +13005,6 @@
       "mileage": "230000",
       "price": 12000,
       "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100586463",
-      "title": "AED 5,248/month | Patrol LEPlatinum City Twin Turbo | Manufacturer Warranty | REF#N00210",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/10/13/aed-5248month-patrol-leplatinum-city-twin--2-002---534b79f3cff64f2abb8f6b7e3f9734da/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2026",
-      "mileage": "43708",
-      "price": 335000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100715204",
-      "title": "2018 Ford EcoSport GCC Specs in Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ecosport/2026/10/24/2018-ford-ecosport-gcc-specs-in-excellent--2-868---402e9ca45b7444b0a2345dbcfb2b9e3d/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Ecosport",
-      "year": "2018",
-      "mileage": "118000",
-      "price": 16500,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100719574",
-      "title": "MERCEDES E 200 PREMIUM PLUS AMG PACK 2025 | HIGH OPTION | MERCEDES WARRANTY & SERVICE PACK",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/25/mercedes-e-200-premium-plus-amg-pack-2025--2-614---cc7b484840d84c7abe9c6a0c1a849ed9/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2025",
-      "mileage": "19500",
-      "price": 264900,
-      "first_seen": "2026-10-25T08:59:02Z"
-    },
-    {
-      "id": "100719375",
-      "title": "2014 Lexus GS 350 F Sport American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gs-series/2026/10/25/2014-lexus-gs-350-f-sport-american-specs-2-497---63a6c757f0304d24a74af94ba81b41b6/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "GS-Series",
-      "year": "2014",
-      "mileage": "191672",
-      "price": 23950,
-      "first_seen": "2026-10-25T08:59:02Z"
-    },
-    {
-      "id": "100718966",
-      "title": "Chevrolet Captiva 2025 Premier GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/10/25/chevrolet-captiva-2025-premier-gcc-specs-2-115---a911888ba297418e9b7b9d3fd5ed7553/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Captiva",
-      "year": "2025",
-      "mileage": "70000",
-      "price": 48000,
-      "first_seen": "2026-10-25T08:59:02Z"
-    },
-    {
-      "id": "100713885",
-      "title": "6,433 P.M \u2022 0% Downpayment \u2022 Porsche Cayman \u2022 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayman/2026/10/24/6433-pm-0-downpayment-porsche-cayman-1-yea-2-099---07ad16f3168a498bbc2cd7df01df77ff/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayman",
-      "year": "2015",
-      "mileage": "192566",
-      "price": 74950,
-      "first_seen": "2026-10-25T03:26:19Z"
-    },
-    {
-      "id": "100715586",
-      "title": "2022 Fiat 500X Cross Plus GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/fiat/500x/2026/10/24/2022-fiat-500x-cross-plus-gcc-specs-2-151---dc87f5a8671745f4ab3e83a22ed5c4f9/",
-      "category": "Used Cars",
-      "make": "Fiat",
-      "model": "500X",
-      "year": "2022",
-      "mileage": "30000",
-      "price": 44000,
-      "first_seen": "2026-10-24T22:16:17Z"
     }
   ]
 }
