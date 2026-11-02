@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 29987,
+  "total_tracked": 29991,
   "total_drops": 500,
-  "total_new": 29987,
+  "total_new": 29991,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,50 @@
   ],
   "new_listings": [
     {
+      "id": "18073222",
+      "title": "DISTRESS DEAL | BELOW OP | CONTEMPRORY DESIGN | RESALE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/28/distress-deal-below-op-contemprory-desi-2-625394/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "2513",
+      "bedrooms": "3",
+      "price": 2695000,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "18213043",
+      "title": "Furnished | Private Beach | Vacant On Transfer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/26/furnished-private-beach-vacant-on-trans-2-474883/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1052",
+      "bedrooms": "2",
+      "price": 2350000,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "17846818",
+      "title": "AN EXCLUSIVE INVESTMENT IN LUXURY | LIMITED AVAILABILITY | 3-YEAR POST-HANDOVER PLAN",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/10/an-exclusive-investment-in-luxury-limit-2-115088/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "1762",
+      "bedrooms": "2",
+      "price": 3360187,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "18244608",
+      "title": "HOT DEAL | FULL CASH DISCOUNT | SKYLINE & POOL VIEWS | SOUGHT-AFTER LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/31/hot-deal-full-cash-discount-skyline-poo-2-159126/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "575",
+      "bedrooms": "1",
+      "price": 955000,
+      "first_seen": "2026-11-02"
+    },
+    {
       "id": "18222561",
       "title": "Fully Upgraded | Bespoke Luxury | Sea View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/27/fully-upgraded-bespoke-luxury-sea-view-2-185334/",
@@ -12463,52 +12507,8 @@
       "bedrooms": "4",
       "price": 15500000,
       "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18115084",
-      "title": "Type D | G+2 | Semi Detached | Single Row | Call Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/type-d-g2-semi-detached-single-row-call-2-315749/",
-      "area": "Dubai Islands",
-      "category": "Villa",
-      "size": "4261",
-      "bedrooms": "4",
-      "price": 7299999,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "18213629",
-      "title": "Beautiful Marina Facing Two Bedroom | View Today",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/26/beautiful-marina-facing-two-bedroom-vie-2-386855/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1471",
-      "bedrooms": "2",
-      "price": 4750000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9841141",
-      "title": "Signature fitout | 5 Parking | Panoramic Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/22/signature-fitout-5-parking-panoramic-vi-2-740598/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "2457",
-      "bedrooms": "",
-      "price": 7000000,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "9840540",
-      "title": "Vacant Now | 9 Parking Spaces | Grade A Tower",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/19/vacant-now-9-parking-spaces-grade-a-tow-2-288903/",
-      "area": "Downtown Dubai",
-      "category": "Office",
-      "size": "3674",
-      "bedrooms": "",
-      "price": 21000000,
-      "first_seen": "2026-10-26"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-01"
+  "last_updated": "2026-11-02"
 }
