@@ -628821,8 +628821,8 @@
   },
   "100653359": {
     "id": "100653359",
-    "title": "AED 1945/month | 2023 Toyota Crown Kluger  | Chinese Specs | Ref#539314",
-    "price": 128000,
+    "title": "AED 1915/month | 2023 Toyota Crown Kluger  | Chinese Specs | Ref#539314",
+    "price": 126000,
     "make": "Toyota",
     "model": "Crown Kluger",
     "year": "2023",
@@ -628831,12 +628831,16 @@
     "fuel_type": "Hybrid",
     "area": "Al Muraqqabat",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/crown-kluger/2026/10/19/aed-1945month-2023-toyota-crown-kluger-chi-2-684---232d037424214f678636e0b599a4c07d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/crown-kluger/2026/10/19/aed-1915month-2023-toyota-crown-kluger-chi-2-251---232d037424214f678636e0b599a4c07d/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 128000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 126000,
+        "date": "2026-11-03T02:02:21Z"
       }
     ],
     "date": "2026-10-26"
