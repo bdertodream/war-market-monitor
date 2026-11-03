@@ -602424,7 +602424,7 @@
   "100599768": {
     "id": "100599768",
     "title": "2017 Volkswagen Golf GTI Club Sport GCC Specs(Number plate not for sale)",
-    "price": 38000,
+    "price": 33000,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2017",
@@ -602433,12 +602433,16 @@
     "fuel_type": "Petrol",
     "area": "Dubai International Airport",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/14/2017-volkswagen-golf-gti-club-sport-gcc-sp-2-526---41f5da6b1dd74531a8f7f2f6e540554d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/14/2017-volkswagen-golf-gti-club-sport-gcc-sp-2-817---41f5da6b1dd74531a8f7f2f6e540554d/",
     "first_seen": "2026-10-16T16:10:20Z",
     "prices": [
       {
         "price": 38000,
         "date": "2026-10-16T16:10:20Z"
+      },
+      {
+        "price": 33000,
+        "date": "2026-11-03T11:40:04Z"
       }
     ],
     "date": "2026-10-16"
@@ -632050,5 +632054,137 @@
       }
     ],
     "date": "2026-11-02"
+  },
+  "100822838": {
+    "id": "100822838",
+    "title": "Sealion 06 Pilot pro 2026 Export Only price @ 105,000 AED",
+    "price": 105000,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/03/sealion-06-pilot-pro-2026-export-only-pric-2-309---6df8edb62804413fb6f70e4bd4453414/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-11-03"
+  },
+  "100821541": {
+    "id": "100821541",
+    "title": "Sealion 06 Pilot Pro 2026 Export ONLY Price @ 105,000 AED",
+    "price": 105000,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/03/sealion-06-pilot-pro-2026-export-only-pric-2-905---015d6b0a1820412eb8eafe2626c8b59e/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-11-03"
+  },
+  "100657569": {
+    "id": "100657569",
+    "title": "2024 Volkswagen Golf GTI Fully Optioned (GCC)",
+    "price": 90000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "82800",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/19/2024-volkswagen-golf-gti-fully-optioned-gc-2-545---ecd2478f4d5f4f87aa9ce218e31fb236/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-10-19"
+  },
+  "100624874": {
+    "id": "100624874",
+    "title": "AED 1,573/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+    "price": 103499,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "69578",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Millennium Place Barsha Heights Hotel",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/17/aed-1573m-0-dp-free-1-year-warranty-servic-2-287---a5efbaab7db34422b621266b49e7f39f/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 103499,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-10-17"
+  },
+  "100599755": {
+    "id": "100599755",
+    "title": "2015 Volkswagen Golf GTI Sport | GCC Specs Stage 2 Tuned",
+    "price": 37000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2015",
+    "kilometers": "160000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Jebel Ali",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/14/2015-volkswagen-golf-gti-sport-gcc-specs-s-2-867---62ae5111325344e0abc0297aa47f9c8d/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 37000,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-10-30"
+  },
+  "100584536": {
+    "id": "100584536",
+    "title": "Volkswagen Golf GTI P2 GCC 2025\u2013UNDER WARRANTY\u2014ORIGINAL PAINT \u2014FULL SERVICE HISTORY",
+    "price": 124999,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2025",
+    "kilometers": "69000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/13/volkswagen-golf-gti-p2-gcc-2025under-warra-2-035---bf468be9f58543e988f686023290b733/",
+    "first_seen": "2026-11-03T11:40:04Z",
+    "prices": [
+      {
+        "price": 124999,
+        "date": "2026-11-03T11:40:04Z"
+      }
+    ],
+    "date": "2026-10-13"
   }
 }

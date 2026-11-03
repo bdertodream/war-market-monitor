@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26472,
-  "total_drops": 500,
-  "total_new": 26472,
-  "last_updated": "2026-11-03T02:02:21Z",
+  "total_tracked": 26478,
+  "total_drops": 501,
+  "total_new": 26478,
+  "last_updated": "2026-11-03T11:40:04Z",
   "drops": [
-    {
-      "id": "100337945",
-      "title": "\u2728 GCC 2015 Audi Q7 S LiNE 3.0 TFSI Quattro | 3.0L V6 | Premium Luxury SUV \u2728",
-      "old_price": 27000,
-      "new_price": 25000,
-      "drop_pct": 7.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/09/22/gcc-2015-audi-q7-s-line-30-tfsi-quattro-30-2-350---b7f5d62a356e45efa7579e35994c3bc9/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "Q7",
-      "year": "2015",
-      "mileage": "156956",
-      "date": "2026-09-27T09:54:00Z"
-    },
     {
       "id": "16916380",
       "title": "2011 BENTLEY FLYING SPUR GCC SPECS IN EXCELLENT CONDITION",
@@ -7003,9 +6989,95 @@
       "year": "2024",
       "mileage": "69800",
       "date": "2026-11-02T17:52:59Z"
+    },
+    {
+      "id": "100599768",
+      "title": "2017 Volkswagen Golf GTI Club Sport GCC Specs(Number plate not for sale)",
+      "old_price": 38000,
+      "new_price": 33000,
+      "drop_pct": 13.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/14/2017-volkswagen-golf-gti-club-sport-gcc-sp-2-817---41f5da6b1dd74531a8f7f2f6e540554d/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2017",
+      "mileage": "175000",
+      "date": "2026-11-03T11:40:04Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100822838",
+      "title": "Sealion 06 Pilot pro 2026 Export Only price @ 105,000 AED",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/03/sealion-06-pilot-pro-2026-export-only-pric-2-309---6df8edb62804413fb6f70e4bd4453414/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "0",
+      "price": 105000,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100821541",
+      "title": "Sealion 06 Pilot Pro 2026 Export ONLY Price @ 105,000 AED",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/03/sealion-06-pilot-pro-2026-export-only-pric-2-905---015d6b0a1820412eb8eafe2626c8b59e/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "0",
+      "price": 105000,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100657569",
+      "title": "2024 Volkswagen Golf GTI Fully Optioned (GCC)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/19/2024-volkswagen-golf-gti-fully-optioned-gc-2-545---ecd2478f4d5f4f87aa9ce218e31fb236/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "82800",
+      "price": 90000,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100624874",
+      "title": "AED 1,573/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/17/aed-1573m-0-dp-free-1-year-warranty-servic-2-287---a5efbaab7db34422b621266b49e7f39f/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "69578",
+      "price": 103499,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100599755",
+      "title": "2015 Volkswagen Golf GTI Sport | GCC Specs Stage 2 Tuned",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/14/2015-volkswagen-golf-gti-sport-gcc-specs-s-2-867---62ae5111325344e0abc0297aa47f9c8d/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2015",
+      "mileage": "160000",
+      "price": 37000,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100584536",
+      "title": "Volkswagen Golf GTI P2 GCC 2025\u2013UNDER WARRANTY\u2014ORIGINAL PAINT \u2014FULL SERVICE HISTORY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/13/volkswagen-golf-gti-p2-gcc-2025under-warra-2-035---bf468be9f58543e988f686023290b733/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2025",
+      "mileage": "69000",
+      "price": 124999,
+      "first_seen": "2026-11-03T11:40:04Z"
+    },
     {
       "id": "100340663",
       "title": "SQ8 SPORTBACK E-TRON QUATTRO | 503 HP | AUDI WARRANTY AND SERVICE I AS BRAND NEW",
@@ -12932,78 +13004,6 @@
       "year": "2026",
       "mileage": "600",
       "price": 328000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100688837",
-      "title": "2015 Lexus LX 570 Sport S+ GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/10/22/2015-lexus-lx-570-sport-s-gcc-specs-2-690---5679741fb04a49abaeb45b023bb078e4/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LX-Series",
-      "year": "2015",
-      "mileage": "172540",
-      "price": 107000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100721283",
-      "title": "ORIGINAL PAINT - King Ranch - GCC Specs - Single Owner - Amazing Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/expedition/2026/10/25/original-paint-king-ranch-gcc-specs-single-2-446---8ded60e1631c4eae8cdb3fb9a3906ef3/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Expedition",
-      "year": "2016",
-      "mileage": "156000",
-      "price": 39000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "16967910",
-      "title": "Infiniti QX80 Luxury 2020 GCC Specs - Full Service History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/09/07/infiniti-qx80-luxury-2020-gcc-specs-full-s-2-776---843ba68052f14b569a21a36ae500788b/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX80",
-      "year": "2020",
-      "mileage": "106250",
-      "price": 98000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100720959",
-      "title": "2016 Volkswagen Tiguan R-Line Premium GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/tiguan/2026/10/25/2016-volkswagen-tiguan-r-line-premium-gcc--2-434---a8c9c0688a3b451988cd0945a30f8d53/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "year": "2016",
-      "mileage": "112000",
-      "price": 28999,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100720894",
-      "title": "Fully Loaded - GCC Specs - Single Owner - Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/accord/2026/10/25/fully-loaded-gcc-specs-single-owner-excell-2-751---8ae54eb0a4ae4b7486e769444e651bcc/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Accord",
-      "year": "2018",
-      "mileage": "128000",
-      "price": 48000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100668079",
-      "title": "Accord 2009 Sport GCC Specs not negotiable",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/accord/2026/10/20/accord-2009-sport-gcc-specs-not-negotiable-2-215---b0e5225bf63d462b8338b44e9c329406/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Accord",
-      "year": "2009",
-      "mileage": "230000",
-      "price": 12000,
       "first_seen": "2026-10-25T15:38:44Z"
     }
   ]
