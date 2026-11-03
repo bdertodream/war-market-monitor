@@ -632186,5 +632186,71 @@
       }
     ],
     "date": "2026-10-13"
+  },
+  "100827620": {
+    "id": "100827620",
+    "title": "212 T01 Adventurer 2026 GCC Specs",
+    "price": 105000,
+    "make": "212",
+    "model": "T01",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/03/212-t01-adventurer-2026-gcc-specs-2-087---765197f322a747b6a964d6a9993a32aa/",
+    "first_seen": "2026-11-03T19:08:25Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-11-03T19:08:25Z"
+      }
+    ],
+    "date": "2026-11-03"
+  },
+  "100826710": {
+    "id": "100826710",
+    "title": "AED 980 PM | GCC SPECS | ONE-YEAR WARRANTY | FULL OPTION",
+    "price": 52999,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2019",
+    "kilometers": "96000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Ameri Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/03/aed-980-pm-gcc-specs-one-year-warranty-ful-2-502---b82d137a48bf4280ac23fc786b04d42b/",
+    "first_seen": "2026-11-03T19:08:25Z",
+    "prices": [
+      {
+        "price": 52999,
+        "date": "2026-11-03T19:08:25Z"
+      }
+    ],
+    "date": "2026-11-03"
+  },
+  "100825225": {
+    "id": "100825225",
+    "title": "AED 1368/month | 2021 Volkswagen Golf GTI  | GCC Specs | Ref#550633",
+    "price": 90000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2021",
+    "kilometers": "63405",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/03/aed-1368month-2021-volkswagen-golf-gti-gcc-2-858---ed205cd34d8d4b33b94377acacbd3206/",
+    "first_seen": "2026-11-03T19:08:25Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-11-03T19:08:25Z"
+      }
+    ],
+    "date": "2026-11-03"
   }
 }

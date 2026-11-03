@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26478,
-  "total_drops": 501,
-  "total_new": 26478,
-  "last_updated": "2026-11-03T11:40:04Z",
+  "total_tracked": 26481,
+  "total_drops": 500,
+  "total_new": 26481,
+  "last_updated": "2026-11-03T19:08:25Z",
   "drops": [
     {
       "id": "16916380",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100827620",
+      "title": "212 T01 Adventurer 2026 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/03/212-t01-adventurer-2026-gcc-specs-2-087---765197f322a747b6a964d6a9993a32aa/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2026",
+      "mileage": "0",
+      "price": 105000,
+      "first_seen": "2026-11-03T19:08:25Z"
+    },
+    {
+      "id": "100826710",
+      "title": "AED 980 PM | GCC SPECS | ONE-YEAR WARRANTY | FULL OPTION",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/03/aed-980-pm-gcc-specs-one-year-warranty-ful-2-502---b82d137a48bf4280ac23fc786b04d42b/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2019",
+      "mileage": "96000",
+      "price": 52999,
+      "first_seen": "2026-11-03T19:08:25Z"
+    },
+    {
+      "id": "100825225",
+      "title": "AED 1368/month | 2021 Volkswagen Golf GTI  | GCC Specs | Ref#550633",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/03/aed-1368month-2021-volkswagen-golf-gti-gcc-2-858---ed205cd34d8d4b33b94377acacbd3206/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2021",
+      "mileage": "63405",
+      "price": 90000,
+      "first_seen": "2026-11-03T19:08:25Z"
+    },
+    {
       "id": "100822838",
       "title": "Sealion 06 Pilot pro 2026 Export Only price @ 105,000 AED",
       "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/03/sealion-06-pilot-pro-2026-export-only-pric-2-309---6df8edb62804413fb6f70e4bd4453414/",
@@ -12968,42 +13004,6 @@
       "year": "2011",
       "mileage": "149000",
       "price": 21500,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100723133",
-      "title": "BMW 5-Series 520i Exclusive 2013 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/25/bmw-5-series-520i-exclusive-2013-gcc-specs-2-323---2362aa84c7604361b5e15ad258d6c55a/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "2013",
-      "mileage": "159000",
-      "price": 16500,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100722939",
-      "title": "AED 3,400 PM | BMW WARRANTY | BMW X5 xDrive40i M SPORT PRO | GCC SPECS | 7 SEATER | SKY LOUNGE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/10/25/aed-3400-pm-bmw-warranty-bmw-x5-xdrive40i--2-072---7a199ba1e5424cbda5b593db39a4a093/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2024",
-      "mileage": "80000",
-      "price": 219999,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100721923",
-      "title": "Toyota Land Cruiser 2026 GXR GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/25/toyota-land-cruiser-2026-gxr-gcc-specs-2-839---42d7a0a291b24d1f99bc94ed4ed8732d/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2026",
-      "mileage": "600",
-      "price": 328000,
       "first_seen": "2026-10-25T15:38:44Z"
     }
   ]
