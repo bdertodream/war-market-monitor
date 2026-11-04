@@ -632308,5 +632308,27 @@
       }
     ],
     "date": "2026-11-04"
+  },
+  "100811290": {
+    "id": "100811290",
+    "title": "Volkswagen Golf GTI  2019 GCC Specs",
+    "price": 49000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2019",
+    "kilometers": "128000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/02/volkswagen-golf-gti-2019-gcc-specs-2-998---a764c1f8a75b4cb78015f96781d5284b/",
+    "first_seen": "2026-11-04T19:26:32Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-11-04T19:26:32Z"
+      }
+    ],
+    "date": "2026-11-04"
   }
 }

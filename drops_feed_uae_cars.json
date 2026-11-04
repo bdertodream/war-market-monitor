@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26483,
-  "total_drops": 501,
-  "total_new": 26483,
-  "last_updated": "2026-11-04T11:53:40Z",
+  "total_tracked": 26484,
+  "total_drops": 500,
+  "total_new": 26484,
+  "last_updated": "2026-11-04T19:26:32Z",
   "drops": [
     {
       "id": "16785775",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100811290",
+      "title": "Volkswagen Golf GTI  2019 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/02/volkswagen-golf-gti-2019-gcc-specs-2-998---a764c1f8a75b4cb78015f96781d5284b/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2019",
+      "mileage": "128000",
+      "price": 49000,
+      "first_seen": "2026-11-04T19:26:32Z"
+    },
+    {
       "id": "100833844",
       "title": "2020 Geely Emgrand GS Sport GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/geely/emgrand-gs/2026/11/04/2020-geely-emgrand-gs-sport-gcc-specs-2-733---1958558d5b1f4b15a5dd680dbb68f984/",
@@ -12992,18 +13004,6 @@
       "year": "2025",
       "mileage": "27",
       "price": 124900,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100724454",
-      "title": "2015 Cadillac Escalade Platinum Luxury GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/10/25/2015-cadillac-escalade-platinum-luxury-gcc-2-111---7b9fc15cdedb44d89bdcca595fe45f15/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": "2015",
-      "mileage": "193000",
-      "price": 63000,
       "first_seen": "2026-10-25T15:38:44Z"
     }
   ]
