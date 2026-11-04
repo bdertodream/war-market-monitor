@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26482,
+  "total_tracked": 26483,
   "total_drops": 501,
-  "total_new": 26482,
-  "last_updated": "2026-11-04T00:24:55Z",
+  "total_new": 26483,
+  "last_updated": "2026-11-04T11:53:40Z",
   "drops": [
-    {
-      "id": "16830712",
-      "title": "2021 BMW 520i | GCC Specs | Well Maintained | Premium Interior",
-      "old_price": 99000,
-      "new_price": 85000,
-      "drop_pct": 14.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/05/07/2021-bmw-520i-gcc-specs-well-maintained-pr-2-496---575201e802874e7b90dd32e16b2167bb/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "2021",
-      "mileage": "125921",
-      "date": "2026-09-27T09:54:00Z"
-    },
     {
       "id": "16785775",
       "title": "GCC RANGE ROVER SPORT HSE V6",
@@ -7003,9 +6989,35 @@
       "year": "2019",
       "mileage": "77000",
       "date": "2026-11-04T00:24:55Z"
+    },
+    {
+      "id": "100797245",
+      "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
+      "old_price": 55000,
+      "new_price": 51500,
+      "drop_pct": 6.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-151---06a7d0467d02442badcde712995ddcc8/",
+      "category": "Used Cars",
+      "make": "Citroen",
+      "model": "C4 X",
+      "year": "2025",
+      "mileage": "7667",
+      "date": "2026-11-04T11:53:40Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100833844",
+      "title": "2020 Geely Emgrand GS Sport GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/emgrand-gs/2026/11/04/2020-geely-emgrand-gs-sport-gcc-specs-2-733---1958558d5b1f4b15a5dd680dbb68f984/",
+      "category": "Used Cars",
+      "make": "Geely",
+      "model": "Emgrand GS",
+      "year": "2020",
+      "mileage": "76850",
+      "price": 19500,
+      "first_seen": "2026-11-04T11:53:40Z"
+    },
     {
       "id": "100828887",
       "title": "Chery Himla 2026 Luxury GCC Specs",
@@ -7213,13 +7225,13 @@
     {
       "id": "100797245",
       "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-689---06a7d0467d02442badcde712995ddcc8/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-151---06a7d0467d02442badcde712995ddcc8/",
       "category": "Used Cars",
       "make": "Citroen",
       "model": "C4 X",
       "year": "2025",
       "mileage": "7667",
-      "price": 55000,
+      "price": 51500,
       "first_seen": "2026-11-01T14:47:00Z"
     },
     {
@@ -8029,13 +8041,13 @@
     {
       "id": "100708441",
       "title": "Changan Hunter K50 Knight 2025 | used | Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/hunter/2026/10/24/changan-hunter-k50-knight-2025-used-chines-2-463---a58a5ffbf49541319c4d396a1726da7e/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/hunter/2026/10/24/changan-hunter-k50-knight-2025-used-chines-2-502---a58a5ffbf49541319c4d396a1726da7e/",
       "category": "Used Cars",
       "make": "Changan",
       "model": "Hunter",
       "year": "2025",
       "mileage": "26000",
-      "price": 70500,
+      "price": 68000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2015",
       "mileage": "193000",
       "price": 63000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100724309",
-      "title": "2003 Toyota Prado VX 3 Door.",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/10/25/2003-toyota-prado-vx-3-door-2-360---e1a3d609d86444069fd2cde7c7786583/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Prado",
-      "year": "2003",
-      "mileage": "400000",
-      "price": 38500,
       "first_seen": "2026-10-25T15:38:44Z"
     }
   ]

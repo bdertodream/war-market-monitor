@@ -629930,7 +629930,7 @@
   "100708441": {
     "id": "100708441",
     "title": "Changan Hunter K50 Knight 2025 | used | Chinese Specs",
-    "price": 70500,
+    "price": 68000,
     "make": "Changan",
     "model": "Hunter",
     "year": "2025",
@@ -629939,12 +629939,16 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Al Mamzar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/hunter/2026/10/24/changan-hunter-k50-knight-2025-used-chines-2-463---a58a5ffbf49541319c4d396a1726da7e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/changan/hunter/2026/10/24/changan-hunter-k50-knight-2025-used-chines-2-502---a58a5ffbf49541319c4d396a1726da7e/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 70500,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 68000,
+        "date": "2026-11-04T11:53:40Z"
       }
     ],
     "date": "2026-10-24"
@@ -631842,7 +631846,7 @@
   "100797245": {
     "id": "100797245",
     "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
-    "price": 55000,
+    "price": 51500,
     "make": "Citroen",
     "model": "C4 X",
     "year": "2025",
@@ -631851,12 +631855,16 @@
     "fuel_type": "Petrol",
     "area": "Al Mizhar 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-689---06a7d0467d02442badcde712995ddcc8/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-151---06a7d0467d02442badcde712995ddcc8/",
     "first_seen": "2026-11-01T14:47:00Z",
     "prices": [
       {
         "price": 55000,
         "date": "2026-11-01T14:47:00Z"
+      },
+      {
+        "price": 51500,
+        "date": "2026-11-04T11:53:40Z"
       }
     ],
     "date": "2026-11-01"
@@ -632278,5 +632286,27 @@
       }
     ],
     "date": "2026-11-03"
+  },
+  "100833844": {
+    "id": "100833844",
+    "title": "2020 Geely Emgrand GS Sport GCC Specs",
+    "price": 19500,
+    "make": "Geely",
+    "model": "Emgrand GS",
+    "year": "2020",
+    "kilometers": "76850",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/emgrand-gs/2026/11/04/2020-geely-emgrand-gs-sport-gcc-specs-2-733---1958558d5b1f4b15a5dd680dbb68f984/",
+    "first_seen": "2026-11-04T11:53:40Z",
+    "prices": [
+      {
+        "price": 19500,
+        "date": "2026-11-04T11:53:40Z"
+      }
+    ],
+    "date": "2026-11-04"
   }
 }
