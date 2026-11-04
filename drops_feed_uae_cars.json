@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26481,
-  "total_drops": 500,
-  "total_new": 26481,
-  "last_updated": "2026-11-03T19:08:25Z",
+  "total_tracked": 26482,
+  "total_drops": 501,
+  "total_new": 26482,
+  "last_updated": "2026-11-04T00:24:55Z",
   "drops": [
-    {
-      "id": "16916380",
-      "title": "2011 BENTLEY FLYING SPUR GCC SPECS IN EXCELLENT CONDITION",
-      "old_price": 72000,
-      "new_price": 58500,
-      "drop_pct": 18.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/flying-spur/2026/07/21/2011-bentley-flying-spur-gcc-specs-in-exce-2-792---0fa40a907b1c4188ad9aa238ddadde4a/",
-      "category": "Used Cars",
-      "make": "Bentley",
-      "model": "Flying Spur",
-      "year": "2011",
-      "mileage": "32000",
-      "date": "2026-09-27T09:54:00Z"
-    },
     {
       "id": "16830712",
       "title": "2021 BMW 520i | GCC Specs | Well Maintained | Premium Interior",
@@ -7003,9 +6989,35 @@
       "year": "2017",
       "mileage": "175000",
       "date": "2026-11-03T11:40:04Z"
+    },
+    {
+      "id": "100733556",
+      "title": "VOLKSWAGEN GTI 2019 GCC SPECS LOW MILEAGE WITH SPECIAL BBS RIMS",
+      "old_price": 54500,
+      "new_price": 49500,
+      "drop_pct": 9.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/26/volkswagen-gti-2019-gcc-specs-low-mileage--2-193---17439f1926fd491ea7668ccd579127b4/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2019",
+      "mileage": "77000",
+      "date": "2026-11-04T00:24:55Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100828887",
+      "title": "Chery Himla 2026 Luxury GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chery/himla/2026/11/03/chery-himla-2026-luxury-gcc-specs-2-055---ce87f19a53054af7b3af6f12c6455f9c/",
+      "category": "Used Cars",
+      "make": "Chery",
+      "model": "Himla",
+      "year": "2026",
+      "mileage": "0",
+      "price": 89000,
+      "first_seen": "2026-11-04T00:24:55Z"
+    },
     {
       "id": "100827620",
       "title": "212 T01 Adventurer 2026 GCC Specs",
@@ -9001,13 +9013,13 @@
     {
       "id": "100733556",
       "title": "VOLKSWAGEN GTI 2019 GCC SPECS LOW MILEAGE WITH SPECIAL BBS RIMS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/26/volkswagen-gti-2019-gcc-specs-low-mileage--2-374---17439f1926fd491ea7668ccd579127b4/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/26/volkswagen-gti-2019-gcc-specs-low-mileage--2-193---17439f1926fd491ea7668ccd579127b4/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2019",
       "mileage": "77000",
-      "price": 54500,
+      "price": 49500,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2003",
       "mileage": "400000",
       "price": 38500,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "100724135",
-      "title": "Ford Mustang GT 2011 GCC Specs | 5.0L V8 Engine | Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/10/25/ford-mustang-gt-2011-gcc-specs-50l-v8-engi-2-565---82e621433f5b4fdebc968a856ce265ba/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Mustang",
-      "year": "2011",
-      "mileage": "149000",
-      "price": 21500,
       "first_seen": "2026-10-25T15:38:44Z"
     }
   ]

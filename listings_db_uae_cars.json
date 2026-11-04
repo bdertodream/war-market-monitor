@@ -631750,7 +631750,7 @@
   "100733556": {
     "id": "100733556",
     "title": "VOLKSWAGEN GTI 2019 GCC SPECS LOW MILEAGE WITH SPECIAL BBS RIMS",
-    "price": 54500,
+    "price": 49500,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2019",
@@ -631759,12 +631759,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 4",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/26/volkswagen-gti-2019-gcc-specs-low-mileage--2-374---17439f1926fd491ea7668ccd579127b4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/26/volkswagen-gti-2019-gcc-specs-low-mileage--2-193---17439f1926fd491ea7668ccd579127b4/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 54500,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 49500,
+        "date": "2026-11-04T00:24:55Z"
       }
     ],
     "date": "2026-10-26"
@@ -632249,6 +632253,28 @@
       {
         "price": 90000,
         "date": "2026-11-03T19:08:25Z"
+      }
+    ],
+    "date": "2026-11-03"
+  },
+  "100828887": {
+    "id": "100828887",
+    "title": "Chery Himla 2026 Luxury GCC Specs",
+    "price": 89000,
+    "make": "Chery",
+    "model": "Himla",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/himla/2026/11/03/chery-himla-2026-luxury-gcc-specs-2-055---ce87f19a53054af7b3af6f12c6455f9c/",
+    "first_seen": "2026-11-04T00:24:55Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-11-04T00:24:55Z"
       }
     ],
     "date": "2026-11-03"
