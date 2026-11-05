@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30390,
+  "total_tracked": 30396,
   "total_drops": 500,
-  "total_new": 30390,
+  "total_new": 30396,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,72 @@
   ],
   "new_listings": [
     {
+      "id": "17699432",
+      "title": "Exclusive ! Road View ! HIGH ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/9/exclusive-road-view-high-roi-2-895688/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "483",
+      "bedrooms": "0",
+      "price": 489999,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "17729339",
+      "title": "Resort-Style Amenities \u2022Cash Offer \u2022High ROI \u20222027",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/15/resort-style-amenities-cash-offer-high--2-230569/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "336",
+      "bedrooms": "0",
+      "price": 744959,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "9814487",
+      "title": "Phase 4 | Close to Park | Corner Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/4/phase-4-close-to-park-corner-plot-2-281798/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "10000",
+      "bedrooms": "",
+      "price": 4200000,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "9814468",
+      "title": "Freehold | Prime Area | Residential Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/4/freehold-prime-area-residential-plot-2-197228/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "10070",
+      "bedrooms": "",
+      "price": 3000000,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "9814375",
+      "title": "Single Row | Best Deal | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/4/single-row-best-deal-prime-location-2-195378/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9849",
+      "bedrooms": "",
+      "price": 3100000,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "9814345",
+      "title": "Single Row|Best Price|Near Main Road|Custom Villa",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/4/single-rowbest-pricenear-main-roadcusto-2-167821/",
+      "area": "Nad Al Sheba",
+      "category": "Land",
+      "size": "5004",
+      "bedrooms": "",
+      "price": 7200000,
+      "first_seen": "2026-11-05"
+    },
+    {
       "id": "18102403",
       "title": "Exclusive | Huge Plot | Vacant Now",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/4/exclusive-large-plot-vacant-october-2-188498/",
@@ -12441,74 +12507,8 @@
       "bedrooms": "2",
       "price": 3690000,
       "first_seen": "2026-10-29"
-    },
-    {
-      "id": "18198403",
-      "title": "Luxury Resort Style Garden | Fully Upgraded",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/22/luxury-resort-style-garden-fully-upgrad-2-135378/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "5000",
-      "bedrooms": "5",
-      "price": 19950000,
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "18214290",
-      "title": "Open House this Saturday! 12pm - 2pm appointment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/26/exclusive-i-rare-extensions-i-upgraded--2-709807/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "4949",
-      "bedrooms": "5",
-      "price": 13250000,
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "18230562",
-      "title": "New 1 Bedroom | 15:75 Payment Plan | Dubai South",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/new-1-bedroom-1575-payment-plan-dubai-s-2-309457/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "819",
-      "bedrooms": "1",
-      "price": 1100000,
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "18075436",
-      "title": "Furnished Studio | Upgraded | Up to 8% ROI | Balcony & Pool Access",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/29/furnished-studio-high-roi-balcony-pool--2-309933/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "409",
-      "bedrooms": "0",
-      "price": 700000,
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "18230446",
-      "title": "4 BHK Villa in Grand Polo Montura",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/28/4-bhk-villa-in-grand-polo-montura-2-863/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "5104",
-      "bedrooms": "4",
-      "price": 6700000,
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "9812413",
-      "title": "Park View|Prime Location |Upscale Community Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/27/park-viewprime-location-upscale-communi-2-326576/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9687",
-      "bedrooms": "",
-      "price": 3390000,
-      "first_seen": "2026-10-29"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-04"
+  "last_updated": "2026-11-05"
 }

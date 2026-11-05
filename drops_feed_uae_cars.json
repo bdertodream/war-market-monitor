@@ -1,23 +1,9 @@
 {
   "total_tracked": 26484,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26484,
-  "last_updated": "2026-11-04T19:26:32Z",
+  "last_updated": "2026-11-05T00:45:35Z",
   "drops": [
-    {
-      "id": "16785775",
-      "title": "GCC RANGE ROVER SPORT HSE V6",
-      "old_price": 59000,
-      "new_price": 52000,
-      "drop_pct": 11.9,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/03/29/gcc-range-rover-sport-hse-v6-2-701---dc1003f8abf142439a2425d698570706/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2014",
-      "mileage": "133000",
-      "date": "2026-09-27T09:54:00Z"
-    },
     {
       "id": "16721748",
       "title": "EXCLUSIVE AUDI A8L 55 TFSI  || VIP CONSOLE || TOP RANGE || GCC || ACCIDENTS FREE || PANORAMIC",
@@ -7003,6 +6989,20 @@
       "year": "2025",
       "mileage": "7667",
       "date": "2026-11-04T11:53:40Z"
+    },
+    {
+      "id": "100340663",
+      "title": "SQ8 SPORTBACK E-TRON QUATTRO | 503 HP | AUDI WARRANTY AND SERVICE I AS BRAND NEW",
+      "old_price": 264411,
+      "new_price": 250000,
+      "drop_pct": 5.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/09/22/sq8-sportback-e-tron-quattro-503-hp-audi-w-2-449---1897b3c1907e4c889ad78a0bdebd9dd8/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "SQ8 e-tron",
+      "year": "2024",
+      "mileage": "9000",
+      "date": "2026-11-05T00:45:35Z"
     }
   ],
   "new_listings": [
@@ -7153,13 +7153,13 @@
     {
       "id": "100340663",
       "title": "SQ8 SPORTBACK E-TRON QUATTRO | 503 HP | AUDI WARRANTY AND SERVICE I AS BRAND NEW",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/09/22/sq8-sportback-e-tron-quattro-503-hp-audi-w-2-445---1897b3c1907e4c889ad78a0bdebd9dd8/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/09/22/sq8-sportback-e-tron-quattro-503-hp-audi-w-2-449---1897b3c1907e4c889ad78a0bdebd9dd8/",
       "category": "Used Cars",
       "make": "Audi",
       "model": "SQ8 e-tron",
       "year": "2024",
       "mileage": "9000",
-      "price": 264411,
+      "price": 250000,
       "first_seen": "2026-11-02T17:52:59Z"
     },
     {
