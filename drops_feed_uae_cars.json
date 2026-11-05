@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26486,
+  "total_tracked": 26490,
   "total_drops": 500,
-  "total_new": 26486,
-  "last_updated": "2026-11-05T11:54:50Z",
+  "total_new": 26490,
+  "last_updated": "2026-11-05T19:34:00Z",
   "drops": [
     {
       "id": "16721748",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "100866417",
+      "title": "AED 2,150 // 20%DP // 2026 Deepal G318 High Specs 1.5L",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/deepal/g318/2026/11/05/aed-2150-20dp-2026-deepal-g318-high-specs--2-860---a244cc0893fe40d694f02c662f0b5601/",
+      "category": "Used Cars",
+      "make": "Deepal",
+      "model": "G318",
+      "year": "2026",
+      "mileage": "5000",
+      "price": 138000,
+      "first_seen": "2026-11-05T19:34:00Z"
+    },
+    {
+      "id": "100863578",
+      "title": "Deepal G318 2025 High Specs Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/deepal/g318/2026/11/05/deepal-g318-2025-high-specs-chinese-specs-2-833---635134120eba44e08a8764adba51a22a/",
+      "category": "Used Cars",
+      "make": "Deepal",
+      "model": "G318",
+      "year": "2025",
+      "mileage": "2200",
+      "price": 128000,
+      "first_seen": "2026-11-05T19:34:00Z"
+    },
+    {
+      "id": "100866875",
+      "title": "2024 Volkswagen Golf GTI P1 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/2024-volkswagen-golf-gti-p1-gcc-specs-2-105---54e6c2171ed041a89aa52d9708a4e298/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "41000",
+      "price": 89000,
+      "first_seen": "2026-11-05T19:34:00Z"
+    },
+    {
+      "id": "100865056",
+      "title": "2023 Volkswagen Golf GTI P2 GCC Specs Full option super clean car",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/2023-volkswagen-golf-gti-p2-gcc-specs-full-2-517---a1cd15f7a6ef4fc5a4f08cbdd02d802e/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "129000",
+      "price": 70000,
+      "first_seen": "2026-11-05T19:34:00Z"
+    },
+    {
       "id": "100859876",
       "title": "AED 1,118/month | Okavango GF | Manufacturer Warranty | GCC Specs | REF#G02048",
       "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/05/aed-1118month-okavango-gf-manufacturer-war-2-997---f1e478c83aae4042a8669b03c6f4aeb9/",
@@ -8485,13 +8533,13 @@
     {
       "id": "100777723",
       "title": "2026 BRABUS 800 Mercedes AMG G 63 - European Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-364---bdbe80c7ec4f43f18b67757a639d7f3a/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-045---bdbe80c7ec4f43f18b67757a639d7f3a/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "800 - Mercedes AMG G 63",
       "year": "2026",
       "mileage": "100",
-      "price": 1050000,
+      "price": 1000000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12957,54 +13005,6 @@
       "mileage": "125000",
       "price": 188000,
       "first_seen": "2026-10-26T03:28:42Z"
-    },
-    {
-      "id": "100725038",
-      "title": "2019 Dodge Durango R/T Top || GCC || 7-Seater 4x4",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/durango/2026/10/25/2019-dodge-durango-rt-top-gcc-7-seater-4x4-2-830---d9cf94c61911478b9c0f7cb05ae5135e/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Durango",
-      "year": "2019",
-      "mileage": "139000",
-      "price": 57500,
-      "first_seen": "2026-10-25T22:19:51Z"
-    },
-    {
-      "id": "100725523",
-      "title": "High Quality 2014 Nissan Sunny SE GCC Specs \u2013 Well Maintained, Great Price",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/10/25/high-quality-2014-nissan-sunny-se-gcc-spec-2-208---0a77db360f444ef0898bce7e6ae0d81f/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Sunny",
-      "year": "2014",
-      "mileage": "219000",
-      "price": 10900,
-      "first_seen": "2026-10-25T18:45:32Z"
-    },
-    {
-      "id": "100669241",
-      "title": "Mercedes-Benz GLE 450 2020 GCC specs for 2,573.00 AED monthly",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/10/20/mercedes-benz-gle-450-2020-gcc-specs-for-2-2-995---dc07754ca0a54987b7afb1f0a21491fd/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLE-Class",
-      "year": "2020",
-      "mileage": "80000",
-      "price": 179000,
-      "first_seen": "2026-10-25T18:45:32Z"
-    },
-    {
-      "id": "100725104",
-      "title": "ROLLS ROYCE | CULLINAN SILVER BADGE | GCC SPECS MAIN DEALER WARRANTY + SERVICE PACKAGE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/10/25/rolls-royce-cullinan-silver-badge-gcc-spec-2-312---99ec7ac703ea477a8ddaa99baede80b8/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2026",
-      "mileage": "0",
-      "price": 2230000,
-      "first_seen": "2026-10-25T18:45:32Z"
     }
   ]
 }

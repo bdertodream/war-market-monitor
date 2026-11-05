@@ -378363,8 +378363,8 @@
   },
   "16896597": {
     "id": "16896597",
-    "title": "Free Insurance | Free Tinting | Free Registration | RSA | VAT included | 1629 EMI",
-    "price": 114900,
+    "title": "1,672 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+    "price": 109900,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2024",
@@ -378373,12 +378373,16 @@
     "fuel_type": "Petrol",
     "area": "Umm Ramool",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/7/3/free-insurance-free-tinting-free-registrat-2-669---9c7f2d7ba4d24bbebc8f66c56b7189f3/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/07/03/1672-monthly-i-vw-certified-zero-down-paym-2-348---9c7f2d7ba4d24bbebc8f66c56b7189f3/",
     "first_seen": "2026-07-03T17:26:36Z",
     "prices": [
       {
         "price": 114900,
         "date": "2026-07-03T17:26:36Z"
+      },
+      {
+        "price": 109900,
+        "date": "2026-11-05T19:34:00Z"
       }
     ],
     "date": "2026-07-03"
@@ -378429,8 +378433,8 @@
   },
   "16896582": {
     "id": "16896582",
-    "title": "Free Insurance | Free Tinting | Free Registration | RSA | VAT included",
-    "price": 114900,
+    "title": "1,672 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+    "price": 109900,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2024",
@@ -378439,12 +378443,16 @@
     "fuel_type": "Petrol",
     "area": "Umm Ramool",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/7/3/free-insurance-free-tinting-free-registrat-2-955---9f84a64cef9444c69894b16fe4e46155/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/07/03/1672-monthly-i-vw-certified-zero-down-paym-2-689---9f84a64cef9444c69894b16fe4e46155/",
     "first_seen": "2026-07-03T17:26:36Z",
     "prices": [
       {
         "price": 114900,
         "date": "2026-07-03T17:26:36Z"
+      },
+      {
+        "price": 109900,
+        "date": "2026-11-05T19:34:00Z"
       }
     ],
     "date": "2026-07-03"
@@ -630694,7 +630702,7 @@
   "100777723": {
     "id": "100777723",
     "title": "2026 BRABUS 800 Mercedes AMG G 63 - European Specs",
-    "price": 1050000,
+    "price": 1000000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2026",
@@ -630703,7 +630711,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-364---bdbe80c7ec4f43f18b67757a639d7f3a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/30/2026-brabus-800-mercedes-amg-g-63-european-2-045---bdbe80c7ec4f43f18b67757a639d7f3a/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
@@ -630713,6 +630721,10 @@
       {
         "price": 1050000,
         "date": "2026-11-01T20:15:04Z"
+      },
+      {
+        "price": 1000000,
+        "date": "2026-11-05T19:34:00Z"
       }
     ],
     "date": "2026-10-30"
@@ -632383,6 +632395,94 @@
       {
         "price": 100000,
         "date": "2026-11-05T11:54:50Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100866417": {
+    "id": "100866417",
+    "title": "AED 2,150 // 20%DP // 2026 Deepal G318 High Specs 1.5L",
+    "price": 138000,
+    "make": "Deepal",
+    "model": "G318",
+    "year": "2026",
+    "kilometers": "5000",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/deepal/g318/2026/11/05/aed-2150-20dp-2026-deepal-g318-high-specs--2-860---a244cc0893fe40d694f02c662f0b5601/",
+    "first_seen": "2026-11-05T19:34:00Z",
+    "prices": [
+      {
+        "price": 138000,
+        "date": "2026-11-05T19:34:00Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100863578": {
+    "id": "100863578",
+    "title": "Deepal G318 2025 High Specs Chinese Specs",
+    "price": 128000,
+    "make": "Deepal",
+    "model": "G318",
+    "year": "2025",
+    "kilometers": "2200",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Jumeirah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/deepal/g318/2026/11/05/deepal-g318-2025-high-specs-chinese-specs-2-833---635134120eba44e08a8764adba51a22a/",
+    "first_seen": "2026-11-05T19:34:00Z",
+    "prices": [
+      {
+        "price": 128000,
+        "date": "2026-11-05T19:34:00Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100866875": {
+    "id": "100866875",
+    "title": "2024 Volkswagen Golf GTI P1 GCC Specs",
+    "price": 89000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "41000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Asayel Avenue",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/2024-volkswagen-golf-gti-p1-gcc-specs-2-105---54e6c2171ed041a89aa52d9708a4e298/",
+    "first_seen": "2026-11-05T19:34:00Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-11-05T19:34:00Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100865056": {
+    "id": "100865056",
+    "title": "2023 Volkswagen Golf GTI P2 GCC Specs Full option super clean car",
+    "price": 70000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "129000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar Front",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/2023-volkswagen-golf-gti-p2-gcc-specs-full-2-517---a1cd15f7a6ef4fc5a4f08cbdd02d802e/",
+    "first_seen": "2026-11-05T19:34:00Z",
+    "prices": [
+      {
+        "price": 70000,
+        "date": "2026-11-05T19:34:00Z"
       }
     ],
     "date": "2026-11-05"
