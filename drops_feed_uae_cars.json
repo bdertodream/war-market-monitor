@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26484,
-  "total_drops": 501,
-  "total_new": 26484,
-  "last_updated": "2026-11-05T00:45:35Z",
+  "total_tracked": 26486,
+  "total_drops": 500,
+  "total_new": 26486,
+  "last_updated": "2026-11-05T11:54:50Z",
   "drops": [
     {
       "id": "16721748",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100859876",
+      "title": "AED 1,118/month | Okavango GF | Manufacturer Warranty | GCC Specs | REF#G02048",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/05/aed-1118month-okavango-gf-manufacturer-war-2-997---f1e478c83aae4042a8669b03c6f4aeb9/",
+      "category": "Used Cars",
+      "make": "Geely",
+      "model": "Okavango",
+      "year": "2025",
+      "mileage": "50158",
+      "price": 68000,
+      "first_seen": "2026-11-05T11:54:50Z"
+    },
+    {
+      "id": "100861014",
+      "title": "AED 1520/month | 2024 Volkswagen Golf GTI P1 | GCC Specs | Ref#548929",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/aed-1520month-2024-volkswagen-golf-gti-p1--2-302---f1a9d128e0e24152b2d4a32ee07d096a/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "43165",
+      "price": 100000,
+      "first_seen": "2026-11-05T11:54:50Z"
+    },
+    {
       "id": "100811290",
       "title": "Volkswagen Golf GTI  2019 GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/02/volkswagen-golf-gti-2019-gcc-specs-2-998---a764c1f8a75b4cb78015f96781d5284b/",
@@ -7345,25 +7369,25 @@
     {
       "id": "100699585",
       "title": "Xiaomi SkyNomad N90 Max Studio 2026 Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-729---1403a57b315041a9b3bcebdb2f6d3459/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-987---1403a57b315041a9b3bcebdb2f6d3459/",
       "category": "Used Cars",
       "make": "Xiaomi",
       "model": "SkyNomad N90",
       "year": "2026",
       "mileage": "0",
-      "price": 370000,
+      "price": 360000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
       "id": "100699398",
       "title": "Xiaomi SkyNomad N90 Max Studio 2026 Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-218---4fb037427b4745fb9fbb76bd07cafaed/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-086---4fb037427b4745fb9fbb76bd07cafaed/",
       "category": "Used Cars",
       "make": "Xiaomi",
       "model": "SkyNomad N90",
       "year": "2026",
       "mileage": "0",
-      "price": 370000,
+      "price": 360000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12981,30 +13005,6 @@
       "mileage": "0",
       "price": 2230000,
       "first_seen": "2026-10-25T18:45:32Z"
-    },
-    {
-      "id": "100725004",
-      "title": "FERRARI | PUROSANGUE | 2025MY | CARBON FIBER PACKAGE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/purosangue/2026/10/25/ferrari-purosangue-2025my-carbon-fiber-pac-2-254---7fb8947b0e7c4ec6b4818b8d32c04739/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "Purosangue",
-      "year": "2025",
-      "mileage": "8400",
-      "price": 1990000,
-      "first_seen": "2026-10-25T15:38:44Z"
-    },
-    {
-      "id": "16935975",
-      "title": "2025 ARCFOX Alpha S Max EV | Brand New | 735 KM Range | GCC Specs  | Panoramic Roof",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/arcfox/alpha-s/2026/08/08/2025-arcfox-alpha-s-max-ev-brand-new-735-k-2-897---b8c33366abc148b1b4a4bb3101459c0a/",
-      "category": "Used Cars",
-      "make": "Arcfox",
-      "model": "Alpha S",
-      "year": "2025",
-      "mileage": "27",
-      "price": 124900,
-      "first_seen": "2026-10-25T15:38:44Z"
     }
   ]
 }

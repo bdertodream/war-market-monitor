@@ -628624,7 +628624,7 @@
   "100699585": {
     "id": "100699585",
     "title": "Xiaomi SkyNomad N90 Max Studio 2026 Chinese Specs",
-    "price": 370000,
+    "price": 360000,
     "make": "Xiaomi",
     "model": "SkyNomad N90",
     "year": "2026",
@@ -628633,12 +628633,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-729---1403a57b315041a9b3bcebdb2f6d3459/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-987---1403a57b315041a9b3bcebdb2f6d3459/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 370000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 360000,
+        "date": "2026-11-05T11:54:50Z"
       }
     ],
     "date": "2026-10-23"
@@ -628646,7 +628650,7 @@
   "100699398": {
     "id": "100699398",
     "title": "Xiaomi SkyNomad N90 Max Studio 2026 Chinese Specs",
-    "price": 370000,
+    "price": 360000,
     "make": "Xiaomi",
     "model": "SkyNomad N90",
     "year": "2026",
@@ -628655,12 +628659,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-218---4fb037427b4745fb9fbb76bd07cafaed/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/xiaomi/skynomad-n90/2026/10/23/xiaomi-skynomad-n90-max-studio-2026-chines-2-086---4fb037427b4745fb9fbb76bd07cafaed/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 370000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 360000,
+        "date": "2026-11-05T11:54:50Z"
       }
     ],
     "date": "2026-10-23"
@@ -632334,5 +632342,49 @@
       }
     ],
     "date": "2026-11-04"
+  },
+  "100859876": {
+    "id": "100859876",
+    "title": "AED 1,118/month | Okavango GF | Manufacturer Warranty | GCC Specs | REF#G02048",
+    "price": 68000,
+    "make": "Geely",
+    "model": "Okavango",
+    "year": "2025",
+    "kilometers": "50158",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/05/aed-1118month-okavango-gf-manufacturer-war-2-997---f1e478c83aae4042a8669b03c6f4aeb9/",
+    "first_seen": "2026-11-05T11:54:50Z",
+    "prices": [
+      {
+        "price": 68000,
+        "date": "2026-11-05T11:54:50Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100861014": {
+    "id": "100861014",
+    "title": "AED 1520/month | 2024 Volkswagen Golf GTI P1 | GCC Specs | Ref#548929",
+    "price": 100000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "43165",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Liwan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/05/aed-1520month-2024-volkswagen-golf-gti-p1--2-302---f1a9d128e0e24152b2d4a32ee07d096a/",
+    "first_seen": "2026-11-05T11:54:50Z",
+    "prices": [
+      {
+        "price": 100000,
+        "date": "2026-11-05T11:54:50Z"
+      }
+    ],
+    "date": "2026-11-05"
   }
 }
