@@ -588128,7 +588128,7 @@
   "100536987": {
     "id": "100536987",
     "title": "2025 BRABUS 800 - Mercedes AMG G 63 Japanese Specs",
-    "price": 999000,
+    "price": 975000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2025",
@@ -588137,7 +588137,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/09/2025-brabus-800-mercedes-amg-g-63-japanese-2-620---93db4b1a56944377908e2b784be08dc5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/10/09/2025-brabus-800-mercedes-amg-g-63-japanese-2-427---93db4b1a56944377908e2b784be08dc5/",
     "first_seen": "2026-10-09T15:00:47Z",
     "prices": [
       {
@@ -588147,6 +588147,10 @@
       {
         "price": 999000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 975000,
+        "date": "2026-11-06T18:57:14Z"
       }
     ],
     "date": "2026-10-09"
@@ -632490,5 +632494,49 @@
       }
     ],
     "date": "2026-11-05"
+  },
+  "100874136": {
+    "id": "100874136",
+    "title": "2021 Chevrolet Tracker 335T, Excellent Condition, Minimal Usage",
+    "price": 35000,
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "year": "2021",
+    "kilometers": "31750",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Arjan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tracker/2026/11/06/2021-chevrolet-tracker-335t-excellent-cond-2-908---9c96d8cd21af4f90ad669c49b80dcaeb/",
+    "first_seen": "2026-11-06T18:57:14Z",
+    "prices": [
+      {
+        "price": 35000,
+        "date": "2026-11-06T18:57:14Z"
+      }
+    ],
+    "date": "2026-11-06"
+  },
+  "100875402": {
+    "id": "100875402",
+    "title": "2019 BRABUS 800 Mercedes AMG G 63 Japanese Specs in Mint Condition",
+    "price": 480000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2019",
+    "kilometers": "33000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/06/2019-brabus-800-mercedes-amg-g-63-japanese-2-136---37493b7729b0422182a9f2695b04af20/",
+    "first_seen": "2026-11-06T18:57:14Z",
+    "prices": [
+      {
+        "price": 480000,
+        "date": "2026-11-06T18:57:14Z"
+      }
+    ],
+    "date": "2026-11-06"
   }
 }
