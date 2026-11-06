@@ -630460,7 +630460,7 @@
   "100650899": {
     "id": "100650899",
     "title": "2024 | Mercedes Benz | G63 Brabus | P900 Rocket Edition (1 of 10)",
-    "price": 3499000,
+    "price": 3299000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2024",
@@ -630469,12 +630469,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/19/2024-mercedes-benz-g63-brabus-p900-rocket--2-227---f0300d2992d942318a5db5a17869da99/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/19/2024-mercedes-benz-g63-brabus-p900-rocket--2-010---f0300d2992d942318a5db5a17869da99/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 3499000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 3299000,
+        "date": "2026-11-06T11:51:28Z"
       }
     ],
     "date": "2026-10-22"
