@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26493,
+  "total_tracked": 26500,
   "total_drops": 500,
-  "total_new": 26493,
-  "last_updated": "2026-11-07T05:35:48Z",
+  "total_new": 26500,
+  "last_updated": "2026-11-07T14:42:38Z",
   "drops": [
     {
       "id": "16706222",
@@ -7007,15 +7007,99 @@
   ],
   "new_listings": [
     {
+      "id": "100885181",
+      "title": "Original BRABUS 900 Superblack Mercedes-AMG G 63 Limited Edition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/original-brabus-900-superblack-mercedes-am-2-960---0662ddffd27a4922a3c5c67180484dd4/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2022",
+      "mileage": "19900",
+      "price": 1299000,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "16938044",
+      "title": "2022 MERCEDES G800 BRABUS DONE 76,000KM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/10/2022-mercedes-g800-brabus-done-76000km-2-377---ca7be5be801645d3994fb70b40f72ce7/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2022",
+      "mileage": "76000",
+      "price": 690000,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "100882388",
+      "title": "BRABUS 800 CABRIO MERCEDES-AMG G 63 LIMITED EDITION (1 OUT OF 50)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/07/brabus-800-cabrio-mercedes-amg-g-63-limite-2-463---beb670c422e54e7a8c6784ab3817b44c/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2026",
+      "mileage": "0",
+      "price": 3900000,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "100887110",
+      "title": "2026!! BYD Sealion 6 || Under warranty & Service ||",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-205---fc656287fc484c439a37a2a882da8437/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "200",
+      "price": 117900,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "100887102",
+      "title": "2026!!  BYD Sealion 6 || Under warranty & Service ||",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-629---c59f68c02a7342b8b2654c3941702223/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "200",
+      "price": 117900,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "100887094",
+      "title": "2026!!  BYD Sealion 6 || Under warranty & Service ||",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-899---60982627c24f427b8aea7cc69539a5fd/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "200",
+      "price": 117900,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
+      "id": "100885648",
+      "title": "VW Golf 7 GTI-GCC-Low Mileage-Full Service History With Volkswagen-Premium Sound System",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/vw-golf-7-gti-gcc-low-mileage-full-service-2-482---160deab7d6ba433a8d30fdaa548c5e54/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2017",
+      "mileage": "75420",
+      "price": 69999,
+      "first_seen": "2026-11-07T14:42:38Z"
+    },
+    {
       "id": "100879554",
       "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-150---ea36f65bcbfe48c1938dee0b20444a39/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-266---ea36f65bcbfe48c1938dee0b20444a39/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2017",
       "mileage": "148000",
-      "price": 41500,
+      "price": 39500,
       "first_seen": "2026-11-07T05:35:48Z"
     },
     {
@@ -12920,90 +13004,6 @@
       "year": "2025",
       "mileage": "15646",
       "price": 430000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100572474",
-      "title": "AED 6989/month | 2022 Porsche 911 Carrera | GCC Specs | Ref#535870",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/10/12/aed-6989month-2022-porsche-911-carrera-gcc-2-487---7ec37462883a402180d4ccfbec5f6d4b/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "911",
-      "year": "2022",
-      "mileage": "46233",
-      "price": 460000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100697476",
-      "title": "AED 7597/month | 2021 Aston Martin Vantage  | European Specs | Ref#537005",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/vantage/2026/10/23/aed-7597month-2021-aston-martin-vantage-eu-2-063---e4feecd426ba463094c6596471568228/",
-      "category": "Used Cars",
-      "make": "Aston Martin",
-      "model": "Vantage",
-      "year": "2021",
-      "mileage": "8060",
-      "price": 500000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100697463",
-      "title": "AED 7597/month | 2022 Aston Martin DBX 550 | European Specs | Ref#537004",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/dbx/2026/10/23/aed-7597month-2022-aston-martin-dbx-550-eu-2-528---f96005d9b02b4d79a102584d2967cfc1/",
-      "category": "Used Cars",
-      "make": "Aston Martin",
-      "model": "DBX",
-      "year": "2022",
-      "mileage": "15266",
-      "price": 500000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100699368",
-      "title": "AED 8813/month | 2024 Porsche 911 Carrera S | GCC Specs | Ref#539759",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/10/23/aed-8813month-2024-porsche-911-carrera-s-g-2-960---ae22d8464e52418091982a415026f0e5/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "911",
-      "year": "2024",
-      "mileage": "24246",
-      "price": 580000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100666294",
-      "title": "AED 10560/month | 2022 Porsche 911 Turbo | GCC Specs | Ref#543365",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/10/20/aed-10560month-2022-porsche-911-turbo-gcc--2-992---76e49520df624ecca4f72c5415995744/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "911",
-      "year": "2022",
-      "mileage": "38282",
-      "price": 695000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100327152",
-      "title": "2025 BYD Song L \u0634\u0627\u0634\u0647 \u0643\u0628\u064a\u0631\u0647 \u0661\u0663 \u0643\u0627\u0645\u064a\u0631\u0627 \u0634\u0627\u062d\u0646 \u0648\u064a\u0631\u0644\u0633",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/song-l/2026/09/21/2025-byd-song-l-2-604---eb977f7d3a6544e1bbb344e507b14e5e/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "Song L",
-      "year": "2025",
-      "mileage": "0",
-      "price": 87000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100603570",
-      "title": "VOLKSWAGEN TERAMOUNT 3.6 # 2023 GCC # ACCIDENT FREE AND AGENCY MAINTAINED CAR FOR SALE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/10/15/volkswagen-teramount-36-2023-gcc-accident--2-100---0de56bc305f44f8499012531c06978e0/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Teramont",
-      "year": "2023",
-      "mileage": "88000",
-      "price": 98999,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

@@ -579804,7 +579804,7 @@
   "100490124": {
     "id": "100490124",
     "title": "2024 BRABUS 900 Mercedes-AMG G 63 Japanese Specs",
-    "price": 780000,
+    "price": 770000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2024",
@@ -579813,7 +579813,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/05/2024-brabus-900-mercedes-amg-g-63-japanese-2-705---28adcfc70081402ab8e25e33d34e99d4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/05/2024-brabus-900-mercedes-amg-g-63-japanese-2-701---28adcfc70081402ab8e25e33d34e99d4/",
     "first_seen": "2026-10-05T16:51:22Z",
     "prices": [
       {
@@ -579827,6 +579827,10 @@
       {
         "price": 780000,
         "date": "2026-10-31T14:20:05Z"
+      },
+      {
+        "price": 770000,
+        "date": "2026-11-07T14:42:38Z"
       }
     ],
     "date": "2026-10-05"
@@ -632542,7 +632546,7 @@
   "100879554": {
     "id": "100879554",
     "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
-    "price": 41500,
+    "price": 39500,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2017",
@@ -632551,12 +632555,170 @@
     "fuel_type": "Petrol",
     "area": "Barsha Heights (Tecom)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-150---ea36f65bcbfe48c1938dee0b20444a39/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-266---ea36f65bcbfe48c1938dee0b20444a39/",
     "first_seen": "2026-11-07T05:35:48Z",
     "prices": [
       {
         "price": 41500,
         "date": "2026-11-07T05:35:48Z"
+      },
+      {
+        "price": 39500,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100885181": {
+    "id": "100885181",
+    "title": "Original BRABUS 900 Superblack Mercedes-AMG G 63 Limited Edition",
+    "price": 1299000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2022",
+    "kilometers": "19900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/original-brabus-900-superblack-mercedes-am-2-960---0662ddffd27a4922a3c5c67180484dd4/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 1299000,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "16938044": {
+    "id": "16938044",
+    "title": "2022 MERCEDES G800 BRABUS DONE 76,000KM",
+    "price": 690000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2022",
+    "kilometers": "76000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Fronds Building",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/10/2022-mercedes-g800-brabus-done-76000km-2-377---ca7be5be801645d3994fb70b40f72ce7/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 690000,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100882388": {
+    "id": "100882388",
+    "title": "BRABUS 800 CABRIO MERCEDES-AMG G 63 LIMITED EDITION (1 OUT OF 50)",
+    "price": 3900000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/07/brabus-800-cabrio-mercedes-amg-g-63-limite-2-463---beb670c422e54e7a8c6784ab3817b44c/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 3900000,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100887110": {
+    "id": "100887110",
+    "title": "2026!! BYD Sealion 6 || Under warranty & Service ||",
+    "price": 117900,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "200",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-205---fc656287fc484c439a37a2a882da8437/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 117900,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100887102": {
+    "id": "100887102",
+    "title": "2026!!  BYD Sealion 6 || Under warranty & Service ||",
+    "price": 117900,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "200",
+    "body_type": "Sedan",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-629---c59f68c02a7342b8b2654c3941702223/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 117900,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100887094": {
+    "id": "100887094",
+    "title": "2026!!  BYD Sealion 6 || Under warranty & Service ||",
+    "price": 117900,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "200",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/07/2026-byd-sealion-6-under-warranty-service-2-899---60982627c24f427b8aea7cc69539a5fd/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 117900,
+        "date": "2026-11-07T14:42:38Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100885648": {
+    "id": "100885648",
+    "title": "VW Golf 7 GTI-GCC-Low Mileage-Full Service History With Volkswagen-Premium Sound System",
+    "price": 69999,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2017",
+    "kilometers": "75420",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/vw-golf-7-gti-gcc-low-mileage-full-service-2-482---160deab7d6ba433a8d30fdaa548c5e54/",
+    "first_seen": "2026-11-07T14:42:38Z",
+    "prices": [
+      {
+        "price": 69999,
+        "date": "2026-11-07T14:42:38Z"
       }
     ],
     "date": "2026-11-07"
