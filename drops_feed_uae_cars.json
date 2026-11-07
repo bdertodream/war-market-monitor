@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26492,
+  "total_tracked": 26493,
   "total_drops": 500,
-  "total_new": 26492,
-  "last_updated": "2026-11-06T23:58:46Z",
+  "total_new": 26493,
+  "last_updated": "2026-11-07T05:35:48Z",
   "drops": [
     {
       "id": "16706222",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100879554",
+      "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-150---ea36f65bcbfe48c1938dee0b20444a39/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2017",
+      "mileage": "148000",
+      "price": 41500,
+      "first_seen": "2026-11-07T05:35:48Z"
+    },
+    {
       "id": "100874136",
       "title": "2021 Chevrolet Tracker 335T, Excellent Condition, Minimal Usage",
       "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tracker/2026/11/06/2021-chevrolet-tracker-335t-excellent-cond-2-908---9c96d8cd21af4f90ad669c49b80dcaeb/",
@@ -12992,18 +13004,6 @@
       "year": "2023",
       "mileage": "88000",
       "price": 98999,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100355404",
-      "title": "FERRARI | ROMA 2023MY | GCC SPECS MAIN DEALER WARRANTY + SERVICE CONTRACT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/roma/2026/09/24/ferrari-roma-2023my-gcc-specs-main-dealer--2-953---5cec4bee08ba472c8881292f36e6fe3a/",
-      "category": "Used Cars",
-      "make": "Ferrari",
-      "model": "Roma",
-      "year": "2023",
-      "mileage": "2450",
-      "price": 849000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

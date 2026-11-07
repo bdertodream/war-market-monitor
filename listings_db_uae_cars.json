@@ -632538,5 +632538,27 @@
       }
     ],
     "date": "2026-11-06"
+  },
+  "100879554": {
+    "id": "100879554",
+    "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
+    "price": 41500,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2017",
+    "kilometers": "148000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-150---ea36f65bcbfe48c1938dee0b20444a39/",
+    "first_seen": "2026-11-07T05:35:48Z",
+    "prices": [
+      {
+        "price": 41500,
+        "date": "2026-11-07T05:35:48Z"
+      }
+    ],
+    "date": "2026-11-07"
   }
 }
