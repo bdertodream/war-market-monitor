@@ -1,23 +1,9 @@
 {
   "total_tracked": 26500,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26500,
-  "last_updated": "2026-11-07T23:28:01Z",
+  "last_updated": "2026-11-08T04:43:30Z",
   "drops": [
-    {
-      "id": "16706222",
-      "title": "LEXUS LS-SERIES 460 2009 MODEL FULL OPTION CLEAN TITLE CAR FOR SALE",
-      "old_price": 25000,
-      "new_price": 23000,
-      "drop_pct": 8.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ls-series/2026/01/14/lexus-ls-series-460-2009-model-full-option-2-033---2c69db1619cd4c4fbe4b07f15734351a/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LS-Series",
-      "year": "2009",
-      "mileage": "234000",
-      "date": "2026-09-27T16:30:26Z"
-    },
     {
       "id": "16355875",
       "title": "BEST BMW X5 XDRIVE50i || GCC SPECS || ACCIDENT FREE || SINGLE OWNER || FULLY LOADED",
@@ -7003,6 +6989,20 @@
       "year": "2024",
       "mileage": "3315",
       "date": "2026-11-06T11:51:28Z"
+    },
+    {
+      "id": "100752577",
+      "title": "Volkswagen Golf GTI Base 2013 GCC Specs",
+      "old_price": 15500,
+      "new_price": 10000,
+      "drop_pct": 35.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/volkswagen-golf-gti-base-2013-gcc-specs-2-078---fa7bee2885504e0cb80756cbf97b84d5/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2013",
+      "mileage": "278000",
+      "date": "2026-11-08T04:43:30Z"
     }
   ],
   "new_listings": [
@@ -9193,13 +9193,13 @@
     {
       "id": "100752577",
       "title": "Volkswagen Golf GTI Base 2013 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/volkswagen-golf-gti-base-2013-gcc-specs-2-453---fa7bee2885504e0cb80756cbf97b84d5/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/volkswagen-golf-gti-base-2013-gcc-specs-2-078---fa7bee2885504e0cb80756cbf97b84d5/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2013",
       "mileage": "278000",
-      "price": 15500,
+      "price": 10000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {

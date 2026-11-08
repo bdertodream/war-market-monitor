@@ -631720,7 +631720,7 @@
   "100752577": {
     "id": "100752577",
     "title": "Volkswagen Golf GTI Base 2013 GCC Specs",
-    "price": 15500,
+    "price": 10000,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2013",
@@ -631729,12 +631729,16 @@
     "fuel_type": "Petrol",
     "area": "Dubai Silicon Oasis (DSO)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/volkswagen-golf-gti-base-2013-gcc-specs-2-453---fa7bee2885504e0cb80756cbf97b84d5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/10/28/volkswagen-golf-gti-base-2013-gcc-specs-2-078---fa7bee2885504e0cb80756cbf97b84d5/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 15500,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 10000,
+        "date": "2026-11-08T04:43:30Z"
       }
     ],
     "date": "2026-10-28"
