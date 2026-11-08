@@ -632726,5 +632726,27 @@
       }
     ],
     "date": "2026-11-07"
+  },
+  "100895601": {
+    "id": "100895601",
+    "title": "Cadillac CTS Luxury 2008 GCC Specs",
+    "price": 10000,
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2008",
+    "kilometers": "178000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts/2026/11/08/cadillac-cts-luxury-2008-gcc-specs-2-399---4481e5c7aeca4f07bd4bbbb60220e392/",
+    "first_seen": "2026-11-08T14:48:22Z",
+    "prices": [
+      {
+        "price": 10000,
+        "date": "2026-11-08T14:48:22Z"
+      }
+    ],
+    "date": "2026-11-08"
   }
 }

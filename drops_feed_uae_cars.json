@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26500,
-  "total_drops": 501,
-  "total_new": 26500,
-  "last_updated": "2026-11-08T04:43:30Z",
+  "total_tracked": 26501,
+  "total_drops": 500,
+  "total_new": 26501,
+  "last_updated": "2026-11-08T14:48:22Z",
   "drops": [
     {
       "id": "16355875",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100895601",
+      "title": "Cadillac CTS Luxury 2008 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts/2026/11/08/cadillac-cts-luxury-2008-gcc-specs-2-399---4481e5c7aeca4f07bd4bbbb60220e392/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "CTS",
+      "year": "2008",
+      "mileage": "178000",
+      "price": 10000,
+      "first_seen": "2026-11-08T14:48:22Z"
+    },
+    {
       "id": "100885181",
       "title": "Original BRABUS 900 Superblack Mercedes-AMG G 63 Limited Edition",
       "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/original-brabus-900-superblack-mercedes-am-2-960---0662ddffd27a4922a3c5c67180484dd4/",
@@ -12992,18 +13004,6 @@
       "year": "2006",
       "mileage": "241000",
       "price": 10900,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100661276",
-      "title": "AED 6534/month | 2025 Mercedes-Benz GLE Coupe  | GCC Specs | Ref#533570",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-coupe/2026/10/20/aed-6534month-2025-mercedes-benz-gle-coupe-2-788---9d2d2bbc03ce4659839b93f0bf560ff3/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLE Coupe",
-      "year": "2025",
-      "mileage": "15646",
-      "price": 430000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

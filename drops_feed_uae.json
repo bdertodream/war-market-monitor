@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30695,
+  "total_tracked": 30702,
   "total_drops": 500,
-  "total_new": 30695,
+  "total_new": 30702,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,83 @@
   ],
   "new_listings": [
     {
+      "id": "18251390",
+      "title": "Brand New | Near Entrance | 5BR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/2/brand-new-near-entrance-5br-2-993624/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "1976",
+      "bedrooms": "5",
+      "price": 3400000,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "17987435",
+      "title": "6 Bedroom Villa | Renovated | full lake view | largest layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/10/6-bedroom-villa-renovated-full-lake-vie-2-140302/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "6900",
+      "bedrooms": "6",
+      "price": 23000000,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "18221290",
+      "title": "1 of 19 Jacob & Co. Ultra Luxury Villa | Rare 5br | Fleurs de Jardin Meydan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/27/1-of-19-jacob-co-ultra-luxury-villa-rar-2-471505/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Villa",
+      "size": "9636",
+      "bedrooms": "5",
+      "price": 25600000,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "9835666",
+      "title": "Fully Upgraded | Stunning view | Prestigious Tower",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/18/fully-upgraded-stunning-view-prestigiou-2-156525/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Office",
+      "size": "3330",
+      "bedrooms": "",
+      "price": 14500000,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "9830813",
+      "title": "METRO ACCESS | LUXURY OFFICE | INVESTOR-FRIENDLY PAYMENT PLAN",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/14/metro-access-luxury-office-investor-fri-2-100888/",
+      "area": "Dubai Land Residence Complex (DLRC)",
+      "category": "Office",
+      "size": "3195",
+      "bedrooms": "",
+      "price": 3865119,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "9843978",
+      "title": "Luxury Office | Palm & Sea View | Sheikh Zayed Road",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/8/luxury-office-palm-sea-view-sheikh-zaye-2-161162/",
+      "area": "Al Sufouh",
+      "category": "Office",
+      "size": "3351",
+      "bedrooms": "",
+      "price": 15474420,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "9843661",
+      "title": "Furnished Office | Partitioned Layout | Pool & Road Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/5/furnished-office-partitioned-layout-poo-2-258763/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "1625",
+      "bedrooms": "",
+      "price": 2299999,
+      "first_seen": "2026-11-08"
+    },
+    {
       "id": "18194127",
       "title": "2 BR | High Floor | Vacant | Boulevard & Sea View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/22/2-br-high-floor-vacant-boulevard-sea-vi-2-251995/",
@@ -8462,13 +8539,13 @@
     },
     {
       "id": "18250969",
-      "title": "4 Bed | Double Extended | Turnkey | Pool",
+      "title": "Private Pool | Extended | GF En-Suite",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/2/4-bed-double-extended-turnkey-pool-2-777608/",
       "area": "Arabian Ranches",
       "category": "Townhouse",
       "size": "2475",
       "bedrooms": "4",
-      "price": 6075000,
+      "price": 5975000,
       "first_seen": "2026-11-07"
     },
     {
@@ -12429,83 +12506,6 @@
       "size": "1056",
       "bedrooms": "1",
       "price": 1300000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18164225",
-      "title": "Upgraded Townhouse | Premium Finishes",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/15/upgraded-townhouse-murooj-al-furjan-wes-2-243037/",
-      "area": "Al Furjan",
-      "category": "Townhouse",
-      "size": "2019",
-      "bedrooms": "3",
-      "price": 4100000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18219971",
-      "title": "Vacant on Transfer | High Floor | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/27/vacant-on-transfer-high-floor-furnished-2-307667/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1251",
-      "bedrooms": "2",
-      "price": 3250000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18124577",
-      "title": "Penthouse | All Ensuite | Vacant | Marble Floors",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/8/one-of-a-kind-marble-floors-park-view-v-2-401990/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1913",
-      "bedrooms": "3",
-      "price": 5200000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17962850",
-      "title": "CRYSTAL LAGOON VIEW | LARGE LAYOUT | ULTRA-LUXURY",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/5/crystal-lagoon-view-large-layout-ultra--2-243653/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "10388",
-      "bedrooms": "5",
-      "price": 16300000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18237972",
-      "title": "Luxury 4 Bedroom Townhouse l Handing Over Soon l Mortgageable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/30/luxury-4-bedroom-townhouse-l-handing-ov-2-258320/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2277",
-      "bedrooms": "4",
-      "price": 2650000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18161734",
-      "title": "Exclusive | Best Price | Community View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/15/exclusive-best-price-community-view-2-321069/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "757",
-      "bedrooms": "1",
-      "price": 1895000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17979542",
-      "title": "Villa Views | Vacant | Large Layout | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/9/villa-views-vacant-large-layout-furnish-2-158817/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "843",
-      "bedrooms": "1",
-      "price": 2300000,
       "first_seen": "2026-11-03"
     }
   ],
