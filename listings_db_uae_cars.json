@@ -626480,7 +626480,7 @@
   "100452755": {
     "id": "100452755",
     "title": "2008 Cadillac CTS-V Standard Japanese Specs first owner",
-    "price": 20000,
+    "price": 18000,
     "make": "Cadillac",
     "model": "CTS-V",
     "year": "2008",
@@ -626489,12 +626489,16 @@
     "fuel_type": "Petrol",
     "area": "Dubai Silicon Oasis (DSO)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts-v/2026/10/02/2008-cadillac-cts-v-standard-japanese-spec-2-798---e7211c6a70f04406856ae2ebbd966324/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts-v/2026/10/02/2008-cadillac-cts-v-standard-japanese-spec-2-264---e7211c6a70f04406856ae2ebbd966324/",
     "first_seen": "2026-10-28T20:48:43Z",
     "prices": [
       {
         "price": 20000,
         "date": "2026-10-28T20:48:43Z"
+      },
+      {
+        "price": 18000,
+        "date": "2026-11-08T20:14:07Z"
       }
     ],
     "date": "2026-10-28"

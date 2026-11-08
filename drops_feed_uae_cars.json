@@ -1,23 +1,9 @@
 {
   "total_tracked": 26501,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26501,
-  "last_updated": "2026-11-08T14:48:22Z",
+  "last_updated": "2026-11-08T20:14:07Z",
   "drops": [
-    {
-      "id": "16355875",
-      "title": "BEST BMW X5 XDRIVE50i || GCC SPECS || ACCIDENT FREE || SINGLE OWNER || FULLY LOADED",
-      "old_price": 89000,
-      "new_price": 79000,
-      "drop_pct": 11.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2025/04/05/best-bmw-x5-xdrive50i-gcc-specs-accident-f-2-922---a1eac68fafdc40cdb96dbf63c4435f93/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X5",
-      "year": "2017",
-      "mileage": "100600",
-      "date": "2026-09-27T16:30:26Z"
-    },
     {
       "id": "16794886",
       "title": "AMG VIP Mercedes-Benz GL 500 4matic || TOP OPTIONS || FREE ACCIDENT || GCC || LOW MILEAGE",
@@ -7003,6 +6989,20 @@
       "year": "2013",
       "mileage": "278000",
       "date": "2026-11-08T04:43:30Z"
+    },
+    {
+      "id": "100452755",
+      "title": "2008 Cadillac CTS-V Standard Japanese Specs first owner",
+      "old_price": 20000,
+      "new_price": 18000,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts-v/2026/10/02/2008-cadillac-cts-v-standard-japanese-spec-2-264---e7211c6a70f04406856ae2ebbd966324/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "CTS-V",
+      "year": "2008",
+      "mileage": "98000",
+      "date": "2026-11-08T20:14:07Z"
     }
   ],
   "new_listings": [
@@ -10309,13 +10309,13 @@
     {
       "id": "100452755",
       "title": "2008 Cadillac CTS-V Standard Japanese Specs first owner",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts-v/2026/10/02/2008-cadillac-cts-v-standard-japanese-spec-2-798---e7211c6a70f04406856ae2ebbd966324/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts-v/2026/10/02/2008-cadillac-cts-v-standard-japanese-spec-2-264---e7211c6a70f04406856ae2ebbd966324/",
       "category": "Used Cars",
       "make": "Cadillac",
       "model": "CTS-V",
       "year": "2008",
       "mileage": "98000",
-      "price": 20000,
+      "price": 18000,
       "first_seen": "2026-10-28T20:48:43Z"
     },
     {
