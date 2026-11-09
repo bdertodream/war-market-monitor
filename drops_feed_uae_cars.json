@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26501,
+  "total_tracked": 26505,
   "total_drops": 501,
-  "total_new": 26501,
-  "last_updated": "2026-11-09T04:53:25Z",
+  "total_new": 26505,
+  "last_updated": "2026-11-09T18:23:28Z",
   "drops": [
-    {
-      "id": "16975035",
-      "title": "2019 Land Rover Discovery HSE Si6 GCC Specs - Excellent Condition",
-      "old_price": 73000,
-      "new_price": 65000,
-      "drop_pct": 11.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/discovery/2026/09/12/2019-land-rover-discovery-hse-si6-gcc-spec-2-697---337aee5f1ce3434fa9857e33f1721454/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Discovery",
-      "year": "2019",
-      "mileage": "139500",
-      "date": "2026-09-27T22:51:07Z"
-    },
     {
       "id": "100313323",
       "title": "2008 HUMMER H3 FULL OPTION LIMITED GCC IN SUPERB CONDITION",
@@ -7003,9 +6989,71 @@
       "year": "2025",
       "mileage": "7667",
       "date": "2026-11-09T04:53:25Z"
+    },
+    {
+      "id": "100766203",
+      "title": "1967 Pontiac Grand Prix coupe 6.6L",
+      "old_price": 60000,
+      "new_price": 55000,
+      "drop_pct": 8.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/pontiac/grand-prix/2026/10/29/1967-pontiac-grand-prix-coupe-66l-2-990---effd2229439c4757a1f0e3e2c2214f7e/",
+      "category": "Used Cars",
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "year": "1967",
+      "mileage": "100000",
+      "date": "2026-11-09T18:23:28Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100907898",
+      "title": "GEELY OKAVANGO 2.0 L GF (3369652)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/09/geely-okavango-20-l-gf-3369652-2-942---ef45b2359b9945e89bea3e7b73980fb2/",
+      "category": "Used Cars",
+      "make": "Geely",
+      "model": "Okavango",
+      "year": "2025",
+      "mileage": "10642",
+      "price": 79995,
+      "first_seen": "2026-11-09T18:23:28Z"
+    },
+    {
+      "id": "100908882",
+      "title": "ICAUR 03T REEV LUXURY-AWD-1.5T-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-121---3c0d0765f30f40f4a5520c837e6ca3aa/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "03T",
+      "year": "2026",
+      "mileage": "5528",
+      "price": 120900,
+      "first_seen": "2026-11-09T18:23:28Z"
+    },
+    {
+      "id": "100906523",
+      "title": "212 T01 Adventurer | AED 1,445 Monthly | 3 Year Dealership Warranty | Free Courtesy Car Included",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/09/212-t01-adventurer-aed-1445-monthly-3-year-2-003---c54a625d4e2a46fab675b3574670029f/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2026",
+      "mileage": "4290",
+      "price": 90000,
+      "first_seen": "2026-11-09T18:23:28Z"
+    },
+    {
+      "id": "100910136",
+      "title": "2019 BRABUS 800 Mercedes AMG G 63 European Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/09/2019-brabus-800-mercedes-amg-g-63-european-2-492---0295213299924488804d4f71119eeaf2/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2019",
+      "mileage": "114000",
+      "price": 3800,
+      "first_seen": "2026-11-09T18:23:28Z"
+    },
     {
       "id": "100895601",
       "title": "Cadillac CTS Luxury 2008 GCC Specs",
@@ -8473,13 +8521,13 @@
     {
       "id": "100766203",
       "title": "1967 Pontiac Grand Prix coupe 6.6L",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/pontiac/grand-prix/2026/10/29/1967-pontiac-grand-prix-coupe-66l-2-450---effd2229439c4757a1f0e3e2c2214f7e/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/pontiac/grand-prix/2026/10/29/1967-pontiac-grand-prix-coupe-66l-2-990---effd2229439c4757a1f0e3e2c2214f7e/",
       "category": "Used Cars",
       "make": "Pontiac",
       "model": "Grand Prix",
       "year": "1967",
       "mileage": "100000",
-      "price": 60000,
+      "price": 55000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12956,54 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 280000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100533396",
-      "title": "Toyota Land Cruiser 2026 GXR 3.5L TT GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/09/toyota-land-cruiser-2026-gxr-35l-tt-gcc-sp-2-323---53401332225941acacf4657812f5a0e9/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2026",
-      "mileage": "0",
-      "price": 320000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100671748",
-      "title": "Nissan Sunny 2021 SV GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/10/21/nissan-sunny-2021-sv-gcc-specs-2-836---41f58ebea78f416897af5f6179d0ffcf/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Sunny",
-      "year": "2021",
-      "mileage": "77000",
-      "price": 18500,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100526452",
-      "title": "AED 3,544/month | Free 3 Months Warranty | 30 Day Return | TOYOTA LAND CRUISER PRADO 2026",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/10/08/aed-3544month-free-3-months-warranty-30-da-2-589---5d7b200b51be41b9b13d458cfc7eb6d6/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Prado",
-      "year": "2026",
-      "mileage": "10726",
-      "price": 233199,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100729411",
-      "title": "2006 Lexus IS 250 Platinum Japanese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/is-series/2026/10/26/2006-lexus-is-250-platinum-japanese-specs-2-846---62dac554dbee4b77957cfbb5ae8264bb/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "IS-Series",
-      "year": "2006",
-      "mileage": "241000",
-      "price": 10900,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

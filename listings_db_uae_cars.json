@@ -586846,7 +586846,7 @@
   "100522359": {
     "id": "100522359",
     "title": "MERCEDES-MAYBACH SL-CLASS 2026 SL 680 GCC SPECS SERVICE AND WARRANTY FROM GARGASH FINACNCE AVAILABLE",
-    "price": 1325000,
+    "price": 1290000,
     "make": "Mercedes-Maybach",
     "model": "SL-Class",
     "year": "2026",
@@ -586855,7 +586855,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/10/08/mercedes-maybach-sl-class-2026-sl-680-gcc--2-398---6827c43744fb407c856cb94b5db655e3/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/10/08/mercedes-maybach-sl-class-2026-sl-680-gcc--2-076---6827c43744fb407c856cb94b5db655e3/",
     "first_seen": "2026-10-08T15:15:55Z",
     "prices": [
       {
@@ -586865,6 +586865,10 @@
       {
         "price": 1325000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 1290000,
+        "date": "2026-11-09T18:23:28Z"
       }
     ],
     "date": "2026-10-08"
@@ -630362,7 +630366,7 @@
   "100766203": {
     "id": "100766203",
     "title": "1967 Pontiac Grand Prix coupe 6.6L",
-    "price": 60000,
+    "price": 55000,
     "make": "Pontiac",
     "model": "Grand Prix",
     "year": "1967",
@@ -630371,12 +630375,16 @@
     "fuel_type": "Petrol",
     "area": "Al Mizhar",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/pontiac/grand-prix/2026/10/29/1967-pontiac-grand-prix-coupe-66l-2-450---effd2229439c4757a1f0e3e2c2214f7e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/pontiac/grand-prix/2026/10/29/1967-pontiac-grand-prix-coupe-66l-2-990---effd2229439c4757a1f0e3e2c2214f7e/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 60000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 55000,
+        "date": "2026-11-09T18:23:28Z"
       }
     ],
     "date": "2026-10-29"
@@ -632756,5 +632764,93 @@
       }
     ],
     "date": "2026-11-08"
+  },
+  "100907898": {
+    "id": "100907898",
+    "title": "GEELY OKAVANGO 2.0 L GF (3369652)",
+    "price": 79995,
+    "make": "Geely",
+    "model": "Okavango",
+    "year": "2025",
+    "kilometers": "10642",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/09/geely-okavango-20-l-gf-3369652-2-942---ef45b2359b9945e89bea3e7b73980fb2/",
+    "first_seen": "2026-11-09T18:23:28Z",
+    "prices": [
+      {
+        "price": 79995,
+        "date": "2026-11-09T18:23:28Z"
+      }
+    ],
+    "date": "2026-11-09"
+  },
+  "100908882": {
+    "id": "100908882",
+    "title": "ICAUR 03T REEV LUXURY-AWD-1.5T-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
+    "price": 120900,
+    "make": "iCaur",
+    "model": "03T",
+    "year": "2026",
+    "kilometers": "5528",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-121---3c0d0765f30f40f4a5520c837e6ca3aa/",
+    "first_seen": "2026-11-09T18:23:28Z",
+    "prices": [
+      {
+        "price": 120900,
+        "date": "2026-11-09T18:23:28Z"
+      }
+    ],
+    "date": "2026-11-09"
+  },
+  "100906523": {
+    "id": "100906523",
+    "title": "212 T01 Adventurer | AED 1,445 Monthly | 3 Year Dealership Warranty | Free Courtesy Car Included",
+    "price": 90000,
+    "make": "212",
+    "model": "T01",
+    "year": "2026",
+    "kilometers": "4290",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/09/212-t01-adventurer-aed-1445-monthly-3-year-2-003---c54a625d4e2a46fab675b3574670029f/",
+    "first_seen": "2026-11-09T18:23:28Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-11-09T18:23:28Z"
+      }
+    ],
+    "date": "2026-11-09"
+  },
+  "100910136": {
+    "id": "100910136",
+    "title": "2019 BRABUS 800 Mercedes AMG G 63 European Specs",
+    "price": 3800,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2019",
+    "kilometers": "114000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Azizi Riviera 48",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/09/2019-brabus-800-mercedes-amg-g-63-european-2-492---0295213299924488804d4f71119eeaf2/",
+    "first_seen": "2026-11-09T18:23:28Z",
+    "prices": [
+      {
+        "price": 3800,
+        "date": "2026-11-09T18:23:28Z"
+      }
+    ],
+    "date": "2026-11-09"
   }
 }
