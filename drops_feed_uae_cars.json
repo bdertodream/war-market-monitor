@@ -2,22 +2,8 @@
   "total_tracked": 26501,
   "total_drops": 501,
   "total_new": 26501,
-  "last_updated": "2026-11-08T20:14:07Z",
+  "last_updated": "2026-11-09T04:53:25Z",
   "drops": [
-    {
-      "id": "16794886",
-      "title": "AMG VIP Mercedes-Benz GL 500 4matic || TOP OPTIONS || FREE ACCIDENT || GCC || LOW MILEAGE",
-      "old_price": 89000,
-      "new_price": 79000,
-      "drop_pct": 11.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gl-class/2026/04/06/amg-vip-mercedes-benz-gl-500-4matic-top-op-2-649---a03a44e18772458e83687f02452a72b5/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GL-Class",
-      "year": "2016",
-      "mileage": "100000",
-      "date": "2026-09-27T16:30:26Z"
-    },
     {
       "id": "16975035",
       "title": "2019 Land Rover Discovery HSE Si6 GCC Specs - Excellent Condition",
@@ -7003,6 +6989,20 @@
       "year": "2008",
       "mileage": "98000",
       "date": "2026-11-08T20:14:07Z"
+    },
+    {
+      "id": "100797245",
+      "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
+      "old_price": 51500,
+      "new_price": 48000,
+      "drop_pct": 6.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-980---06a7d0467d02442badcde712995ddcc8/",
+      "category": "Used Cars",
+      "make": "Citroen",
+      "model": "C4 X",
+      "year": "2025",
+      "mileage": "7667",
+      "date": "2026-11-09T04:53:25Z"
     }
   ],
   "new_listings": [
@@ -7441,13 +7441,13 @@
     {
       "id": "100797245",
       "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-151---06a7d0467d02442badcde712995ddcc8/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-980---06a7d0467d02442badcde712995ddcc8/",
       "category": "Used Cars",
       "make": "Citroen",
       "model": "C4 X",
       "year": "2025",
       "mileage": "7667",
-      "price": 51500,
+      "price": 48000,
       "first_seen": "2026-11-01T14:47:00Z"
     },
     {

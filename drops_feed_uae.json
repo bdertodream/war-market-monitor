@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30702,
+  "total_tracked": 30710,
   "total_drops": 500,
-  "total_new": 30702,
+  "total_new": 30710,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9816480",
-      "title": "Combined Office Units | Off-Plan | JVC",
-      "old_price": 19311780,
-      "new_price": 18005868,
-      "drop_pct": 6.8,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/14/combined-office-units-off-plan-jvc-2-442592/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Office",
-      "size": "9604",
-      "bedrooms": "",
-      "date": "2026-06-14",
-      "first_seen": "2026-05-20"
-    },
     {
       "id": "9802533",
       "title": "Fully Fitted & Furnished Office | Glass-Partitioned | Canal View",
@@ -7005,9 +6991,111 @@
       "bedrooms": "4",
       "date": "2026-11-07",
       "first_seen": "2026-11-06"
+    },
+    {
+      "id": "18072009",
+      "title": "Vacant | Beach Access | Furnished | Pet Friendly",
+      "old_price": 2195000,
+      "new_price": 1990000,
+      "drop_pct": 9.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/28/luxury-1bhk-ready-to-move-in-fully-furn-2-182668/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "659",
+      "bedrooms": "1",
+      "date": "2026-11-09",
+      "first_seen": "2026-10-10"
     }
   ],
   "new_listings": [
+    {
+      "id": "18247556",
+      "title": "EXCLUSIVE | L2 LARGE PLOT | DIRECT ON LAKE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/2/exclusive-l2-large-plot-direct-on-lake-2-288911/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "7000",
+      "bedrooms": "6",
+      "price": 32500000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18254088",
+      "title": "STUNNING TURNKEY HATTAN | LAKE AND SKYLINE VIEW",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/3/stunning-turnkey-hattan-lake-and-skylin-2-133123/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "5500",
+      "bedrooms": "5",
+      "price": 30300000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18247442",
+      "title": "Furnished Dual Aspect Duplex | Burj Khalifa View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/2/furnished-dual-aspect-duplex-burj-khali-2-231692/",
+      "area": "Al Barari",
+      "category": "Apartment",
+      "size": "5614",
+      "bedrooms": "3",
+      "price": 24000000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18132011",
+      "title": "Below Op | Single Row | Urgent Resale",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/9/below-op-single-row-urgent-resale-2-238351/",
+      "area": "Dubai South",
+      "category": "Townhouse",
+      "size": "2450",
+      "bedrooms": "3",
+      "price": 3200000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18103737",
+      "title": "EXPANSIVE TOWNHOUSE | LAGOON FACING | MAID'S ROOM",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/4/expansive-4br-townhouse-lagoon-facing-f-2-241531/",
+      "area": "Dubai Islands",
+      "category": "Townhouse",
+      "size": "3546",
+      "bedrooms": "4",
+      "price": 6900000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18092689",
+      "title": "Brand new | Spacious layout | Open view",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/brand-new-spacious-layout-open-view-2-154459/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "1009",
+      "bedrooms": "2",
+      "price": 1800000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18085360",
+      "title": "Bright | High Floor| 2BR Apartment | FH Residency",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/30/bright-high-floor-2br-apartment-fh-resi-2-216390/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "1005",
+      "bedrooms": "2",
+      "price": 1700000,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "18077664",
+      "title": "Exclusive | Close to Amenities | Genuine Listing",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/29/exclusive-close-to-amenities-genuine-li-2-384089/",
+      "area": "Tilal Al Ghaf",
+      "category": "Townhouse",
+      "size": "1512",
+      "bedrooms": "3",
+      "price": 3900000,
+      "first_seen": "2026-11-09"
+    },
     {
       "id": "18251390",
       "title": "Brand New | Near Entrance | 5BR",
@@ -12419,96 +12507,8 @@
       "bedrooms": "4",
       "price": 9799999,
       "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17941717",
-      "title": "Corner Unit | Private Pool | Five Bedroom",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/1/corner-unit-private-pool-five-bedroom-2-330803/",
-      "area": "Al Barari",
-      "category": "Villa",
-      "size": "6637",
-      "bedrooms": "5",
-      "price": 15250000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "16640400",
-      "title": "Spacious And Bright | Best Layout | Brand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/11/12/spacious-and-bright-best-layout-brand-n-2-210859/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Villa",
-      "size": "1788",
-      "bedrooms": "4",
-      "price": 4100000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18090650",
-      "title": "Furnished | Tenanted | SMART INVESTMENT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/1/furnished-studio-tenanted-azizi-amber-2-760798/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "334",
-      "bedrooms": "0",
-      "price": 635000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18190336",
-      "title": "Park Backing | Sngl Row | Vacant December",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/21/park-backing-sngl-row-vacant-december-2-241341/",
-      "area": "Al Furjan",
-      "category": "Villa",
-      "size": "3295",
-      "bedrooms": "4",
-      "price": 3900000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18175949",
-      "title": "Fully Upgraded | Internal maids | Exclusive",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/18/fully-upgraded-internal-maids-exclusive-2-254076/",
-      "area": "DAMAC Hills",
-      "category": "Townhouse",
-      "size": "2064",
-      "bedrooms": "3",
-      "price": 4350000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18169003",
-      "title": "Rare Layout | Huge roof terrace | Brand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/16/rare-layout-huge-roof-terrace-brand-new-2-358282/",
-      "area": "DAMAC Hills",
-      "category": "Townhouse",
-      "size": "2360",
-      "bedrooms": "5",
-      "price": 5850000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18050513",
-      "title": "Private Beach Access | Island B | Front Sea View | Nakheel Community",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/23/2br-2-355369/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1261",
-      "bedrooms": "2",
-      "price": 3800000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18207197",
-      "title": "SPACIOUS LAYOUT | VOT | LARGE BALCONY",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/24/spacious-layout-vot-large-balcony-2-308603/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "1056",
-      "bedrooms": "1",
-      "price": 1300000,
-      "first_seen": "2026-11-03"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-08"
+  "last_updated": "2026-11-09"
 }
