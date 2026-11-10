@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26505,
-  "total_drops": 501,
-  "total_new": 26505,
-  "last_updated": "2026-11-09T18:23:28Z",
+  "total_tracked": 26508,
+  "total_drops": 500,
+  "total_new": 26508,
+  "last_updated": "2026-11-10T02:34:35Z",
   "drops": [
     {
       "id": "100313323",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "100905990",
+      "title": "1,824 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/09/1824-monthly-i-vw-certified-zero-down-paym-2-705---51536299881b43adb30b58d6e0d812dc/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2025",
+      "mileage": "21000",
+      "price": 119900,
+      "first_seen": "2026-11-10T02:34:35Z"
+    },
+    {
+      "id": "100905827",
+      "title": "1,672 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/09/1672-monthly-i-vw-certified-zero-down-paym-2-524---2e7b11c05c78488aa4dd6e89064072e5/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "50000",
+      "price": 109900,
+      "first_seen": "2026-11-10T02:34:35Z"
+    },
+    {
+      "id": "100905447",
+      "title": "1,672 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/09/1672-monthly-i-vw-certified-zero-down-paym-2-256---5a49fd84a69e4f099a2762bf4c628571/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "50000",
+      "price": 109900,
+      "first_seen": "2026-11-10T02:34:35Z"
+    },
+    {
       "id": "100907898",
       "title": "GEELY OKAVANGO 2.0 L GF (3369652)",
       "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/09/geely-okavango-20-l-gf-3369652-2-942---ef45b2359b9945e89bea3e7b73980fb2/",
@@ -12968,42 +13004,6 @@
       "year": "2024",
       "mileage": "100",
       "price": 210000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100371412",
-      "title": "2021 Lamborghini Urus Keyvany 2021 - Full Service History - Mint Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/25/2021-lamborghini-urus-keyvany-2021-full-se-2-979---401294ccdfae416a936f32ee2d94deb4/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Urus",
-      "year": "2021",
-      "mileage": "26000",
-      "price": 950000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100730151",
-      "title": "2025 Mercedes-Benz E 53 AMG \u2013 European Specs | Low Mileage | UAE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/26/2025-mercedes-benz-e-53-amg-european-specs-2-584---7dc3b83cf0bc4564bbcf765e21a6a5e5/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2025",
-      "mileage": "1200",
-      "price": 485000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100613909",
-      "title": "Toyota Land Cruiser GXR 2026 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/16/toyota-land-cruiser-gxr-2026-gcc-specs-2-370---982891c378ef4216912307dd40b22d21/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2026",
-      "mileage": "0",
-      "price": 280000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

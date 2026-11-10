@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30728,
+  "total_tracked": 30737,
   "total_drops": 500,
-  "total_new": 30728,
+  "total_new": 30737,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,105 @@
   ],
   "new_listings": [
     {
+      "id": "9843336",
+      "title": "Main Road Retail | High-Potential Commercial Space | 5.35M Height | 10% DP only",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/4/retail-high-potential-commercial-space--2-134747/",
+      "area": "Al Jaddaf",
+      "category": "Shop",
+      "size": "687",
+      "bedrooms": "",
+      "price": 2655000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9843335",
+      "title": "Premium Office Spaces | Just 10% Down Payment | Prime Business Investment Opportunity | Al Khail Ro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/premium-office-spaces-just-10-down-paym-2-242988/",
+      "area": "Al Jaddaf",
+      "category": "Office",
+      "size": "718",
+      "bedrooms": "",
+      "price": 1798000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9843330",
+      "title": "Metro Connected Office With Easy Mortgage | Ready Soon | No Commission | 15 Mins To Business Bay",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/metro-connected-office-with-easy-mortga-2-432454/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Office",
+      "size": "1072",
+      "bedrooms": "",
+      "price": 2570000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9843329",
+      "title": "No Commission | Pay 70% With Mortgage | Premium | Metro Connected | Soon Handover | 15 Mins To Down",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/premium-metro-connected-office-with-soo-2-276664/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Office",
+      "size": "799",
+      "bedrooms": "",
+      "price": 1900000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9843258",
+      "title": "Retail Investment Opportunity I Only With 10% Down Payment I Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/3/retail-investment-opportunity-i-only-wi-2-303033/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "594",
+      "bedrooms": "",
+      "price": 1945000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9843253",
+      "title": "F&B Approved | Zero Commission | Near Handover | Prime Business Opportunity | High ROI & Capital Ap",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/3/zero-commission-ready-soon-retail-space-2-615239/",
+      "area": "Arjan",
+      "category": "Shop",
+      "size": "1018",
+      "bedrooms": "",
+      "price": 3350000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9836270",
+      "title": "Smart Commercial Investment | Prime Location & Future Connectivity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/22/affordable-offices-near-upcoming-blue-l-2-250822/",
+      "area": "International City Phase 2 (Warsan 4)",
+      "category": "Office",
+      "size": "498",
+      "bedrooms": "",
+      "price": 725000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9844146",
+      "title": "Ready-to-Move | Huge Mezzanine Retail | F&B Suitable | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/9/ready-to-move-huge-mezzanine-retail-fb--2-184457/",
+      "area": "Dubai Healthcare City Phase 2",
+      "category": "Shop",
+      "size": "5629",
+      "bedrooms": "",
+      "price": 24240000,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "9844115",
+      "title": "Fully Fitted Luxury Office Space for Sale at an Affordable Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/9/affordable-luxury-office-space-for-sale-2-249464/",
+      "area": "International City Phase 2 (Warsan 4)",
+      "category": "Office",
+      "size": "404",
+      "bedrooms": "",
+      "price": 708524,
+      "first_seen": "2026-11-10"
+    },
+    {
       "id": "18247556",
       "title": "EXCLUSIVE | L2 LARGE PLOT | DIRECT ON LAKE",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/2/exclusive-l2-large-plot-direct-on-lake-2-288911/",
@@ -12408,107 +12507,8 @@
       "bedrooms": "3",
       "price": 2750000,
       "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17867487",
-      "title": "Pool View | Study Room | Metro Line Access",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/15/pool-view-study-room-metro-line-access-2-133078/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "1120",
-      "bedrooms": "2",
-      "price": 1600000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17834812",
-      "title": "Ready To Move | Closed Kitchen | Upgraded",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/7/ready-to-move-closed-kitchen-upgraded-2-738677/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "1542",
-      "bedrooms": "3",
-      "price": 2325000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18179873",
-      "title": "Greenery View | Vacant | Plot 10,289 sq.ft",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/19/new-to-market-vacant-plot-10289-sqft-2-581328/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "10289",
-      "bedrooms": "4",
-      "price": 23000000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "17773292",
-      "title": "Fully Furnished | Villa Views | High-Yield",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/25/fully-furnished-tenanted-high-yield-2-507102/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "690",
-      "bedrooms": "1",
-      "price": 950000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18234609",
-      "title": "Fully Upgraded | Elevator Installed | Park Backing",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/29/fully-upgraded-elevator-installed-park--2-129764/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "6210",
-      "bedrooms": "5",
-      "price": 10700000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18184489",
-      "title": "Fully Upgraded | Corner Plot | Vacant Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/20/fully-upgraded-corner-plot-vacant-now-2-714113/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "4350",
-      "bedrooms": "4",
-      "price": 7800000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18243025",
-      "title": "Full Golf Course View | Vacant | Priced to Sell",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/31/full-golf-course-view-vacant-priced-to--2-773089/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "3358",
-      "bedrooms": "4",
-      "price": 11950000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18196492",
-      "title": "2% DLD waiver | Handover 2027 | No Commission",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/22/2-dld-waiver-handover-2027-no-commissio-2-618689/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "317",
-      "bedrooms": "0",
-      "price": 573000,
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "18238109",
-      "title": "Vacant Now | Exclusive | Unfurnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/30/vacant-now-exclusive-unfurnished-2-187145/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1717",
-      "bedrooms": "2",
-      "price": 4400000,
-      "first_seen": "2026-11-03"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-09"
+  "last_updated": "2026-11-10"
 }
