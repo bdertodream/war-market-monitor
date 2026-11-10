@@ -633014,5 +633014,27 @@
       }
     ],
     "date": "2026-11-10"
+  },
+  "100919667": {
+    "id": "100919667",
+    "title": "Ford Bronco Sport Base 2022 American Specs",
+    "price": 39900,
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "year": "2022",
+    "kilometers": "125000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Lago Vista C",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/11/10/ford-bronco-sport-base-2022-american-specs-2-453---8ade58693a524e88ab761829fbd6ae24/",
+    "first_seen": "2026-11-10T21:40:35Z",
+    "prices": [
+      {
+        "price": 39900,
+        "date": "2026-11-10T21:40:35Z"
+      }
+    ],
+    "date": "2026-11-10"
   }
 }

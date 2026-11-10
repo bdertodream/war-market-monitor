@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26512,
+  "total_tracked": 26513,
   "total_drops": 500,
-  "total_new": 26512,
-  "last_updated": "2026-11-10T12:10:34Z",
+  "total_new": 26513,
+  "last_updated": "2026-11-10T21:40:35Z",
   "drops": [
     {
       "id": "100313323",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100919667",
+      "title": "Ford Bronco Sport Base 2022 American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/11/10/ford-bronco-sport-base-2022-american-specs-2-453---8ade58693a524e88ab761829fbd6ae24/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "year": "2022",
+      "mileage": "125000",
+      "price": 39900,
+      "first_seen": "2026-11-10T21:40:35Z"
+    },
+    {
       "id": "100917182",
       "title": "2027 iCaur V27 Flagship GCC Specs - 5 YEARS WARRANTY",
       "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/10/2027-icaur-v27-flagship-gcc-specs-5-years--2-771---c449672dd6e74cf88a3f4e170e7a81d5/",
@@ -12992,18 +13004,6 @@
       "year": "2023",
       "mileage": "55000",
       "price": 145000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100730436",
-      "title": "BMW 750 Li 2010, BRILLIANT CONDITION, GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/10/26/bmw-750-li-2010-brilliant-condition-gcc-2-994---dca53f37262b4171ac83ed5d8044b29a/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2010",
-      "mileage": "139000",
-      "price": 14900,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]
