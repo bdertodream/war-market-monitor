@@ -598254,7 +598254,7 @@
   "100595078": {
     "id": "100595078",
     "title": "BYD Sealion 6 DMI 2026 Chinese Specs",
-    "price": 95500,
+    "price": 96000,
     "make": "BYD",
     "model": "Sealion 6",
     "year": "2026",
@@ -598273,6 +598273,10 @@
       {
         "price": 95500,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 96000,
+        "date": "2026-11-10T12:10:34Z"
       }
     ],
     "date": "2026-10-14"
@@ -632566,7 +632570,7 @@
   "100879554": {
     "id": "100879554",
     "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
-    "price": 39500,
+    "price": 38500,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2017",
@@ -632575,7 +632579,7 @@
     "fuel_type": "Petrol",
     "area": "Barsha Heights (Tecom)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-266---ea36f65bcbfe48c1938dee0b20444a39/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-810---ea36f65bcbfe48c1938dee0b20444a39/",
     "first_seen": "2026-11-07T05:35:48Z",
     "prices": [
       {
@@ -632585,6 +632589,10 @@
       {
         "price": 39500,
         "date": "2026-11-07T14:42:38Z"
+      },
+      {
+        "price": 38500,
+        "date": "2026-11-10T12:10:34Z"
       }
     ],
     "date": "2026-11-07"
@@ -632918,5 +632926,93 @@
       }
     ],
     "date": "2026-11-09"
+  },
+  "100917182": {
+    "id": "100917182",
+    "title": "2027 iCaur V27 Flagship GCC Specs - 5 YEARS WARRANTY",
+    "price": 145000,
+    "make": "iCaur",
+    "model": "V27",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/10/2027-icaur-v27-flagship-gcc-specs-5-years--2-771---c449672dd6e74cf88a3f4e170e7a81d5/",
+    "first_seen": "2026-11-10T12:10:34Z",
+    "prices": [
+      {
+        "price": 145000,
+        "date": "2026-11-10T12:10:34Z"
+      }
+    ],
+    "date": "2026-11-10"
+  },
+  "100916429": {
+    "id": "100916429",
+    "title": "VOLKSWAGEN GOLF GTI 2023 (GCC \u2013 FULL OPTIONS \u2013 Ultra Low Mileage \u2013 PERFECT CONDITION)",
+    "price": 77500,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "71798",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/volkswagen-golf-gti-2023-gcc-full-options--2-177---df0036db4633448785bfc062d6578780/",
+    "first_seen": "2026-11-10T12:10:34Z",
+    "prices": [
+      {
+        "price": 77500,
+        "date": "2026-11-10T12:10:34Z"
+      }
+    ],
+    "date": "2026-11-10"
+  },
+  "100914954": {
+    "id": "100914954",
+    "title": "VOLKSWAGEN GOLG GTI 2020 - TURBOCHARGED - PREMIUM INTERIOR - FULLY LOADED",
+    "price": 49000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2020",
+    "kilometers": "74000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/volkswagen-golg-gti-2020-turbocharged-prem-2-491---6cea2ee6aee0452487922f1b3cbfb645/",
+    "first_seen": "2026-11-10T12:10:34Z",
+    "prices": [
+      {
+        "price": 49000,
+        "date": "2026-11-10T12:10:34Z"
+      }
+    ],
+    "date": "2026-11-10"
+  },
+  "100913909": {
+    "id": "100913909",
+    "title": "1,672 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+    "price": 109900,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "50000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/1672-monthly-i-vw-certified-zero-down-paym-2-960---84cb7480f0d440e59fa132eaf28aae27/",
+    "first_seen": "2026-11-10T12:10:34Z",
+    "prices": [
+      {
+        "price": 109900,
+        "date": "2026-11-10T12:10:34Z"
+      }
+    ],
+    "date": "2026-11-10"
   }
 }
