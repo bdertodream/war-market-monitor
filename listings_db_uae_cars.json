@@ -633036,5 +633036,27 @@
       }
     ],
     "date": "2026-11-10"
+  },
+  "100923415": {
+    "id": "100923415",
+    "title": "2015 Volkswagen Golf GTI GCC Specs",
+    "price": 33000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2015",
+    "kilometers": "155000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-754---8e1f13418d7f49358a2f89d01ddbaada/",
+    "first_seen": "2026-11-11T04:55:28Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-11-11T04:55:28Z"
+      }
+    ],
+    "date": "2026-11-10"
   }
 }

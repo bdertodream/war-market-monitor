@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26513,
+  "total_tracked": 26514,
   "total_drops": 500,
-  "total_new": 26513,
-  "last_updated": "2026-11-10T21:40:35Z",
+  "total_new": 26514,
+  "last_updated": "2026-11-11T04:55:28Z",
   "drops": [
     {
       "id": "100313323",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100923415",
+      "title": "2015 Volkswagen Golf GTI GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-754---8e1f13418d7f49358a2f89d01ddbaada/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2015",
+      "mileage": "155000",
+      "price": 33000,
+      "first_seen": "2026-11-11T04:55:28Z"
+    },
+    {
       "id": "100919667",
       "title": "Ford Bronco Sport Base 2022 American Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/11/10/ford-bronco-sport-base-2022-american-specs-2-453---8ade58693a524e88ab761829fbd6ae24/",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "10",
       "price": 1000000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100359401",
-      "title": "MERCEDES BENZ CLA35 AMG *CLEAN CAR*WELL MAINTAINED*",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cla-class/2026/09/24/mercedes-benz-cla35-amg-clean-carwell-main-2-167---c619068212604bada33a68437a4887a0/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "CLA-Class",
-      "year": "2023",
-      "mileage": "55000",
-      "price": 145000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

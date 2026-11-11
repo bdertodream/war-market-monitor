@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30811,
+  "total_tracked": 30814,
   "total_drops": 500,
-  "total_new": 30811,
+  "total_new": 30814,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,39 @@
   ],
   "new_listings": [
     {
+      "id": "18282447",
+      "title": "Genuine Listing I Area Specialist I Handing Over",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/9/genuine-listing-i-area-specialist-i-han-2-232503/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "2465",
+      "bedrooms": "4",
+      "price": 4250000,
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "18287984",
+      "title": "Your Next Property Investment | Modern 1BR | Great Value",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/10/your-next-property-investment-modern-1b-2-323977/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "755",
+      "bedrooms": "1",
+      "price": 1260000,
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "18286861",
+      "title": "Investor Alert | Premium Property | Attractive Entry Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/10/investor-alert-premium-property-attract-2-216430/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "383",
+      "bedrooms": "0",
+      "price": 730000,
+      "first_seen": "2026-11-11"
+    },
+    {
       "id": "9843336",
       "title": "Main Road Retail | High-Potential Commercial Space | 5.35M Height | 10% DP only",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/4/retail-high-potential-commercial-space--2-134747/",
@@ -7021,7 +7054,7 @@
     },
     {
       "id": "9843335",
-      "title": "Premium Office Spaces | Just 10% Down Payment | Prime Business Investment Opportunity | Al Khail Ro",
+      "title": "Premium Office Spaces | Just 10% Down Payment | Prime Business Investment Opportunity | Al Khail Road View",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/premium-office-spaces-just-10-down-paym-2-242988/",
       "area": "Al Jaddaf",
       "category": "Office",
@@ -7065,7 +7098,7 @@
     },
     {
       "id": "9843253",
-      "title": "\ud83c\udf7d\ufe0f F&B Approved | Zero Commission | Near Handover | Huge Mezzanine Retail | Prime Investment | High",
+      "title": "\ud83c\udf7d\ufe0f F&B Approved | Zero Commission | Near Handover | Huge Mezzanine Retail | Prime Investment | High ROI Potential",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/3/zero-commission-ready-soon-retail-space-2-615239/",
       "area": "Arjan",
       "category": "Shop",
@@ -9078,7 +9111,7 @@
     },
     {
       "id": "18136067",
-      "title": "LEISURE - RICH COMMUNITY | SIGNATURE EMAAR",
+      "title": "Hillside Park Living | Spacious 2BR+3 Baths | Huge Balcony",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/10/leisure-rich-community-signature-emaar-2-239280/",
       "area": "Dubai Hills Estate",
       "category": "Apartment",
@@ -9089,7 +9122,7 @@
     },
     {
       "id": "18134753",
-      "title": "EARTHY FINISHES | CITY SKYLINE OUTLOOK | WARM TEXTURES",
+      "title": "Larger 1BR | Vida Branded | Walk in Closet | Huge Balcony",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/10/earthy-finishes-city-skyline-outlook-wa-2-150180/",
       "area": "Dubai Hills Estate",
       "category": "Apartment",
@@ -9122,7 +9155,7 @@
     },
     {
       "id": "18134656",
-      "title": "CONTEMPORARY DESIGN | URBAN GREENERY | PARK VIEWS",
+      "title": "Vida Designed Interiors | 2 Balconies | Park View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/10/contemporary-design-urban-greenery-park-2-319887/",
       "area": "Dubai Hills Estate",
       "category": "Apartment",
@@ -9155,7 +9188,7 @@
     },
     {
       "id": "17773332",
-      "title": "SPACIOUS UNIT | MODERN LAYOUT | PARK VIEW",
+      "title": "Prime Park View | Large Plot | Private Garden | 4BR+Maid",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/25/spacious-unit-modern-layout-park-view-2-236207/",
       "area": "The Valley by Emaar",
       "category": "Villa",
@@ -12474,41 +12507,8 @@
       "bedrooms": "4",
       "price": 6999999,
       "first_seen": "2026-11-04"
-    },
-    {
-      "id": "18258501",
-      "title": "Single Row | Opposite Lagoon | Best Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/4/single-row-opposite-lagoon-best-locatio-2-249325/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "1550",
-      "bedrooms": "4",
-      "price": 2750000,
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "9842624",
-      "title": "Commercial Bulk Unit | Community View | Ideal Area",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/30/commercial-bulk-unit-community-view-ide-2-248395/",
-      "area": "Jumeirah Lakes Towers (JLT)",
-      "category": "Office",
-      "size": "27431",
-      "bedrooms": "",
-      "price": 101492665,
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "9835306",
-      "title": "Fitted and furnished | Vacant | No agents",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/16/fitted-and-furnished-vacant-no-agents-2-245099/",
-      "area": "Dubai Investments Park (DIP)",
-      "category": "Office",
-      "size": "1178",
-      "bedrooms": "",
-      "price": 1100000,
-      "first_seen": "2026-11-04"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-10"
+  "last_updated": "2026-11-11"
 }
