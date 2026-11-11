@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26514,
-  "total_drops": 503,
-  "total_new": 26514,
-  "last_updated": "2026-11-11T15:53:59Z",
+  "total_tracked": 26516,
+  "total_drops": 500,
+  "total_new": 26516,
+  "last_updated": "2026-11-11T22:30:43Z",
   "drops": [
     {
       "id": "16973517",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100931834",
+      "title": "BRABUS 900 Mercedes-AMG G 63 2026 Japanese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-668---72f3bd866e5c4a4288f767cf9864fc0e/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2026",
+      "mileage": "0",
+      "price": 1200000,
+      "first_seen": "2026-11-11T22:30:43Z"
+    },
+    {
+      "id": "100932455",
+      "title": "AED 2,490 // 20%DP // 2027 BYD Ti 7 Premium Edition 1.5L V4",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/ti-7/2026/11/11/aed-2490-20dp-2027-byd-ti-7-premium-editio-2-252---89671e57d25540ae8001ceedcc6dc3aa/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Ti 7",
+      "year": "2027",
+      "mileage": "13000",
+      "price": 159000,
+      "first_seen": "2026-11-11T22:30:43Z"
+    },
+    {
       "id": "100923415",
       "title": "2015 Volkswagen Golf GTI GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-599---8e1f13418d7f49358a2f89d01ddbaada/",
@@ -12980,30 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 205000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100420712",
-      "title": "Mercedes-Benz 63 AMG / 2021 / GCC Specs in Pristine Condition / Double Night Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/09/29/mercedes-benz-63-amg-2021-gcc-specs-in-pri-2-359---e627bac9eb604a5e9c0c916eea804fa4/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2021",
-      "mileage": "101000",
-      "price": 550000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100405922",
-      "title": "Mercedes-Benz S580 Maybach / 2026 / Brand New / European Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/28/mercedes-benz-s580-maybach-2026-brand-new--2-256---ab5a5e3354974dfcbc2871997ecca8d2/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2026",
-      "mileage": "10",
-      "price": 1000000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]

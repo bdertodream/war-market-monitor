@@ -633078,5 +633078,49 @@
       }
     ],
     "date": "2026-11-10"
+  },
+  "100931834": {
+    "id": "100931834",
+    "title": "BRABUS 900 Mercedes-AMG G 63 2026 Japanese Specs",
+    "price": 1200000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-668---72f3bd866e5c4a4288f767cf9864fc0e/",
+    "first_seen": "2026-11-11T22:30:43Z",
+    "prices": [
+      {
+        "price": 1200000,
+        "date": "2026-11-11T22:30:43Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "100932455": {
+    "id": "100932455",
+    "title": "AED 2,490 // 20%DP // 2027 BYD Ti 7 Premium Edition 1.5L V4",
+    "price": 159000,
+    "make": "BYD",
+    "model": "Ti 7",
+    "year": "2027",
+    "kilometers": "13000",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/ti-7/2026/11/11/aed-2490-20dp-2027-byd-ti-7-premium-editio-2-252---89671e57d25540ae8001ceedcc6dc3aa/",
+    "first_seen": "2026-11-11T22:30:43Z",
+    "prices": [
+      {
+        "price": 159000,
+        "date": "2026-11-11T22:30:43Z"
+      }
+    ],
+    "date": "2026-11-11"
   }
 }
