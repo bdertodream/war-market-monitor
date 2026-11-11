@@ -1,51 +1,9 @@
 {
   "total_tracked": 26514,
-  "total_drops": 500,
+  "total_drops": 503,
   "total_new": 26514,
-  "last_updated": "2026-11-11T04:55:28Z",
+  "last_updated": "2026-11-11T15:53:59Z",
   "drops": [
-    {
-      "id": "100313323",
-      "title": "2008 HUMMER H3 FULL OPTION LIMITED GCC IN SUPERB CONDITION",
-      "old_price": 17900,
-      "new_price": 13000,
-      "drop_pct": 27.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hummer/h3/2026/09/20/2008-hummer-h3-full-option-limited-gcc-in--2-767---fddec717fb444542bda68c81ff4c2c66/",
-      "category": "Used Cars",
-      "make": "Hummer",
-      "model": "H3",
-      "year": "2008",
-      "mileage": "198000",
-      "date": "2026-09-27T22:51:07Z"
-    },
-    {
-      "id": "16908198",
-      "title": "2022 NISSAN URVAN / GCC / CARGO VAN + MANUAL GEAR + 3 SEATER + STANDARD ROOF",
-      "old_price": 42900,
-      "new_price": 39900,
-      "drop_pct": 7.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/urvan/2026/07/13/2022-nissan-urvan-gcc-cargo-van-manual-gea-2-496---8c935431c7e142fd8be6406eb79644e4/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Urvan",
-      "year": "2022",
-      "mileage": "105400",
-      "date": "2026-09-28T10:41:34Z"
-    },
-    {
-      "id": "16951095",
-      "title": "UNLIMITED MILEAGE WARRANTY /NAVIGATION + CAMERA + PUSH START + CRUISE CONTROL / IN HOUSE FINANCE",
-      "old_price": 33950,
-      "new_price": 31900,
-      "drop_pct": 6.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/escape/2026/08/22/unlimited-mileage-warranty-navigation-came-2-953---3b7881f0db7e4fd4b802e68952731e2d/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Escape",
-      "year": "2020",
-      "mileage": "45139",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16973517",
       "title": "Toyota Urban Cruiser 1.5L Petrol GLX Full Options | GCC Specs | Export Only",
@@ -7003,19 +6961,61 @@
       "year": "1967",
       "mileage": "100000",
       "date": "2026-11-09T18:23:28Z"
+    },
+    {
+      "id": "100923415",
+      "title": "2015 Volkswagen Golf GTI GCC Specs",
+      "old_price": 33000,
+      "new_price": 29500,
+      "drop_pct": 10.6,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-599---8e1f13418d7f49358a2f89d01ddbaada/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2015",
+      "mileage": "155000",
+      "date": "2026-11-11T15:53:59Z"
+    },
+    {
+      "id": "100914954",
+      "title": "VOLKSWAGEN GOLG GTI 2020 - TURBOCHARGED - PREMIUM INTERIOR - FULLY LOADED",
+      "old_price": 49000,
+      "new_price": 43999,
+      "drop_pct": 10.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/volkswagen-golg-gti-2020-turbocharged-prem-2-105---6cea2ee6aee0452487922f1b3cbfb645/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2020",
+      "mileage": "70000",
+      "date": "2026-11-11T15:53:59Z"
+    },
+    {
+      "id": "100879554",
+      "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
+      "old_price": 38500,
+      "new_price": 35500,
+      "drop_pct": 7.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-311---ea36f65bcbfe48c1938dee0b20444a39/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2017",
+      "mileage": "148000",
+      "date": "2026-11-11T15:53:59Z"
     }
   ],
   "new_listings": [
     {
       "id": "100923415",
       "title": "2015 Volkswagen Golf GTI GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-754---8e1f13418d7f49358a2f89d01ddbaada/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/2015-volkswagen-golf-gti-gcc-specs-2-599---8e1f13418d7f49358a2f89d01ddbaada/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2015",
       "mileage": "155000",
-      "price": 33000,
+      "price": 29500,
       "first_seen": "2026-11-11T04:55:28Z"
     },
     {
@@ -7057,13 +7057,13 @@
     {
       "id": "100914954",
       "title": "VOLKSWAGEN GOLG GTI 2020 - TURBOCHARGED - PREMIUM INTERIOR - FULLY LOADED",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/volkswagen-golg-gti-2020-turbocharged-prem-2-491---6cea2ee6aee0452487922f1b3cbfb645/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/10/volkswagen-golg-gti-2020-turbocharged-prem-2-105---6cea2ee6aee0452487922f1b3cbfb645/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2020",
       "mileage": "74000",
-      "price": 49000,
+      "price": 43999,
       "first_seen": "2026-11-10T12:10:34Z"
     },
     {
@@ -7261,13 +7261,13 @@
     {
       "id": "100879554",
       "title": "Volkswagen Golf GTI Clubsport 2017 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-810---ea36f65bcbfe48c1938dee0b20444a39/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/07/volkswagen-golf-gti-clubsport-2017-gcc-spe-2-311---ea36f65bcbfe48c1938dee0b20444a39/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2017",
       "mileage": "148000",
-      "price": 38500,
+      "price": 35500,
       "first_seen": "2026-11-07T05:35:48Z"
     },
     {
@@ -8281,13 +8281,13 @@
     {
       "id": "100781325",
       "title": "ICAUR V27 FLAGSHIP 1.5T REEV AWD-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/10/30/icaur-v27-flagship-15t-reev-awd-2026-gcc-u-2-834---1b3748e7c03f4f0aad3e93860db656c7/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/10/30/icaur-v27-flagship-15t-reev-awd-2026-gcc-u-2-008---1b3748e7c03f4f0aad3e93860db656c7/",
       "category": "Used Cars",
       "make": "iCaur",
       "model": "V27",
       "year": "2026",
       "mileage": "8153",
-      "price": 145900,
+      "price": 143900,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8677,13 +8677,13 @@
     {
       "id": "100698271",
       "title": "Mercedes-AMG G 63 \u2013 Full Brabus Modified | Rocket Edition | Carbon Fiber Inside & Out",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/23/mercedes-amg-g-63-full-brabus-modified-roc-2-743---c0027cfae548451683c6a02ba79a1a5e/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/10/23/mercedes-amg-g-63-full-brabus-modified-roc-2-723---c0027cfae548451683c6a02ba79a1a5e/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "900 - Mercedes-AMG G 63",
       "year": "2023",
       "mileage": "29855",
-      "price": 735000,
+      "price": 714999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
