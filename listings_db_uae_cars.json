@@ -629305,8 +629305,8 @@
   },
   "100642144": {
     "id": "100642144",
-    "title": "AED 983/month | 0 Downpayment | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2025",
-    "price": 62699,
+    "title": "AED 936/month | 0 Downpayment | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2025",
+    "price": 59699,
     "make": "Geely",
     "model": "Okavango",
     "year": "2025",
@@ -629315,12 +629315,16 @@
     "fuel_type": "Petrol",
     "area": "Millennium Place Barsha Heights Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/aed-983month-0-downpayment-manufacturer-wa-2-586---29a1b73a646942e0892148452f1d0fde/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/aed-936month-0-downpayment-manufacturer-wa-2-883---29a1b73a646942e0892148452f1d0fde/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 62699,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 59699,
+        "date": "2026-11-12T16:37:31Z"
       }
     ],
     "date": "2026-10-18"
@@ -629349,8 +629353,8 @@
   },
   "100626260": {
     "id": "100626260",
-    "title": "AED 1,197/month | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2026",
-    "price": 76399,
+    "title": "AED 1,150/month | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2026",
+    "price": 73399,
     "make": "Geely",
     "model": "Okavango",
     "year": "2026",
@@ -629359,12 +629363,16 @@
     "fuel_type": "Petrol",
     "area": "Millennium Place Barsha Heights Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/17/aed-1197month-manufacturer-warranty-30-day-2-148---129fc357567f497fbc5536c389aba108/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/17/aed-1150month-manufacturer-warranty-30-day-2-248---129fc357567f497fbc5536c389aba108/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 76399,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 73399,
+        "date": "2026-11-12T16:37:31Z"
       }
     ],
     "date": "2026-10-17"
@@ -630650,7 +630658,7 @@
   "16957985": {
     "id": "16957985",
     "title": "BRABUS 800 - Mercedes AMG G 63 2021 | European Specs | 800 HP WIDESTAR",
-    "price": 449000,
+    "price": 440000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2021",
@@ -630659,12 +630667,16 @@
     "fuel_type": "Petrol",
     "area": "Business Bay",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/29/brabus-800-mercedes-amg-g-63-2021-european-2-243---cd766b6eb7ac4dcab4b4032b2e206be8/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/29/brabus-800-mercedes-amg-g-63-2021-european-2-598---cd766b6eb7ac4dcab4b4032b2e206be8/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 449000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 440000,
+        "date": "2026-11-12T16:37:31Z"
       }
     ],
     "date": "2026-10-02"
@@ -633122,5 +633134,181 @@
       }
     ],
     "date": "2026-11-11"
+  },
+  "100936354": {
+    "id": "100936354",
+    "title": "2,938 P.M |  Carmel | Perfect Condition! | 0% Downpayment",
+    "price": 149999,
+    "make": "Vanderhall",
+    "model": "Carmel",
+    "year": "2024",
+    "kilometers": "25",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/vanderhall/carmel/2026/11/12/2938-pm-carmel-perfect-condition-0-downpay-2-118---c44796f9cfa949b29fcc1231fc8a5722/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 149999,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100934253": {
+    "id": "100934253",
+    "title": "2011 Volvo C30 GCC Specs in Excellent Condition",
+    "price": 11000,
+    "make": "Volvo",
+    "model": "C30",
+    "year": "2011",
+    "kilometers": "229000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/c30/2026/11/11/2011-volvo-c30-gcc-specs-in-excellent-cond-2-711---86d6612dabb24d23813065b17f7cceee/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 11000,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "100937346": {
+    "id": "100937346",
+    "title": "2027 BRAND NEW SOUEAST S08 LUXURY I 7 SEATERS I 7 YEARS WARRANTY I 254HP l 390Nm",
+    "price": 99900,
+    "make": "Soueast",
+    "model": "S08",
+    "year": "2027",
+    "kilometers": "38",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/soueast/s08/2026/11/12/2027-brand-new-soueast-s08-luxury-i-7-seat-2-637---592763b1b06042af9bfda5005dfb7df4/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 99900,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100937331": {
+    "id": "100937331",
+    "title": "2027 BRAND NEW SOUEAST S08 LUXURY I 7 SEATERS I 7 YEARS WARRANTY I 254HP l 390Nm",
+    "price": 99900,
+    "make": "Soueast",
+    "model": "S08",
+    "year": "2027",
+    "kilometers": "42",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/soueast/s08/2026/11/12/2027-brand-new-soueast-s08-luxury-i-7-seat-2-621---9ac29f28244644d78269c41befe2d53a/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 99900,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100937163": {
+    "id": "100937163",
+    "title": "AED 1,900 monthly | 0% Down-Payment | BRAND NEW | Agency Warranty",
+    "price": 119750,
+    "make": "212",
+    "model": "T01",
+    "year": "2027",
+    "kilometers": "23",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/12/aed-1900-monthly-0-down-payment-brand-new--2-694---d1bd60980e4341a5b2190c562ee22c65/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 119750,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100937838": {
+    "id": "100937838",
+    "title": "GAC | Electric | AION ES | 2026 | Gargash Warranty | Service History",
+    "price": 69900,
+    "make": "AION",
+    "model": "ES",
+    "year": "2026",
+    "kilometers": "50",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Al Khabaisi",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/aion/es/2026/11/12/gac-electric-aion-es-2026-gargash-warranty-2-419---740b3917ebb344669410f576823ad949/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 69900,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100938202": {
+    "id": "100938202",
+    "title": "Authorized Dealer | SL 680 MONOGRAM SERIES | Up to 5 Years Service & Warranty* | GCC | VSB 37944",
+    "price": 899900,
+    "make": "Mercedes-Maybach",
+    "model": "SL-Class",
+    "year": "2026",
+    "kilometers": "9812",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Dubai Design District (D3)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/11/12/authorized-dealer-sl-680-monogram-series-u-2-530---94a557102ccb438c9c5677731e8251d6/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 899900,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100939656": {
+    "id": "100939656",
+    "title": "2022 BRABUS 800 Mercedes-AMG G 63 - European Specs",
+    "price": 1100000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2022",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/12/2022-brabus-800-mercedes-amg-g-63-european-2-267---96968045d8124ba0a8000948a4cda38d/",
+    "first_seen": "2026-11-12T16:37:31Z",
+    "prices": [
+      {
+        "price": 1100000,
+        "date": "2026-11-12T16:37:31Z"
+      }
+    ],
+    "date": "2026-11-12"
   }
 }

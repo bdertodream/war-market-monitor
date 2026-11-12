@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26516,
+  "total_tracked": 26524,
   "total_drops": 500,
-  "total_new": 26516,
-  "last_updated": "2026-11-12T05:57:32Z",
+  "total_new": 26524,
+  "last_updated": "2026-11-12T16:37:31Z",
   "drops": [
     {
       "id": "16973517",
@@ -7007,6 +7007,102 @@
   ],
   "new_listings": [
     {
+      "id": "100936354",
+      "title": "2,938 P.M |  Carmel | Perfect Condition! | 0% Downpayment",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/vanderhall/carmel/2026/11/12/2938-pm-carmel-perfect-condition-0-downpay-2-118---c44796f9cfa949b29fcc1231fc8a5722/",
+      "category": "Used Cars",
+      "make": "Vanderhall",
+      "model": "Carmel",
+      "year": "2024",
+      "mileage": "25",
+      "price": 149999,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100934253",
+      "title": "2011 Volvo C30 GCC Specs in Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/c30/2026/11/11/2011-volvo-c30-gcc-specs-in-excellent-cond-2-711---86d6612dabb24d23813065b17f7cceee/",
+      "category": "Used Cars",
+      "make": "Volvo",
+      "model": "C30",
+      "year": "2011",
+      "mileage": "229000",
+      "price": 11000,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100937346",
+      "title": "2027 BRAND NEW SOUEAST S08 LUXURY I 7 SEATERS I 7 YEARS WARRANTY I 254HP l 390Nm",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/soueast/s08/2026/11/12/2027-brand-new-soueast-s08-luxury-i-7-seat-2-637---592763b1b06042af9bfda5005dfb7df4/",
+      "category": "Used Cars",
+      "make": "Soueast",
+      "model": "S08",
+      "year": "2027",
+      "mileage": "38",
+      "price": 99900,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100937331",
+      "title": "2027 BRAND NEW SOUEAST S08 LUXURY I 7 SEATERS I 7 YEARS WARRANTY I 254HP l 390Nm",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/soueast/s08/2026/11/12/2027-brand-new-soueast-s08-luxury-i-7-seat-2-621---9ac29f28244644d78269c41befe2d53a/",
+      "category": "Used Cars",
+      "make": "Soueast",
+      "model": "S08",
+      "year": "2027",
+      "mileage": "42",
+      "price": 99900,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100937163",
+      "title": "AED 1,900 monthly | 0% Down-Payment | BRAND NEW | Agency Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/12/aed-1900-monthly-0-down-payment-brand-new--2-694---d1bd60980e4341a5b2190c562ee22c65/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2027",
+      "mileage": "23",
+      "price": 119750,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100937838",
+      "title": "GAC | Electric | AION ES | 2026 | Gargash Warranty | Service History",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/aion/es/2026/11/12/gac-electric-aion-es-2026-gargash-warranty-2-419---740b3917ebb344669410f576823ad949/",
+      "category": "Used Cars",
+      "make": "AION",
+      "model": "ES",
+      "year": "2026",
+      "mileage": "50",
+      "price": 69900,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100938202",
+      "title": "Authorized Dealer | SL 680 MONOGRAM SERIES | Up to 5 Years Service & Warranty* | GCC | VSB 37944",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/11/12/authorized-dealer-sl-680-monogram-series-u-2-530---94a557102ccb438c9c5677731e8251d6/",
+      "category": "Used Cars",
+      "make": "Mercedes-Maybach",
+      "model": "SL-Class",
+      "year": "2026",
+      "mileage": "9812",
+      "price": 899900,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
+      "id": "100939656",
+      "title": "2022 BRABUS 800 Mercedes-AMG G 63 - European Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/12/2022-brabus-800-mercedes-amg-g-63-european-2-267---96968045d8124ba0a8000948a4cda38d/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2022",
+      "mileage": "0",
+      "price": 1100000,
+      "first_seen": "2026-11-12T16:37:31Z"
+    },
+    {
       "id": "100931834",
       "title": "BRABUS 900 Mercedes-AMG G 63 2026 Japanese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-668---72f3bd866e5c4a4288f767cf9864fc0e/",
@@ -8076,14 +8172,14 @@
     },
     {
       "id": "100642144",
-      "title": "AED 983/month | 0 Downpayment | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/aed-983month-0-downpayment-manufacturer-wa-2-586---29a1b73a646942e0892148452f1d0fde/",
+      "title": "AED 936/month | 0 Downpayment | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2025",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/aed-936month-0-downpayment-manufacturer-wa-2-883---29a1b73a646942e0892148452f1d0fde/",
       "category": "Used Cars",
       "make": "Geely",
       "model": "Okavango",
       "year": "2025",
       "mileage": "73923",
-      "price": 62699,
+      "price": 59699,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8100,14 +8196,14 @@
     },
     {
       "id": "100626260",
-      "title": "AED 1,197/month | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2026",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/17/aed-1197month-manufacturer-warranty-30-day-2-148---129fc357567f497fbc5536c389aba108/",
+      "title": "AED 1,150/month | Manufacturer Warranty | 30 Day Return | GEELY OKAVANGO 2026",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/17/aed-1150month-manufacturer-warranty-30-day-2-248---129fc357567f497fbc5536c389aba108/",
       "category": "Used Cars",
       "make": "Geely",
       "model": "Okavango",
       "year": "2026",
       "mileage": "15082",
-      "price": 76399,
+      "price": 73399,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8797,13 +8893,13 @@
     {
       "id": "16957985",
       "title": "BRABUS 800 - Mercedes AMG G 63 2021 | European Specs | 800 HP WIDESTAR",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/29/brabus-800-mercedes-amg-g-63-2021-european-2-243---cd766b6eb7ac4dcab4b4032b2e206be8/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/08/29/brabus-800-mercedes-amg-g-63-2021-european-2-598---cd766b6eb7ac4dcab4b4032b2e206be8/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "800 - Mercedes AMG G 63",
       "year": "2021",
       "mileage": "106120",
-      "price": 449000,
+      "price": 440000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12908,102 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 185000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100731624",
-      "title": "TOYOTA LAND CRUISER VXR LUXURY 2022 GCC AL FUTTAIM SINGLE OWNER LOW MILEAGE IN MINT CONDITION",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/26/toyota-land-cruiser-vxr-luxury-2022-gcc-al-2-552---d8dd55143f264e189f49e01eaa8ddec6/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2022",
-      "mileage": "88000",
-      "price": 238000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100690295",
-      "title": "AED 2,850 // 20%DP // 2023 Mercedes-Benz E-Class E 200 2.0T V4 // GARGASH WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/22/aed-2850-20dp-2023-mercedes-benz-e-class-e-2-559---ba4c5591f9874d52abcf3da689141be7/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2023",
-      "mileage": "23500",
-      "price": 184000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100539704",
-      "title": "AED 2,350 // 20%DP // 2021 Porsche Macan Standard Edition 2.0L V4",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/macan/2026/10/09/aed-2350-20dp-2021-porsche-macan-standard--2-072---0290da63fecd414cac9e70871c32a4ff/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Macan",
-      "year": "2021",
-      "mileage": "63000",
-      "price": 149900,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100714761",
-      "title": "Mitsubishi Attrage GLX 2021 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/10/24/mitsubishi-attrage-glx-2021-gcc-specs-2-566---619ead5ea6e0425da1a88c6a43a9003e/",
-      "category": "Used Cars",
-      "make": "Mitsubishi",
-      "model": "Attrage",
-      "year": "2021",
-      "mileage": "138000",
-      "price": 13000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100731297",
-      "title": "2027 Toyota Prado Adventure GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/10/26/2027-toyota-prado-adventure-gcc-specs-2-769---623fa3b71105448c800d49ee97db7c47/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Prado",
-      "year": "2027",
-      "mileage": "0",
-      "price": 230000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100731191",
-      "title": "Toyota Land Cruiser VXR 2026 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/10/26/toyota-land-cruiser-vxr-2026-gcc-specs-2-241---e32df946505f4a69acf4f176d5f766e9/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2026",
-      "mileage": "0",
-      "price": 405000,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "100728112",
-      "title": "Chevrolet Captiva LTZ 2011 GCC Specs 7 Seater AWD Well Maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/10/25/chevrolet-captiva-ltz-2011-gcc-specs-7-sea-2-247---07c0ed03d1aa4021bac17d062d424458/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Captiva",
-      "year": "2011",
-      "mileage": "160000",
-      "price": 9500,
-      "first_seen": "2026-10-26T09:46:56Z"
-    },
-    {
-      "id": "16689302",
-      "title": "ROX 01 VIP 2026 EVS WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2025/12/30/rox-01-vip-2026-evs-warranty-2-422---ef9323862e4f4407b3ea531007f6d4d8/",
-      "category": "Used Cars",
-      "make": "Rox",
-      "model": "01",
-      "year": "2026",
-      "mileage": "0",
-      "price": 205000,
       "first_seen": "2026-10-26T09:46:56Z"
     }
   ]
