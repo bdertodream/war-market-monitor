@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 30989,
+  "total_tracked": 30992,
   "total_drops": 500,
-  "total_new": 30989,
+  "total_new": 30992,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,39 @@
   ],
   "new_listings": [
     {
+      "id": "18256755",
+      "title": "Brand New | Close to Pool | Jade Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/3/brand-new-close-to-pool-jade-layout-2-992207/",
+      "area": "The Valley by Emaar",
+      "category": "Townhouse",
+      "size": "2126",
+      "bedrooms": "3",
+      "price": 2750000,
+      "first_seen": "2026-11-13"
+    },
+    {
+      "id": "9842250",
+      "title": "Ready Fitted Office Space | For Sale | Negotiable",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/28/ready-fitted-office-space-for-sale-nego-2-186701/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Office",
+      "size": "1777",
+      "bedrooms": "",
+      "price": 2200000,
+      "first_seen": "2026-11-13"
+    },
+    {
+      "id": "9833450",
+      "title": "Prime Retail Shop | Binghatti Skyterraces | Pool & Skyline Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/9/4/prime-retail-shop-binghatti-skyterraces-2-336835/",
+      "area": "Motor City",
+      "category": "Shop",
+      "size": "1391",
+      "bedrooms": "",
+      "price": 5350479,
+      "first_seen": "2026-11-13"
+    },
+    {
       "id": "18250980",
       "title": "On the Golf Course | Area Expert | Vastu Compliant",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/2/on-the-golf-course-area-expert-vastu-co-2-339010/",
@@ -8957,7 +8990,7 @@
     },
     {
       "id": "18284661",
-      "title": "FULLY FURNISHED | MARINA & PARK VIEW | O . PRICE",
+      "title": "FULLY FURNISHED | MARINA & PARK VIEW | EXCLUSIVE",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/10/fully-furnished-marina-park-view-o-pric-2-715597/",
       "area": "Dubai Islands",
       "category": "Apartment",
@@ -12474,41 +12507,8 @@
       "bedrooms": "2",
       "price": 3950000,
       "first_seen": "2026-11-06"
-    },
-    {
-      "id": "18256969",
-      "title": "Affordable Studio | Excellent Investment | 9% ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/3/affordable-studio-excellent-investment--2-142564/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "400",
-      "bedrooms": "0",
-      "price": 554999,
-      "first_seen": "2026-11-06"
-    },
-    {
-      "id": "18233462",
-      "title": "At OP // Golf view // Pool View // Genuine",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/at-op-golf-view-pool-view-genuine-2-179915/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1086",
-      "bedrooms": "2",
-      "price": 2585000,
-      "first_seen": "2026-11-06"
-    },
-    {
-      "id": "18233820",
-      "title": "Single Row | Vacant | View Today",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/10/29/single-row-vacant-view-today-2-129943/",
-      "area": "Dubai Hills Estate",
-      "category": "Townhouse",
-      "size": "2734",
-      "bedrooms": "5",
-      "price": 6249000,
-      "first_seen": "2026-11-06"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-12"
+  "last_updated": "2026-11-13"
 }

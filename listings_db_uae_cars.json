@@ -633310,5 +633310,71 @@
       }
     ],
     "date": "2026-11-12"
+  },
+  "100942878": {
+    "id": "100942878",
+    "title": "Lepas L4 2027 | GCC specs | Brand New",
+    "price": 67999,
+    "make": "LEPAS",
+    "model": "L4",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lepas/l4/2026/11/12/lepas-l4-2027-gcc-specs-brand-new-2-287---b5a422e7d4b1474db1718d0cb1199c2f/",
+    "first_seen": "2026-11-13T00:55:20Z",
+    "prices": [
+      {
+        "price": 67999,
+        "date": "2026-11-13T00:55:20Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100943433": {
+    "id": "100943433",
+    "title": "2026 Cadillac Escalade IQ Sport GCC Specs",
+    "price": 500000,
+    "make": "Cadillac",
+    "model": "Escalade IQ",
+    "year": "2026",
+    "kilometers": "7000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade-iq/2026/11/12/2026-cadillac-escalade-iq-sport-gcc-specs-2-468---a858cc4f2ee941338368fdfe113b573f/",
+    "first_seen": "2026-11-13T00:55:20Z",
+    "prices": [
+      {
+        "price": 500000,
+        "date": "2026-11-13T00:55:20Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100945102": {
+    "id": "100945102",
+    "title": "Mitsubishi Fuso FM 12 TON GCC Specs Japanese | Euro V | 7.5L turbo PTO Equipped | Export Only",
+    "price": 189800,
+    "make": "Fuso",
+    "model": "FM",
+    "year": "2026",
+    "kilometers": "44",
+    "body_type": "Utility Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/fuso/fm/2026/11/13/mitsubishi-fuso-fm-12-ton-gcc-specs-japane-2-174---5f1a11c7caa14ca0a1e65ad677cebc8c/",
+    "first_seen": "2026-11-13T00:55:20Z",
+    "prices": [
+      {
+        "price": 189800,
+        "date": "2026-11-13T00:55:20Z"
+      }
+    ],
+    "date": "2026-11-13"
   }
 }
