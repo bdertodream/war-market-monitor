@@ -2,7 +2,7 @@
   "total_tracked": 26529,
   "total_drops": 500,
   "total_new": 26529,
-  "last_updated": "2026-11-13T11:54:04Z",
+  "last_updated": "2026-11-13T19:16:48Z",
   "drops": [
     {
       "id": "16973517",
@@ -7051,7 +7051,7 @@
       "model": "Escalade IQ",
       "year": "2026",
       "mileage": "7000",
-      "price": 500000,
+      "price": 525000,
       "first_seen": "2026-11-13T00:55:20Z"
     },
     {
@@ -7483,7 +7483,7 @@
       "model": "G318",
       "year": "2026",
       "mileage": "5000",
-      "price": 138000,
+      "price": 138500,
       "first_seen": "2026-11-05T19:34:00Z"
     },
     {
