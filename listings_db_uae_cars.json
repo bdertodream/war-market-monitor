@@ -631443,8 +631443,8 @@
   },
   "16933552": {
     "id": "16933552",
-    "title": "Volkswagen Golf GTI P2 2023 l GCC Specs l Original Paint l AED 1,665 / Monthly",
-    "price": 84999,
+    "title": "Volkswagen Golf GTI P2 2023 l GCC Specs l Original Paint l AED 1,625 / Monthly",
+    "price": 82999,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2023",
@@ -631453,12 +631453,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/06/volkswagen-golf-gti-p2-2023-l-gcc-specs-l--2-568---cdccebcaa169420ea99976b177e0d3f5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/06/volkswagen-golf-gti-p2-2023-l-gcc-specs-l--2-200---cdccebcaa169420ea99976b177e0d3f5/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 84999,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 82999,
+        "date": "2026-11-13T11:54:04Z"
       }
     ],
     "date": "2026-10-10"
@@ -633376,5 +633380,49 @@
       }
     ],
     "date": "2026-11-13"
+  },
+  "100949703": {
+    "id": "100949703",
+    "title": "2026 MERCEDES G63 BRABUS 800 Widestar | 800 HORSEPOWER | European Specs| 3 YEARS WARRANTY + SERVICE",
+    "price": 1875000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/13/2026-mercedes-g63-brabus-800-widestar-800--2-642---3ca6bf60523d40f78776abea305d48d1/",
+    "first_seen": "2026-11-13T11:54:04Z",
+    "prices": [
+      {
+        "price": 1875000,
+        "date": "2026-11-13T11:54:04Z"
+      }
+    ],
+    "date": "2026-11-13"
+  },
+  "100945068": {
+    "id": "100945068",
+    "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
+    "price": 145000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "11491",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "The Address Fountain Views 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-054---7b1f2df634484dd794f53e624768e2f0/",
+    "first_seen": "2026-11-13T11:54:04Z",
+    "prices": [
+      {
+        "price": 145000,
+        "date": "2026-11-13T11:54:04Z"
+      }
+    ],
+    "date": "2026-11-12"
   }
 }

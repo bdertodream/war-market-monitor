@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26527,
+  "total_tracked": 26529,
   "total_drops": 500,
-  "total_new": 26527,
-  "last_updated": "2026-11-13T00:55:20Z",
+  "total_new": 26529,
+  "last_updated": "2026-11-13T11:54:04Z",
   "drops": [
     {
       "id": "16973517",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100949703",
+      "title": "2026 MERCEDES G63 BRABUS 800 Widestar | 800 HORSEPOWER | European Specs| 3 YEARS WARRANTY + SERVICE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/13/2026-mercedes-g63-brabus-800-widestar-800--2-642---3ca6bf60523d40f78776abea305d48d1/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2026",
+      "mileage": "0",
+      "price": 1875000,
+      "first_seen": "2026-11-13T11:54:04Z"
+    },
+    {
+      "id": "100945068",
+      "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-054---7b1f2df634484dd794f53e624768e2f0/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "11491",
+      "price": 145000,
+      "first_seen": "2026-11-13T11:54:04Z"
+    },
+    {
       "id": "100942878",
       "title": "Lepas L4 2027 | GCC specs | Brand New",
       "url": "https://dubai.dubizzle.com/motors/used-cars/lepas/l4/2026/11/12/lepas-l4-2027-gcc-specs-brand-new-2-287---b5a422e7d4b1474db1718d0cb1199c2f/",
@@ -9348,14 +9372,14 @@
     },
     {
       "id": "16933552",
-      "title": "Volkswagen Golf GTI P2 2023 l GCC Specs l Original Paint l AED 1,665 / Monthly",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/06/volkswagen-golf-gti-p2-2023-l-gcc-specs-l--2-568---cdccebcaa169420ea99976b177e0d3f5/",
+      "title": "Volkswagen Golf GTI P2 2023 l GCC Specs l Original Paint l AED 1,625 / Monthly",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/06/volkswagen-golf-gti-p2-2023-l-gcc-specs-l--2-200---cdccebcaa169420ea99976b177e0d3f5/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2023",
       "mileage": "126100",
-      "price": 84999,
+      "price": 82999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 66000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100732896",
-      "title": "2026 Changan X5 Plus - fully loaded- electric tailgate",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/x5-plus/2026/10/26/2026-changan-x5-plus-fully-loaded-electric-2-785---705cc7d424af462596c3fed2cb930a44/",
-      "category": "Used Cars",
-      "make": "Changan",
-      "model": "X5 Plus",
-      "year": "2026",
-      "mileage": "0",
-      "price": 50000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "16911398",
-      "title": "MERCEDES V250 MAYBACH 2024 GCC FREE SERVICE 200K KM + WARRANTY MERCEDES GARGASH + ORGINAL PAINT 100%",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/07/16/mercedes-v250-maybach-2024-gcc-free-servic-2-398---dd394c8d452c4567b9559a1d32038547/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "V-Class",
-      "year": "2024",
-      "mileage": "53000",
-      "price": 234000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
