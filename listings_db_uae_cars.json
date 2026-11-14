@@ -607262,7 +607262,7 @@
   "100638669": {
     "id": "100638669",
     "title": "1500AED Monthly Payment With 0% Down Payment  2026 Geely Okavango GF+ GCC Specs",
-    "price": 77000,
+    "price": 75000,
     "make": "Geely",
     "model": "Okavango",
     "year": "2026",
@@ -607271,7 +607271,7 @@
     "fuel_type": "Petrol",
     "area": "Saad Suhail Salim Al Mukhaini Bahwan Building 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-945---99e2482b144e429b95194bfb3007cf44/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-805---99e2482b144e429b95194bfb3007cf44/",
     "first_seen": "2026-10-18T15:27:46Z",
     "prices": [
       {
@@ -607285,6 +607285,10 @@
       {
         "price": 77000,
         "date": "2026-11-01T14:47:00Z"
+      },
+      {
+        "price": 75000,
+        "date": "2026-11-14T17:42:51Z"
       }
     ],
     "date": "2026-10-18"
@@ -633440,5 +633444,27 @@
       }
     ],
     "date": "2026-11-12"
+  },
+  "100961527": {
+    "id": "100961527",
+    "title": "BAIC BJ40 2024 Luxury GCC Specs",
+    "price": 79000,
+    "make": "BAIC",
+    "model": "BJ40",
+    "year": "2024",
+    "kilometers": "29000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Desert Leaf 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/14/baic-bj40-2024-luxury-gcc-specs-2-031---9293c2e7106d4c6192e1a459bc9856eb/",
+    "first_seen": "2026-11-14T17:42:51Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-11-14T17:42:51Z"
+      }
+    ],
+    "date": "2026-11-14"
   }
 }

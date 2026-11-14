@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26529,
-  "total_drops": 501,
-  "total_new": 26529,
-  "last_updated": "2026-11-14T11:15:05Z",
+  "total_tracked": 26530,
+  "total_drops": 500,
+  "total_new": 26530,
+  "last_updated": "2026-11-14T17:42:51Z",
   "drops": [
     {
       "id": "16960754",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100961527",
+      "title": "BAIC BJ40 2024 Luxury GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/14/baic-bj40-2024-luxury-gcc-specs-2-031---9293c2e7106d4c6192e1a459bc9856eb/",
+      "category": "Used Cars",
+      "make": "BAIC",
+      "model": "BJ40",
+      "year": "2024",
+      "mileage": "29000",
+      "price": 79000,
+      "first_seen": "2026-11-14T17:42:51Z"
+    },
+    {
       "id": "100949703",
       "title": "2026 MERCEDES G63 BRABUS 800 Widestar | 800 HORSEPOWER | European Specs| 3 YEARS WARRANTY + SERVICE",
       "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/13/2026-mercedes-g63-brabus-800-widestar-800--2-642---3ca6bf60523d40f78776abea305d48d1/",
@@ -12992,18 +13004,6 @@
       "year": "2008",
       "mileage": "220000",
       "price": 20500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100732942",
-      "title": "Changan UNI-Z Premium 2026 - fully loaded - Autopark",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/uni-z/2026/10/26/changan-uni-z-premium-2026-fully-loaded-au-2-667---4af3b3c366354346af615f2b5bd89a1a/",
-      "category": "Used Cars",
-      "make": "Changan",
-      "model": "UNI-Z",
-      "year": "2026",
-      "mileage": "0",
-      "price": 66000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
