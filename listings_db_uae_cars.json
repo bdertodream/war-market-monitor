@@ -631926,7 +631926,7 @@
   "100797245": {
     "id": "100797245",
     "title": "2025 CITROEN C4 X LINE GCC SPEC LIKE BRAND NEW CONDITION",
-    "price": 48000,
+    "price": 45000,
     "make": "Citroen",
     "model": "C4 X",
     "year": "2025",
@@ -631935,7 +631935,7 @@
     "fuel_type": "Petrol",
     "area": "Al Mizhar 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-980---06a7d0467d02442badcde712995ddcc8/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c4-x/2026/11/01/2025-citroen-c4-x-line-gcc-spec-like-brand-2-966---06a7d0467d02442badcde712995ddcc8/",
     "first_seen": "2026-11-01T14:47:00Z",
     "prices": [
       {
@@ -631949,6 +631949,10 @@
       {
         "price": 48000,
         "date": "2026-11-09T04:53:25Z"
+      },
+      {
+        "price": 45000,
+        "date": "2026-11-14T11:15:05Z"
       }
     ],
     "date": "2026-11-01"
