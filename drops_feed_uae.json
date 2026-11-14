@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 31225,
+  "total_tracked": 31227,
   "total_drops": 500,
-  "total_new": 31225,
+  "total_new": 31227,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -8736,6 +8736,28 @@
       "first_seen": "2026-11-14"
     },
     {
+      "id": "17947049",
+      "title": "First Row | Lagoon View | Awaiting Keys | Call Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/2/prime-location-resort-living-ready-soon-2-285618/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "1551",
+      "bedrooms": "4",
+      "price": 2675000,
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "18306559",
+      "title": "NEAR TO METRO I POST HANDOVER PP I POOL VIEW I HIGH FLOOR I FUTURE CORRIDOR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/14/near-to-metro-i-post-handover-pp-i-pool-2-519995/",
+      "area": "Downtown Jebel Ali",
+      "category": "Apartment",
+      "size": "943",
+      "bedrooms": "2",
+      "price": 1549000,
+      "first_seen": "2026-11-14"
+    },
+    {
       "id": "18256755",
       "title": "Brand New | Close to Pool | Jade Layout",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/3/brand-new-close-to-pool-jade-layout-2-992207/",
@@ -11575,7 +11597,7 @@
     },
     {
       "id": "9843335",
-      "title": "Premium Office Spaces | Just 10% Down Payment | Prime Business Investment Opportunity | Al Khail Road View",
+      "title": "Premium Office | Just 10% Down Payment | Prime Business Investment Opportunity | Al Khail Road View",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/premium-office-spaces-just-10-down-paym-2-242988/",
       "area": "Al Jaddaf",
       "category": "Office",
@@ -11597,7 +11619,7 @@
     },
     {
       "id": "9843329",
-      "title": "No Commission | Pay 70% With Mortgage | Premium | Metro Connected | Soon Handover | 15 Mins To Downtown",
+      "title": "No Commission | Pay 70% With Mortgage | Premium | Metro Connected | Soon Handover | 15 Mins To Down",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/4/premium-metro-connected-office-with-soo-2-276664/",
       "area": "Culture Village (Jaddaf Waterfront)",
       "category": "Office",
@@ -11619,7 +11641,7 @@
     },
     {
       "id": "9843253",
-      "title": "\ud83c\udf7d\ufe0f F&B Approved | Zero Commission | Near Handover | Spacious Mezzanine | Prime Business Opportunity | High ROI Potential",
+      "title": "\ud83c\udf7d\ufe0f F&B Approved | Zero Commission | Near Handover | Spacious Mezzanine | Prime Business Opportunity",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/3/zero-commission-ready-soon-retail-space-2-615239/",
       "area": "Arjan",
       "category": "Shop",
@@ -12484,28 +12506,6 @@
       "size": "7000",
       "bedrooms": "6",
       "price": 32500000,
-      "first_seen": "2026-11-09"
-    },
-    {
-      "id": "18254088",
-      "title": "STUNNING TURNKEY HATTAN | LAKE AND SKYLINE VIEW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/3/stunning-turnkey-hattan-lake-and-skylin-2-133123/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "5500",
-      "bedrooms": "5",
-      "price": 30300000,
-      "first_seen": "2026-11-09"
-    },
-    {
-      "id": "18247442",
-      "title": "Furnished Dual Aspect Duplex | Burj Khalifa View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/2/furnished-dual-aspect-duplex-burj-khali-2-231692/",
-      "area": "Al Barari",
-      "category": "Apartment",
-      "size": "5614",
-      "bedrooms": "3",
-      "price": 24000000,
       "first_seen": "2026-11-09"
     }
   ],
