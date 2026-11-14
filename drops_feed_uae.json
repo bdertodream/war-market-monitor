@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 31068,
+  "total_tracked": 31070,
   "total_drops": 500,
-  "total_new": 31068,
+  "total_new": 31070,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "18234601",
+      "title": "Lowest Price | Motivated Seller | Burj Canal and Sea View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/29/3br-apartment-burj-canal-views-balcony--2-170023/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "1941",
+      "bedrooms": "3",
+      "price": 3599999,
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "9816414",
+      "title": "Prime Residential Plot | Al Furjan I Approved Drawings",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/13/prime-residential-plot-al-furjan-i-appr-2-665907/",
+      "area": "Al Furjan",
+      "category": "Land",
+      "size": "6559",
+      "bedrooms": "",
+      "price": 6000000,
+      "first_seen": "2026-11-14"
+    },
+    {
       "id": "18256755",
       "title": "Brand New | Close to Pool | Jade Layout",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/3/brand-new-close-to-pool-jade-layout-2-992207/",
@@ -7791,7 +7813,7 @@
     },
     {
       "id": "9844909",
-      "title": "FULLY EQUIPED | WITH RACKING SYSTEM | READY-TO-USE",
+      "title": "FULLY EQUIPPED | WITH RACKING SYSTEM | READY-TO-USE",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/11/13/fully-equiped-with-racking-system-ready-2-763809/",
       "area": "Dubai Industrial City",
       "category": "Warehouse",
@@ -12485,30 +12507,8 @@
       "bedrooms": "4",
       "price": 6999999,
       "first_seen": "2026-11-07"
-    },
-    {
-      "id": "18226255",
-      "title": "VASTU | EXTENDED | GREENERY BACKING | GARDEN HALL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/28/vastu-extended-greenery-backing-garden--2-132626/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "10636",
-      "bedrooms": "4",
-      "price": 23500000,
-      "first_seen": "2026-11-07"
-    },
-    {
-      "id": "18163684",
-      "title": "Renovated | Lake Facing | Modified Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/15/renovated-lake-facing-modified-layout-2-221816/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "10289",
-      "bedrooms": "4",
-      "price": 28500000,
-      "first_seen": "2026-11-07"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-13"
+  "last_updated": "2026-11-14"
 }
