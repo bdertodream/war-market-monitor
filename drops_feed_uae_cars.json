@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26530,
+  "total_tracked": 26534,
   "total_drops": 500,
-  "total_new": 26530,
-  "last_updated": "2026-11-14T23:40:29Z",
+  "total_new": 26534,
+  "last_updated": "2026-11-15T05:02:16Z",
   "drops": [
     {
       "id": "16960754",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "100963256",
+      "title": "0 First payment GTI  2022 with full service history available",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/0-first-payment-gti-2022-with-full-service-2-203---f91c84a581dc4f519a00086495c0d74b/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2022",
+      "mileage": "95172",
+      "price": 77999,
+      "first_seen": "2026-11-15T05:02:16Z"
+    },
+    {
+      "id": "100959356",
+      "title": "AED 1216/month | 2023 Volkswagen Golf GTI  | GCC Specs | Ref#546538",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/aed-1216month-2023-volkswagen-golf-gti-gcc-2-776---4f1a312a935f4d028dd98c2848383164/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "106663",
+      "price": 80000,
+      "first_seen": "2026-11-15T05:02:16Z"
+    },
+    {
+      "id": "100958673",
+      "title": "Volkswagen Golf 2.0L GTI 2024 P1 GCC Specs Very Good Condition (Under Warranty)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/volkswagen-golf-20l-gti-2024-p1-gcc-specs--2-140---14a3530b74624321b36e040a6f446b4c/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "35000",
+      "price": 92900,
+      "first_seen": "2026-11-15T05:02:16Z"
+    },
+    {
+      "id": "100943482",
+      "title": "2016 Volkswagen Golf GTI GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2016-volkswagen-golf-gti-gcc-specs-2-382---31d933b326894d9cbda00dc7a4a7f147/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2016",
+      "mileage": "198000",
+      "price": 22000,
+      "first_seen": "2026-11-15T05:02:16Z"
+    },
+    {
       "id": "100961527",
       "title": "BAIC BJ40 2024 Luxury GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/14/baic-bj40-2024-luxury-gcc-specs-2-031---9293c2e7106d4c6192e1a459bc9856eb/",
@@ -12956,54 +13004,6 @@
       "year": "2024",
       "mileage": "59000",
       "price": 97000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100733560",
-      "title": "2021 Rolls-Royce Ghost - European Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost/2026/10/26/2021-rolls-royce-ghost-european-specs-2-327---68b90f82500c4cfc8841f6f5feebb004/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Ghost",
-      "year": "2021",
-      "mileage": "14000",
-      "price": 850000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100733385",
-      "title": "PORSCHE CAYENNE COUPE | LOW MILEAGE | GCC | WARRANTY UNTIL | 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/10/26/porsche-cayenne-coupe-low-mileage-gcc-warr-2-140---bb9bbe5906294813a3ae302f290bf60e/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2024",
-      "mileage": "12600",
-      "price": 360000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100733344",
-      "title": "2018 Lexus LX 570 Signature GCC WITH SUPERCHARGER KIT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/10/26/2018-lexus-lx-570-signature-gcc-with-super-2-009---b37ddd5bd6644e33bf07d189cdf7ddd9/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LX-Series",
-      "year": "2018",
-      "mileage": "184000",
-      "price": 215000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100732861",
-      "title": "Urgent Sale \u203c\ufe0f : 2008 Lexus LS 460 Full Ultra Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/ls-series/2026/10/26/urgent-sale-2008-lexus-ls-460-full-ultra-k-2-052---9c439a1263d64520bb93b7013bb70033/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LS-Series",
-      "year": "2008",
-      "mileage": "220000",
-      "price": 20500,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

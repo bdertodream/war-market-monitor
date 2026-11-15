@@ -633466,5 +633466,93 @@
       }
     ],
     "date": "2026-11-14"
+  },
+  "100963256": {
+    "id": "100963256",
+    "title": "0 First payment GTI  2022 with full service history available",
+    "price": 77999,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2022",
+    "kilometers": "95172",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/0-first-payment-gti-2022-with-full-service-2-203---f91c84a581dc4f519a00086495c0d74b/",
+    "first_seen": "2026-11-15T05:02:16Z",
+    "prices": [
+      {
+        "price": 77999,
+        "date": "2026-11-15T05:02:16Z"
+      }
+    ],
+    "date": "2026-11-14"
+  },
+  "100959356": {
+    "id": "100959356",
+    "title": "AED 1216/month | 2023 Volkswagen Golf GTI  | GCC Specs | Ref#546538",
+    "price": 80000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "106663",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/aed-1216month-2023-volkswagen-golf-gti-gcc-2-776---4f1a312a935f4d028dd98c2848383164/",
+    "first_seen": "2026-11-15T05:02:16Z",
+    "prices": [
+      {
+        "price": 80000,
+        "date": "2026-11-15T05:02:16Z"
+      }
+    ],
+    "date": "2026-11-14"
+  },
+  "100958673": {
+    "id": "100958673",
+    "title": "Volkswagen Golf 2.0L GTI 2024 P1 GCC Specs Very Good Condition (Under Warranty)",
+    "price": 92900,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "35000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/volkswagen-golf-20l-gti-2024-p1-gcc-specs--2-140---14a3530b74624321b36e040a6f446b4c/",
+    "first_seen": "2026-11-15T05:02:16Z",
+    "prices": [
+      {
+        "price": 92900,
+        "date": "2026-11-15T05:02:16Z"
+      }
+    ],
+    "date": "2026-11-14"
+  },
+  "100943482": {
+    "id": "100943482",
+    "title": "2016 Volkswagen Golf GTI GCC Specs",
+    "price": 22000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2016",
+    "kilometers": "198000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2016-volkswagen-golf-gti-gcc-specs-2-382---31d933b326894d9cbda00dc7a4a7f147/",
+    "first_seen": "2026-11-15T05:02:16Z",
+    "prices": [
+      {
+        "price": 22000,
+        "date": "2026-11-15T05:02:16Z"
+      }
+    ],
+    "date": "2026-11-13"
   }
 }
