@@ -1,23 +1,9 @@
 {
   "total_tracked": 26534,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26534,
-  "last_updated": "2026-11-15T05:02:16Z",
+  "last_updated": "2026-11-15T15:24:34Z",
   "drops": [
-    {
-      "id": "16960754",
-      "title": "2020 GCC AUDI Q5 S-line / Original Paint, full agency service history",
-      "old_price": 79900,
-      "new_price": 69900,
-      "drop_pct": 12.5,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q5/2026/08/31/2020-gcc-audi-q5-s-line-original-paint-ful-2-494---04ce24ac89fe4e029f7d2d49389a9faf/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "Q5",
-      "year": "2020",
-      "mileage": "99600",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16951317",
       "title": "Pristine 2023 Kia Carnival DLX | GCC Specs | Family Luxury MPV",
@@ -7003,6 +6989,20 @@
       "year": "2025",
       "mileage": "7667",
       "date": "2026-11-14T11:15:05Z"
+    },
+    {
+      "id": "100945068",
+      "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
+      "old_price": 145000,
+      "new_price": 125000,
+      "drop_pct": 13.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-296---7b1f2df634484dd794f53e624768e2f0/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "11491",
+      "date": "2026-11-15T15:24:34Z"
     }
   ],
   "new_listings": [
@@ -7081,13 +7081,13 @@
     {
       "id": "100945068",
       "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-054---7b1f2df634484dd794f53e624768e2f0/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-296---7b1f2df634484dd794f53e624768e2f0/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2024",
       "mileage": "11491",
-      "price": 145000,
+      "price": 125000,
       "first_seen": "2026-11-13T11:54:04Z"
     },
     {
@@ -7999,7 +7999,7 @@
       "model": "O7 SHS",
       "year": "2027",
       "mileage": "0",
-      "price": 110900,
+      "price": 113900,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {

@@ -540372,7 +540372,7 @@
   "16976438": {
     "id": "16976438",
     "title": "2017 VOLKSWAGEN GTI 2.0L TURBO GCC SPECIFICATION WITH FULL AGENCY SERVICE IN EXCELLENT CONDITION",
-    "price": 47500,
+    "price": 45500,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2017",
@@ -540381,7 +540381,7 @@
     "fuel_type": "Petrol",
     "area": "Sunday Mega Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/14/2017-volkswagen-gti-20l-turbo-gcc-specific-2-082---5dab4375b60440228f7f250df9f7405f/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/09/14/2017-volkswagen-gti-20l-turbo-gcc-specific-2-268---5dab4375b60440228f7f250df9f7405f/",
     "first_seen": "2026-09-14T17:49:09Z",
     "prices": [
       {
@@ -540395,6 +540395,10 @@
       {
         "price": 47500,
         "date": "2026-11-01T14:47:00Z"
+      },
+      {
+        "price": 45500,
+        "date": "2026-11-15T15:24:34Z"
       }
     ],
     "date": "2026-09-14"
@@ -628752,7 +628756,7 @@
   "100662973": {
     "id": "100662973",
     "title": "OMODA O7 SHS 2027 Flagship - From Exclusive Distributor",
-    "price": 110900,
+    "price": 113900,
     "make": "OMODA",
     "model": "O7 SHS",
     "year": "2027",
@@ -628767,6 +628771,10 @@
       {
         "price": 110900,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 113900,
+        "date": "2026-11-15T15:24:34Z"
       }
     ],
     "date": "2026-10-21"
@@ -633426,7 +633434,7 @@
   "100945068": {
     "id": "100945068",
     "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
-    "price": 145000,
+    "price": 125000,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2024",
@@ -633435,12 +633443,16 @@
     "fuel_type": "Petrol",
     "area": "The Address Fountain Views 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-054---7b1f2df634484dd794f53e624768e2f0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-296---7b1f2df634484dd794f53e624768e2f0/",
     "first_seen": "2026-11-13T11:54:04Z",
     "prices": [
       {
         "price": 145000,
         "date": "2026-11-13T11:54:04Z"
+      },
+      {
+        "price": 125000,
+        "date": "2026-11-15T15:24:34Z"
       }
     ],
     "date": "2026-11-12"
