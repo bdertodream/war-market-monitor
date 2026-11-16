@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 31296,
+  "total_tracked": 31300,
   "total_drops": 500,
-  "total_new": 31296,
+  "total_new": 31300,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,50 @@
   ],
   "new_listings": [
     {
+      "id": "18310143",
+      "title": "Partially Upgraded | 2 Bed Plus Storage | Sea View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/16/partially-upgraded-2-bed-plus-storage-s-2-148186/",
+      "area": "Jumeirah Beach Residence (JBR)",
+      "category": "Apartment",
+      "size": "1263",
+      "bedrooms": "2",
+      "price": 2375000,
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "18286690",
+      "title": "New Benchmark of Architecture | Turnkey Villa",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/10/new-benchmark-of-architecture-turnkey-v-2-260638/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Villa",
+      "size": "7900",
+      "bedrooms": "5",
+      "price": 36995000,
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "18259266",
+      "title": "Lowest Price | Full Palm View | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/4/hot-deal-full-palm-view-vacant-2-154631/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "1170",
+      "bedrooms": "2",
+      "price": 5650000,
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "9843213",
+      "title": "Off-Plan Retail Units | Binghatti Spectre | Al Jaddaf",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/11/3/off-plan-retail-units-binghatti-spectre-2-211432/",
+      "area": "Al Jaddaf",
+      "category": "Shop",
+      "size": "2295",
+      "bedrooms": "",
+      "price": 8922999,
+      "first_seen": "2026-11-16"
+    },
+    {
       "id": "18093116",
       "title": "Private Terrace | Lagoon access | Negotiable",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/2/private-terrace-lagoon-access-negotiabl-2-320586/",
@@ -12463,52 +12507,8 @@
       "bedrooms": "4",
       "price": 4850000,
       "first_seen": "2026-11-10"
-    },
-    {
-      "id": "18215940",
-      "title": "Exclusive 1 Bed | Stunning View | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/26/exclusive-1-bed-stunning-view-vacant-2-211425/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "671",
-      "bedrooms": "1",
-      "price": 1900000,
-      "first_seen": "2026-11-10"
-    },
-    {
-      "id": "18058954",
-      "title": "Exclusive I Resale I Post Handover Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/25/exclusive-i-resale-i-post-handover-paym-2-492948/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "401",
-      "bedrooms": "0",
-      "price": 495000,
-      "first_seen": "2026-11-10"
-    },
-    {
-      "id": "18228556",
-      "title": "Unique Unit | Desirable Layout | Luxury Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/28/unique-unit-desirable-layout-luxury-liv-2-561081/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "1240",
-      "bedrooms": "2",
-      "price": 4195000,
-      "first_seen": "2026-11-10"
-    },
-    {
-      "id": "18227779",
-      "title": "High Floor Corner Unit| Partial Burj Khalifa &Canal View| Below Market Price",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/28/high-floor-corner-unit-partial-burj-kha-2-232222/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "1124",
-      "bedrooms": "2",
-      "price": 1800000,
-      "first_seen": "2026-11-10"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-15"
+  "last_updated": "2026-11-16"
 }

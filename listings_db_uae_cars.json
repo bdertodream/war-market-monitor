@@ -632016,7 +632016,7 @@
   "100340663": {
     "id": "100340663",
     "title": "SQ8 SPORTBACK E-TRON QUATTRO | 503 HP | AUDI WARRANTY AND SERVICE I AS BRAND NEW",
-    "price": 250000,
+    "price": 265000,
     "make": "Audi",
     "model": "SQ8 e-tron",
     "year": "2024",
@@ -632035,6 +632035,10 @@
       {
         "price": 250000,
         "date": "2026-11-05T00:45:35Z"
+      },
+      {
+        "price": 265000,
+        "date": "2026-11-16T05:00:04Z"
       }
     ],
     "date": "2026-10-24"
