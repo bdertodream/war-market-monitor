@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26534,
+  "total_tracked": 26541,
   "total_drops": 500,
-  "total_new": 26534,
-  "last_updated": "2026-11-16T05:00:04Z",
+  "total_new": 26541,
+  "last_updated": "2026-11-16T17:59:52Z",
   "drops": [
     {
       "id": "16951317",
@@ -7007,6 +7007,90 @@
   ],
   "new_listings": [
     {
+      "id": "100984345",
+      "title": "3,721 P.M | Cadillac Optiq 450 E4 | 0% Downpayment",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3721-pm-cadillac-optiq-450-e4-0-downpaymen-2-120---32f12c8883274ea98a79c2b6493ed64c/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "Optiq",
+      "year": "2025",
+      "mileage": "15000",
+      "price": 189999,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100980904",
+      "title": "AED 1,118/month | Okavango GF | Manufacturer Warranty | GCC Specs | REF#G02276",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/16/aed-1118month-okavango-gf-manufacturer-war-2-601---2c777d0ab79a476faf1c86f2fa3b24ed/",
+      "category": "Used Cars",
+      "make": "Geely",
+      "model": "Okavango",
+      "year": "2025",
+      "mileage": "43477",
+      "price": 68000,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100984704",
+      "title": "1,567 P.M |  BJ40 Plus | BAIC Warranty | 0% Downpayment",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40-plus/2026/11/16/1567-pm-bj40-plus-baic-warranty-0-downpaym-2-977---4ff78ee9945746919323aeeb575b5d35/",
+      "category": "Used Cars",
+      "make": "BAIC",
+      "model": "BJ40 Plus",
+      "year": "2023",
+      "mileage": "74000",
+      "price": 79999,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100987200",
+      "title": "2010 Cadillac CTS Premium Luxury GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts/2026/11/16/2010-cadillac-cts-premium-luxury-gcc-specs-2-124---57ba0c5cccbe47eeb8b4c67a9980d81c/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "CTS",
+      "year": "2010",
+      "mileage": "92000",
+      "price": 14000,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100986757",
+      "title": "AWD-1.5L TURBO-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/16/awd-15l-turbo-2026-gcc-under-warranty-0-dp-2-848---07caeb5ad7ad43babbac98bc9965dd5d/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "V27",
+      "year": "2026",
+      "mileage": "5690",
+      "price": 133900,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100982107",
+      "title": "iCaur V27 2027 Flagship GCC Specs Export Price @ 118,000 AED",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/16/icaur-v27-2027-flagship-gcc-specs-export-p-2-788---ead3d0a82f514c2bb014aa61f100a81e/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "V27",
+      "year": "2027",
+      "mileage": "0",
+      "price": 118000,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
+      "id": "100986433",
+      "title": "ICAUR 03T REEV LUXURY-AWD-1.5T-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/16/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-766---4188fab8365f48459ee08a129897e190/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "03T",
+      "year": "2026",
+      "mileage": "2439",
+      "price": 120900,
+      "first_seen": "2026-11-16T17:59:52Z"
+    },
+    {
       "id": "100963256",
       "title": "0 First payment GTI  2022 with full service history available",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/14/0-first-payment-gti-2022-with-full-service-2-203---f91c84a581dc4f519a00086495c0d74b/",
@@ -12920,90 +13004,6 @@
       "year": "2023",
       "mileage": "74000",
       "price": 255000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735454",
-      "title": "LUXURY R-DYNAMIC SE | RANGE ROVER VELAR P250 | PANORAMIC ROOF | 2.0L TURBO | 2019 GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/10/26/luxury-r-dynamic-se-range-rover-velar-p250-2-760---c7ad5e2b8ba0438b9455044d3ab8c3cc/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Velar",
-      "year": "2019",
-      "mileage": "117855",
-      "price": 84995,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735450",
-      "title": "JETOUR X90 PLUS LUXURY | 7-SEATER SUV | GCC SPECS | 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/x90-plus/2026/10/26/jetour-x90-plus-luxury-7-seater-suv-gcc-sp-2-041---86b2e1caa3f8468aa98292088266e918/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "X90 Plus",
-      "year": "2024",
-      "mileage": "102231",
-      "price": 59900,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735444",
-      "title": "2020 | Nissan | Patrol Platinum V8 \u2013 400 hp | GCC Spec | Full-Size Luxury",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/10/26/2020-nissan-patrol-platinum-v8-400-hp-gcc--2-423---8ae1522ed8c74633b751fa3f77890826/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2020",
-      "mileage": "74156",
-      "price": 129000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735359",
-      "title": "Petrol 6.2L 4WD AT 420hp GCC specs for 9,042.00 AED monthly",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/10/26/petrol-62l-4wd-at-420hp-gcc-specs-for-9042-2-498---f825b12a5e7542e0accc27e3f2fd109c/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": "2025",
-      "mileage": "13253",
-      "price": 629000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100734966",
-      "title": "Chevrolet Tahoe LS GCC 2021 Gray Clean Car",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/tahoe/2026/10/26/chevrolet-tahoe-ls-gcc-2021-gray-clean-car-2-843---ebcbef0be4594270a2ff9e89fa33ac23/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "year": "2021",
-      "mileage": "119000",
-      "price": 105000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100675421",
-      "title": "0% DP | AED 2,731 P/M | Agency Service And Warranty Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/10/21/0-dp-aed-2731-pm-agency-service-and-warran-2-967---aab0ba9a74534994afbaaf8255e74372/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "year": "2025",
-      "mileage": "13935",
-      "price": 199999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "16947338",
-      "title": "1900 AED/ Monthly With 0% Down Payment On bank Financing.",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carnival/2026/08/19/1900-aed-monthly-with-0-down-payment-on-ba-2-045---7f62ed19b3cc43a4849f45c87dd7518e/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Carnival",
-      "year": "2024",
-      "mileage": "59000",
-      "price": 97000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
