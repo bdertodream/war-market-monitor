@@ -633724,5 +633724,27 @@
       }
     ],
     "date": "2026-11-16"
+  },
+  "100989848": {
+    "id": "100989848",
+    "title": "FERRARI AMALF, 2027, FULL OPTIONS, ZERO KM",
+    "price": 1299000,
+    "make": "Ferrari",
+    "model": "Amalfi",
+    "year": "2027",
+    "kilometers": "55",
+    "body_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/amalfi/2026/11/17/ferrari-amalf-2027-full-options-zero-km-2-106---f1d143e690df4fb49da10d42bf1a3b5a/",
+    "first_seen": "2026-11-17T02:48:16Z",
+    "prices": [
+      {
+        "price": 1299000,
+        "date": "2026-11-17T02:48:16Z"
+      }
+    ],
+    "date": "2026-11-17"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26541,
+  "total_tracked": 26542,
   "total_drops": 500,
-  "total_new": 26541,
-  "last_updated": "2026-11-16T17:59:52Z",
+  "total_new": 26542,
+  "last_updated": "2026-11-17T02:48:16Z",
   "drops": [
     {
       "id": "16951317",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100989848",
+      "title": "FERRARI AMALF, 2027, FULL OPTIONS, ZERO KM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/amalfi/2026/11/17/ferrari-amalf-2027-full-options-zero-km-2-106---f1d143e690df4fb49da10d42bf1a3b5a/",
+      "category": "Used Cars",
+      "make": "Ferrari",
+      "model": "Amalfi",
+      "year": "2027",
+      "mileage": "55",
+      "price": 1299000,
+      "first_seen": "2026-11-17T02:48:16Z"
+    },
+    {
       "id": "100984345",
       "title": "3,721 P.M | Cadillac Optiq 450 E4 | 0% Downpayment",
       "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3721-pm-cadillac-optiq-450-e4-0-downpaymen-2-120---32f12c8883274ea98a79c2b6493ed64c/",
@@ -12992,18 +13004,6 @@
       "year": "2022",
       "mileage": "78770",
       "price": 114999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735612",
-      "title": "2023 Land Rover Defender 130 First Edition GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/10/26/2023-land-rover-defender-130-first-edition-2-264---656f2cf6d5884e17a7b2a3d12a8b7eca/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Defender",
-      "year": "2023",
-      "mileage": "74000",
-      "price": 255000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
