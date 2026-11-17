@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26543,
+  "total_tracked": 26545,
   "total_drops": 500,
-  "total_new": 26543,
-  "last_updated": "2026-11-17T12:49:02Z",
+  "total_new": 26545,
+  "last_updated": "2026-11-17T23:21:40Z",
   "drops": [
     {
       "id": "16951317",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "100998908",
+      "title": "Nissan Versa Note 2017 S Plus American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/versa-note/2026/11/17/nissan-versa-note-2017-s-plus-american-spe-2-139---8b44fd8c171a4ea8acefe71c72124901/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Versa Note",
+      "year": "2017",
+      "mileage": "201303",
+      "price": 13000,
+      "first_seen": "2026-11-17T23:21:40Z"
+    },
+    {
+      "id": "100998939",
+      "title": "2025 BYD Sealion 6 Comfort - Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/17/2025-byd-sealion-6-comfort-chinese-specs-2-769---899a38eff34c44b183cefaeb750bfe00/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2025",
+      "mileage": "0",
+      "price": 92499,
+      "first_seen": "2026-11-17T23:21:40Z"
+    },
+    {
       "id": "100995283",
       "title": "2019 BRABUS 800 Mercedes-AMG G 63 Japanese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/17/2019-brabus-800-mercedes-amg-g-63-japanese-2-910---8c9600cf85cb49948dee71c565c73ae9/",
@@ -7219,7 +7243,7 @@
       "model": "Escalade IQ",
       "year": "2026",
       "mileage": "7000",
-      "price": 525000,
+      "price": 550000,
       "first_seen": "2026-11-13T00:55:20Z"
     },
     {
@@ -7524,14 +7548,14 @@
     },
     {
       "id": "100885181",
-      "title": "Original BRABUS 900 Superblack Mercedes-AMG G 63 Limited Edition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/original-brabus-900-superblack-mercedes-am-2-960---0662ddffd27a4922a3c5c67180484dd4/",
+      "title": "2023 Original BRABUS 900 Superblack G63 Limited Edition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/2023-original-brabus-900-superblack-g63-li-2-645---0662ddffd27a4922a3c5c67180484dd4/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "900 - Mercedes-AMG G 63",
       "year": "2022",
       "mileage": "19900",
-      "price": 1299000,
+      "price": 1289000,
       "first_seen": "2026-11-07T14:42:38Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2016",
       "mileage": "164000",
       "price": 29999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100506907",
-      "title": "2026 Rox 01 VIP Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/10/06/2026-rox-01-vip-chinese-specs-2-321---1dec125383944ccfbbc57ea4b8468081/",
-      "category": "Used Cars",
-      "make": "Rox",
-      "model": "01",
-      "year": "2026",
-      "mileage": "0",
-      "price": 200000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735706",
-      "title": "2 original keys 2022 Land Rover Range Rover Sport HSE - American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/10/26/2-original-keys-2022-land-rover-range-rove-2-106---432087548e714b11b2921d08463e085a/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2022",
-      "mileage": "31000",
-      "price": 99000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

@@ -632659,8 +632659,8 @@
   },
   "100885181": {
     "id": "100885181",
-    "title": "Original BRABUS 900 Superblack Mercedes-AMG G 63 Limited Edition",
-    "price": 1299000,
+    "title": "2023 Original BRABUS 900 Superblack G63 Limited Edition",
+    "price": 1289000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2022",
@@ -632669,12 +632669,16 @@
     "fuel_type": "Petrol",
     "area": "Sheikh Zayed Road",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/original-brabus-900-superblack-mercedes-am-2-960---0662ddffd27a4922a3c5c67180484dd4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/07/2023-original-brabus-900-superblack-g63-li-2-645---0662ddffd27a4922a3c5c67180484dd4/",
     "first_seen": "2026-11-07T14:42:38Z",
     "prices": [
       {
         "price": 1299000,
         "date": "2026-11-07T14:42:38Z"
+      },
+      {
+        "price": 1289000,
+        "date": "2026-11-17T23:21:40Z"
       }
     ],
     "date": "2026-11-07"
@@ -633372,7 +633376,7 @@
   "100943433": {
     "id": "100943433",
     "title": "2026 Cadillac Escalade IQ Sport GCC Specs",
-    "price": 525000,
+    "price": 550000,
     "make": "Cadillac",
     "model": "Escalade IQ",
     "year": "2026",
@@ -633391,6 +633395,10 @@
       {
         "price": 525000,
         "date": "2026-11-13T19:16:48Z"
+      },
+      {
+        "price": 550000,
+        "date": "2026-11-17T23:21:40Z"
       }
     ],
     "date": "2026-11-12"
@@ -633769,6 +633777,50 @@
       {
         "price": 699000,
         "date": "2026-11-17T12:49:02Z"
+      }
+    ],
+    "date": "2026-11-17"
+  },
+  "100998908": {
+    "id": "100998908",
+    "title": "Nissan Versa Note 2017 S Plus American Specs",
+    "price": 13000,
+    "make": "Nissan",
+    "model": "Versa Note",
+    "year": "2017",
+    "kilometers": "201303",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai Industrial City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/versa-note/2026/11/17/nissan-versa-note-2017-s-plus-american-spe-2-139---8b44fd8c171a4ea8acefe71c72124901/",
+    "first_seen": "2026-11-17T23:21:40Z",
+    "prices": [
+      {
+        "price": 13000,
+        "date": "2026-11-17T23:21:40Z"
+      }
+    ],
+    "date": "2026-11-17"
+  },
+  "100998939": {
+    "id": "100998939",
+    "title": "2025 BYD Sealion 6 Comfort - Chinese Specs",
+    "price": 92499,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Jebel Ali Freezone",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/17/2025-byd-sealion-6-comfort-chinese-specs-2-769---899a38eff34c44b183cefaeb750bfe00/",
+    "first_seen": "2026-11-17T23:21:40Z",
+    "prices": [
+      {
+        "price": 92499,
+        "date": "2026-11-17T23:21:40Z"
       }
     ],
     "date": "2026-11-17"
