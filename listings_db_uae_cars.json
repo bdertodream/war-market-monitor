@@ -630630,7 +630630,7 @@
   "16970696": {
     "id": "16970696",
     "title": "Mercedes G-Class | Brabus G800 |Certified Original Build with Full Brabus Kit & Engine",
-    "price": 615000,
+    "price": 595000,
     "make": "BRABUS",
     "model": "800 - Mercedes AMG G 63",
     "year": "2021",
@@ -630639,12 +630639,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/09/mercedes-g-class-brabus-g800-certified-ori-2-327---2cf52b80cd7444108d0c0a9e2fe51016/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/09/mercedes-g-class-brabus-g800-certified-ori-2-487---2cf52b80cd7444108d0c0a9e2fe51016/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 615000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 595000,
+        "date": "2026-11-17T12:49:02Z"
       }
     ],
     "date": "2026-10-23"
@@ -633743,6 +633747,28 @@
       {
         "price": 1299000,
         "date": "2026-11-17T02:48:16Z"
+      }
+    ],
+    "date": "2026-11-17"
+  },
+  "100995283": {
+    "id": "100995283",
+    "title": "2019 BRABUS 800 Mercedes-AMG G 63 Japanese Specs",
+    "price": 699000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2019",
+    "kilometers": "33000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/17/2019-brabus-800-mercedes-amg-g-63-japanese-2-910---8c9600cf85cb49948dee71c565c73ae9/",
+    "first_seen": "2026-11-17T12:49:02Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-11-17T12:49:02Z"
       }
     ],
     "date": "2026-11-17"

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26542,
+  "total_tracked": 26543,
   "total_drops": 500,
-  "total_new": 26542,
-  "last_updated": "2026-11-17T02:48:16Z",
+  "total_new": 26543,
+  "last_updated": "2026-11-17T12:49:02Z",
   "drops": [
     {
       "id": "16951317",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100995283",
+      "title": "2019 BRABUS 800 Mercedes-AMG G 63 Japanese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/17/2019-brabus-800-mercedes-amg-g-63-japanese-2-910---8c9600cf85cb49948dee71c565c73ae9/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2019",
+      "mileage": "33000",
+      "price": 699000,
+      "first_seen": "2026-11-17T12:49:02Z"
+    },
+    {
       "id": "100989848",
       "title": "FERRARI AMALF, 2027, FULL OPTIONS, ZERO KM",
       "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/amalfi/2026/11/17/ferrari-amalf-2027-full-options-zero-km-2-106---f1d143e690df4fb49da10d42bf1a3b5a/",
@@ -9085,13 +9097,13 @@
     {
       "id": "16970696",
       "title": "Mercedes G-Class | Brabus G800 |Certified Original Build with Full Brabus Kit & Engine",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/09/mercedes-g-class-brabus-g800-certified-ori-2-327---2cf52b80cd7444108d0c0a9e2fe51016/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/09/09/mercedes-g-class-brabus-g800-certified-ori-2-487---2cf52b80cd7444108d0c0a9e2fe51016/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "800 - Mercedes AMG G 63",
       "year": "2021",
       "mileage": "72000",
-      "price": 615000,
+      "price": 595000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2022",
       "mileage": "31000",
       "price": 99000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100735697",
-      "title": "0% DP | AED 1,653 P/M | Agency Service And Warranty Package",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/10/26/0-dp-aed-1653-pm-agency-service-and-warran-2-196---4171ff8b57784f2a8c9d18e4c8e6531f/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLA-Class",
-      "year": "2022",
-      "mileage": "78770",
-      "price": 114999,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
