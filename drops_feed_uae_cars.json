@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26545,
-  "total_drops": 500,
-  "total_new": 26545,
-  "last_updated": "2026-11-17T23:21:40Z",
+  "total_tracked": 26546,
+  "total_drops": 501,
+  "total_new": 26546,
+  "last_updated": "2026-11-18T06:06:37Z",
   "drops": [
-    {
-      "id": "16951317",
-      "title": "Pristine 2023 Kia Carnival DLX | GCC Specs | Family Luxury MPV",
-      "old_price": 99500,
-      "new_price": 89999,
-      "drop_pct": 9.5,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/carnival/2026/08/22/pristine-2023-kia-carnival-dlx-gcc-specs-f-2-749---4a81270510a24b448a12de3b03a4cd88/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Carnival",
-      "year": "2023",
-      "mileage": "98000",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16910525",
       "title": "Renault Express Van 2023 | GCC Specs | Well Maintained | Ready for Work",
@@ -7003,9 +6989,35 @@
       "year": "2024",
       "mileage": "11491",
       "date": "2026-11-15T15:24:34Z"
+    },
+    {
+      "id": "16841727",
+      "title": "2021 Volkswagen Golf GTI | GCC Specs | Performance Hatchback",
+      "old_price": 80000,
+      "new_price": 70000,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/05/17/2021-volkswagen-golf-gti-gcc-specs-perform-2-700---10d803a15f14430fb40a422e63a0f8e0/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2021",
+      "mileage": "114000",
+      "date": "2026-11-18T06:06:37Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100991903",
+      "title": "AED 1,626/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1626m-0-dp-free-1-year-warranty-servic-2-367---6ea466201b6e4ce9abab9ae33e55dabe/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "73008",
+      "price": 106999,
+      "first_seen": "2026-11-18T06:06:37Z"
+    },
     {
       "id": "100998908",
       "title": "Nissan Versa Note 2017 S Plus American Specs",
@@ -7357,13 +7369,13 @@
     {
       "id": "100931834",
       "title": "BRABUS 900 Mercedes-AMG G 63 2026 Japanese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-668---72f3bd866e5c4a4288f767cf9864fc0e/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-007---72f3bd866e5c4a4288f767cf9864fc0e/",
       "category": "Used Cars",
       "make": "BRABUS",
       "model": "900 - Mercedes-AMG G 63",
       "year": "2026",
       "mileage": "0",
-      "price": 1200000,
+      "price": 1150000,
       "first_seen": "2026-11-11T22:30:43Z"
     },
     {
@@ -9625,13 +9637,13 @@
     {
       "id": "16841727",
       "title": "2021 Volkswagen Golf GTI | GCC Specs | Performance Hatchback",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/05/17/2021-volkswagen-golf-gti-gcc-specs-perform-2-538---10d803a15f14430fb40a422e63a0f8e0/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/05/17/2021-volkswagen-golf-gti-gcc-specs-perform-2-700---10d803a15f14430fb40a422e63a0f8e0/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2021",
       "mileage": "114000",
-      "price": 80000,
+      "price": 70000,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2018",
       "mileage": "165500",
       "price": 89500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736152",
-      "title": "2016 RANGE ROVER EVOQUE HSE | GCC SPECS | FULL OPTION | PANORAMIC ROOF",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/10/26/2016-range-rover-evoque-hse-gcc-specs-full-2-566---b7149997dff64b19a6a13a356959a1b3/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2016",
-      "mileage": "164000",
-      "price": 29999,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

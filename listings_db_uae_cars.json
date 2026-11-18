@@ -631578,7 +631578,7 @@
   "16841727": {
     "id": "16841727",
     "title": "2021 Volkswagen Golf GTI | GCC Specs | Performance Hatchback",
-    "price": 80000,
+    "price": 70000,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2021",
@@ -631587,12 +631587,16 @@
     "fuel_type": "Petrol",
     "area": "Al Qusais Residential Area",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/05/17/2021-volkswagen-golf-gti-gcc-specs-perform-2-538---10d803a15f14430fb40a422e63a0f8e0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/05/17/2021-volkswagen-golf-gti-gcc-specs-perform-2-700---10d803a15f14430fb40a422e63a0f8e0/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 80000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 70000,
+        "date": "2026-11-18T06:06:37Z"
       }
     ],
     "date": "2026-10-18"
@@ -633134,7 +633138,7 @@
   "100931834": {
     "id": "100931834",
     "title": "BRABUS 900 Mercedes-AMG G 63 2026 Japanese Specs",
-    "price": 1200000,
+    "price": 1150000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2026",
@@ -633143,12 +633147,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-668---72f3bd866e5c4a4288f767cf9864fc0e/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/11/brabus-900-mercedes-amg-g-63-2026-japanese-2-007---72f3bd866e5c4a4288f767cf9864fc0e/",
     "first_seen": "2026-11-11T22:30:43Z",
     "prices": [
       {
         "price": 1200000,
         "date": "2026-11-11T22:30:43Z"
+      },
+      {
+        "price": 1150000,
+        "date": "2026-11-18T06:06:37Z"
       }
     ],
     "date": "2026-11-11"
@@ -633821,6 +633829,28 @@
       {
         "price": 92499,
         "date": "2026-11-17T23:21:40Z"
+      }
+    ],
+    "date": "2026-11-17"
+  },
+  "100991903": {
+    "id": "100991903",
+    "title": "AED 1,626/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+    "price": 106999,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "73008",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Millennium Place Barsha Heights Hotel",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1626m-0-dp-free-1-year-warranty-servic-2-367---6ea466201b6e4ce9abab9ae33e55dabe/",
+    "first_seen": "2026-11-18T06:06:37Z",
+    "prices": [
+      {
+        "price": 106999,
+        "date": "2026-11-18T06:06:37Z"
       }
     ],
     "date": "2026-11-17"
