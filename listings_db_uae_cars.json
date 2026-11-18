@@ -628756,7 +628756,7 @@
   "100662973": {
     "id": "100662973",
     "title": "OMODA O7 SHS 2027 Flagship - From Exclusive Distributor",
-    "price": 113900,
+    "price": 112400,
     "make": "OMODA",
     "model": "O7 SHS",
     "year": "2027",
@@ -628765,7 +628765,7 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Al Khabaisi",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o7-shs/2026/10/20/omoda-o7-shs-2027-flagship-from-exclusive--2-211---7ba830d12e6641bfbc12ea36f19bc240/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o7-shs/2026/10/20/omoda-o7-shs-2027-flagship-from-exclusive--2-112---7ba830d12e6641bfbc12ea36f19bc240/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
@@ -628775,6 +628775,10 @@
       {
         "price": 113900,
         "date": "2026-11-15T15:24:34Z"
+      },
+      {
+        "price": 112400,
+        "date": "2026-11-18T16:59:09Z"
       }
     ],
     "date": "2026-10-21"
@@ -628804,7 +628808,7 @@
   "100349243": {
     "id": "100349243",
     "title": "OMODA O5 SHS 2027 Flagship - From Exclusive Distributor",
-    "price": 86900,
+    "price": 85400,
     "make": "OMODA",
     "model": "O5 SHS",
     "year": "2027",
@@ -628813,12 +628817,16 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Al Khabaisi",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o5-shs/2026/09/23/omoda-o5-shs-2027-flagship-from-exclusive--2-150---3df915fe0bad46359606c3450a7df16b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o5-shs/2026/09/23/omoda-o5-shs-2027-flagship-from-exclusive--2-304---3df915fe0bad46359606c3450a7df16b/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 86900,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 85400,
+        "date": "2026-11-18T16:59:09Z"
       }
     ],
     "date": "2026-10-21"
@@ -629660,7 +629668,7 @@
   "16943794": {
     "id": "16943794",
     "title": "2026-GCC-WARRANTY TILL MAR 2031- 60K SERVICE CONTRACT-0% DP-FINANCE 5 YEARS",
-    "price": 110900,
+    "price": 104900,
     "make": "Lynk & Co",
     "model": "03+",
     "year": "2026",
@@ -629669,12 +629677,16 @@
     "fuel_type": "Petrol",
     "area": "Al Khabaisi",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/03-plus/2026/08/15/2026-gcc-warranty-till-mar-2031-60k-servic-2-008---bb033db9821c4d05a8b93eea2e2adaf0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/03-plus/2026/08/15/2026-gcc-warranty-till-mar-2031-60k-servic-2-703---bb033db9821c4d05a8b93eea2e2adaf0/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 110900,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 104900,
+        "date": "2026-11-18T16:59:09Z"
       }
     ],
     "date": "2026-10-21"
@@ -633854,5 +633866,49 @@
       }
     ],
     "date": "2026-11-17"
+  },
+  "101004143": {
+    "id": "101004143",
+    "title": "212 T01 2025 Adventurer Chinese Specs",
+    "price": 115000,
+    "make": "212",
+    "model": "T01",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/18/212-t01-2025-adventurer-chinese-specs-2-184---ba3c630b035841d6ac8be65840bb0e2b/",
+    "first_seen": "2026-11-18T16:59:09Z",
+    "prices": [
+      {
+        "price": 115000,
+        "date": "2026-11-18T16:59:09Z"
+      }
+    ],
+    "date": "2026-11-18"
+  },
+  "101003794": {
+    "id": "101003794",
+    "title": "SWAP YOUR CAR for ONE OF TEN P900 ROCKET-2024 OFFICIAL MY (LAST UNIT OF PRODUCTION)",
+    "price": 3298000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2024",
+    "kilometers": "207",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/18/swap-your-car-for-one-of-ten-p900-rocket-2-2-609---3374dd6ffe684630a62b2aa9b2a16ec5/",
+    "first_seen": "2026-11-18T16:59:09Z",
+    "prices": [
+      {
+        "price": 3298000,
+        "date": "2026-11-18T16:59:09Z"
+      }
+    ],
+    "date": "2026-11-18"
   }
 }

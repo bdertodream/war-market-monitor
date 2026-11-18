@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26546,
+  "total_tracked": 26548,
   "total_drops": 501,
-  "total_new": 26546,
-  "last_updated": "2026-11-18T06:06:37Z",
+  "total_new": 26548,
+  "last_updated": "2026-11-18T16:59:09Z",
   "drops": [
-    {
-      "id": "16910525",
-      "title": "Renault Express Van 2023 | GCC Specs | Well Maintained | Ready for Work",
-      "old_price": 34000,
-      "new_price": 29999,
-      "drop_pct": 11.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/express-van/2026/07/15/renault-express-van-2023-gcc-specs-well-ma-2-828---31cfb03b1a904af0aed20f4f540a8077/",
-      "category": "Used Cars",
-      "make": "Renault",
-      "model": "Express Van",
-      "year": "2023",
-      "mileage": "123000",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16975190",
       "title": "VOLKSWAGEN TERAMOUNT COMFORT LINE # 2023 GCC # AGENCY MAINTAINED CAR FOR SALE.",
@@ -7003,9 +6989,47 @@
       "year": "2021",
       "mileage": "114000",
       "date": "2026-11-18T06:06:37Z"
+    },
+    {
+      "id": "16943794",
+      "title": "2026-GCC-WARRANTY TILL MAR 2031- 60K SERVICE CONTRACT-0% DP-FINANCE 5 YEARS",
+      "old_price": 110900,
+      "new_price": 104900,
+      "drop_pct": 5.4,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/03-plus/2026/08/15/2026-gcc-warranty-till-mar-2031-60k-servic-2-703---bb033db9821c4d05a8b93eea2e2adaf0/",
+      "category": "Used Cars",
+      "make": "Lynk & Co",
+      "model": "03+",
+      "year": "2026",
+      "mileage": "8057",
+      "date": "2026-11-18T16:59:09Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "101004143",
+      "title": "212 T01 2025 Adventurer Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/18/212-t01-2025-adventurer-chinese-specs-2-184---ba3c630b035841d6ac8be65840bb0e2b/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2025",
+      "mileage": "0",
+      "price": 115000,
+      "first_seen": "2026-11-18T16:59:09Z"
+    },
+    {
+      "id": "101003794",
+      "title": "SWAP YOUR CAR for ONE OF TEN P900 ROCKET-2024 OFFICIAL MY (LAST UNIT OF PRODUCTION)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/18/swap-your-car-for-one-of-ten-p900-rocket-2-2-609---3374dd6ffe684630a62b2aa9b2a16ec5/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2024",
+      "mileage": "207",
+      "price": 3298000,
+      "first_seen": "2026-11-18T16:59:09Z"
+    },
     {
       "id": "100991903",
       "title": "AED 1,626/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
@@ -8137,13 +8161,13 @@
     {
       "id": "100662973",
       "title": "OMODA O7 SHS 2027 Flagship - From Exclusive Distributor",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o7-shs/2026/10/20/omoda-o7-shs-2027-flagship-from-exclusive--2-211---7ba830d12e6641bfbc12ea36f19bc240/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o7-shs/2026/10/20/omoda-o7-shs-2027-flagship-from-exclusive--2-112---7ba830d12e6641bfbc12ea36f19bc240/",
       "category": "Used Cars",
       "make": "OMODA",
       "model": "O7 SHS",
       "year": "2027",
       "mileage": "0",
-      "price": 113900,
+      "price": 112400,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8161,13 +8185,13 @@
     {
       "id": "100349243",
       "title": "OMODA O5 SHS 2027 Flagship - From Exclusive Distributor",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o5-shs/2026/09/23/omoda-o5-shs-2027-flagship-from-exclusive--2-150---3df915fe0bad46359606c3450a7df16b/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/omoda/o5-shs/2026/09/23/omoda-o5-shs-2027-flagship-from-exclusive--2-304---3df915fe0bad46359606c3450a7df16b/",
       "category": "Used Cars",
       "make": "OMODA",
       "model": "O5 SHS",
       "year": "2027",
       "mileage": "0",
-      "price": 86900,
+      "price": 85400,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -8617,13 +8641,13 @@
     {
       "id": "16943794",
       "title": "2026-GCC-WARRANTY TILL MAR 2031- 60K SERVICE CONTRACT-0% DP-FINANCE 5 YEARS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/03-plus/2026/08/15/2026-gcc-warranty-till-mar-2031-60k-servic-2-008---bb033db9821c4d05a8b93eea2e2adaf0/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lynk-co/03-plus/2026/08/15/2026-gcc-warranty-till-mar-2031-60k-servic-2-703---bb033db9821c4d05a8b93eea2e2adaf0/",
       "category": "Used Cars",
       "make": "Lynk & Co",
       "model": "03+",
       "year": "2026",
       "mileage": "8057",
-      "price": 110900,
+      "price": 104900,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2014",
       "mileage": "268504",
       "price": 59500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736338",
-      "title": "2018 RANGE ROVER SPORT SE V6 SUPERCHARGED | GCC | AL TAYER HISTORY | 1 YEAR ENGINE & GEAR WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/10/26/2018-range-rover-sport-se-v6-supercharged--2-401---d9110d79be61436a8461ef3abf415816/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2018",
-      "mileage": "140500",
-      "price": 79500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736274",
-      "title": "2018 Range Rover Vogue HSE | GCC | Full Options | 1 Owner | Full Service History | 1 Year Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/10/26/2018-range-rover-vogue-hse-gcc-full-option-2-456---f659e3f6690e49e49e75830bcd44aec1/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover",
-      "year": "2018",
-      "mileage": "165500",
-      "price": 89500,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
