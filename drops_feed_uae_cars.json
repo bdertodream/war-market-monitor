@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26549,
+  "total_tracked": 26553,
   "total_drops": 500,
-  "total_new": 26549,
-  "last_updated": "2026-11-19T12:32:43Z",
+  "total_new": 26553,
+  "last_updated": "2026-11-19T22:56:03Z",
   "drops": [
     {
       "id": "16975190",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "101010675",
+      "title": "2025 Cadillac Escalade IQ Premium Sport | American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade-iq/2026/11/18/2025-cadillac-escalade-iq-premium-sport-am-2-257---c9cb8f921bf942ba9241b6194d54db36/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "Escalade IQ",
+      "year": "2025",
+      "mileage": "32000",
+      "price": 500000,
+      "first_seen": "2026-11-19T22:56:03Z"
+    },
+    {
+      "id": "101018318",
+      "title": "Audi SQ8 e-tron Sportback Progress S 2024 (REF #47857) GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/11/19/audi-sq8-e-tron-sportback-progress-s-2024--2-482---37a45837e6e14075a33177cf67643113/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "SQ8 e-tron",
+      "year": "2024",
+      "mileage": "23450",
+      "price": 258000,
+      "first_seen": "2026-11-19T22:56:03Z"
+    },
+    {
+      "id": "101017827",
+      "title": "Foton Toano S 16-Seater High-Roof Minibus | 2024 Model | Only 60,000 km",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/foton/toano/2026/11/19/foton-toano-s-16-seater-high-roof-minibus--2-824---e008600fe550479eb0800a4eda929d9b/",
+      "category": "Used Cars",
+      "make": "Foton",
+      "model": "Toano",
+      "year": "2024",
+      "mileage": "60773",
+      "price": 63000,
+      "first_seen": "2026-11-19T22:56:03Z"
+    },
+    {
+      "id": "101018156",
+      "title": "2025 Ford Bronco Sport-Excellent Condition-Bank Finance Available",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/11/19/2025-ford-bronco-sport-excellent-condition-2-698---bf60df7c7d9d465fb4590905956e64ac/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "year": "2025",
+      "mileage": "1000",
+      "price": 78000,
+      "first_seen": "2026-11-19T22:56:03Z"
+    },
+    {
       "id": "100985889",
       "title": "2024 VW Golf GTI P2 | Panoramic Roof | Original Paint | Accident Free | GCC | 68K km",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/16/2024-vw-golf-gti-p2-panoramic-roof-origina-2-501---6620347b90fd450a87487a45d67b0193/",
@@ -12956,54 +13004,6 @@
       "year": "2022",
       "mileage": "66000",
       "price": 179999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100527173",
-      "title": "3,183 P.M |  X7 xDrive40i | 0% Downpayment | Service History!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/10/08/3183-pm-x7-xdrive40i-0-downpayment-service-2-054---86f17b3cb1a44cfda28af8a1f69dff8d/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X7",
-      "year": "2021",
-      "mileage": "111000",
-      "price": 162499,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736455",
-      "title": "Nissan X-Terra Titanium 2024 | GCC | 2WD | Full PPF | Warranty & Service Package | 44K KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/10/26/nissan-x-terra-titanium-2024-gcc-2wd-full--2-788---95543e1f3c9446a587290c804fc3990b/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Xterra",
-      "year": "2024",
-      "mileage": "44336",
-      "price": 86500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100677783",
-      "title": "2,742 P.M |  Range Rover Velar P250 R-Dynamic SE | 0% Downpayment | Immaculate Condition!",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/10/21/2742-pm-range-rover-velar-p250-r-dynamic-s-2-948---02c2a3d76fc04a7e83fbf4dc67d556b5/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Velar",
-      "year": "2020",
-      "mileage": "54000",
-      "price": 139999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100627951",
-      "title": "2,546 P.M |  Range Rover Evoque P250 SE R Dynamic | 0% Downpayment | UNDER WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/10/17/2546-pm-range-rover-evoque-p250-se-r-dynam-2-950---e494571af95f4a04af013df40ccd01cc/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2023",
-      "mileage": "35000",
-      "price": 129999,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

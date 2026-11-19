@@ -633940,5 +633940,93 @@
       }
     ],
     "date": "2026-11-16"
+  },
+  "101010675": {
+    "id": "101010675",
+    "title": "2025 Cadillac Escalade IQ Premium Sport | American Specs",
+    "price": 500000,
+    "make": "Cadillac",
+    "model": "Escalade IQ",
+    "year": "2025",
+    "kilometers": "32000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "District One Villas",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade-iq/2026/11/18/2025-cadillac-escalade-iq-premium-sport-am-2-257---c9cb8f921bf942ba9241b6194d54db36/",
+    "first_seen": "2026-11-19T22:56:03Z",
+    "prices": [
+      {
+        "price": 500000,
+        "date": "2026-11-19T22:56:03Z"
+      }
+    ],
+    "date": "2026-11-19"
+  },
+  "101018318": {
+    "id": "101018318",
+    "title": "Audi SQ8 e-tron Sportback Progress S 2024 (REF #47857) GCC Specs",
+    "price": 258000,
+    "make": "Audi",
+    "model": "SQ8 e-tron",
+    "year": "2024",
+    "kilometers": "23450",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/11/19/audi-sq8-e-tron-sportback-progress-s-2024--2-482---37a45837e6e14075a33177cf67643113/",
+    "first_seen": "2026-11-19T22:56:03Z",
+    "prices": [
+      {
+        "price": 258000,
+        "date": "2026-11-19T22:56:03Z"
+      }
+    ],
+    "date": "2026-11-19"
+  },
+  "101017827": {
+    "id": "101017827",
+    "title": "Foton Toano S 16-Seater High-Roof Minibus | 2024 Model | Only 60,000 km",
+    "price": 63000,
+    "make": "Foton",
+    "model": "Toano",
+    "year": "2024",
+    "kilometers": "60773",
+    "body_type": "Van",
+    "fuel_type": "Diesel",
+    "area": "Corniche Deira",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/foton/toano/2026/11/19/foton-toano-s-16-seater-high-roof-minibus--2-824---e008600fe550479eb0800a4eda929d9b/",
+    "first_seen": "2026-11-19T22:56:03Z",
+    "prices": [
+      {
+        "price": 63000,
+        "date": "2026-11-19T22:56:03Z"
+      }
+    ],
+    "date": "2026-11-19"
+  },
+  "101018156": {
+    "id": "101018156",
+    "title": "2025 Ford Bronco Sport-Excellent Condition-Bank Finance Available",
+    "price": 78000,
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "year": "2025",
+    "kilometers": "1000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco-sport/2026/11/19/2025-ford-bronco-sport-excellent-condition-2-698---bf60df7c7d9d465fb4590905956e64ac/",
+    "first_seen": "2026-11-19T22:56:03Z",
+    "prices": [
+      {
+        "price": 78000,
+        "date": "2026-11-19T22:56:03Z"
+      }
+    ],
+    "date": "2026-11-19"
   }
 }
