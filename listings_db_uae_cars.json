@@ -632878,7 +632878,7 @@
   "100908882": {
     "id": "100908882",
     "title": "ICAUR 03T REEV LUXURY-AWD-1.5T-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
-    "price": 120900,
+    "price": 115900,
     "make": "iCaur",
     "model": "03T",
     "year": "2026",
@@ -632887,12 +632887,16 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Al Quoz 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-121---3c0d0765f30f40f4a5520c837e6ca3aa/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-324---3c0d0765f30f40f4a5520c837e6ca3aa/",
     "first_seen": "2026-11-09T18:23:28Z",
     "prices": [
       {
         "price": 120900,
         "date": "2026-11-09T18:23:28Z"
+      },
+      {
+        "price": 115900,
+        "date": "2026-11-19T12:32:43Z"
       }
     ],
     "date": "2026-11-09"
@@ -633847,8 +633851,8 @@
   },
   "100991903": {
     "id": "100991903",
-    "title": "AED 1,626/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
-    "price": 106999,
+    "title": "AED 1,602/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+    "price": 105399,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2023",
@@ -633857,12 +633861,16 @@
     "fuel_type": "Petrol",
     "area": "Millennium Place Barsha Heights Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1626m-0-dp-free-1-year-warranty-servic-2-367---6ea466201b6e4ce9abab9ae33e55dabe/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1602m-0-dp-free-1-year-warranty-servic-2-851---6ea466201b6e4ce9abab9ae33e55dabe/",
     "first_seen": "2026-11-18T06:06:37Z",
     "prices": [
       {
         "price": 106999,
         "date": "2026-11-18T06:06:37Z"
+      },
+      {
+        "price": 105399,
+        "date": "2026-11-19T12:32:43Z"
       }
     ],
     "date": "2026-11-17"
@@ -633910,5 +633918,27 @@
       }
     ],
     "date": "2026-11-18"
+  },
+  "100985889": {
+    "id": "100985889",
+    "title": "2024 VW Golf GTI P2 | Panoramic Roof | Original Paint | Accident Free | GCC | 68K km",
+    "price": 89000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2024",
+    "kilometers": "68000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Oud Al Muteena",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/16/2024-vw-golf-gti-p2-panoramic-roof-origina-2-501---6620347b90fd450a87487a45d67b0193/",
+    "first_seen": "2026-11-19T12:32:43Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-11-19T12:32:43Z"
+      }
+    ],
+    "date": "2026-11-16"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26548,
+  "total_tracked": 26549,
   "total_drops": 500,
-  "total_new": 26548,
-  "last_updated": "2026-11-19T01:44:51Z",
+  "total_new": 26549,
+  "last_updated": "2026-11-19T12:32:43Z",
   "drops": [
     {
       "id": "16975190",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "100985889",
+      "title": "2024 VW Golf GTI P2 | Panoramic Roof | Original Paint | Accident Free | GCC | 68K km",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/16/2024-vw-golf-gti-p2-panoramic-roof-origina-2-501---6620347b90fd450a87487a45d67b0193/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "68000",
+      "price": 89000,
+      "first_seen": "2026-11-19T12:32:43Z"
+    },
+    {
       "id": "101004143",
       "title": "212 T01 2025 Adventurer Chinese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/18/212-t01-2025-adventurer-chinese-specs-2-184---ba3c630b035841d6ac8be65840bb0e2b/",
@@ -7032,14 +7044,14 @@
     },
     {
       "id": "100991903",
-      "title": "AED 1,626/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1626m-0-dp-free-1-year-warranty-servic-2-367---6ea466201b6e4ce9abab9ae33e55dabe/",
+      "title": "AED 1,602/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1602m-0-dp-free-1-year-warranty-servic-2-851---6ea466201b6e4ce9abab9ae33e55dabe/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2023",
       "mileage": "73008",
-      "price": 106999,
+      "price": 105399,
       "first_seen": "2026-11-18T06:06:37Z"
     },
     {
@@ -7537,13 +7549,13 @@
     {
       "id": "100908882",
       "title": "ICAUR 03T REEV LUXURY-AWD-1.5T-2026-GCC-UNDER WARRANTY-0% DP- FINANCE 5 YEARS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-121---3c0d0765f30f40f4a5520c837e6ca3aa/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/09/icaur-03t-reev-luxury-awd-15t-2026-gcc-und-2-324---3c0d0765f30f40f4a5520c837e6ca3aa/",
       "category": "Used Cars",
       "make": "iCaur",
       "model": "03T",
       "year": "2026",
       "mileage": "5528",
-      "price": 120900,
+      "price": 115900,
       "first_seen": "2026-11-09T18:23:28Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2023",
       "mileage": "35000",
       "price": 129999,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736393",
-      "title": "2014 Ford F-150 Raptor | Original ROUSH Supercharged | 6.2L V8 | GCC | AED 59,500",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/10/26/2014-ford-f-150-raptor-original-roush-supe-2-580---cab9fbe0513844bca2526e7bbc5da3a0/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-150",
-      "year": "2014",
-      "mileage": "268504",
-      "price": 59500,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
