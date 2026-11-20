@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26553,
+  "total_tracked": 26557,
   "total_drops": 500,
-  "total_new": 26553,
-  "last_updated": "2026-11-20T05:55:47Z",
+  "total_new": 26557,
+  "last_updated": "2026-11-20T16:44:37Z",
   "drops": [
     {
       "id": "16975190",
@@ -7007,6 +7007,54 @@
   ],
   "new_listings": [
     {
+      "id": "101025337",
+      "title": "2025 Audi E5 Sportback - Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/e5/2026/11/20/2025-audi-e5-sportback-chinese-specs-2-032---cb50c2b2486744f9a7bc810be7dd2f6f/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "E5",
+      "year": "2025",
+      "mileage": "0",
+      "price": 270000,
+      "first_seen": "2026-11-20T16:44:37Z"
+    },
+    {
+      "id": "101028375",
+      "title": "2027 iCaur V27 Flagship GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/20/2027-icaur-v27-flagship-gcc-specs-2-718---5dfced1ec6e94d998a84eb52e0c21614/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "V27",
+      "year": "2027",
+      "mileage": "0",
+      "price": 130000,
+      "first_seen": "2026-11-20T16:44:37Z"
+    },
+    {
+      "id": "101028379",
+      "title": "2019 BRABUS 800 Mercedes AMG G 63 Japanese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/20/2019-brabus-800-mercedes-amg-g-63-japanese-2-991---ee92eb6647364250b4b2960da4e8451e/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2019",
+      "mileage": "32000",
+      "price": 589000,
+      "first_seen": "2026-11-20T16:44:37Z"
+    },
+    {
+      "id": "101030622",
+      "title": "2023 Volkswagen Golf GTI P1 GCC Specs, 2.0 and Turbo, Mint Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/20/2023-volkswagen-golf-gti-p1-gcc-specs-20-a-2-880---4480302489b943cf82a6c101cda5b89a/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "81000",
+      "price": 83000,
+      "first_seen": "2026-11-20T16:44:37Z"
+    },
+    {
       "id": "101010675",
       "title": "2025 Cadillac Escalade IQ Premium Sport | American Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade-iq/2026/11/18/2025-cadillac-escalade-iq-premium-sport-am-2-257---c9cb8f921bf942ba9241b6194d54db36/",
@@ -12956,54 +13004,6 @@
       "year": "2014",
       "mileage": "157313",
       "price": 22000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736619",
-      "title": "Chevrolet Camaro 2SS 2017 | ZL1 Kit | V8 | 88K KM | RTA Passed",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/camaro/2026/10/26/chevrolet-camaro-2ss-2017-zl1-kit-v8-88k-k-2-652---5b2480f114704686809074273f212288/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "year": "2017",
-      "mileage": "88000",
-      "price": 49500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736549",
-      "title": "2013 Jeep Wrangler Sport GCC Specs in Excellent Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/10/26/2013-jeep-wrangler-sport-gcc-specs-in-exce-2-101---c428b926372b48588ad2c285cd313740/",
-      "category": "Used Cars",
-      "make": "Jeep",
-      "model": "Wrangler",
-      "year": "2013",
-      "mileage": "64000",
-      "price": 45500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736500",
-      "title": "PEUGEOT 2008 ACTIVE 2023 | GCC | 1.2L TURBO | WARRANTY 2028 | ONLY 61,500 KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/2008/2026/10/26/peugeot-2008-active-2023-gcc-12l-turbo-war-2-230---a6ab9282fb1d438db22a4fd74aa31775/",
-      "category": "Used Cars",
-      "make": "Peugeot",
-      "model": "2008",
-      "year": "2023",
-      "mileage": "61500",
-      "price": 34500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100627233",
-      "title": "3,525 P.M | 540i M-Kit | Full BMW (AGMC) History | 0% Downpayment",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/17/3525-pm-540i-m-kit-full-bmw-agmc-history-0-2-223---f9462eb525b246988d1a60f04401b7b5/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "2022",
-      "mileage": "66000",
-      "price": 179999,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

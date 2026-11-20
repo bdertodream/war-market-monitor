@@ -579808,7 +579808,7 @@
   "100490124": {
     "id": "100490124",
     "title": "2024 BRABUS 900 Mercedes-AMG G 63 Japanese Specs",
-    "price": 770000,
+    "price": 870000,
     "make": "BRABUS",
     "model": "900 - Mercedes-AMG G 63",
     "year": "2024",
@@ -579835,6 +579835,10 @@
       {
         "price": 770000,
         "date": "2026-11-07T14:42:38Z"
+      },
+      {
+        "price": 870000,
+        "date": "2026-11-20T16:44:37Z"
       }
     ],
     "date": "2026-10-05"
@@ -634028,5 +634032,93 @@
       }
     ],
     "date": "2026-11-19"
+  },
+  "101025337": {
+    "id": "101025337",
+    "title": "2025 Audi E5 Sportback - Chinese Specs",
+    "price": 270000,
+    "make": "Audi",
+    "model": "E5",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "Hatchback",
+    "fuel_type": "Electric",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/e5/2026/11/20/2025-audi-e5-sportback-chinese-specs-2-032---cb50c2b2486744f9a7bc810be7dd2f6f/",
+    "first_seen": "2026-11-20T16:44:37Z",
+    "prices": [
+      {
+        "price": 270000,
+        "date": "2026-11-20T16:44:37Z"
+      }
+    ],
+    "date": "2026-11-20"
+  },
+  "101028375": {
+    "id": "101028375",
+    "title": "2027 iCaur V27 Flagship GCC Specs",
+    "price": 130000,
+    "make": "iCaur",
+    "model": "V27",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/20/2027-icaur-v27-flagship-gcc-specs-2-718---5dfced1ec6e94d998a84eb52e0c21614/",
+    "first_seen": "2026-11-20T16:44:37Z",
+    "prices": [
+      {
+        "price": 130000,
+        "date": "2026-11-20T16:44:37Z"
+      }
+    ],
+    "date": "2026-11-20"
+  },
+  "101028379": {
+    "id": "101028379",
+    "title": "2019 BRABUS 800 Mercedes AMG G 63 Japanese Specs",
+    "price": 589000,
+    "make": "BRABUS",
+    "model": "800 - Mercedes AMG G 63",
+    "year": "2019",
+    "kilometers": "32000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/20/2019-brabus-800-mercedes-amg-g-63-japanese-2-991---ee92eb6647364250b4b2960da4e8451e/",
+    "first_seen": "2026-11-20T16:44:37Z",
+    "prices": [
+      {
+        "price": 589000,
+        "date": "2026-11-20T16:44:37Z"
+      }
+    ],
+    "date": "2026-11-20"
+  },
+  "101030622": {
+    "id": "101030622",
+    "title": "2023 Volkswagen Golf GTI P1 GCC Specs, 2.0 and Turbo, Mint Condition",
+    "price": 83000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "81000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Village Circle (JVC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/20/2023-volkswagen-golf-gti-p1-gcc-specs-20-a-2-880---4480302489b943cf82a6c101cda5b89a/",
+    "first_seen": "2026-11-20T16:44:37Z",
+    "prices": [
+      {
+        "price": 83000,
+        "date": "2026-11-20T16:44:37Z"
+      }
+    ],
+    "date": "2026-11-20"
   }
 }
