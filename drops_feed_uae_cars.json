@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26557,
-  "total_drops": 500,
-  "total_new": 26557,
-  "last_updated": "2026-11-21T01:06:37Z",
+  "total_tracked": 26559,
+  "total_drops": 501,
+  "total_new": 26559,
+  "last_updated": "2026-11-21T12:10:36Z",
   "drops": [
-    {
-      "id": "16975190",
-      "title": "VOLKSWAGEN TERAMOUNT COMFORT LINE # 2023 GCC # AGENCY MAINTAINED CAR FOR SALE.",
-      "old_price": 115000,
-      "new_price": 104999,
-      "drop_pct": 8.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/09/13/volkswagen-teramount-comfort-line-2023-gcc-2-861---5776994a4c5b4a4c8914304233d4fa35/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Teramont",
-      "year": "2023",
-      "mileage": "88500",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16860408",
       "title": "Kia Tasman EX 2026 GCC Specs",
@@ -7003,9 +6989,47 @@
       "year": "2026",
       "mileage": "8057",
       "date": "2026-11-18T16:59:09Z"
+    },
+    {
+      "id": "16939296",
+      "title": "Volkswagen Golf GTI 2022 l GCC l 2 KEYS l AED 1,821 / Monthly",
+      "old_price": 98999,
+      "new_price": 92999,
+      "drop_pct": 6.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/11/volkswagen-golf-gti-2022-l-gcc-l-2-keys-l--2-741---d2e8ff54a8574b56af56299f45bd76af/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2022",
+      "mileage": "35600",
+      "date": "2026-11-21T12:10:36Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "101038426",
+      "title": "Volkswagen ID. ERA 9X Ultra 2026 Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/id-era-9x/2026/11/21/volkswagen-id-era-9x-ultra-2026-chinese-sp-2-588---641f0fc45a324b579d62c73659179ca5/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "ID. ERA 9X",
+      "year": "2026",
+      "mileage": "0",
+      "price": 290000,
+      "first_seen": "2026-11-21T12:10:36Z"
+    },
+    {
+      "id": "101038633",
+      "title": "AED 1,138/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1138m-0-dp-free-3-months-warranty-serv-2-374---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
+      "category": "Used Cars",
+      "make": "Geely",
+      "model": "Okavango",
+      "year": "2025",
+      "mileage": "33972",
+      "price": 72599,
+      "first_seen": "2026-11-21T12:10:36Z"
+    },
     {
       "id": "101025337",
       "title": "2025 Audi E5 Sportback - Chinese Specs",
@@ -9684,14 +9708,14 @@
     },
     {
       "id": "16939296",
-      "title": "Volkswagen Golf GTI 2022 l GCC l 2 KEYS l AED 1,939 / Monthly",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/11/volkswagen-golf-gti-2022-l-gcc-l-2-keys-l--2-665---d2e8ff54a8574b56af56299f45bd76af/",
+      "title": "Volkswagen Golf GTI 2022 l GCC l 2 KEYS l AED 1,821 / Monthly",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/11/volkswagen-golf-gti-2022-l-gcc-l-2-keys-l--2-741---d2e8ff54a8574b56af56299f45bd76af/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2022",
       "mileage": "35600",
-      "price": 98999,
+      "price": 92999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2019",
       "mileage": "160000",
       "price": 95500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736692",
-      "title": "Chevrolet Cruze LT 2015 GCC Specs Superb Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/cruze/2026/10/26/chevrolet-cruze-lt-2015-gcc-specs-superb-c-2-492---2e515d80935949339ec388e7bac04d74/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Cruze",
-      "year": "2015",
-      "mileage": "178000",
-      "price": 9500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736573",
-      "title": "2014 Infiniti QX80 Luxury American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/10/26/2014-infiniti-qx80-luxury-american-specs-2-985---b1b0d85e596844f688b68a5ec28a9580/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX80",
-      "year": "2014",
-      "mileage": "157313",
-      "price": 22000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

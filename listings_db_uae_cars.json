@@ -631435,8 +631435,8 @@
   },
   "16939296": {
     "id": "16939296",
-    "title": "Volkswagen Golf GTI 2022 l GCC l 2 KEYS l AED 1,939 / Monthly",
-    "price": 98999,
+    "title": "Volkswagen Golf GTI 2022 l GCC l 2 KEYS l AED 1,821 / Monthly",
+    "price": 92999,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2022",
@@ -631445,12 +631445,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/11/volkswagen-golf-gti-2022-l-gcc-l-2-keys-l--2-665---d2e8ff54a8574b56af56299f45bd76af/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/08/11/volkswagen-golf-gti-2022-l-gcc-l-2-keys-l--2-741---d2e8ff54a8574b56af56299f45bd76af/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 98999,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 92999,
+        "date": "2026-11-21T12:10:36Z"
       }
     ],
     "date": "2026-10-28"
@@ -634120,5 +634124,49 @@
       }
     ],
     "date": "2026-11-20"
+  },
+  "101038426": {
+    "id": "101038426",
+    "title": "Volkswagen ID. ERA 9X Ultra 2026 Chinese Specs",
+    "price": 290000,
+    "make": "Volkswagen",
+    "model": "ID. ERA 9X",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/id-era-9x/2026/11/21/volkswagen-id-era-9x-ultra-2026-chinese-sp-2-588---641f0fc45a324b579d62c73659179ca5/",
+    "first_seen": "2026-11-21T12:10:36Z",
+    "prices": [
+      {
+        "price": 290000,
+        "date": "2026-11-21T12:10:36Z"
+      }
+    ],
+    "date": "2026-11-21"
+  },
+  "101038633": {
+    "id": "101038633",
+    "title": "AED 1,138/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
+    "price": 72599,
+    "make": "Geely",
+    "model": "Okavango",
+    "year": "2025",
+    "kilometers": "33972",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Millennium Place Barsha Heights Hotel",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1138m-0-dp-free-3-months-warranty-serv-2-374---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
+    "first_seen": "2026-11-21T12:10:36Z",
+    "prices": [
+      {
+        "price": 72599,
+        "date": "2026-11-21T12:10:36Z"
+      }
+    ],
+    "date": "2026-11-21"
   }
 }
