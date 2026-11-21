@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26559,
-  "total_drops": 501,
-  "total_new": 26559,
-  "last_updated": "2026-11-21T12:10:36Z",
+  "total_tracked": 26560,
+  "total_drops": 500,
+  "total_new": 26560,
+  "last_updated": "2026-11-21T21:28:43Z",
   "drops": [
     {
       "id": "16860408",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101027687",
+      "title": "245 BHP \u2022  2.0L Turbo \u2022 Full Service History \u2022 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/20/245-bhp-20l-turbo-full-service-history-gcc-2-321---75f9e7ad1a5d457a8bc2d860b64a1d27/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "80000",
+      "price": 89000,
+      "first_seen": "2026-11-21T21:28:43Z"
+    },
+    {
       "id": "101038426",
       "title": "Volkswagen ID. ERA 9X Ultra 2026 Chinese Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/id-era-9x/2026/11/21/volkswagen-id-era-9x-ultra-2026-chinese-sp-2-588---641f0fc45a324b579d62c73659179ca5/",
@@ -12992,18 +13004,6 @@
       "year": "2016",
       "mileage": "146000",
       "price": 30000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736851",
-      "title": "2019 Nissan Patrol NISMO Original V8 5.6L | GCC | AED 95,500",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/10/26/2019-nissan-patrol-nismo-original-v8-56l-g-2-525---8eb759aac6014b91ac71cdad238fff75/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2019",
-      "mileage": "160000",
-      "price": 95500,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

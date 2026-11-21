@@ -634168,5 +634168,27 @@
       }
     ],
     "date": "2026-11-21"
+  },
+  "101027687": {
+    "id": "101027687",
+    "title": "245 BHP \u2022  2.0L Turbo \u2022 Full Service History \u2022 GCC Specs",
+    "price": 89000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "80000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/20/245-bhp-20l-turbo-full-service-history-gcc-2-321---75f9e7ad1a5d457a8bc2d860b64a1d27/",
+    "first_seen": "2026-11-21T21:28:43Z",
+    "prices": [
+      {
+        "price": 89000,
+        "date": "2026-11-21T21:28:43Z"
+      }
+    ],
+    "date": "2026-11-20"
   }
 }
