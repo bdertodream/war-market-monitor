@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26561,
+  "total_tracked": 26563,
   "total_drops": 501,
-  "total_new": 26561,
-  "last_updated": "2026-11-22T05:22:00Z",
+  "total_new": 26563,
+  "last_updated": "2026-11-22T15:58:13Z",
   "drops": [
-    {
-      "id": "16962761",
-      "title": "Special Offer \u26a1 | 18-30 Sep | Free insurance | Finance from 0.99% | Gargash Warranty and Service",
-      "old_price": 99000,
-      "new_price": 89900,
-      "drop_pct": 9.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulia/2026/09/02/special-offer-18-30-sep-free-insurance-fin-2-324---f57c874db09b40fc999c9ed9ec591a71/",
-      "category": "Used Cars",
-      "make": "Alfa Romeo",
-      "model": "Giulia",
-      "year": "2022",
-      "mileage": "49952",
-      "date": "2026-09-28T19:19:27Z"
-    },
     {
       "id": "16896281",
       "title": "2,350 P.M |  Range Rover Sport HSE Dynamic | 0% Downpayment | UNDER WARRANTY!",
@@ -7003,9 +6989,47 @@
       "year": "2024",
       "mileage": "11491",
       "date": "2026-11-22T05:22:00Z"
+    },
+    {
+      "id": "100991903",
+      "title": "AED 1,474/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+      "old_price": 105399,
+      "new_price": 96999,
+      "drop_pct": 8.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1474m-0-dp-free-1-year-warranty-servic-2-868---6ea466201b6e4ce9abab9ae33e55dabe/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "73008",
+      "date": "2026-11-22T15:58:13Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "101048913",
+      "title": "2027 KGM Torres GCC Specs WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ssangyong/torres/2026/11/22/2027-kgm-torres-gcc-specs-warranty-2-801---2a52089877f5499184a6acc80123f74a/",
+      "category": "Used Cars",
+      "make": "SsangYong",
+      "model": "Torres",
+      "year": "2027",
+      "mileage": "1450",
+      "price": 105000,
+      "first_seen": "2026-11-22T15:58:13Z"
+    },
+    {
+      "id": "101047492",
+      "title": "VOLKSWAGEN GOLF GTI 2025 UNDER VOLKSWAGEN WARRANTY & SERVICE CONTRACT (GCC \u2013 ORIGINAL FACTORY PAINT)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-golf-gti-2025-under-volkswagen--2-980---700c5c68226b49b0bba9b99f474e5a72/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2025",
+      "mileage": "34500",
+      "price": 127000,
+      "first_seen": "2026-11-22T15:58:13Z"
+    },
     {
       "id": "100952904",
       "title": "2023 Volkswagen Golf GTI P1 GCC Specs - Excellent Condition",
@@ -7044,14 +7068,14 @@
     },
     {
       "id": "101038633",
-      "title": "AED 1,138/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1138m-0-dp-free-3-months-warranty-serv-2-374---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
+      "title": "AED 1,114/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1114m-0-dp-free-3-months-warranty-serv-2-732---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
       "category": "Used Cars",
       "make": "Geely",
       "model": "Okavango",
       "year": "2025",
       "mileage": "33972",
-      "price": 72599,
+      "price": 71099,
       "first_seen": "2026-11-21T12:10:36Z"
     },
     {
@@ -7188,14 +7212,14 @@
     },
     {
       "id": "100991903",
-      "title": "AED 1,602/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1602m-0-dp-free-1-year-warranty-servic-2-851---6ea466201b6e4ce9abab9ae33e55dabe/",
+      "title": "AED 1,474/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1474m-0-dp-free-1-year-warranty-servic-2-868---6ea466201b6e4ce9abab9ae33e55dabe/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2023",
       "mileage": "73008",
-      "price": 105399,
+      "price": 96999,
       "first_seen": "2026-11-18T06:06:37Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2019",
       "mileage": "141021",
       "price": 35000,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100737111",
-      "title": "BMW 535i GT 2011 | GCC | 73K KM | ORIGINAL PAINT | AED 24,500",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/10/26/bmw-535i-gt-2011-gcc-73k-km-original-paint-2-462---3d344f12d50940588080afca65cd3d9b/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "5-Series",
-      "year": "2011",
-      "mileage": "73000",
-      "price": 24500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736985",
-      "title": "2026 212 T01 Adventurer GCC Specs-Brand New-Agency Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/10/26/2026-212-t01-adventurer-gcc-specs-brand-ne-2-627---14b267e65b664da4ac33a65741c67b2e/",
-      "category": "Used Cars",
-      "make": "212",
-      "model": "T01",
-      "year": "2026",
-      "mileage": "69",
-      "price": 109500,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

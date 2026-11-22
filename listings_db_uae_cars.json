@@ -633871,8 +633871,8 @@
   },
   "100991903": {
     "id": "100991903",
-    "title": "AED 1,602/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
-    "price": 105399,
+    "title": "AED 1,474/m | 0 DP | Free 1 Year Warranty | Service History | 30 Day Return | VOLKSWAGEN GOLF 2023",
+    "price": 96999,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2023",
@@ -633881,7 +633881,7 @@
     "fuel_type": "Petrol",
     "area": "Millennium Place Barsha Heights Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1602m-0-dp-free-1-year-warranty-servic-2-851---6ea466201b6e4ce9abab9ae33e55dabe/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/17/aed-1474m-0-dp-free-1-year-warranty-servic-2-868---6ea466201b6e4ce9abab9ae33e55dabe/",
     "first_seen": "2026-11-18T06:06:37Z",
     "prices": [
       {
@@ -633891,6 +633891,10 @@
       {
         "price": 105399,
         "date": "2026-11-19T12:32:43Z"
+      },
+      {
+        "price": 96999,
+        "date": "2026-11-22T15:58:13Z"
       }
     ],
     "date": "2026-11-17"
@@ -634161,8 +634165,8 @@
   },
   "101038633": {
     "id": "101038633",
-    "title": "AED 1,138/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
-    "price": 72599,
+    "title": "AED 1,114/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
+    "price": 71099,
     "make": "Geely",
     "model": "Okavango",
     "year": "2025",
@@ -634171,12 +634175,16 @@
     "fuel_type": "Petrol",
     "area": "Millennium Place Barsha Heights Hotel",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1138m-0-dp-free-3-months-warranty-serv-2-374---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/21/aed-1114m-0-dp-free-3-months-warranty-serv-2-732---6896c7d5a3f24f0aa1bdffe9c7cf5274/",
     "first_seen": "2026-11-21T12:10:36Z",
     "prices": [
       {
         "price": 72599,
         "date": "2026-11-21T12:10:36Z"
+      },
+      {
+        "price": 71099,
+        "date": "2026-11-22T15:58:13Z"
       }
     ],
     "date": "2026-11-21"
@@ -634224,5 +634232,49 @@
       }
     ],
     "date": "2026-11-21"
+  },
+  "101048913": {
+    "id": "101048913",
+    "title": "2027 KGM Torres GCC Specs WARRANTY",
+    "price": 105000,
+    "make": "SsangYong",
+    "model": "Torres",
+    "year": "2027",
+    "kilometers": "1450",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Rukan Residence",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ssangyong/torres/2026/11/22/2027-kgm-torres-gcc-specs-warranty-2-801---2a52089877f5499184a6acc80123f74a/",
+    "first_seen": "2026-11-22T15:58:13Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-11-22T15:58:13Z"
+      }
+    ],
+    "date": "2026-11-22"
+  },
+  "101047492": {
+    "id": "101047492",
+    "title": "VOLKSWAGEN GOLF GTI 2025 UNDER VOLKSWAGEN WARRANTY & SERVICE CONTRACT (GCC \u2013 ORIGINAL FACTORY PAINT)",
+    "price": 127000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2025",
+    "kilometers": "34500",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-golf-gti-2025-under-volkswagen--2-980---700c5c68226b49b0bba9b99f474e5a72/",
+    "first_seen": "2026-11-22T15:58:13Z",
+    "prices": [
+      {
+        "price": 127000,
+        "date": "2026-11-22T15:58:13Z"
+      }
+    ],
+    "date": "2026-11-22"
   }
 }
