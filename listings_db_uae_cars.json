@@ -634276,5 +634276,27 @@
       }
     ],
     "date": "2026-11-22"
+  },
+  "101052817": {
+    "id": "101052817",
+    "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
+    "price": 42000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2018",
+    "kilometers": "173000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Warqaa 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-566---9ef40fce9c7f4da08bc4893a176140cd/",
+    "first_seen": "2026-11-22T21:39:14Z",
+    "prices": [
+      {
+        "price": 42000,
+        "date": "2026-11-22T21:39:14Z"
+      }
+    ],
+    "date": "2026-11-22"
   }
 }

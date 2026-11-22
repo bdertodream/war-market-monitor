@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 31973,
+  "total_tracked": 31976,
   "total_drops": 500,
-  "total_new": 31973,
+  "total_new": 31976,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9748958",
-      "title": "Exclusive 5BR + Maid | Investor Deal | Motivated Seller | Lagoon Living",
-      "old_price": 3500000,
-      "new_price": 3300000,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/18/exclusive-5br-maid-investor-deal-motiva-2-148706/",
-      "area": "DAMAC Lagoons",
-      "category": "Land",
-      "size": "3469",
-      "bedrooms": "",
-      "date": "2026-06-24",
-      "first_seen": "2026-03-18"
-    },
     {
       "id": "9765738",
       "title": "G+1 | Phase 10 | Good Investment",
@@ -7005,6 +6991,20 @@
       "bedrooms": "1",
       "date": "2026-11-21",
       "first_seen": "2026-11-13"
+    },
+    {
+      "id": "17583165",
+      "title": "OPEN HOUSE | THIS WEEKEND | 21-22 NOV. 2026",
+      "old_price": 9200000,
+      "new_price": 8500000,
+      "drop_pct": 7.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/13/e50-open-house-sunday-14-june-2026-2-982244/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "7231",
+      "bedrooms": "4",
+      "date": "2026-11-22",
+      "first_seen": "2026-09-27"
     }
   ],
   "new_listings": [
@@ -7347,6 +7347,39 @@
       "size": "5167",
       "bedrooms": "",
       "price": 7650000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18199893",
+      "title": "3BR Villa | Olympia Athlon | Semi Furnished | By Aldar",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/23/3br-villa-olympia-athlon-semi-furnished-2-190915/",
+      "area": "Athlon by Aldar",
+      "category": "Villa",
+      "size": "2277",
+      "bedrooms": "3",
+      "price": 3400000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18189906",
+      "title": "Vacant | Fully Furnished | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/21/vacant-fully-furnished-prime-location-2-276324/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "766",
+      "bedrooms": "1",
+      "price": 1200000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18322513",
+      "title": "Best Price | Furnished | GAted Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/18/best-price-furnished-gated-community-2-233230/",
+      "area": "DAMAC Hills",
+      "category": "Apartment",
+      "size": "642",
+      "bedrooms": "1",
+      "price": 1045000,
       "first_seen": "2026-11-22"
     },
     {
@@ -12473,39 +12506,6 @@
       "size": "2190",
       "bedrooms": "3",
       "price": 2500000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18178181",
-      "title": "Mid Number | Large Plot | Selling at OP + DLD",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/19/mid-number-large-plot-selling-at-op-dld-2-213449/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "7940",
-      "bedrooms": "5",
-      "price": 21499000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18292100",
-      "title": "Furnished 3BR Apartment | Wellington Ocean Walk | Marina & Skyline Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/11/furnished-3br-apartment-wellington-ocea-2-128300/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1716",
-      "bedrooms": "3",
-      "price": 4096445,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18199833",
-      "title": "Pool View | Furnished | Near Metro | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/23/pool-view-furnished-near-metro-high-roi-2-224421/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "321",
-      "bedrooms": "0",
-      "price": 650000,
       "first_seen": "2026-11-17"
     }
   ],

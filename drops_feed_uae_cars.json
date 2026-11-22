@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26563,
-  "total_drops": 501,
-  "total_new": 26563,
-  "last_updated": "2026-11-22T15:58:13Z",
+  "total_tracked": 26564,
+  "total_drops": 500,
+  "total_new": 26564,
+  "last_updated": "2026-11-22T21:39:14Z",
   "drops": [
     {
       "id": "16896281",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101052817",
+      "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-566---9ef40fce9c7f4da08bc4893a176140cd/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2018",
+      "mileage": "173000",
+      "price": 42000,
+      "first_seen": "2026-11-22T21:39:14Z"
+    },
+    {
       "id": "101048913",
       "title": "2027 KGM Torres GCC Specs WARRANTY",
       "url": "https://dubai.dubizzle.com/motors/used-cars/ssangyong/torres/2026/11/22/2027-kgm-torres-gcc-specs-warranty-2-801---2a52089877f5499184a6acc80123f74a/",
@@ -12992,18 +13004,6 @@
       "year": "2014",
       "mileage": "216000",
       "price": 19500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100737323",
-      "title": "Honda Pilot EX 2019 | GCC | V6 | 8 Seater | 2WD | AED 35,000",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/pilot/2026/10/26/honda-pilot-ex-2019-gcc-v6-8-seater-2wd-ae-2-235---2fd0015fe18b45e99456d6b1036c3a3b/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Pilot",
-      "year": "2019",
-      "mileage": "141021",
-      "price": 35000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
