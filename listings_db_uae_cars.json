@@ -625373,8 +625373,8 @@
   },
   "100758572": {
     "id": "100758572",
-    "title": "BYD Sealion 6 Flagship HUD \u0628\u0631\u0648\u062c\u0643\u062a\u0631 \u0648\u062b\u0644\u0627\u062c\u0647",
-    "price": 116000,
+    "title": "BYD Sealion 6 Flagship \u0628\u0631\u0648\u062c\u0643\u062a\u0631 \u0648\u062b\u0644\u0627\u062c\u0647|Export\u062a\u0635\u062f\u064a\u0631",
+    "price": 113000,
     "make": "BYD",
     "model": "Sealion 6",
     "year": "2026",
@@ -625383,12 +625383,16 @@
     "fuel_type": "Electric",
     "area": "Ras Al Khor Industrial 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/28/byd-sealion-6-flagship-hud-2-359---4370755d079e4174a6455854ff5eaabe/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/28/byd-sealion-6-flagship-export-2-195---4370755d079e4174a6455854ff5eaabe/",
     "first_seen": "2026-10-28T14:53:52Z",
     "prices": [
       {
         "price": 116000,
         "date": "2026-10-28T14:53:52Z"
+      },
+      {
+        "price": 113000,
+        "date": "2026-11-22T05:22:00Z"
       }
     ],
     "date": "2026-10-28"
@@ -631282,7 +631286,7 @@
   "100703889": {
     "id": "100703889",
     "title": "2026 \u0628\u0631\u0648\u062c\u064a\u0643\u062a\u0631+ \u062b\u0644\u0627\u062c\u0647 | HUD+Refrigerator 205KM",
-    "price": 115000,
+    "price": 113999,
     "make": "BYD",
     "model": "Sealion 6",
     "year": "2026",
@@ -631291,12 +631295,16 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Ras Al Khor Industrial 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/23/2026-hudrefrigerator-205km-2-552---dcdac6e0cd094063bd83fa8ed702bad4/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/23/2026-hudrefrigerator-205km-2-358---dcdac6e0cd094063bd83fa8ed702bad4/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 115000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 113999,
+        "date": "2026-11-22T05:22:00Z"
       }
     ],
     "date": "2026-10-23"
@@ -633482,7 +633490,7 @@
   "100945068": {
     "id": "100945068",
     "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
-    "price": 125000,
+    "price": 110000,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2024",
@@ -633491,7 +633499,7 @@
     "fuel_type": "Petrol",
     "area": "The Address Fountain Views 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-296---7b1f2df634484dd794f53e624768e2f0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-435---7b1f2df634484dd794f53e624768e2f0/",
     "first_seen": "2026-11-13T11:54:04Z",
     "prices": [
       {
@@ -633501,6 +633509,10 @@
       {
         "price": 125000,
         "date": "2026-11-15T15:24:34Z"
+      },
+      {
+        "price": 110000,
+        "date": "2026-11-22T05:22:00Z"
       }
     ],
     "date": "2026-11-12"
@@ -634190,5 +634202,27 @@
       }
     ],
     "date": "2026-11-20"
+  },
+  "100952904": {
+    "id": "100952904",
+    "title": "2023 Volkswagen Golf GTI P1 GCC Specs - Excellent Condition",
+    "price": 93000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2023",
+    "kilometers": "77000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Warqaa 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/13/2023-volkswagen-golf-gti-p1-gcc-specs-exce-2-453---9c8012ec7a7445329fa352b938009a82/",
+    "first_seen": "2026-11-22T05:22:00Z",
+    "prices": [
+      {
+        "price": 93000,
+        "date": "2026-11-22T05:22:00Z"
+      }
+    ],
+    "date": "2026-11-21"
   }
 }

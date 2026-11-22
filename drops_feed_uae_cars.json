@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26560,
-  "total_drops": 500,
-  "total_new": 26560,
-  "last_updated": "2026-11-21T21:28:43Z",
+  "total_tracked": 26561,
+  "total_drops": 501,
+  "total_new": 26561,
+  "last_updated": "2026-11-22T05:22:00Z",
   "drops": [
-    {
-      "id": "16860408",
-      "title": "Kia Tasman EX 2026 GCC Specs",
-      "old_price": 130000,
-      "new_price": 122000,
-      "drop_pct": 6.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/tasman/2026/06/04/kia-tasman-ex-2026-gcc-specs-2-227---77b9d03a1a6d4612a1a616bcd52a1e79/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Tasman",
-      "year": "2026",
-      "mileage": "0",
-      "date": "2026-09-28T10:41:34Z"
-    },
     {
       "id": "16962761",
       "title": "Special Offer \u26a1 | 18-30 Sep | Free insurance | Finance from 0.99% | Gargash Warranty and Service",
@@ -7003,9 +6989,35 @@
       "year": "2022",
       "mileage": "35600",
       "date": "2026-11-21T12:10:36Z"
+    },
+    {
+      "id": "100945068",
+      "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
+      "old_price": 125000,
+      "new_price": 110000,
+      "drop_pct": 12.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-435---7b1f2df634484dd794f53e624768e2f0/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2024",
+      "mileage": "11491",
+      "date": "2026-11-22T05:22:00Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "100952904",
+      "title": "2023 Volkswagen Golf GTI P1 GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/13/2023-volkswagen-golf-gti-p1-gcc-specs-exce-2-453---9c8012ec7a7445329fa352b938009a82/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2023",
+      "mileage": "77000",
+      "price": 93000,
+      "first_seen": "2026-11-22T05:22:00Z"
+    },
     {
       "id": "101027687",
       "title": "245 BHP \u2022  2.0L Turbo \u2022 Full Service History \u2022 GCC Specs",
@@ -7393,13 +7405,13 @@
     {
       "id": "100945068",
       "title": "2024 Volkswagen Golf GTI P2 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-296---7b1f2df634484dd794f53e624768e2f0/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/12/2024-volkswagen-golf-gti-p2-gcc-specs-2-435---7b1f2df634484dd794f53e624768e2f0/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2024",
       "mileage": "11491",
-      "price": 125000,
+      "price": 110000,
       "first_seen": "2026-11-13T11:54:04Z"
     },
     {
@@ -9637,13 +9649,13 @@
     {
       "id": "100703889",
       "title": "2026 \u0628\u0631\u0648\u062c\u064a\u0643\u062a\u0631+ \u062b\u0644\u0627\u062c\u0647 | HUD+Refrigerator 205KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/23/2026-hudrefrigerator-205km-2-552---dcdac6e0cd094063bd83fa8ed702bad4/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/23/2026-hudrefrigerator-205km-2-358---dcdac6e0cd094063bd83fa8ed702bad4/",
       "category": "Used Cars",
       "make": "BYD",
       "model": "Sealion 6",
       "year": "2026",
       "mileage": "0",
-      "price": 115000,
+      "price": 113999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {
@@ -11148,14 +11160,14 @@
     },
     {
       "id": "100758572",
-      "title": "BYD Sealion 6 Flagship HUD \u0628\u0631\u0648\u062c\u0643\u062a\u0631 \u0648\u062b\u0644\u0627\u062c\u0647",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/28/byd-sealion-6-flagship-hud-2-359---4370755d079e4174a6455854ff5eaabe/",
+      "title": "BYD Sealion 6 Flagship \u0628\u0631\u0648\u062c\u0643\u062a\u0631 \u0648\u062b\u0644\u0627\u062c\u0647|Export\u062a\u0635\u062f\u064a\u0631",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/28/byd-sealion-6-flagship-export-2-195---4370755d079e4174a6455854ff5eaabe/",
       "category": "Used Cars",
       "make": "BYD",
       "model": "Sealion 6",
       "year": "2026",
       "mileage": "0",
-      "price": 116000,
+      "price": 113000,
       "first_seen": "2026-10-28T14:53:52Z"
     },
     {
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "69",
       "price": 109500,
-      "first_seen": "2026-10-26T18:19:54Z"
-    },
-    {
-      "id": "100736964",
-      "title": "Honda Accord Sport 2016 | Rare 3.5L V6 | Full Options | Sunroof | AED 30,000",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/accord/2026/10/26/honda-accord-sport-2016-rare-35l-v6-full-o-2-566---914a49253a4243f0a0f175a65a891cd6/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Accord",
-      "year": "2016",
-      "mileage": "146000",
-      "price": 30000,
       "first_seen": "2026-10-26T18:19:54Z"
     }
   ]

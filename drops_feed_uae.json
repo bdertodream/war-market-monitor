@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 31942,
+  "total_tracked": 31951,
   "total_drops": 500,
-  "total_new": 31942,
+  "total_new": 31951,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,105 @@
   ],
   "new_listings": [
     {
+      "id": "18335638",
+      "title": "Brand New 1BR | 25:75 Payment Plan | Q1 2027 Handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/21/brand-new-1br-2575-payment-plan-q1-2027-2-210091/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "818",
+      "bedrooms": "1",
+      "price": 1114000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18339378",
+      "title": "Full Sea View | 5% Booking | 1% Monthly | Luxury Branded Island",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/22/full-sea-view-5-booking-1-monthly-luxur-2-109430/",
+      "area": "The World Islands",
+      "category": "Apartment",
+      "size": "481",
+      "bedrooms": "0",
+      "price": 1230000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "17934920",
+      "title": "Metro| Brand New| Freehold| Investors| End User",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/metro-brand-new-freehold-investors-end--2-205192/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Apartment",
+      "size": "436",
+      "bedrooms": "0",
+      "price": 1200000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18334999",
+      "title": "Pre launch Offer | Prime Location | 40/60 Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/20/pre-launch-offer-prime-location-4060-pa-2-182322/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "1042",
+      "bedrooms": "2",
+      "price": 1248000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18190376",
+      "title": "Tenanted | Steady Rental Income | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/21/tenanted-steady-rental-income-prime-loc-2-214983/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "801",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18169378",
+      "title": "NO COMMISSION! Spacious Studio | Pool & Gym | Dubai South",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/16/no-commission-spacious-studio-pool-gym--2-109566/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "415",
+      "bedrooms": "0",
+      "price": 527817,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18168309",
+      "title": "NO COMMISSION! Spacious Studio for Sale | Dubai South | Prime Investment Opportunity",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/16/no-commission-spacious-studio-for-sale--2-175223/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "413",
+      "bedrooms": "0",
+      "price": 520935,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "18157712",
+      "title": "Resale | Ellington Design | Resort-Style Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/14/resale-ellington-design-resort-style-li-2-256351/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "780",
+      "bedrooms": "1",
+      "price": 1350000,
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "9817725",
+      "title": "Very Prime Location-WELL PRICED - Genuin Listing.",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/20/very-prime-location-well-priced-genuin--2-253008/",
+      "area": "Palm Jumeirah",
+      "category": "Land",
+      "size": "14210",
+      "bedrooms": "",
+      "price": 43000000,
+      "first_seen": "2026-11-22"
+    },
+    {
       "id": "18262604",
       "title": "2BR + Study I Fully Renovated 05 series I VOT I",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/4/2br-study-i-fully-renovated-05-series-i-2-248978/",
@@ -8017,7 +8116,7 @@
       "category": "Apartment",
       "size": "1331",
       "bedrooms": "2",
-      "price": 2875000,
+      "price": 2950000,
       "first_seen": "2026-11-20"
     },
     {
@@ -10200,7 +10299,7 @@
     },
     {
       "id": "18190615",
-      "title": "Exclusive I District 5 I Vacant I Large Plot",
+      "title": "Vacant I District 5 I Motivated Seller I Exclusive",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/21/exclusive-i-district-5-i-vacant-i-large-2-336892/",
       "area": "Jumeirah Park",
       "category": "Villa",
@@ -12408,107 +12507,8 @@
       "bedrooms": "6",
       "price": 18500000,
       "first_seen": "2026-11-17"
-    },
-    {
-      "id": "17908819",
-      "title": "Beachfront Luxury | High ROI | Exclusive Offer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/25/beachfront-luxury-high-roi-exclusive-of-2-299012/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "834",
-      "bedrooms": "1",
-      "price": 1300000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18197425",
-      "title": "Resale | Motivated Seller | Attractive Price",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/22/resale-motivated-seller-attractive-pric-2-165178/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "8449",
-      "bedrooms": "4",
-      "price": 13500000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18270885",
-      "title": "Single Row | Vacant | Large Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/6/single-row-vacant-large-layout-2-306077/",
-      "area": "Arabian Ranches 3",
-      "category": "Townhouse",
-      "size": "2051",
-      "bedrooms": "3",
-      "price": 3000000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18266958",
-      "title": "Elegant | Luxury Living | Burj Khalifa Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/5/elegant-luxury-living-burj-khalifa-view-2-251225/",
-      "area": "Pearl Jumeirah",
-      "category": "Villa",
-      "size": "9671",
-      "bedrooms": "5",
-      "price": 44500000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18013909",
-      "title": "Private Pool | Premium cluster | Brand new",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/16/private-pool-premium-cluster-brand-new-2-138162/",
-      "area": "DAMAC Hills",
-      "category": "Villa",
-      "size": "6231",
-      "bedrooms": "6",
-      "price": 13500000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18300623",
-      "title": "Single Row | Large Mature Plot | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/13/single-row-large-mature-plot-vacant-2-176049/",
-      "area": "Arabian Ranches 2",
-      "category": "Villa",
-      "size": "4309",
-      "bedrooms": "4",
-      "price": 9799999,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18284139",
-      "title": "Upgraded | Contemporary Interiors | Opposite Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/10/upgraded-contemporary-interiors-opposit-2-178286/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "4534",
-      "bedrooms": "5",
-      "price": 18500000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18296259",
-      "title": "Below Market Price | Vacant | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/12/below-market-price-vacant-high-roi-2-860402/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "978",
-      "bedrooms": "2",
-      "price": 1280000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18202142",
-      "title": "Pool and park | Vacant | High floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/23/pool-and-park-vacant-high-floor-2-529587/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1305",
-      "bedrooms": "2",
-      "price": 3400000,
-      "first_seen": "2026-11-17"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-21"
+  "last_updated": "2026-11-22"
 }
