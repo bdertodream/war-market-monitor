@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26564,
+  "total_tracked": 26567,
   "total_drops": 500,
-  "total_new": 26564,
-  "last_updated": "2026-11-22T21:39:14Z",
+  "total_new": 26567,
+  "last_updated": "2026-11-23T05:59:27Z",
   "drops": [
     {
       "id": "16896281",
@@ -7007,6 +7007,42 @@
   ],
   "new_listings": [
     {
+      "id": "101053480",
+      "title": "Citroen C5 Aircross Shine 2025 GCC Specs -Accident-Free | Dealer Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c5-aircross/2026/11/22/citroen-c5-aircross-shine-2025-gcc-specs-a-2-989---ab505e5dedd7434aafde8fc3c30d8dc0/",
+      "category": "Used Cars",
+      "make": "Citroen",
+      "model": "C5 Aircross",
+      "year": "2025",
+      "mileage": "39000",
+      "price": 63000,
+      "first_seen": "2026-11-23T05:59:27Z"
+    },
+    {
+      "id": "101055807",
+      "title": "MERCEDES | G800 BRABUS MASTERPIECE | ORIGINAL CERTIFICATE BRABUS UAE 2 YEARS WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/23/mercedes-g800-brabus-masterpiece-original--2-388---8d07f9e77c5d45019790146015d40f91/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2026",
+      "mileage": "0",
+      "price": 2075000,
+      "first_seen": "2026-11-23T05:59:27Z"
+    },
+    {
+      "id": "101055786",
+      "title": "MERCEDES | G800 BRABUS MASTERPIECE | ORIGINAL BRABUS CERTIFICATE UAE WITH 2 YEARS WARRANTY",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/800-mercedes-amg-g-63/2026/11/23/mercedes-g800-brabus-masterpiece-original--2-589---4236af7877e746cea610ff64e27f1667/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "800 - Mercedes AMG G 63",
+      "year": "2025",
+      "mileage": "0",
+      "price": 1890000,
+      "first_seen": "2026-11-23T05:59:27Z"
+    },
+    {
       "id": "101052817",
       "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-566---9ef40fce9c7f4da08bc4893a176140cd/",
@@ -12969,42 +13005,6 @@
       "mileage": "800",
       "price": 629000,
       "first_seen": "2026-10-26T23:36:48Z"
-    },
-    {
-      "id": "100738535",
-      "title": "Lexus NX 300 2018 American Specs Clean Condition Minor side accident",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/nx-series/2026/10/26/lexus-nx-300-2018-american-specs-clean-con-2-021---b1776174731d43b8863ca911779ceabb/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "NX-Series",
-      "year": "2018",
-      "mileage": "95000",
-      "price": 52900,
-      "first_seen": "2026-10-26T23:36:48Z"
-    },
-    {
-      "id": "100734469",
-      "title": "2014 Bentley Continental GT | GCC Specs | Pristine Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/continental/2026/10/26/2014-bentley-continental-gt-gcc-specs-pris-2-271---9ffb6e2dd6334962935dc3e887806e0c/",
-      "category": "Used Cars",
-      "make": "Bentley",
-      "model": "Continental",
-      "year": "2014",
-      "mileage": "104000",
-      "price": 79000,
-      "first_seen": "2026-10-26T23:36:48Z"
-    },
-    {
-      "id": "100737466",
-      "title": "2014 BMW 328i Sport | GCC | 2.0L Turbo | Paddle Shifters | Single Owner | AED 19,500",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/10/26/2014-bmw-328i-sport-gcc-20l-turbo-paddle-s-2-288---793351f7af7c46148c3a71b9cfbd265c/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "3-Series",
-      "year": "2014",
-      "mileage": "216000",
-      "price": 19500,
-      "first_seen": "2026-10-26T18:19:54Z"
     }
   ]
 }
