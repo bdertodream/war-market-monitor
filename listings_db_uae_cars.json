@@ -633629,8 +633629,8 @@
   },
   "100984345": {
     "id": "100984345",
-    "title": "3,721 P.M | Cadillac Optiq 450 E4 | 0% Downpayment",
-    "price": 189999,
+    "title": "3,621 P.M | Cadillac Warranty + S/Contract | 0% Downpayment",
+    "price": 184855,
     "make": "Cadillac",
     "model": "Optiq",
     "year": "2025",
@@ -633639,12 +633639,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3721-pm-cadillac-optiq-450-e4-0-downpaymen-2-120---32f12c8883274ea98a79c2b6493ed64c/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3621-pm-cadillac-warranty-scontract-0-down-2-429---32f12c8883274ea98a79c2b6493ed64c/",
     "first_seen": "2026-11-16T17:59:52Z",
     "prices": [
       {
         "price": 189999,
         "date": "2026-11-16T17:59:52Z"
+      },
+      {
+        "price": 184855,
+        "date": "2026-11-23T19:53:58Z"
       }
     ],
     "date": "2026-11-16"
@@ -634280,7 +634284,7 @@
   "101052817": {
     "id": "101052817",
     "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
-    "price": 42000,
+    "price": 39700,
     "make": "Volkswagen",
     "model": "Golf GTI",
     "year": "2018",
@@ -634289,12 +634293,16 @@
     "fuel_type": "Petrol",
     "area": "Al Warqaa 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-566---9ef40fce9c7f4da08bc4893a176140cd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-190---9ef40fce9c7f4da08bc4893a176140cd/",
     "first_seen": "2026-11-22T21:39:14Z",
     "prices": [
       {
         "price": 42000,
         "date": "2026-11-22T21:39:14Z"
+      },
+      {
+        "price": 39700,
+        "date": "2026-11-23T19:53:58Z"
       }
     ],
     "date": "2026-11-22"
@@ -634361,6 +634369,160 @@
       {
         "price": 1890000,
         "date": "2026-11-23T05:59:27Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101064586": {
+    "id": "101064586",
+    "title": "iCAUR V27 AWD FLAGSHIP \u2013 MODEL 2027",
+    "price": 139999,
+    "make": "iCaur",
+    "model": "V27",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/23/icaur-v27-awd-flagship-model-2027-2-529---b2d89090bbf847fdb19e54fcc9854874/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 139999,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101058750": {
+    "id": "101058750",
+    "title": "2027 ICAUR 03T IWD REEV | BRAND NEW | GCC SPEC",
+    "price": 119000,
+    "make": "iCaur",
+    "model": "03T",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/23/2027-icaur-03t-iwd-reev-brand-new-gcc-spec-2-050---a0c228c1a6b44d258b1295bd385c4265/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 119000,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101061413": {
+    "id": "101061413",
+    "title": "AED 1,900 monthly | 0% Down-Payment | BRAND NEW | Agency Warranty",
+    "price": 119750,
+    "make": "212",
+    "model": "T01",
+    "year": "2027",
+    "kilometers": "21",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/23/aed-1900-monthly-0-down-payment-brand-new--2-780---814710a517a440d287b44be97ada14ee/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 119750,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101061819": {
+    "id": "101061819",
+    "title": "2023 BRABUS XLP 900 6x6 Adventure Mercedes-AMG G 63 - European Specs",
+    "price": 4700000,
+    "make": "BRABUS",
+    "model": "XLP 800 6x6 - Mercedes-AMG G 63",
+    "year": "2023",
+    "kilometers": "2000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/xlp-800-6x6-mercedes-amg-g-63/2026/11/23/2023-brabus-xlp-900-6x6-adventure-mercedes-2-008---891d50ce499d4a36a24188d7bd2ae5df/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 4700000,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101057748": {
+    "id": "101057748",
+    "title": "2025 BYD SEALION 6 DM-i 170KM PILOT PLUS",
+    "price": 106000,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/23/2025-byd-sealion-6-dm-i-170km-pilot-plus-2-052---ccd4e8737a5a4cab9aa5f77d9b52825b/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 106000,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101059172": {
+    "id": "101059172",
+    "title": "2,356 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+    "price": 154900,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2025",
+    "kilometers": "19000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Umm Ramool",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/23/2356-monthly-i-vw-certified-zero-down-paym-2-725---8866eedbf34b41129095a8f62f38a80f/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 154900,
+        "date": "2026-11-23T19:53:58Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101058556": {
+    "id": "101058556",
+    "title": "Volkswagen Golf GTI 2016 GCC Specs",
+    "price": 12000,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": "2016",
+    "kilometers": "471431",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/23/volkswagen-golf-gti-2016-gcc-specs-2-757---3323ed1a56cb4f4f8be11cd03a2072bc/",
+    "first_seen": "2026-11-23T19:53:58Z",
+    "prices": [
+      {
+        "price": 12000,
+        "date": "2026-11-23T19:53:58Z"
       }
     ],
     "date": "2026-11-23"

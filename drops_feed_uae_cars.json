@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26567,
-  "total_drops": 500,
-  "total_new": 26567,
-  "last_updated": "2026-11-23T05:59:27Z",
+  "total_tracked": 26574,
+  "total_drops": 501,
+  "total_new": 26574,
+  "last_updated": "2026-11-23T19:53:58Z",
   "drops": [
-    {
-      "id": "16896281",
-      "title": "2,350 P.M |  Range Rover Sport HSE Dynamic | 0% Downpayment | UNDER WARRANTY!",
-      "old_price": 129999,
-      "new_price": 119999,
-      "drop_pct": 7.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/07/03/2350-pm-range-rover-sport-hse-dynamic-0-do-2-689---17c82b121c5d49dda8313de14303af14/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2019",
-      "mileage": "127000",
-      "date": "2026-09-28T19:19:27Z"
-    },
     {
       "id": "16960371",
       "title": "BMW 428i Gran Coupe 2016 | GCC Specs | Pristine Condition",
@@ -7003,9 +6989,107 @@
       "year": "2023",
       "mileage": "73008",
       "date": "2026-11-22T15:58:13Z"
+    },
+    {
+      "id": "101052817",
+      "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
+      "old_price": 42000,
+      "new_price": 39700,
+      "drop_pct": 5.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-190---9ef40fce9c7f4da08bc4893a176140cd/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2018",
+      "mileage": "173000",
+      "date": "2026-11-23T19:53:58Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "101064586",
+      "title": "iCAUR V27 AWD FLAGSHIP \u2013 MODEL 2027",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/23/icaur-v27-awd-flagship-model-2027-2-529---b2d89090bbf847fdb19e54fcc9854874/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "V27",
+      "year": "2027",
+      "mileage": "0",
+      "price": 139999,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101058750",
+      "title": "2027 ICAUR 03T IWD REEV | BRAND NEW | GCC SPEC",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/03t/2026/11/23/2027-icaur-03t-iwd-reev-brand-new-gcc-spec-2-050---a0c228c1a6b44d258b1295bd385c4265/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "03T",
+      "year": "2027",
+      "mileage": "0",
+      "price": 119000,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101061413",
+      "title": "AED 1,900 monthly | 0% Down-Payment | BRAND NEW | Agency Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/23/aed-1900-monthly-0-down-payment-brand-new--2-780---814710a517a440d287b44be97ada14ee/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2027",
+      "mileage": "21",
+      "price": 119750,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101061819",
+      "title": "2023 BRABUS XLP 900 6x6 Adventure Mercedes-AMG G 63 - European Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/xlp-800-6x6-mercedes-amg-g-63/2026/11/23/2023-brabus-xlp-900-6x6-adventure-mercedes-2-008---891d50ce499d4a36a24188d7bd2ae5df/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "XLP 800 6x6 - Mercedes-AMG G 63",
+      "year": "2023",
+      "mileage": "2000",
+      "price": 4700000,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101057748",
+      "title": "2025 BYD SEALION 6 DM-i 170KM PILOT PLUS",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/23/2025-byd-sealion-6-dm-i-170km-pilot-plus-2-052---ccd4e8737a5a4cab9aa5f77d9b52825b/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2025",
+      "mileage": "0",
+      "price": 106000,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101059172",
+      "title": "2,356 Monthly I VW Certified | Zero Down Payment Assist | Under Warranty I",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/23/2356-monthly-i-vw-certified-zero-down-paym-2-725---8866eedbf34b41129095a8f62f38a80f/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2025",
+      "mileage": "19000",
+      "price": 154900,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
+    {
+      "id": "101058556",
+      "title": "Volkswagen Golf GTI 2016 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/23/volkswagen-golf-gti-2016-gcc-specs-2-757---3323ed1a56cb4f4f8be11cd03a2072bc/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2016",
+      "mileage": "471431",
+      "price": 12000,
+      "first_seen": "2026-11-23T19:53:58Z"
+    },
     {
       "id": "101053480",
       "title": "Citroen C5 Aircross Shine 2025 GCC Specs -Accident-Free | Dealer Warranty",
@@ -7045,13 +7129,13 @@
     {
       "id": "101052817",
       "title": "Volkswagen GTI Sport 2018 | GCC Specs | Full Options",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-566---9ef40fce9c7f4da08bc4893a176140cd/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/golf-gti/2026/11/22/volkswagen-gti-sport-2018-gcc-specs-full-o-2-190---9ef40fce9c7f4da08bc4893a176140cd/",
       "category": "Used Cars",
       "make": "Volkswagen",
       "model": "Golf GTI",
       "year": "2018",
       "mileage": "173000",
-      "price": 42000,
+      "price": 39700,
       "first_seen": "2026-11-22T21:39:14Z"
     },
     {
@@ -7320,14 +7404,14 @@
     },
     {
       "id": "100984345",
-      "title": "3,721 P.M | Cadillac Optiq 450 E4 | 0% Downpayment",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3721-pm-cadillac-optiq-450-e4-0-downpaymen-2-120---32f12c8883274ea98a79c2b6493ed64c/",
+      "title": "3,621 P.M | Cadillac Warranty + S/Contract | 0% Downpayment",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/optiq/2026/11/16/3621-pm-cadillac-warranty-scontract-0-down-2-429---32f12c8883274ea98a79c2b6493ed64c/",
       "category": "Used Cars",
       "make": "Cadillac",
       "model": "Optiq",
       "year": "2025",
       "mileage": "15000",
-      "price": 189999,
+      "price": 184855,
       "first_seen": "2026-11-16T17:59:52Z"
     },
     {
@@ -12921,90 +13005,6 @@
       "mileage": "76391",
       "price": 66599,
       "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "16954124",
-      "title": "NISSAN - PATROL - LE PLATINUM - V 8 - 2024 MODEL - GCC SPECS - V 8 - 73,000KM - GRAY COLOR",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/08/25/nissan-patrol-le-platinum-v-8-2024-model-g-2-876---6a18c8fc609f48cb9d63cc495a632544/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "2024",
-      "mileage": "73000",
-      "price": 235000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100335536",
-      "title": "Toyota Corolla 2026 Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/09/22/toyota-corolla-2026-chinese-specs-2-172---7a997c2a2f094036b70fd505c8898d06/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Corolla",
-      "year": "2026",
-      "mileage": "0",
-      "price": 68000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100379279",
-      "title": "0 KM NEW LAMBORGHINI URUS SE 2026-800 BG- CARBON-HEAP UP-4D BANG&OLUFSEN-FULL BODY COLOUR-WARRANTY-",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/09/26/0-km-new-lamborghini-urus-se-2026-800-bg-c-2-641---e492cc1c4a1d476185f20516e8441dfa/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Urus",
-      "year": "2026",
-      "mileage": "0",
-      "price": 1415000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100740680",
-      "title": "Chevrolet Trax LT 2018 Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2026/10/27/chevrolet-trax-lt-2018-korean-specs-2-978---d8bed7df92dc4eac90212157b5d52bbe/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Trax",
-      "year": "2018",
-      "mileage": "164000",
-      "price": 18000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100740383",
-      "title": "2023 Dodge Challenger | American Specs | Pristine Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/challenger/2026/10/27/2023-dodge-challenger-american-specs-prist-2-297---94e6f1d7708344898cb1e6e4accb359b/",
-      "category": "Used Cars",
-      "make": "Dodge",
-      "model": "Challenger",
-      "year": "2023",
-      "mileage": "66",
-      "price": 985000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100338679",
-      "title": "Mercedes-Benz S-Class S 63 AMG",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/09/22/mercedes-benz-s-class-s-63-amg-2-604---a73a4fdefd7d4f978ed02397ab8ef664/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2025",
-      "mileage": "5700",
-      "price": 849000,
-      "first_seen": "2026-10-26T23:36:48Z"
-    },
-    {
-      "id": "100338743",
-      "title": "Porsche Cayenne S Coupe",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/22/porsche-cayenne-s-coupe-2-065---5d24d3abb2c14fdb91d8ce7a339d97da/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "year": "2026",
-      "mileage": "800",
-      "price": 629000,
-      "first_seen": "2026-10-26T23:36:48Z"
     }
   ]
 }
