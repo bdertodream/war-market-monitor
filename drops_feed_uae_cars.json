@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26574,
-  "total_drops": 501,
-  "total_new": 26574,
-  "last_updated": "2026-11-23T19:53:58Z",
+  "total_tracked": 26575,
+  "total_drops": 500,
+  "total_new": 26575,
+  "last_updated": "2026-11-24T04:38:46Z",
   "drops": [
     {
       "id": "16960371",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101066404",
+      "title": "Brand New SQ8 e-tron GCC Specs | Audi Warranty and Service Package | 503 HP",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/11/24/brand-new-sq8-e-tron-gcc-specs-audi-warran-2-462---34fd25dc0cdd4619be3f7198a63889a9/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "SQ8 e-tron",
+      "year": "2024",
+      "mileage": "9750",
+      "price": 250000,
+      "first_seen": "2026-11-24T04:38:46Z"
+    },
+    {
       "id": "101064586",
       "title": "iCAUR V27 AWD FLAGSHIP \u2013 MODEL 2027",
       "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/23/icaur-v27-awd-flagship-model-2027-2-529---b2d89090bbf847fdb19e54fcc9854874/",
@@ -12992,18 +13004,6 @@
       "year": "2014",
       "mileage": "135000",
       "price": 22000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100370480",
-      "title": "AED 1,044/month | 0 Downpayment | Free 3 Months Warranty | 30 Day Return | FORD TERRITORY 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/territory/2026/09/25/aed-1044month-0-downpayment-free-3-months--2-432---e328527551744e3c8e7c0a1e96bef610/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Territory",
-      "year": "2024",
-      "mileage": "76391",
-      "price": 66599,
       "first_seen": "2026-10-27T09:39:09Z"
     }
   ]

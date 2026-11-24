@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 32022,
+  "total_tracked": 32028,
   "total_drops": 500,
-  "total_new": 32022,
+  "total_new": 32028,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9765741",
-      "title": "G+4 | Phase 1 | Prime Location | Investor Deal",
-      "old_price": 7504928,
-      "new_price": 6704402,
-      "drop_pct": 10.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/21/g4-phase-1-investor-deal-prime-location-2-121900/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10006",
-      "bedrooms": "",
-      "date": "2026-06-24",
-      "first_seen": "2026-05-21"
-    },
     {
       "id": "9765739",
       "title": "Great Investment | Phase 10 | Prime Location",
@@ -7005,9 +6991,89 @@
       "bedrooms": "",
       "date": "2026-11-23",
       "first_seen": "2026-08-13"
+    },
+    {
+      "id": "9843967",
+      "title": "Grade A | Prime Location | Vacant",
+      "old_price": 2150000,
+      "new_price": 2000000,
+      "drop_pct": 7.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/8/grade-a-prime-location-vacant-2-229623/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Office",
+      "size": "632",
+      "bedrooms": "",
+      "date": "2026-11-24",
+      "first_seen": "2026-11-18"
     }
   ],
   "new_listings": [
+    {
+      "id": "18344337",
+      "title": "Eye-line Marina | 2 + Study & Maids | View Today",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/eye-line-marina-2-study-maids-view-toda-2-300330/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "2708",
+      "bedrooms": "2",
+      "price": 4880000,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "18175756",
+      "title": "Exquisite 5-Bedroom Corner Villa | VOT | Private Pool | Great Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/18/exquisite-5-bedroom-corner-villa-vot-pr-2-621571/",
+      "area": "Al Barari",
+      "category": "Villa",
+      "size": "6357",
+      "bedrooms": "5",
+      "price": 15250000,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "18346675",
+      "title": "Palm Central Private Residences Frond D | Investor Deal | Sea View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/palm-central-private-residences-frond-d-2-928257/",
+      "area": "Palm Jebel Ali",
+      "category": "Apartment",
+      "size": "2628",
+      "bedrooms": "3",
+      "price": 7555555,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "18346650",
+      "title": "Palm Central Private Residence | Luxury Beachfront Living | High ROI | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/palm-central-private-residence-luxury-b-2-137829/",
+      "area": "Palm Jebel Ali",
+      "category": "Apartment",
+      "size": "1229",
+      "bedrooms": "2",
+      "price": 4000000,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "18346450",
+      "title": "New Launch | Sea View | High Capital Appreciation | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/new-launch-sea-view-high-capital-apprec-2-305295/",
+      "area": "Palm Jebel Ali",
+      "category": "Apartment",
+      "size": "726",
+      "bedrooms": "1",
+      "price": 2500000,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "9817719",
+      "title": "Direct To Canal (Full Water View) with Retail- G+20-No Agents.",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/20/direct-to-canal-full-water-view-with-re-2-328952/",
+      "area": "Business Bay",
+      "category": "Land",
+      "size": "21553",
+      "bedrooms": "",
+      "price": 350000000,
+      "first_seen": "2026-11-24"
+    },
     {
       "id": "18224754",
       "title": "Bespoke Mansion | Sky Lounge | Golf View",
@@ -12441,74 +12507,8 @@
       "bedrooms": "",
       "price": 8200000,
       "first_seen": "2026-11-18"
-    },
-    {
-      "id": "9843967",
-      "title": "Grade A | Prime Location | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/8/grade-a-prime-location-vacant-2-229623/",
-      "area": "Jumeirah Lakes Towers (JLT)",
-      "category": "Office",
-      "size": "632",
-      "bedrooms": "",
-      "price": 2150000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "9841781",
-      "title": "Vacant | Close to Metro | Skyline View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/10/26/vacant-close-to-metro-skyline-view-2-637637/",
-      "area": "Jumeirah Lakes Towers (JLT)",
-      "category": "Office",
-      "size": "1088",
-      "bedrooms": "",
-      "price": 1875000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "9844810",
-      "title": "Premium Fitted Office | Vacant | Low Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/13/premium-fitted-office-vacant-low-floor-2-266892/",
-      "area": "Jumeirah Lakes Towers (JLT)",
-      "category": "Office",
-      "size": "1062",
-      "bedrooms": "",
-      "price": 1750000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "9817370",
-      "title": "Corner Park | Permits in place | Maximized BUA",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/18/corner-park-permits-in-place-maximized--2-320713/",
-      "area": "Dubai Hills Estate",
-      "category": "Land",
-      "size": "7743",
-      "bedrooms": "",
-      "price": 21995000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "18284042",
-      "title": "Single Row | Best Deal In Tilal | Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/10/single-row-best-deal-in-tilal-payment-p-2-182329/",
-      "area": "Tilal Al Ghaf",
-      "category": "Villa",
-      "size": "5096",
-      "bedrooms": "4",
-      "price": 8499000,
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "18124578",
-      "title": "Mortgageable | Great location | Stylish",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/8/mortgageable-great-location-stylish-2-236407/",
-      "area": "DAMAC Lagoons",
-      "category": "Villa",
-      "size": "2073",
-      "bedrooms": "3",
-      "price": 2550000,
-      "first_seen": "2026-11-17"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-23"
+  "last_updated": "2026-11-24"
 }

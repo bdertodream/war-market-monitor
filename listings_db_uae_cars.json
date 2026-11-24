@@ -598262,7 +598262,7 @@
   "100595078": {
     "id": "100595078",
     "title": "BYD Sealion 6 DMI 2026 Chinese Specs",
-    "price": 96000,
+    "price": 93000,
     "make": "BYD",
     "model": "Sealion 6",
     "year": "2026",
@@ -598271,7 +598271,7 @@
     "fuel_type": "Plug-in Hybrid",
     "area": "Jafza View 18",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/14/byd-sealion-6-dmi-2026-chinese-specs-2-196---8c193b2d33514831b6b0e58334152ab0/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/10/14/byd-sealion-6-dmi-2026-chinese-specs-2-611---8c193b2d33514831b6b0e58334152ab0/",
     "first_seen": "2026-10-14T16:39:45Z",
     "prices": [
       {
@@ -598285,6 +598285,10 @@
       {
         "price": 96000,
         "date": "2026-11-10T12:10:34Z"
+      },
+      {
+        "price": 93000,
+        "date": "2026-11-24T04:38:46Z"
       }
     ],
     "date": "2026-10-14"
@@ -634526,5 +634530,27 @@
       }
     ],
     "date": "2026-11-23"
+  },
+  "101066404": {
+    "id": "101066404",
+    "title": "Brand New SQ8 e-tron GCC Specs | Audi Warranty and Service Package | 503 HP",
+    "price": 250000,
+    "make": "Audi",
+    "model": "SQ8 e-tron",
+    "year": "2024",
+    "kilometers": "9750",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/sq8-e-tron/2026/11/24/brand-new-sq8-e-tron-gcc-specs-audi-warran-2-462---34fd25dc0cdd4619be3f7198a63889a9/",
+    "first_seen": "2026-11-24T04:38:46Z",
+    "prices": [
+      {
+        "price": 250000,
+        "date": "2026-11-24T04:38:46Z"
+      }
+    ],
+    "date": "2026-11-24"
   }
 }
