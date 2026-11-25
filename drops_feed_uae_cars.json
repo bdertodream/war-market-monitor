@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26590,
-  "total_drops": 504,
-  "total_new": 26590,
-  "last_updated": "2026-11-24T19:22:33Z",
+  "total_tracked": 26591,
+  "total_drops": 500,
+  "total_new": 26591,
+  "last_updated": "2026-11-25T03:23:43Z",
   "drops": [
     {
       "id": "16883527",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101076386",
+      "title": "BYD Sealion 6 2026 Chinese Specs warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/24/byd-sealion-6-2026-chinese-specs-warranty-2-171---4ecb0bb611614d72a3b379837c945af7/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Sealion 6",
+      "year": "2026",
+      "mileage": "10",
+      "price": 116900,
+      "first_seen": "2026-11-25T03:23:43Z"
+    },
+    {
       "id": "16867898",
       "title": "2024 Rolls-Royce EWB, Rear Entertainment, Illuminated Grille, Starlight, Dealer Warr + Serv!!",
       "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/ghost-extended/2026/06/10/2024-rolls-royce-ewb-rear-entertainment-il-2-469---71f332e1e34140ec978b4880fa1bea2f/",
@@ -12992,18 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 140000,
-      "first_seen": "2026-10-27T09:39:09Z"
-    },
-    {
-      "id": "100699705",
-      "title": "Explore Jetour T2 2025 Luxury GCC Specs from jetour trusted preowned.",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/t2/2026/10/23/explore-jetour-t2-2025-luxury-gcc-specs-fr-2-550---85f219f16ac84371bc31ccb5976d7138/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "T2",
-      "year": "2025",
-      "mileage": "50993",
-      "price": 105000,
       "first_seen": "2026-10-27T09:39:09Z"
     }
   ]

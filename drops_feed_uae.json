@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 32061,
+  "total_tracked": 32067,
   "total_drops": 500,
-  "total_new": 32061,
+  "total_new": 32067,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,72 @@
   ],
   "new_listings": [
     {
+      "id": "18177921",
+      "title": "Pristine 2-Bedroom Green Living | Vacant | Perfect for End User or Investor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/10/19/pristine-2-bedroom-green-living-vacant--2-126268/",
+      "area": "Al Barari",
+      "category": "Apartment",
+      "size": "1539",
+      "bedrooms": "2",
+      "price": 3800000,
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "18254623",
+      "title": "Near Lagoon | Vaastu Compliant | Handed over and Handover Soon options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/3/near-lagoon-single-row-handover-soon-2-245664/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "2277",
+      "bedrooms": "4",
+      "price": 2580000,
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "18113669",
+      "title": "Grand 6BR Waterfront Estate | Mareva 2 at The Oasis",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/6/grand-6br-waterfront-estate-mareva-2-at-2-263079/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "12779",
+      "bedrooms": "6",
+      "price": 27050000,
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "18307083",
+      "title": "5 Bedroom Villa 5,678 Sq Ft | New Villas | DLD Waiver | 5% Downpayment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/14/5-bedroom-villa-5678-sq-ft-new-villas-d-2-594458/",
+      "area": "Dubai South",
+      "category": "Villa",
+      "size": "5678",
+      "bedrooms": "5",
+      "price": 7880000,
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "18342894",
+      "title": "Spacious 1-Bedroom | Roxana Residence C | Resale | AED 790,000",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/spacious-1-bedroom-roxana-residence-c-r-2-165004/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "873",
+      "bedrooms": "1",
+      "price": 790000,
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "18351581",
+      "title": "New Launch | 100% Unit Allocation | Private Beach | Luxury Or Nothing",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/24/new-launch-100-unit-allocation-private--2-113598/",
+      "area": "Palm Jebel Ali",
+      "category": "Apartment",
+      "size": "826",
+      "bedrooms": "1",
+      "price": 2450000,
+      "first_seen": "2026-11-25"
+    },
+    {
       "id": "18344337",
       "title": "Eye-line Marina | 2 + Study & Maids | View Today",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/23/eye-line-marina-2-study-maids-view-toda-2-300330/",
@@ -7060,7 +7126,7 @@
       "category": "Apartment",
       "size": "726",
       "bedrooms": "1",
-      "price": 2500000,
+      "price": 2450000,
       "first_seen": "2026-11-24"
     },
     {
@@ -10096,7 +10162,7 @@
       "category": "Apartment",
       "size": "361",
       "bedrooms": "0",
-      "price": 750000,
+      "price": 730000,
       "first_seen": "2026-11-19"
     },
     {
@@ -12441,74 +12507,8 @@
       "bedrooms": "2",
       "price": 6500000,
       "first_seen": "2026-11-18"
-    },
-    {
-      "id": "17951274",
-      "title": "Modern Urban Home | 1BR | Exceptional Use of Space",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/3/modern-urban-home-1br-exceptional-use-o-2-226727/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "712",
-      "bedrooms": "1",
-      "price": 1202548,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "18279007",
-      "title": "Single Row | Upgraded | 3 bed En-suite",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/9/single-row-upgraded-3-bed-en-suite-2-178775/",
-      "area": "Arabian Ranches",
-      "category": "Townhouse",
-      "size": "2158",
-      "bedrooms": "3",
-      "price": 3850000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "17683825",
-      "title": "Fully Extended |Exclusive | Quiet Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/6/exclusive-fully-extended-single-row-2-195208/",
-      "area": "Arabian Ranches",
-      "category": "Townhouse",
-      "size": "2437",
-      "bedrooms": "3",
-      "price": 5350000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "17951239",
-      "title": "Generous 2BR Residence | Contemporary Comfort | JVT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/3/generous-2br-residence-contemporary-com-2-802409/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "1711",
-      "bedrooms": "2",
-      "price": 2408764,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "18302513",
-      "title": "Close to Lagoon | Vastu | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/13/close-to-lagoon-vastu-motivated-seller-2-222622/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2275",
-      "bedrooms": "4",
-      "price": 2700000,
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "17934783",
-      "title": "Investor Deal- Strong Rental Yield- Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/31/investor-deal-strong-rental-yield-prime-2-304612/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "870",
-      "bedrooms": "1",
-      "price": 725000,
-      "first_seen": "2026-11-18"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-24"
+  "last_updated": "2026-11-25"
 }

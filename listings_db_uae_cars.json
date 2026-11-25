@@ -634902,5 +634902,27 @@
       }
     ],
     "date": "2026-11-24"
+  },
+  "101076386": {
+    "id": "101076386",
+    "title": "BYD Sealion 6 2026 Chinese Specs warranty",
+    "price": 116900,
+    "make": "BYD",
+    "model": "Sealion 6",
+    "year": "2026",
+    "kilometers": "10",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/sealion-6/2026/11/24/byd-sealion-6-2026-chinese-specs-warranty-2-171---4ecb0bb611614d72a3b379837c945af7/",
+    "first_seen": "2026-11-25T03:23:43Z",
+    "prices": [
+      {
+        "price": 116900,
+        "date": "2026-11-25T03:23:43Z"
+      }
+    ],
+    "date": "2026-11-25"
   }
 }
