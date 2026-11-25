@@ -301962,7 +301962,7 @@
   "16862069": {
     "id": "16862069",
     "title": "ROLLS ROYCE | PHANTOM EWB | MANSORY DIAMOND EDITION",
-    "price": 3199000,
+    "price": 2999000,
     "make": "Rolls-Royce",
     "model": "Phantom",
     "year": "2023",
@@ -301971,12 +301971,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom/2026/6/5/rolls-royce-phantom-ewb-mansory-diamond-ed-2-158---f16b717e1e0a4f7aa575e6c5fd03b238/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/06/05/rolls-royce-phantom-ewb-mansory-diamond-ed-2-509---f16b717e1e0a4f7aa575e6c5fd03b238/",
     "first_seen": "2026-06-05T14:51:47Z",
     "prices": [
       {
         "price": 3199000,
         "date": "2026-06-05T14:51:47Z"
+      },
+      {
+        "price": 2999000,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-06-05"
@@ -497148,7 +497152,7 @@
   "16919361": {
     "id": "16919361",
     "title": "GCC Specs | GMC Yukon XL SLE",
-    "price": 160000,
+    "price": 119000,
     "make": "GMC",
     "model": "Yukon",
     "year": "2021",
@@ -497157,7 +497161,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/07/23/gcc-specs-gmc-yukon-xl-sle-2-621---49256ed237c348e89262dc6e8174e257/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/07/23/gcc-specs-gmc-yukon-xl-sle-2-300---49256ed237c348e89262dc6e8174e257/",
     "first_seen": "2026-08-22T16:24:48Z",
     "prices": [
       {
@@ -497167,6 +497171,10 @@
       {
         "price": 160000,
         "date": "2026-09-15T16:23:38Z"
+      },
+      {
+        "price": 119000,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-08-22"
@@ -548290,7 +548298,7 @@
   "100285193": {
     "id": "100285193",
     "title": "2025 Changan Nevo Q07  145KM Premium | Brand New | Chinese Specs",
-    "price": 75000,
+    "price": 75400,
     "make": "Changan",
     "model": "Nevo Q07",
     "year": "2025",
@@ -548309,6 +548317,10 @@
       {
         "price": 75000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 75400,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-09-18"
@@ -626001,8 +626013,8 @@
   },
   "100756972": {
     "id": "100756972",
-    "title": "7,540 P.M |  HUMMER EV Pickup | 0% Downpayment | Excellent Condition!",
-    "price": 384999,
+    "title": "7,344 P.M |  HUMMER EV Pickup | 0% Downpayment | Excellent Condition!",
+    "price": 374999,
     "make": "GMC",
     "model": "Hummer",
     "year": "2024",
@@ -626011,12 +626023,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer/2026/10/28/7540-pm-hummer-ev-pickup-0-downpayment-exc-2-317---94818efc9a3c469295dc898b18d4a60a/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-pickup/2026/10/28/7344-pm-hummer-ev-pickup-0-downpayment-exc-2-437---94818efc9a3c469295dc898b18d4a60a/",
     "first_seen": "2026-10-28T14:53:52Z",
     "prices": [
       {
         "price": 384999,
         "date": "2026-10-28T14:53:52Z"
+      },
+      {
+        "price": 374999,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-10-28"
@@ -634554,7 +634570,7 @@
   "101066404": {
     "id": "101066404",
     "title": "Brand New SQ8 e-tron GCC Specs | Audi Warranty and Service Package | 503 HP",
-    "price": 250000,
+    "price": 260000,
     "make": "Audi",
     "model": "SQ8 e-tron",
     "year": "2024",
@@ -634569,6 +634585,10 @@
       {
         "price": 250000,
         "date": "2026-11-24T04:38:46Z"
+      },
+      {
+        "price": 260000,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-11-24"
@@ -634921,6 +634941,1238 @@
       {
         "price": 116900,
         "date": "2026-11-25T03:23:43Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "100810379": {
+    "id": "100810379",
+    "title": "5 YEAR WARRANTY & SERVICE UNTIL 2031 | HIGH OPTIONS | BRAND NEW CONDITION | FINANCE AVAILABLE",
+    "price": 2449000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan Series II",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/02/5-year-warranty-service-until-2031-high-op-2-205---5dedd6c284f2403ebbaa29faf27d5b6c/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2449000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-02"
+  },
+  "100429029": {
+    "id": "100429029",
+    "title": "2026 Rolls-Royce Cullinan Series II BLACK  BADGE KIT European Specs | Brand New Luxury SUV",
+    "price": 2099000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan Series II",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/09/30/2026-rolls-royce-cullinan-series-ii-black--2-330---353d76b6600f41ff902ccc4885dfc0d2/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2099000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-04"
+  },
+  "16968722": {
+    "id": "16968722",
+    "title": "SPOFEC BY NOVITEC | 24-INCH SP3 WHEELS | PETROL BLUE INTERIOR",
+    "price": 2500000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2024",
+    "kilometers": "25600",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/09/07/spofec-by-novitec-24-inch-sp3-wheels-petro-2-059---fba2412b43dd499dbe7e65a202b4e8d7/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2500000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-17"
+  },
+  "16965997": {
+    "id": "16965997",
+    "title": "Rolls Royce Phantom | 2024 | GCC Specs | Agency Warranty & Service",
+    "price": 1699000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2024",
+    "kilometers": "38000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Building 22",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/09/05/rolls-royce-phantom-2024-gcc-specs-agency--2-311---913baf96fd7641cebad176d1e2a3a5f4/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1699000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "16961045": {
+    "id": "16961045",
+    "title": "2026 ROLLS ROYCE PHANTOM  EXTENDED WHEEL BASE / GCC SPECS / DEALER WARRANTY AND SERVICE",
+    "price": 3349000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "54",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/09/01/2026-rolls-royce-phantom-extended-wheel-ba-2-839---b95f21e230c44d5e9d00461db466416f/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3349000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "16953922": {
+    "id": "16953922",
+    "title": "ROLLS ROYCE PHANTOM LWB, 2024, GCC, WARRANTY AND SERVICE CONTRACT, EXCELLENT CONDITION",
+    "price": 1849000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2024",
+    "kilometers": "20000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/08/25/rolls-royce-phantom-lwb-2024-gcc-warranty--2-618---fd1d59b612c64a4e8b07574f0e26c983/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1849000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "16944755": {
+    "id": "16944755",
+    "title": "Rolls Royce Phantom EWB 2026",
+    "price": 3200000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "20",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Investments Park 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/08/16/rolls-royce-phantom-ewb-2026-2-844---9a1d46443894448dbe938e4a8a338ef3/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3200000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-14"
+  },
+  "16913496": {
+    "id": "16913496",
+    "title": "4 YEARS WARRANTY + SERVICE | REAR ENTERTAINMENT | BESPOKE AUDIO",
+    "price": 3199000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "60",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/07/18/4-years-warranty-service-rear-entertainmen-2-855---01433bbd0d7a4d3cbda2b9107e091f64/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3199000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-09-16"
+  },
+  "16865535": {
+    "id": "16865535",
+    "title": "Rolls-Royce Phantom EWB - 2026 - GCC Specs - Under Warranty and Service Contract",
+    "price": 3250000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Safa 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/06/08/rolls-royce-phantom-ewb-2026-gcc-specs-und-2-155---b9bef208b3134814972e4ced6763fd59/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3250000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "16841197": {
+    "id": "16841197",
+    "title": "WARRANTY AND SERVICE CONTRACT TILL 2027 | EXTENDED WHEELBASE | BLACK BADGE | ACCIDENT-FREE",
+    "price": 1799000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2024",
+    "kilometers": "26000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/05/16/warranty-and-service-contract-till-2027-ex-2-745---c89e900f929a4cbdba4a543320f25791/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1799000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-10-31"
+  },
+  "16814687": {
+    "id": "16814687",
+    "title": "Rolls Royce Phantom EWB - 2026 - GCC Specs - Under Warranty and Service Contract",
+    "price": 3250000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Safa 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/04/23/rolls-royce-phantom-ewb-2026-gcc-specs-und-2-338---507f8328a0ed4615a2c7d68075868ee3/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3250000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-10-21"
+  },
+  "16749114": {
+    "id": "16749114",
+    "title": "Rolls Royce Phantom Extended",
+    "price": 2890000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "50",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/02/18/rolls-royce-phantom-extended-2-611---53966c3d7d874e86b388f145e2f17b41/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2890000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-06"
+  },
+  "16737660": {
+    "id": "16737660",
+    "title": "2026 ROLLS-ROYCE PHANTOM EWB WITH WARRANTY AND SERVICE CONTRACT",
+    "price": 3179000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "86",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/02/09/2026-rolls-royce-phantom-ewb-with-warranty-2-322---52411e8cd54741ef9b5cd99b6b902059/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3179000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "16677111": {
+    "id": "16677111",
+    "title": "EXTENDED WHEELBASE | LEG REST | REAR ENTERTAINMENT | 4 YEARS WARRANTY + SERVICE | STARLIGHT |PHANTOM",
+    "price": 2990000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "60",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2025/12/19/extended-wheelbase-leg-rest-rear-entertain-2-235---e18b491c382945028b340be19320470e/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2990000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-09-19"
+  },
+  "16536805": {
+    "id": "16536805",
+    "title": "2026 ROLLS ROYCE PHANTOM EWB | GCC | MAIN DEALER WARRANTY SERVICE | VIP REAR SEATS",
+    "price": 3149000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2025/08/27/2026-rolls-royce-phantom-ewb-gcc-main-deal-2-085---8f0041acfbb14cebae21d20b6c7330a1/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3149000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-10-30"
+  },
+  "101061318": {
+    "id": "101061318",
+    "title": "2023 Rolls-Royce Phantom Extended Wheel Base GCC Specs",
+    "price": 1650000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2023",
+    "kilometers": "12500",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/11/23/2023-rolls-royce-phantom-extended-wheel-ba-2-455---2bce2eb40afa4ddca88b7185813c527c/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1650000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "100942748": {
+    "id": "100942748",
+    "title": "2019 Rolls-Royce Phantom Mansory Extended Wheelbase \u2014 European Specs, Immaculate",
+    "price": 1650000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2019",
+    "kilometers": "3800",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/11/12/2019-rolls-royce-phantom-mansory-extended--2-710---0703fabd7ea746b08da7893f2e98f97e/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1650000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-12"
+  },
+  "100931076": {
+    "id": "100931076",
+    "title": "2024 Rolls-Royce Phantom Extended Wheelbase European Specs",
+    "price": 1850000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2024",
+    "kilometers": "29000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/11/11/2024-rolls-royce-phantom-extended-wheelbas-2-145---9ca1bf8291f54a1084bd532862d8d2a7/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1850000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "100862144": {
+    "id": "100862144",
+    "title": "Rolls-Royce Phantom Extended Wheel Base || Model Year 2026 || 5,487 Kms",
+    "price": 2990000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2026",
+    "kilometers": "5487",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/11/05/rolls-royce-phantom-extended-wheel-base-mo-2-230---e33a205c5a44481894b8a1f8e8c0beb5/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2990000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-05"
+  },
+  "100615358": {
+    "id": "100615358",
+    "title": "2019 Rolls-Royce Phantom Extended Wheelbase \u2013 GCC Specs, Immaculate Condition",
+    "price": 1099999,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2019",
+    "kilometers": "122193",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/10/16/2019-rolls-royce-phantom-extended-wheelbas-2-707---3f50433c9a4c4514bbef825f873525ef/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1099999,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-16"
+  },
+  "100510979": {
+    "id": "100510979",
+    "title": "Rolls-Royce Phantom EWB+4-SEATS+BESPOKE+SHOOTING STAR+FOOT REST",
+    "price": 2890000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2027",
+    "kilometers": "50",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/10/07/rolls-royce-phantom-ewb4-seatsbespokeshoot-2-575---cfecb04d37a64729bebe769ab4b34116/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2890000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-06"
+  },
+  "100486882": {
+    "id": "100486882",
+    "title": "2019 Rolls-Royce Phantom Extended Wheel Base GCC",
+    "price": 1329000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Extended",
+    "year": "2019",
+    "kilometers": "43800",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/10/05/2019-rolls-royce-phantom-extended-wheel-ba-2-379---f5e2587b967347c2b1d271bb602c49a3/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1329000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-04"
+  },
+  "16969985": {
+    "id": "16969985",
+    "title": "ZENITH COLLECTION | PHANTOM DROPHEAD | TWO TONE INTERIOR | WARRANTY AVAILABLE",
+    "price": 4500000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2017",
+    "kilometers": "5000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/09/08/zenith-collection-phantom-drophead-two-ton-2-277---4385f023de7c4437ad69af86694593b3/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 4500000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "16930507": {
+    "id": "16930507",
+    "title": "2 YEARS WARRANTY + SERVICE | FINAL EDITION | PHANTOM DROPHEAD",
+    "price": 2690000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2017",
+    "kilometers": "4000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/08/03/2-years-warranty-service-final-edition-pha-2-350---6859327fc69e45cda5545620596c0bdd/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2690000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-02"
+  },
+  "16926909": {
+    "id": "16926909",
+    "title": "2017 Rolls Royce Phantom Drophead | GCC Specs | Full Service History | Very Low Mileage",
+    "price": 3900000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2017",
+    "kilometers": "10469",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/07/30/2017-rolls-royce-phantom-drophead-gcc-spec-2-320---50735e70a96645cab0d12c589f4d76d8/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 3900000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-10-28"
+  },
+  "16902358": {
+    "id": "16902358",
+    "title": "2013 Phantom Drophead Coupe Series II | GCC | Series II LED headlamps | Teak wood rear tonneau deck",
+    "price": 990000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2013",
+    "kilometers": "61215",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/07/08/2013-phantom-drophead-coupe-series-ii-gcc--2-200---3a07a888baeb433983e37d5606dbe68a/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 990000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "16863785": {
+    "id": "16863785",
+    "title": "Rolls-Royce Phantom Drophead 2010 | GCC Specs | Pristine Condition",
+    "price": 695000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2010",
+    "kilometers": "68000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/06/07/rolls-royce-phantom-drophead-2010-gcc-spec-2-492---835a723d05154c8c85e6698e70b58a46/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 695000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-04"
+  },
+  "16031178": {
+    "id": "16031178",
+    "title": "PHANTOM DROPHEAD | TWO TONE EXTERIOR | LOW MILEAGES | WARRANTY DEC 2026",
+    "price": 949000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2008",
+    "kilometers": "26000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2024/08/07/phantom-drophead-two-tone-exterior-low-mil-2-736---34d25b7de1034f6ba63588a61e78dafb/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 949000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-02"
+  },
+  "101065489": {
+    "id": "101065489",
+    "title": "Rolls-Royce Phantom Drophead ( GCC )",
+    "price": 595000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2011",
+    "kilometers": "25000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/11/23/rolls-royce-phantom-drophead-gcc-2-626---6aca434a7e564840950fa271a626561a/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 595000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "100916802": {
+    "id": "100916802",
+    "title": "AED 16,512 PM | ROLLS ROYCE PHANTOM DROPHEAD 2009 | VVIP SINGLE OWNER | FULL AGENCY HISTORY | GCC",
+    "price": 799000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2009",
+    "kilometers": "45000",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/11/10/aed-16512-pm-rolls-royce-phantom-drophead--2-558---0fb6400c7e2a447386e23edbbcd3aaf0/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 799000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-10"
+  },
+  "100686960": {
+    "id": "100686960",
+    "title": "2013 Rolls-Royce Phantom Drophead | Low Mileage | Bespoke Spec | pristine Condition",
+    "price": 1399000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Drophead Coupe",
+    "year": "2013",
+    "kilometers": "19500",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-drophead-coupe/2026/10/22/2013-rolls-royce-phantom-drophead-low-mile-2-403---0f1988bea6124f589d92b86adc95f6df/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1399000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-22"
+  },
+  "16971071": {
+    "id": "16971071",
+    "title": "Rolls-Royce Phantom 2014 GCC specs",
+    "price": 499000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Series II",
+    "year": "2014",
+    "kilometers": "55000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-series-ii/2026/09/09/rolls-royce-phantom-2014-gcc-specs-2-931---f30cd34c03144ddcaa534c308ea34643/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 499000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-11"
+  },
+  "101072139": {
+    "id": "101072139",
+    "title": "Rolls Royce Phantom Coupe Series II",
+    "price": 1999000,
+    "make": "Rolls-Royce",
+    "model": "Phantom Series II",
+    "year": "2015",
+    "kilometers": "18000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-series-ii/2026/11/24/rolls-royce-phantom-coupe-series-ii-2-844---869770f07e22490eac357b3b87ca04ce/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 1999000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101057964": {
+    "id": "101057964",
+    "title": "GMC Savana 2021 Luxury Van - Perfect Condition",
+    "price": 88000,
+    "make": "GMC",
+    "model": "Savana 2500",
+    "year": "2021",
+    "kilometers": "6000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-417---b97627689a844170bd44cbabe93315ce/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 88000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "16364995": {
+    "id": "16364995",
+    "title": "GMC Savana 3500 Cargo Extended Wheelbase 2023 GCC 6.6L V8 0Kms",
+    "price": 179000,
+    "make": "GMC",
+    "model": "Savana 3500",
+    "year": "2023",
+    "kilometers": "0",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-3500/2025/04/12/gmc-savana-3500-cargo-extended-wheelbase-2-2-013---001aa346d4134e74a21c9a3217b9c9ec/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 179000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-15"
+  },
+  "101054519": {
+    "id": "101054519",
+    "title": "2019 GMC Savana Passenger Van (American Specs)",
+    "price": 75000,
+    "make": "GMC",
+    "model": "Savana 3500",
+    "year": "2019",
+    "kilometers": "150000",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Orion Building",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-3500/2026/11/22/2019-gmc-savana-passenger-van-american-spe-2-142---42a035a73d074bdcac622ed8058a6bba/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 75000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-22"
+  },
+  "101006614": {
+    "id": "101006614",
+    "title": "Savana | Automatic | 11-Seater | GCC Specs | Ref#G22981",
+    "price": 67000,
+    "make": "GMC",
+    "model": "Savana 3500",
+    "year": "2019",
+    "kilometers": "46519",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-3500/2026/11/18/savana-automatic-11-seater-gcc-specs-refg2-2-693---6e3b618e99884dd3b1fccfaf723accd3/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 67000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-18"
+  },
+  "16888605": {
+    "id": "16888605",
+    "title": "GMC Hummer EV Edition 1 2022 - Like New - American Specs",
+    "price": 270000,
+    "make": "GMC",
+    "model": "Hummer EV Pickup",
+    "year": "2022",
+    "kilometers": "4400",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-pickup/2026/06/27/gmc-hummer-ev-edition-1-2022-like-new-amer-2-090---b2b174fb102746cab86c7d87375947a2/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 270000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-21"
+  },
+  "100952523": {
+    "id": "100952523",
+    "title": "GMC HUMMER - EV Edition 1 - 2023 - FULLY LOADED - EXCELLENT CONDITION",
+    "price": 310000,
+    "make": "GMC",
+    "model": "Hummer EV Pickup",
+    "year": "2023",
+    "kilometers": "35000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-pickup/2026/11/13/gmc-hummer-ev-edition-1-2023-fully-loaded--2-928---33f6687ab1c046e9809fb429f3a880e6/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 310000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-13"
+  },
+  "100352975": {
+    "id": "100352975",
+    "title": "2022 GMC Hummer EV Pickup | American Specs",
+    "price": 259999,
+    "make": "GMC",
+    "model": "Hummer EV Pickup",
+    "year": "2022",
+    "kilometers": "23000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Electric",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-pickup/2026/09/23/2022-gmc-hummer-ev-pickup-american-specs-2-867---47c2f482b31149379327eea1fe39b86c/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 259999,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101015016": {
+    "id": "101015016",
+    "title": "2024 GMC Hummer EV Edition 1 GCC Specs",
+    "price": 460000,
+    "make": "GMC",
+    "model": "Hummer EV SUV",
+    "year": "2024",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/19/2024-gmc-hummer-ev-edition-1-gcc-specs-2-507---c3b9dbbd1e404b778e9f32ee29d88cd5/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 460000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-19"
+  },
+  "100916190": {
+    "id": "100916190",
+    "title": "2024 GMC Hummer EV Edition 1, Fully Loaded, Clean Tittle, 830 HP, Excellent Condition, American Spec",
+    "price": 349000,
+    "make": "GMC",
+    "model": "Hummer EV SUV",
+    "year": "2024",
+    "kilometers": "6608",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/10/2024-gmc-hummer-ev-edition-1-fully-loaded--2-906---8bffba7db89f4a2cbad23eaaaae6c775/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 349000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-10"
+  },
+  "100885641": {
+    "id": "100885641",
+    "title": "2024 GMC Hummer EV 3X SUV | Canadian Spec | 19,000 km | Mint Condition",
+    "price": 299000,
+    "make": "GMC",
+    "model": "Hummer EV SUV",
+    "year": "2024",
+    "kilometers": "19000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Electric",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/07/2024-gmc-hummer-ev-3x-suv-canadian-spec-19-2-766---8052fad15bd04fa39a1fc672f3451cd5/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 299000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-07"
+  },
+  "100835212": {
+    "id": "100835212",
+    "title": "7,148 P.M | First Edition | GMC Warranty | 0% Downpayment",
+    "price": 364999,
+    "make": "GMC",
+    "model": "Hummer EV SUV",
+    "year": "2024",
+    "kilometers": "15000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Electric",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/04/7148-pm-first-edition-gmc-warranty-0-downp-2-637---1adb347035c3415fa25486d6300718a1/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 364999,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-04"
+  },
+  "100743301": {
+    "id": "100743301",
+    "title": "6,419 P.M \u2022 0% Downpayment \u2022 GMC Hummer EV Edition 1 \u2022 Agency Warranty",
+    "price": 334950,
+    "make": "GMC",
+    "model": "Hummer EV SUV",
+    "year": "2024",
+    "kilometers": "8585",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/10/27/6419-pm-0-downpayment-gmc-hummer-ev-editio-2-620---dc2368cec3f94877b1c254d4f526c219/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 334950,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-21"
+  },
+  "15646515": {
+    "id": "15646515",
+    "title": "2017 GMC Yukon Denali XL, GCC Specifications (Rear Entertainment Package)",
+    "price": 114000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2017",
+    "kilometers": "60000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2024/10/03/2017-gmc-yukon-denali-xl-gcc-specification-2-678---bfc9f08f22b3408987c295678da01dab/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 114000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-06"
+  },
+  "101059141": {
+    "id": "101059141",
+    "title": "AED 2,930 monthly | 0% Down-Payment | Agency Warranty | Service Contract",
+    "price": 184750,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2022",
+    "kilometers": "73793",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/23/aed-2930-monthly-0-down-payment-agency-war-2-540---3282d2310e414abab7bc05b9eee1e667/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 184750,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-23"
+  },
+  "101039834": {
+    "id": "101039834",
+    "title": "2016 GMC Yukon XL Denali trim",
+    "price": 79000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2016",
+    "kilometers": "130000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Umm Suqeim 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/21/2016-gmc-yukon-xl-denali-trim-2-865---ba599749c317481cabaa73c5fbb9dd1d/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 79000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-21"
+  },
+  "101013527": {
+    "id": "101013527",
+    "title": "2023 GMC Yukon XL SLT GCC Specs",
+    "price": 160000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2023",
+    "kilometers": "515200",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-350---55041c8cfa3c4e3fa78ca98b83e70025/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 160000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-19"
+  },
+  "101003109": {
+    "id": "101003109",
+    "title": "2016 GMC Yukon XL Denali - GCC Specs",
+    "price": 59000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2016",
+    "kilometers": "234326",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Oxford Tower",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/18/2016-gmc-yukon-xl-denali-gcc-specs-2-505---f9978716a3ba450c886f270df436dbc1/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 59000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-18"
+  },
+  "100963039": {
+    "id": "100963039",
+    "title": "2015 GMC Yukon XL Denali GCC Specs Single Owner Used 100% Original Paint Well Maintained",
+    "price": 72000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2015",
+    "kilometers": "207000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/14/2015-gmc-yukon-xl-denali-gcc-specs-single--2-057---d2eefa9b583542e4bc518a8532ed8072/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 72000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-14"
+  },
+  "100504649": {
+    "id": "100504649",
+    "title": "GMC Yukon XL Denali 2021",
+    "price": 155000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2021",
+    "kilometers": "70200",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Town Square",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/10/06/gmc-yukon-xl-denali-2021-2-832---749a37276a0b4dbf89df083c4f086237/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 155000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-13"
+  },
+  "101080960": {
+    "id": "101080960",
+    "title": "Ferrari 330 P4 Recreation | Ferrari V12 | Extremely Rare",
+    "price": 2299000,
+    "make": "Ferrari",
+    "model": "330 P4",
+    "year": "1966",
+    "kilometers": "10",
+    "body_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/330-p4/2026/11/25/ferrari-330-p4-recreation-ferrari-v12-extr-2-519---c956f95e35544dffa49da479ea4c4679/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 2299000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101079796": {
+    "id": "101079796",
+    "title": "2024 BAIC BJ40 Luxury GCC Specs-Warranty",
+    "price": 79500,
+    "make": "BAIC",
+    "model": "BJ40",
+    "year": "2024",
+    "kilometers": "82850",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/25/2024-baic-bj40-luxury-gcc-specs-warranty-2-809---3703e79b25d24716a53e931a5ca5da4b/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 79500,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101082370": {
+    "id": "101082370",
+    "title": "2025 Leap Motor B10 Design ProMax, 3 Years German Experts Warranty + Service Pack, Very Low Km",
+    "price": 99000,
+    "make": "Leapmotor",
+    "model": "B10",
+    "year": "2025",
+    "kilometers": "148",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/leapmotor/b10/2026/11/25/2025-leap-motor-b10-design-promax-3-years--2-733---747d5df8548447f6a1d20544b919187d/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101082833": {
+    "id": "101082833",
+    "title": "BRABUS BODO - 1 of 77 - 2026 - GCC Specs",
+    "price": 9000000,
+    "make": "BRABUS",
+    "model": "Bodo",
+    "year": "2026",
+    "kilometers": "195",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Safa 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/bodo/2026/11/25/brabus-bodo-1-of-77-2026-gcc-specs-2-631---2585a487ef3947198923b7067cb2092e/",
+    "first_seen": "2026-11-25T13:55:59Z",
+    "prices": [
+      {
+        "price": 9000000,
+        "date": "2026-11-25T13:55:59Z"
       }
     ],
     "date": "2026-11-25"
