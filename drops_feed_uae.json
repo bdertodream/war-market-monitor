@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 32379,
+  "total_tracked": 32390,
   "total_drops": 500,
-  "total_new": 32379,
+  "total_new": 32390,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17368965",
-      "title": "MODERN LIVING | CITY WALK EXPERT | BRAND NEW",
-      "old_price": 2200000,
-      "new_price": 1970000,
-      "drop_pct": 10.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/be-the-first-tenant-city-walk-expert-br-2-335730/",
-      "area": "Al Wasl",
-      "category": "Apartment",
-      "size": "749",
-      "bedrooms": "1",
-      "date": "2026-06-26",
-      "first_seen": "2026-04-29"
-    },
     {
       "id": "9765737",
       "title": "Near To SZR | Best Location | Investors Deal",
@@ -7005,6 +6991,20 @@
       "bedrooms": "6",
       "date": "2026-11-26",
       "first_seen": "2026-05-20"
+    },
+    {
+      "id": "9789959",
+      "title": "Villa Plot for Sale in Meydan Avenue C \u2013 26,910 sq.ft. \u2013 GFA 21,528 sq.ft.",
+      "old_price": 35500000,
+      "new_price": 32000000,
+      "drop_pct": 9.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/8/10/high-roi-residential-plot-burj-khalifa--2-704936/",
+      "area": "Meydan",
+      "category": "Land",
+      "size": "26910",
+      "bedrooms": "",
+      "date": "2026-11-26",
+      "first_seen": "2026-08-10"
     }
   ],
   "new_listings": [
@@ -8755,6 +8755,127 @@
       "size": "17854",
       "bedrooms": "",
       "price": 37000000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "18351664",
+      "title": "HIGH ROI ! Prime Location ! Spacious Size",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/11/24/high-roi-prime-location-spacious-size-2-333400/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "485",
+      "bedrooms": "0",
+      "price": 479999,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9846796",
+      "title": "Modern Fit Out | Ready To Move | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/25/modern-fit-out-ready-to-move-prime-loca-2-275251/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "1208",
+      "bedrooms": "",
+      "price": 1900000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9843566",
+      "title": "Furnished Office | Tomorrow Commercial Tower 2 | Skyline View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/5/furnished-office-tomorrow-commercial-to-2-217838/",
+      "area": "International City Phase 2 (Warsan 4)",
+      "category": "Office",
+      "size": "411",
+      "bedrooms": "",
+      "price": 708500,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9843573",
+      "title": "City-View Office | Tomorrow Commercial Tower 2 | Terrace Access",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/5/city-view-office-tomorrow-commercial-to-2-734563/",
+      "area": "International City Phase 2 (Warsan 4)",
+      "category": "Office",
+      "size": "409",
+      "bedrooms": "",
+      "price": 739000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9846381",
+      "title": "No Agent | Vacant on transfer | High End Fitout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/23/full-floor-vacant-on-transfer-high-end--2-948238/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Office",
+      "size": "11995",
+      "bedrooms": "",
+      "price": 39823400,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819127",
+      "title": "Direct Burj Khalifa View | 5,166 Sq.Ft Villa Plot | Prime HADAEQ SHEIKH MOHAMMED",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/direct-burj-khalifa-view-5166-sqft-vill-2-161984/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "5165",
+      "bedrooms": "",
+      "price": 7650000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819266",
+      "title": "Exclusive | Below OP | Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/exclusive-below-op-motivated-seller-2-115706/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "9988",
+      "bedrooms": "",
+      "price": 13700000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819229",
+      "title": "Luxury Villa Plot | B+G+2+R Permit| Prime MBR City",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/luxury-villa-plot-bg2r-permit-prime-mbr-2-115292/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "7962",
+      "bedrooms": "",
+      "price": 10500000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819218",
+      "title": "RESALE | Sea Views | Ready to Handover | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/resale-sea-views-ready-to-handover-high-2-318930/",
+      "area": "Palm Jebel Ali",
+      "category": "Land",
+      "size": "25656",
+      "bedrooms": "",
+      "price": 64750000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819217",
+      "title": "High ROI Plot | Prime Sea View | Ready to Handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/high-roi-plot-prime-sea-view-ready-to-h-2-263430/",
+      "area": "Palm Jebel Ali",
+      "category": "Land",
+      "size": "23913",
+      "bedrooms": "",
+      "price": 45000000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819109",
+      "title": "Largest Plot | Near Completion | Stand alone",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/26/largest-plot-near-completion-stand-alon-2-212043/",
+      "area": "The Valley by Emaar",
+      "category": "Land",
+      "size": "9808",
+      "bedrooms": "",
+      "price": 7800000,
       "first_seen": "2026-11-26"
     },
     {
@@ -12385,127 +12506,6 @@
       "size": "631",
       "bedrooms": "1",
       "price": 1000000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "17454811",
-      "title": "Full City View | High Floor | Rented",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/12/expansive-layout-pool-view-move-in-read-2-618791/",
-      "area": "Dubai Science Park",
-      "category": "Apartment",
-      "size": "1488",
-      "bedrooms": "2",
-      "price": 2550000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "18328861",
-      "title": "Vacant Now | Great Price | Internal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/19/vacant-now-great-price-internal-2-181301/",
-      "area": "Arabian Ranches 2",
-      "category": "Villa",
-      "size": "4778",
-      "bedrooms": "5",
-      "price": 7500000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9846139",
-      "title": "Premium Developer | Flexible Payment Plan | Grade A Offices",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/21/premium-developer-flexible-payment-plan-2-253504/",
-      "area": "Majan",
-      "category": "Office",
-      "size": "749",
-      "bedrooms": "",
-      "price": 1498000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9846135",
-      "title": "Grade A Offices & Retails | 50/50 Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/21/grade-a-offices-retails-5050-payment-pl-2-298109/",
-      "area": "Majan",
-      "category": "Office",
-      "size": "676",
-      "bedrooms": "",
-      "price": 1339999,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9846130",
-      "title": "Grade A Offices & Retails | 50/50 Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/21/grade-a-offices-retails-5050-payment-pl-2-317257/",
-      "area": "Majan",
-      "category": "Office",
-      "size": "929",
-      "bedrooms": "",
-      "price": 1858800,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9846131",
-      "title": "Grade A Offices & Retails | 50/50 Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/21/grade-a-offices-retails-5050-payment-pl-2-110752/",
-      "area": "Majan",
-      "category": "Office",
-      "size": "887",
-      "bedrooms": "",
-      "price": 1765130,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9846129",
-      "title": "Premium Offices | Offices & Retails | Flexible Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/21/premium-offices-offices-retails-flexibl-2-333261/",
-      "area": "Majan",
-      "category": "Office",
-      "size": "810",
-      "bedrooms": "",
-      "price": 1620000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9800382",
-      "title": "Freehold land , Build your Luxury Villa , G+1+Roof+Basement",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/16/freehold-land-build-your-luxury-villa-g-2-121695/",
-      "area": "Nad Al Sheba Gardens",
-      "category": "Land",
-      "size": "5656",
-      "bedrooms": "",
-      "price": 7500000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9806840",
-      "title": "Freehold land , Build your Luxury Villa , G+1+Roof+Basement",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/10/7/freehold-land-build-your-luxury-villa-g-2-182219/",
-      "area": "Nad Al Sheba Gardens",
-      "category": "Land",
-      "size": "10013",
-      "bedrooms": "",
-      "price": 12500000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9818019",
-      "title": "Now available | Gcc | Prime location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/21/now-available-gcc-prime-location-2-614940/",
-      "area": "Al Wasl",
-      "category": "Land",
-      "size": "11499",
-      "bedrooms": "",
-      "price": 13500000,
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "9814313",
-      "title": "Leasehold | Ready | Industrial Warehouses",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/4/leasehold-ready-industrial-warehouses-2-232001/",
-      "area": "Ras Al Khor",
-      "category": "Land",
-      "size": "40000",
-      "bedrooms": "",
-      "price": 8000000,
       "first_seen": "2026-11-21"
     }
   ],

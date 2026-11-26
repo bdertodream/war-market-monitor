@@ -636232,5 +636232,115 @@
       }
     ],
     "date": "2026-11-25"
+  },
+  "101096250": {
+    "id": "101096250",
+    "title": "2016 GMC Yukon XL SLT GCC Specs 1st Owner ORIGNAL PAINT",
+    "price": 59500,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2016",
+    "kilometers": "159000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Awir",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/26/2016-gmc-yukon-xl-slt-gcc-specs-1st-owner--2-034---599276088cf74daaa89e530f0cefc679/",
+    "first_seen": "2026-11-26T20:59:35Z",
+    "prices": [
+      {
+        "price": 59500,
+        "date": "2026-11-26T20:59:35Z"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  "101095181": {
+    "id": "101095181",
+    "title": "GMC Yukon XL Denali 2024 GCC Specs",
+    "price": 169999,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "year": "2024",
+    "kilometers": "72825",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Village Circle (JVC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/26/gmc-yukon-xl-denali-2024-gcc-specs-2-076---4eaa10d7d4ba4df1a5c1225b5e5f00f2/",
+    "first_seen": "2026-11-26T20:59:35Z",
+    "prices": [
+      {
+        "price": 169999,
+        "date": "2026-11-26T20:59:35Z"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  "101093950": {
+    "id": "101093950",
+    "title": "2022 Lamborghini Countach 1 of 112",
+    "price": 9999000,
+    "make": "Lamborghini",
+    "model": "Countach LPI 800-4",
+    "year": "2022",
+    "kilometers": "330",
+    "body_type": "Coupe",
+    "fuel_type": "Hybrid",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/countach-lpi-800-4/2026/11/26/2022-lamborghini-countach-1-of-112-2-421---a25d659e9f664efe9e49fa7c2484401d/",
+    "first_seen": "2026-11-26T20:59:35Z",
+    "prices": [
+      {
+        "price": 9999000,
+        "date": "2026-11-26T20:59:35Z"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  "101094747": {
+    "id": "101094747",
+    "title": "2026 AION i60 Advanced Chinese Specs",
+    "price": 73000,
+    "make": "AION",
+    "model": "i60",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/aion/i60/2026/11/26/2026-aion-i60-advanced-chinese-specs-2-027---165d7faf8a434d16961400c6b4a80ea8/",
+    "first_seen": "2026-11-26T20:59:35Z",
+    "prices": [
+      {
+        "price": 73000,
+        "date": "2026-11-26T20:59:35Z"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  "101094308": {
+    "id": "101094308",
+    "title": "Mercedes-Maybach SL-Class SL 680 2025 GCC Specs",
+    "price": 1050000,
+    "make": "Mercedes-Maybach",
+    "model": "SL-Class",
+    "year": "2025",
+    "kilometers": "18000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/11/26/mercedes-maybach-sl-class-sl-680-2025-gcc--2-214---fd51615872f04f83ae93ad5cf842c1fb/",
+    "first_seen": "2026-11-26T20:59:35Z",
+    "prices": [
+      {
+        "price": 1050000,
+        "date": "2026-11-26T20:59:35Z"
+      }
+    ],
+    "date": "2026-11-26"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26649,
-  "total_drops": 501,
-  "total_new": 26649,
-  "last_updated": "2026-11-26T08:02:23Z",
+  "total_tracked": 26654,
+  "total_drops": 500,
+  "total_new": 26654,
+  "last_updated": "2026-11-26T20:59:35Z",
   "drops": [
     {
       "id": "16726862",
@@ -7007,6 +7007,66 @@
   ],
   "new_listings": [
     {
+      "id": "101096250",
+      "title": "2016 GMC Yukon XL SLT GCC Specs 1st Owner ORIGNAL PAINT",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/26/2016-gmc-yukon-xl-slt-gcc-specs-1st-owner--2-034---599276088cf74daaa89e530f0cefc679/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Yukon XL",
+      "year": "2016",
+      "mileage": "159000",
+      "price": 59500,
+      "first_seen": "2026-11-26T20:59:35Z"
+    },
+    {
+      "id": "101095181",
+      "title": "GMC Yukon XL Denali 2024 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/26/gmc-yukon-xl-denali-2024-gcc-specs-2-076---4eaa10d7d4ba4df1a5c1225b5e5f00f2/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Yukon XL",
+      "year": "2024",
+      "mileage": "72825",
+      "price": 169999,
+      "first_seen": "2026-11-26T20:59:35Z"
+    },
+    {
+      "id": "101093950",
+      "title": "2022 Lamborghini Countach 1 of 112",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/countach-lpi-800-4/2026/11/26/2022-lamborghini-countach-1-of-112-2-421---a25d659e9f664efe9e49fa7c2484401d/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Countach LPI 800-4",
+      "year": "2022",
+      "mileage": "330",
+      "price": 9999000,
+      "first_seen": "2026-11-26T20:59:35Z"
+    },
+    {
+      "id": "101094747",
+      "title": "2026 AION i60 Advanced Chinese Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/aion/i60/2026/11/26/2026-aion-i60-advanced-chinese-specs-2-027---165d7faf8a434d16961400c6b4a80ea8/",
+      "category": "Used Cars",
+      "make": "AION",
+      "model": "i60",
+      "year": "2026",
+      "mileage": "0",
+      "price": 73000,
+      "first_seen": "2026-11-26T20:59:35Z"
+    },
+    {
+      "id": "101094308",
+      "title": "Mercedes-Maybach SL-Class SL 680 2025 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-maybach/sl-class/2026/11/26/mercedes-maybach-sl-class-sl-680-2025-gcc--2-214---fd51615872f04f83ae93ad5cf842c1fb/",
+      "category": "Used Cars",
+      "make": "Mercedes-Maybach",
+      "model": "SL-Class",
+      "year": "2025",
+      "mileage": "18000",
+      "price": 1050000,
+      "first_seen": "2026-11-26T20:59:35Z"
+    },
+    {
       "id": "101086083",
       "title": "2011 Volvo C30 GCC Specs",
       "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/c30/2026/11/25/2011-volvo-c30-gcc-specs-2-787---d288ac077ed046d2b8787673f7450c09/",
@@ -12944,66 +13004,6 @@
       "year": "2022",
       "mileage": "55000",
       "price": 89900,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749640",
-      "title": "2017 Mercedes-Benz E-Class E 300 4MATIC - Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/27/2017-mercedes-benz-e-class-e-300-4matic-ko-2-055---728580c5805c4d78b50b990edfb21ca7/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2017",
-      "mileage": "115000",
-      "price": 69000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749623",
-      "title": "2022 BMW 2-Series 218i Gran Coupe (American Specs)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/2-series/2026/10/27/2022-bmw-2-series-218i-gran-coupe-american-2-629---8e4e14949a8e4941ab8d535d967593b1/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "2-Series",
-      "year": "2022",
-      "mileage": "70000",
-      "price": 59000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749574",
-      "title": "Tesla Model X 90D 2018 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-x/2026/10/27/tesla-model-x-90d-2018-gcc-specs-2-192---e7e65ff0d40b430e8d27069bba9b19e1/",
-      "category": "Used Cars",
-      "make": "Tesla",
-      "model": "Model X",
-      "year": "2018",
-      "mileage": "124000",
-      "price": 75000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749488",
-      "title": "Jaguar F-Pace 2021 P250 AWD GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-pace/2026/10/27/jaguar-f-pace-2021-p250-awd-gcc-specs-2-190---48218f8afd9648f0a2af45a2c4d82737/",
-      "category": "Used Cars",
-      "make": "Jaguar",
-      "model": "F-Pace",
-      "year": "2021",
-      "mileage": "31000",
-      "price": 165000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749460",
-      "title": "BYD Leopard 5 2026 Ultra Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-5/2026/10/27/byd-leopard-5-2026-ultra-chinese-specs-2-538---2e4b627b5e3e4a258c3c9703be1b4332/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "Leopard 5",
-      "year": "2026",
-      "mileage": "0",
-      "price": 198000,
       "first_seen": "2026-10-27T23:32:12Z"
     }
   ]
