@@ -1,23 +1,9 @@
 {
   "total_tracked": 26649,
-  "total_drops": 500,
+  "total_drops": 501,
   "total_new": 26649,
-  "last_updated": "2026-11-26T00:00:44Z",
+  "last_updated": "2026-11-26T08:02:23Z",
   "drops": [
-    {
-      "id": "16925438",
-      "title": "2017 Mercedes-Benz GLS 450 4MATIC | Luxury 7-Seater | American Specs",
-      "old_price": 59000,
-      "new_price": 55000,
-      "drop_pct": 6.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gls-class/2026/07/29/2017-mercedes-benz-gls-450-4matic-luxury-7-2-708---2d8effc1531240109af9fdf77d059bc2/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLS-Class",
-      "year": "2017",
-      "mileage": "120000",
-      "date": "2026-09-29T10:26:44Z"
-    },
     {
       "id": "16726862",
       "title": "ROX 01 VIP | Full Option | Brand New | 3,250 AED monthly | Registration Ref#ROX0126",
@@ -7003,6 +6989,20 @@
       "year": "2021",
       "mileage": "131120",
       "date": "2026-11-25T13:55:59Z"
+    },
+    {
+      "id": "101013527",
+      "title": "2023 GMC Yukon XL SLT GCC Specs",
+      "old_price": 160000,
+      "new_price": 149000,
+      "drop_pct": 6.9,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-051---55041c8cfa3c4e3fa78ca98b83e70025/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Yukon XL",
+      "year": "2023",
+      "mileage": "515200",
+      "date": "2026-11-26T08:02:23Z"
     }
   ],
   "new_listings": [
@@ -7609,13 +7609,13 @@
     {
       "id": "101013527",
       "title": "2023 GMC Yukon XL SLT GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-350---55041c8cfa3c4e3fa78ca98b83e70025/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-051---55041c8cfa3c4e3fa78ca98b83e70025/",
       "category": "Used Cars",
       "make": "GMC",
       "model": "Yukon XL",
       "year": "2023",
       "mileage": "515200",
-      "price": 160000,
+      "price": 149000,
       "first_seen": "2026-11-25T13:55:59Z"
     },
     {
@@ -9768,14 +9768,14 @@
     },
     {
       "id": "16949447",
-      "title": "AED 1277/month | 2023 BAIC BJ40 Plus  | GCC Specs | Ref#510089",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40-plus/2026/08/21/aed-1277month-2023-baic-bj40-plus-gcc-spec-2-714---b61995a457e44862aabcc8e91ea1fb9d/",
+      "title": "AED 1231/month | 2023 BAIC BJ40 Plus  | GCC Specs | Ref#510089",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40-plus/2026/08/21/aed-1231month-2023-baic-bj40-plus-gcc-spec-2-165---b61995a457e44862aabcc8e91ea1fb9d/",
       "category": "Used Cars",
       "make": "BAIC",
       "model": "BJ40 Plus",
       "year": "2023",
       "mileage": "50008",
-      "price": 84000,
+      "price": 80999,
       "first_seen": "2026-10-30T14:52:27Z"
     },
     {

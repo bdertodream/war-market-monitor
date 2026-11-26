@@ -629549,8 +629549,8 @@
   },
   "16949447": {
     "id": "16949447",
-    "title": "AED 1277/month | 2023 BAIC BJ40 Plus  | GCC Specs | Ref#510089",
-    "price": 84000,
+    "title": "AED 1231/month | 2023 BAIC BJ40 Plus  | GCC Specs | Ref#510089",
+    "price": 80999,
     "make": "BAIC",
     "model": "BJ40 Plus",
     "year": "2023",
@@ -629559,12 +629559,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40-plus/2026/08/21/aed-1277month-2023-baic-bj40-plus-gcc-spec-2-714---b61995a457e44862aabcc8e91ea1fb9d/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40-plus/2026/08/21/aed-1231month-2023-baic-bj40-plus-gcc-spec-2-165---b61995a457e44862aabcc8e91ea1fb9d/",
     "first_seen": "2026-10-30T14:52:27Z",
     "prices": [
       {
         "price": 84000,
         "date": "2026-10-30T14:52:27Z"
+      },
+      {
+        "price": 80999,
+        "date": "2026-11-26T08:02:23Z"
       }
     ],
     "date": "2026-10-29"
@@ -636008,7 +636012,7 @@
   "101013527": {
     "id": "101013527",
     "title": "2023 GMC Yukon XL SLT GCC Specs",
-    "price": 160000,
+    "price": 149000,
     "make": "GMC",
     "model": "Yukon XL",
     "year": "2023",
@@ -636017,12 +636021,16 @@
     "fuel_type": "Petrol",
     "area": "Al Nahda 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-350---55041c8cfa3c4e3fa78ca98b83e70025/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/19/2023-gmc-yukon-xl-slt-gcc-specs-2-051---55041c8cfa3c4e3fa78ca98b83e70025/",
     "first_seen": "2026-11-25T13:55:59Z",
     "prices": [
       {
         "price": 160000,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 149000,
+        "date": "2026-11-26T08:02:23Z"
       }
     ],
     "date": "2026-11-19"
