@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 32220,
+  "total_tracked": 32228,
   "total_drops": 500,
-  "total_new": 32220,
+  "total_new": 32228,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9788814",
-      "title": "Fully Fitted | Prime location / Investor Deal",
-      "old_price": 825000,
-      "new_price": 749000,
-      "drop_pct": 9.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/7/fully-fitted-vacant-ready-to-move-2-217645/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "309",
-      "bedrooms": "",
-      "date": "2026-06-25",
-      "first_seen": "2026-03-11"
-    },
     {
       "id": "17367579",
       "title": "Fully Upgraded | Turn Key | Single Row",
@@ -7005,9 +6991,111 @@
       "bedrooms": "",
       "date": "2026-11-25",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "9844793",
+      "title": "Canal View | Vacant |3 Parking Spaces",
+      "old_price": 3450000,
+      "new_price": 3100000,
+      "drop_pct": 10.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/13/canal-view-vacant-3-parking-spaces-2-160850/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1487",
+      "bedrooms": "",
+      "date": "2026-11-26",
+      "first_seen": "2026-11-17"
     }
   ],
   "new_listings": [
+    {
+      "id": "18012766",
+      "title": "ONLY 540K TILL HANDOVER | SMART HOMES | WITH POST HANDOVER",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/16/only-540k-till-handover-smart-homes-wit-2-282058/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "716",
+      "bedrooms": "1",
+      "price": 1021000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "16918592",
+      "title": "Spacious | Flexible Payment Plan | Fully Equipped",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/9/spacious-luxurious-prime-location-inves-2-192998/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "684",
+      "bedrooms": "1",
+      "price": 990000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "17948749",
+      "title": "Only 350k till handover | Limited units | Prime location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/2/only-350k-till-handover-limited-units-p-2-685378/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "442",
+      "bedrooms": "0",
+      "price": 690000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "18357214",
+      "title": "5BR Villa in Jouri Hills | Ready Soon | Prime Location | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/25/golf-course-view-luxury-villa-investors-2-465845/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Villa",
+      "size": "5728",
+      "bedrooms": "5",
+      "price": 12500000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9846814",
+      "title": "Vacant soon| Low floor| Fitted unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/25/vacant-soon-low-floor-fitted-unit-2-332951/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Office",
+      "size": "1687",
+      "bedrooms": "",
+      "price": 2700000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9846765",
+      "title": "Furnished| Mid-floor | Lake view",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/25/furnished-mid-floor-lake-view-2-264000/",
+      "area": "Jumeirah Lakes Towers (JLT)",
+      "category": "Office",
+      "size": "1205",
+      "bedrooms": "",
+      "price": 2500000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9846813",
+      "title": "Furnished | Great Location | Harbor Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/11/25/furnished-great-location-harbor-views-2-185903/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1820",
+      "bedrooms": "",
+      "price": 5000000,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9819040",
+      "title": "Phase 8 | Prime Exclusive Plot | Tranquil Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/11/25/phase-8-prime-exclusive-plot-tranquil-l-2-148940/",
+      "area": "Jebel Ali Hills",
+      "category": "Land",
+      "size": "9688",
+      "bedrooms": "",
+      "price": 3180000,
+      "first_seen": "2026-11-26"
+    },
     {
       "id": "18177921",
       "title": "Pristine 2-Bedroom Green Living | Vacant | Perfect for End User or Investor",
@@ -12419,96 +12507,8 @@
       "bedrooms": "3",
       "price": 5500000,
       "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18320778",
-      "title": "Community Expert | Vacant | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/18/community-expert-vacant-prime-location-2-244641/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "3810",
-      "bedrooms": "4",
-      "price": 9099950,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18284399",
-      "title": "G+2 Semi Detached | Lowest Price | Serious Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/10/g2-semi-detached-lowest-price-serious-s-2-189767/",
-      "area": "Dubai Islands",
-      "category": "Villa",
-      "size": "4234",
-      "bedrooms": "4",
-      "price": 7400000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18284371",
-      "title": "Negotiable to 6.15M | Vastu Compliant | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/10/genuine-price-prime-location-low-densit-2-218851/",
-      "area": "Dubai Islands",
-      "category": "Townhouse",
-      "size": "3950",
-      "bedrooms": "4",
-      "price": 6300000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18239337",
-      "title": "Lagoon | Contemporary Villa | Near Amenities",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/10/30/best-location-near-sports-court-contemp-2-133851/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "8267",
-      "bedrooms": "4",
-      "price": 11700000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "17861359",
-      "title": "Single Row | Corner Plot | On Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/13/single-row-corner-plot-on-park-2-142920/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3246",
-      "bedrooms": "5",
-      "price": 4575000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18258125",
-      "title": "Exclusive - Largest Plot Firestone in the Market",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/4/exclusive-largest-plot-firestone-in-the-2-287430/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "4135",
-      "bedrooms": "4",
-      "price": 12995000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18261867",
-      "title": "5 Bedroom | Brand New | End Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/11/4/5-bedroom-brand-new-end-unit-2-108094/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3256",
-      "bedrooms": "5",
-      "price": 4050000,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "18290584",
-      "title": "Below OP | Corner with Basement | Lagoon view",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/11/11/below-op-corner-with-basement-lagoon-vi-2-314608/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "10262",
-      "bedrooms": "5",
-      "price": 20000000,
-      "first_seen": "2026-11-19"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-11-25"
+  "last_updated": "2026-11-26"
 }

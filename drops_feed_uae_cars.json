@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26647,
-  "total_drops": 502,
-  "total_new": 26647,
-  "last_updated": "2026-11-25T13:55:59Z",
+  "total_tracked": 26649,
+  "total_drops": 500,
+  "total_new": 26649,
+  "last_updated": "2026-11-26T00:00:44Z",
   "drops": [
     {
       "id": "16925438",
@@ -7007,6 +7007,30 @@
   ],
   "new_listings": [
     {
+      "id": "101086083",
+      "title": "2011 Volvo C30 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/c30/2026/11/25/2011-volvo-c30-gcc-specs-2-787---d288ac077ed046d2b8787673f7450c09/",
+      "category": "Used Cars",
+      "make": "Volvo",
+      "model": "C30",
+      "year": "2011",
+      "mileage": "332000",
+      "price": 11000,
+      "first_seen": "2026-11-26T00:00:44Z"
+    },
+    {
+      "id": "101085800",
+      "title": "2023 BRABUS 900 Superblack - Mercedes-AMG G 63 Limited Edition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/25/2023-brabus-900-superblack-mercedes-amg-g--2-698---8398399bfa154805b09b1a1d28d22c43/",
+      "category": "Used Cars",
+      "make": "BRABUS",
+      "model": "900 - Mercedes-AMG G 63",
+      "year": "2023",
+      "mileage": "19900",
+      "price": 1289000,
+      "first_seen": "2026-11-26T00:00:44Z"
+    },
+    {
       "id": "100810379",
       "title": "5 YEAR WARRANTY & SERVICE UNTIL 2031 | HIGH OPTIONS | BRAND NEW CONDITION | FINANCE AVAILABLE",
       "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/02/5-year-warranty-service-until-2031-high-op-2-205---5dedd6c284f2403ebbaa29faf27d5b6c/",
@@ -12980,30 +13004,6 @@
       "year": "2026",
       "mileage": "0",
       "price": 198000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "16958606",
-      "title": "Lexus IS 300 2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/is-series/2026/08/29/lexus-is-300-2025-2-800---41f9beaa9e194a6aa66b0473e725c239/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "IS-Series",
-      "year": "2025",
-      "mileage": "8000",
-      "price": 109000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "16942921",
-      "title": "Pristine 2023 Lexus LX 600 F Sport | GCC Specs | Full Service History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/08/14/pristine-2023-lexus-lx-600-f-sport-gcc-spe-2-202---89a68b515f2d4561bb4c5524adad0fc2/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LX-Series",
-      "year": "2023",
-      "mileage": "20000",
-      "price": 399000,
       "first_seen": "2026-10-27T23:32:12Z"
     }
   ]

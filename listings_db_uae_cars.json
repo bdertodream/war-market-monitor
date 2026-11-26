@@ -301962,7 +301962,7 @@
   "16862069": {
     "id": "16862069",
     "title": "ROLLS ROYCE | PHANTOM EWB | MANSORY DIAMOND EDITION",
-    "price": 2999000,
+    "price": 2875000,
     "make": "Rolls-Royce",
     "model": "Phantom",
     "year": "2023",
@@ -301971,7 +301971,7 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 1",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/06/05/rolls-royce-phantom-ewb-mansory-diamond-ed-2-509---f16b717e1e0a4f7aa575e6c5fd03b238/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom-extended/2026/06/05/rolls-royce-phantom-ewb-mansory-diamond-ed-2-114---f16b717e1e0a4f7aa575e6c5fd03b238/",
     "first_seen": "2026-06-05T14:51:47Z",
     "prices": [
       {
@@ -301981,6 +301981,10 @@
       {
         "price": 2999000,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 2875000,
+        "date": "2026-11-26T00:00:44Z"
       }
     ],
     "date": "2026-06-05"
@@ -636173,6 +636177,50 @@
       {
         "price": 9000000,
         "date": "2026-11-25T13:55:59Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101086083": {
+    "id": "101086083",
+    "title": "2011 Volvo C30 GCC Specs",
+    "price": 11000,
+    "make": "Volvo",
+    "model": "C30",
+    "year": "2011",
+    "kilometers": "332000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "MIR 3 Building",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/c30/2026/11/25/2011-volvo-c30-gcc-specs-2-787---d288ac077ed046d2b8787673f7450c09/",
+    "first_seen": "2026-11-26T00:00:44Z",
+    "prices": [
+      {
+        "price": 11000,
+        "date": "2026-11-26T00:00:44Z"
+      }
+    ],
+    "date": "2026-11-25"
+  },
+  "101085800": {
+    "id": "101085800",
+    "title": "2023 BRABUS 900 Superblack - Mercedes-AMG G 63 Limited Edition",
+    "price": 1289000,
+    "make": "BRABUS",
+    "model": "900 - Mercedes-AMG G 63",
+    "year": "2023",
+    "kilometers": "19900",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Sheikh Zayed Road",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/brabus/900-mercedes-amg-g-63/2026/11/25/2023-brabus-900-superblack-mercedes-amg-g--2-698---8398399bfa154805b09b1a1d28d22c43/",
+    "first_seen": "2026-11-26T00:00:44Z",
+    "prices": [
+      {
+        "price": 1289000,
+        "date": "2026-11-26T00:00:44Z"
       }
     ],
     "date": "2026-11-25"
