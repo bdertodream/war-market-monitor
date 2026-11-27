@@ -636342,5 +636342,27 @@
       }
     ],
     "date": "2026-11-26"
+  },
+  "101100381": {
+    "id": "101100381",
+    "title": "Hyundai County Standard 2026",
+    "price": 198000,
+    "make": "Hyundai",
+    "model": "County",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Other",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/county/2026/11/27/hyundai-county-standard-2026-2-534---53058f8d868540b5aa3a5b114bc9b31d/",
+    "first_seen": "2026-11-27T06:58:10Z",
+    "prices": [
+      {
+        "price": 198000,
+        "date": "2026-11-27T06:58:10Z"
+      }
+    ],
+    "date": "2026-11-27"
   }
 }

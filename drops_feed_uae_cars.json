@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26654,
+  "total_tracked": 26655,
   "total_drops": 500,
-  "total_new": 26654,
-  "last_updated": "2026-11-26T20:59:35Z",
+  "total_new": 26655,
+  "last_updated": "2026-11-27T06:58:10Z",
   "drops": [
     {
       "id": "16726862",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101100381",
+      "title": "Hyundai County Standard 2026",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/county/2026/11/27/hyundai-county-standard-2026-2-534---53058f8d868540b5aa3a5b114bc9b31d/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "County",
+      "year": "2026",
+      "mileage": "0",
+      "price": 198000,
+      "first_seen": "2026-11-27T06:58:10Z"
+    },
+    {
       "id": "101096250",
       "title": "2016 GMC Yukon XL SLT GCC Specs 1st Owner ORIGNAL PAINT",
       "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/26/2016-gmc-yukon-xl-slt-gcc-specs-1st-owner--2-034---599276088cf74daaa89e530f0cefc679/",
@@ -12992,18 +13004,6 @@
       "year": "2022",
       "mileage": "59000",
       "price": 299000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749756",
-      "title": "Audi TT 2022 45 TFSI quattro Korean Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/tt/2026/10/27/audi-tt-2022-45-tfsi-quattro-korean-specs-2-525---bc3605a52c1543cbb4a968b102f5acf5/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "TT",
-      "year": "2022",
-      "mileage": "55000",
-      "price": 89900,
       "first_seen": "2026-10-27T23:32:12Z"
     }
   ]
