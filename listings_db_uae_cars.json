@@ -635682,7 +635682,7 @@
   "101057964": {
     "id": "101057964",
     "title": "GMC Savana 2021 Luxury Van - Perfect Condition",
-    "price": 88000,
+    "price": 75000,
     "make": "GMC",
     "model": "Savana 2500",
     "year": "2021",
@@ -635691,12 +635691,16 @@
     "fuel_type": "Petrol",
     "area": "Ras Al Khor Industrial",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-417---b97627689a844170bd44cbabe93315ce/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-160---b97627689a844170bd44cbabe93315ce/",
     "first_seen": "2026-11-25T13:55:59Z",
     "prices": [
       {
         "price": 88000,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 75000,
+        "date": "2026-11-27T17:52:59Z"
       }
     ],
     "date": "2026-11-23"
@@ -635880,7 +635884,7 @@
   "100885641": {
     "id": "100885641",
     "title": "2024 GMC Hummer EV 3X SUV | Canadian Spec | 19,000 km | Mint Condition",
-    "price": 299000,
+    "price": 289000,
     "make": "GMC",
     "model": "Hummer EV SUV",
     "year": "2024",
@@ -635889,12 +635893,16 @@
     "fuel_type": "Electric",
     "area": "Al Quoz 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/07/2024-gmc-hummer-ev-3x-suv-canadian-spec-19-2-766---8052fad15bd04fa39a1fc672f3451cd5/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/07/2024-gmc-hummer-ev-3x-suv-canadian-spec-19-2-423---8052fad15bd04fa39a1fc672f3451cd5/",
     "first_seen": "2026-11-25T13:55:59Z",
     "prices": [
       {
         "price": 299000,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 289000,
+        "date": "2026-11-27T17:52:59Z"
       }
     ],
     "date": "2026-11-07"
@@ -636361,6 +636369,94 @@
       {
         "price": 198000,
         "date": "2026-11-27T06:58:10Z"
+      }
+    ],
+    "date": "2026-11-27"
+  },
+  "101101756": {
+    "id": "101101756",
+    "title": "2027 Cullinan Series II Black Badge, BRAND NEW, Rear Screens, Bespoke Audio, Dealer Warr + Serv!!",
+    "price": 2499000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan Series II",
+    "year": "2027",
+    "kilometers": "30",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ibri House",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/27/2027-cullinan-series-ii-black-badge-brand--2-460---0066fb8c9f204b70a0b2de1a71bd51a1/",
+    "first_seen": "2026-11-27T17:52:59Z",
+    "prices": [
+      {
+        "price": 2499000,
+        "date": "2026-11-27T17:52:59Z"
+      }
+    ],
+    "date": "2026-11-27"
+  },
+  "101101358": {
+    "id": "101101358",
+    "title": "2027 iCaur V27 Flagship GCC Specs",
+    "price": 125000,
+    "make": "iCaur",
+    "model": "V27",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/27/2027-icaur-v27-flagship-gcc-specs-2-089---210e917e4af04450bc7f90b49d57e002/",
+    "first_seen": "2026-11-27T17:52:59Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-11-27T17:52:59Z"
+      }
+    ],
+    "date": "2026-11-27"
+  },
+  "101105109": {
+    "id": "101105109",
+    "title": "212 T01 Adventurer | AED 1,413 Monthly | 4 Year Dealership Warranty | Free Courtesy Car Included",
+    "price": 87999,
+    "make": "212",
+    "model": "T01",
+    "year": "2026",
+    "kilometers": "27438",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/27/212-t01-adventurer-aed-1413-monthly-4-year-2-641---e310149690274047a8df962ed5e36f6c/",
+    "first_seen": "2026-11-27T17:52:59Z",
+    "prices": [
+      {
+        "price": 87999,
+        "date": "2026-11-27T17:52:59Z"
+      }
+    ],
+    "date": "2026-11-27"
+  },
+  "101099276": {
+    "id": "101099276",
+    "title": "Audi Q5",
+    "price": 13000,
+    "make": "212",
+    "model": "Explorer 01",
+    "year": "2013",
+    "kilometers": "207000",
+    "body_type": "Other",
+    "fuel_type": "Petrol",
+    "area": "Al Warqaa 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/212/explorer-01/2026/11/27/audi-q5-2-486---322f690e403b4457bda5276b13cc42ca/",
+    "first_seen": "2026-11-27T17:52:59Z",
+    "prices": [
+      {
+        "price": 13000,
+        "date": "2026-11-27T17:52:59Z"
       }
     ],
     "date": "2026-11-27"

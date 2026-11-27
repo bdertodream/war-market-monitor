@@ -1,23 +1,9 @@
 {
-  "total_tracked": 26655,
-  "total_drops": 500,
-  "total_new": 26655,
-  "last_updated": "2026-11-27T06:58:10Z",
+  "total_tracked": 26659,
+  "total_drops": 501,
+  "total_new": 26659,
+  "last_updated": "2026-11-27T17:52:59Z",
   "drops": [
-    {
-      "id": "16726862",
-      "title": "ROX 01 VIP | Full Option | Brand New | 3,250 AED monthly | Registration Ref#ROX0126",
-      "old_price": 217999,
-      "new_price": 201999,
-      "drop_pct": 7.3,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rox/01/2026/01/31/rox-01-vip-full-option-brand-new-3250-aed--2-999---e9decbb3d1cd4f829d077de04691b701/",
-      "category": "Used Cars",
-      "make": "Rox",
-      "model": "01",
-      "year": "2026",
-      "mileage": "0",
-      "date": "2026-09-29T10:26:44Z"
-    },
     {
       "id": "16966865",
       "title": "BMW 1-Series 120i 2019 GCC Specs - Excellent Condition",
@@ -7003,9 +6989,71 @@
       "year": "2023",
       "mileage": "515200",
       "date": "2026-11-26T08:02:23Z"
+    },
+    {
+      "id": "101057964",
+      "title": "GMC Savana 2021 Luxury Van - Perfect Condition",
+      "old_price": 88000,
+      "new_price": 75000,
+      "drop_pct": 14.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-160---b97627689a844170bd44cbabe93315ce/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Savana 2500",
+      "year": "2021",
+      "mileage": "6000",
+      "date": "2026-11-27T17:52:59Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "101101756",
+      "title": "2027 Cullinan Series II Black Badge, BRAND NEW, Rear Screens, Bespoke Audio, Dealer Warr + Serv!!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/27/2027-cullinan-series-ii-black-badge-brand--2-460---0066fb8c9f204b70a0b2de1a71bd51a1/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Cullinan Series II",
+      "year": "2027",
+      "mileage": "30",
+      "price": 2499000,
+      "first_seen": "2026-11-27T17:52:59Z"
+    },
+    {
+      "id": "101101358",
+      "title": "2027 iCaur V27 Flagship GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/icaur/v27/2026/11/27/2027-icaur-v27-flagship-gcc-specs-2-089---210e917e4af04450bc7f90b49d57e002/",
+      "category": "Used Cars",
+      "make": "iCaur",
+      "model": "V27",
+      "year": "2027",
+      "mileage": "0",
+      "price": 125000,
+      "first_seen": "2026-11-27T17:52:59Z"
+    },
+    {
+      "id": "101105109",
+      "title": "212 T01 Adventurer | AED 1,413 Monthly | 4 Year Dealership Warranty | Free Courtesy Car Included",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/t01/2026/11/27/212-t01-adventurer-aed-1413-monthly-4-year-2-641---e310149690274047a8df962ed5e36f6c/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "T01",
+      "year": "2026",
+      "mileage": "27438",
+      "price": 87999,
+      "first_seen": "2026-11-27T17:52:59Z"
+    },
+    {
+      "id": "101099276",
+      "title": "Audi Q5",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/212/explorer-01/2026/11/27/audi-q5-2-486---322f690e403b4457bda5276b13cc42ca/",
+      "category": "Used Cars",
+      "make": "212",
+      "model": "Explorer 01",
+      "year": "2013",
+      "mileage": "207000",
+      "price": 13000,
+      "first_seen": "2026-11-27T17:52:59Z"
+    },
     {
       "id": "101100381",
       "title": "Hyundai County Standard 2026",
@@ -7501,13 +7549,13 @@
     {
       "id": "101057964",
       "title": "GMC Savana 2021 Luxury Van - Perfect Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-417---b97627689a844170bd44cbabe93315ce/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/savana-2500/2026/11/23/gmc-savana-2021-luxury-van-perfect-conditi-2-160---b97627689a844170bd44cbabe93315ce/",
       "category": "Used Cars",
       "make": "GMC",
       "model": "Savana 2500",
       "year": "2021",
       "mileage": "6000",
-      "price": 88000,
+      "price": 75000,
       "first_seen": "2026-11-25T13:55:59Z"
     },
     {
@@ -7609,13 +7657,13 @@
     {
       "id": "100885641",
       "title": "2024 GMC Hummer EV 3X SUV | Canadian Spec | 19,000 km | Mint Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/07/2024-gmc-hummer-ev-3x-suv-canadian-spec-19-2-766---8052fad15bd04fa39a1fc672f3451cd5/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/hummer-ev-suv/2026/11/07/2024-gmc-hummer-ev-3x-suv-canadian-spec-19-2-423---8052fad15bd04fa39a1fc672f3451cd5/",
       "category": "Used Cars",
       "make": "GMC",
       "model": "Hummer EV SUV",
       "year": "2024",
       "mileage": "19000",
-      "price": 299000,
+      "price": 289000,
       "first_seen": "2026-11-25T13:55:59Z"
     },
     {
@@ -12956,54 +13004,6 @@
       "year": "2017",
       "mileage": "140000",
       "price": 69000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100750480",
-      "title": "2024 Mercedes-Benz SL 63 AMG S E PERFORMANCE  GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sl-class/2026/10/27/2024-mercedes-benz-sl-63-amg-s-e-performan-2-149---60baed102f684fdda64f8501d5f3dbe5/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "SL-Class",
-      "year": "2024",
-      "mileage": "13000",
-      "price": 725000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100750376",
-      "title": "296 BHP | R Dynamic | 1 Owner | Warranty and Finance Available",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/10/27/296-bhp-r-dynamic-1-owner-warranty-and-fin-2-819---7b2e3868e4794c81a013700bbcdae4fa/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2020",
-      "mileage": "31000",
-      "price": 99000,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100650160",
-      "title": "2015 Toyota Prado| EXR | Agency Maintained |GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/10/19/2015-toyota-prado-exr-agency-maintained-gc-2-409---be5102ad96764fc3a5042d9f34f3514e/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Prado",
-      "year": "2015",
-      "mileage": "286374",
-      "price": 72900,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100749981",
-      "title": "Mercedes-Benz E63 S AMG 4MATIC+ 2022 | BRABUS Edition | Carbon Fiber | Burmester |",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/e-class/2026/10/27/mercedes-benz-e63-s-amg-4matic-2022-brabus-2-011---9cb7aaa93e9c46cca9bbe46085061f69/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "year": "2022",
-      "mileage": "59000",
-      "price": 299000,
       "first_seen": "2026-10-27T23:32:12Z"
     }
   ]
