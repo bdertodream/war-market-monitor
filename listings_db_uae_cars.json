@@ -636460,5 +636460,27 @@
       }
     ],
     "date": "2026-11-27"
+  },
+  "101107675": {
+    "id": "101107675",
+    "title": "2025 Rolls-Royce Cullinan Series II Black Badge - European Specs",
+    "price": 1930000,
+    "make": "Rolls-Royce",
+    "model": "Cullinan Series II",
+    "year": "2025",
+    "kilometers": "10000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/27/2025-rolls-royce-cullinan-series-ii-black--2-974---b36943cea0d54d5b94500bad0dbdc99f/",
+    "first_seen": "2026-11-28T02:30:55Z",
+    "prices": [
+      {
+        "price": 1930000,
+        "date": "2026-11-28T02:30:55Z"
+      }
+    ],
+    "date": "2026-11-27"
   }
 }

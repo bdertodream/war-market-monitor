@@ -1,8 +1,8 @@
 {
-  "total_tracked": 26659,
-  "total_drops": 501,
-  "total_new": 26659,
-  "last_updated": "2026-11-27T17:52:59Z",
+  "total_tracked": 26660,
+  "total_drops": 500,
+  "total_new": 26660,
+  "last_updated": "2026-11-28T02:30:55Z",
   "drops": [
     {
       "id": "16966865",
@@ -7007,6 +7007,18 @@
   ],
   "new_listings": [
     {
+      "id": "101107675",
+      "title": "2025 Rolls-Royce Cullinan Series II Black Badge - European Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/27/2025-rolls-royce-cullinan-series-ii-black--2-974---b36943cea0d54d5b94500bad0dbdc99f/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Cullinan Series II",
+      "year": "2025",
+      "mileage": "10000",
+      "price": 1930000,
+      "first_seen": "2026-11-28T02:30:55Z"
+    },
+    {
       "id": "101101756",
       "title": "2027 Cullinan Series II Black Badge, BRAND NEW, Rear Screens, Bespoke Audio, Dealer Warr + Serv!!",
       "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan-series-ii/2026/11/27/2027-cullinan-series-ii-black-badge-brand--2-460---0066fb8c9f204b70a0b2de1a71bd51a1/",
@@ -12992,18 +13004,6 @@
       "year": "2023",
       "mileage": "43300",
       "price": 36500,
-      "first_seen": "2026-10-27T23:32:12Z"
-    },
-    {
-      "id": "100750539",
-      "title": "F-150 Lariat | GCC not negotiable \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/10/27/f-150-lariat-gcc-not-negotiable-2-573---c6248293a0b744ed8efdd7e7c0f36410/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-150",
-      "year": "2017",
-      "mileage": "140000",
-      "price": 69000,
       "first_seen": "2026-10-27T23:32:12Z"
     }
   ]
