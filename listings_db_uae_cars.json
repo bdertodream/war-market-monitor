@@ -607290,7 +607290,7 @@
   "100638669": {
     "id": "100638669",
     "title": "1500AED Monthly Payment With 0% Down Payment  2026 Geely Okavango GF+ GCC Specs",
-    "price": 75000,
+    "price": 69000,
     "make": "Geely",
     "model": "Okavango",
     "year": "2026",
@@ -607299,7 +607299,7 @@
     "fuel_type": "Petrol",
     "area": "Saad Suhail Salim Al Mukhaini Bahwan Building 2",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-805---99e2482b144e429b95194bfb3007cf44/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/10/18/1500aed-monthly-payment-with-0-down-paymen-2-360---99e2482b144e429b95194bfb3007cf44/",
     "first_seen": "2026-10-18T15:27:46Z",
     "prices": [
       {
@@ -607317,6 +607317,10 @@
       {
         "price": 75000,
         "date": "2026-11-14T17:42:51Z"
+      },
+      {
+        "price": 69000,
+        "date": "2026-11-28T12:44:35Z"
       }
     ],
     "date": "2026-10-18"
@@ -636046,7 +636050,7 @@
   "101003109": {
     "id": "101003109",
     "title": "2016 GMC Yukon XL Denali - GCC Specs",
-    "price": 59000,
+    "price": 53000,
     "make": "GMC",
     "model": "Yukon XL",
     "year": "2016",
@@ -636055,12 +636059,16 @@
     "fuel_type": "Petrol",
     "area": "Oxford Tower",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/18/2016-gmc-yukon-xl-denali-gcc-specs-2-505---f9978716a3ba450c886f270df436dbc1/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon-xl/2026/11/18/2016-gmc-yukon-xl-denali-gcc-specs-2-192---f9978716a3ba450c886f270df436dbc1/",
     "first_seen": "2026-11-25T13:55:59Z",
     "prices": [
       {
         "price": 59000,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 53000,
+        "date": "2026-11-28T12:44:35Z"
       }
     ],
     "date": "2026-11-18"
@@ -636134,7 +636142,7 @@
   "101079796": {
     "id": "101079796",
     "title": "2024 BAIC BJ40 Luxury GCC Specs-Warranty",
-    "price": 79500,
+    "price": 69999,
     "make": "BAIC",
     "model": "BJ40",
     "year": "2024",
@@ -636143,12 +636151,16 @@
     "fuel_type": "Petrol",
     "area": "Al Quoz Industrial Area 3",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/25/2024-baic-bj40-luxury-gcc-specs-warranty-2-809---3703e79b25d24716a53e931a5ca5da4b/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/baic/bj40/2026/11/25/2024-baic-bj40-luxury-gcc-specs-warranty-2-936---3703e79b25d24716a53e931a5ca5da4b/",
     "first_seen": "2026-11-25T13:55:59Z",
     "prices": [
       {
         "price": 79500,
         "date": "2026-11-25T13:55:59Z"
+      },
+      {
+        "price": 69999,
+        "date": "2026-11-28T12:44:35Z"
       }
     ],
     "date": "2026-11-25"
@@ -636482,5 +636494,181 @@
       }
     ],
     "date": "2026-11-27"
+  },
+  "101112148": {
+    "id": "101112148",
+    "title": "XPeng L03 2027 Standard Range (Chinese Specs)",
+    "price": 110000,
+    "make": "XPeng",
+    "model": "L03",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/xpeng/l03/2026/11/28/xpeng-l03-2027-standard-range-chinese-spec-2-344---678fb4b2575c4161893698ce67663dc5/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 110000,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101112192": {
+    "id": "101112192",
+    "title": "XPeng G9 Long Range Ultra 2027 Chinese Specs",
+    "price": 185000,
+    "make": "XPeng",
+    "model": "G9L",
+    "year": "2027",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/xpeng/g9l/2026/11/28/xpeng-g9-long-range-ultra-2027-chinese-spe-2-701---c9235afac06441ed8026e9bcad09f960/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 185000,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101112143": {
+    "id": "101112143",
+    "title": "GCC | Low Mileage | Al Ghandi Warranty 01/2027 | Al Ghandi Full Service History",
+    "price": 165000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": "2024",
+    "kilometers": "47500",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra-1500/2026/11/28/gcc-low-mileage-al-ghandi-warranty-012027--2-584---02ffbad38bde433fba1849dfc5b51678/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 165000,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101110839": {
+    "id": "101110839",
+    "title": "BUY NOW, PAY LATER | THE BLACKLINE STANDARD | 2029 McLaren Warranty + Service Contract, GCC",
+    "price": 1199000,
+    "make": "McLaren",
+    "model": "GTS",
+    "year": "2026",
+    "kilometers": "800",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mclaren/gts/2026/11/28/buy-now-pay-later-the-blackline-standard-2-2-292---127dbba4a79d45e1ad915f1201af353a/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 1199000,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101110097": {
+    "id": "101110097",
+    "title": "AED 1,143/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | GEELY OKAVANGO 2025",
+    "price": 72899,
+    "make": "Geely",
+    "model": "Okavango",
+    "year": "2025",
+    "kilometers": "13478",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Millennium Place Barsha Heights Hotel",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/geely/okavango/2026/11/28/aed-1143m-0-dp-free-3-months-warranty-serv-2-510---ce4374d75e9f42bc9274107f405c97b8/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 72899,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101112951": {
+    "id": "101112951",
+    "title": "2017 Cadillac CTS Premium Luxury GCC Specs excellent condition",
+    "price": 30000,
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2017",
+    "kilometers": "150000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Furjan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/cts/2026/11/28/2017-cadillac-cts-premium-luxury-gcc-specs-2-593---e9996cc8f8ba49ed8337883059844fff/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 30000,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101112924": {
+    "id": "101112924",
+    "title": "LEPAS WARRANTY TILL 2033 / 200,000KMS | GCC | 1.6L | AED 1,667 PM",
+    "price": 99900,
+    "make": "LEPAS",
+    "model": "L8",
+    "year": "2027",
+    "kilometers": "24",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lepas/l8/2026/11/28/lepas-warranty-till-2033-200000kms-gcc-16l-2-466---d5f7dba457f349718a19813e91b86d8b/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 99900,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
+  },
+  "101112482": {
+    "id": "101112482",
+    "title": "2023 Citroen C5 Aircross Feel GCC Specs",
+    "price": 32900,
+    "make": "Citroen",
+    "model": "C5 Aircross",
+    "year": "2023",
+    "kilometers": "97000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/citroen/c5-aircross/2026/11/28/2023-citroen-c5-aircross-feel-gcc-specs-2-456---b04345e753cc48aba5770ea69903e61f/",
+    "first_seen": "2026-11-28T12:44:35Z",
+    "prices": [
+      {
+        "price": 32900,
+        "date": "2026-11-28T12:44:35Z"
+      }
+    ],
+    "date": "2026-11-28"
   }
 }
